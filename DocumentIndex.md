@@ -277,7 +277,7 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 **Significance:** The binding appraisal award. Key findings:
 - **Windows:** RCV ≈ $12,800 / ACV ≈ $6,400 — **hail confirmed as cause of loss**
 - **Siding, paint, gutters:** $0
-- **Signatures:** Greg Tomes (Farmers' appraiser) and Wade Roos (umpire) signed. **John Foster (insured's appraiser) did NOT sign** — the umpire sided entirely with Farmers' appraiser.
+- **Signatures:** John Foster (insured's appraiser) and Wade Roos (umpire) signed. ** Greg Tomes (Farmers' appraiser) did NOT sign** — the umpire sided entirely with Farmers' appraiser.
 - The award is legally valid under § 65A.01 (two signatures sufficient), but the dissent by the insured's appraiser is on the record and may support a challenge to the award's reasonableness.
 
 ---

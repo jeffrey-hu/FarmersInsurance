@@ -159,7 +159,7 @@
 **06/21–09/08/2025 — Email correspondence with Pure Construction** (Zach Sexe) regarding claim status, appraisal preparation, and specific window details (kitchen units W-247 through W-250).
 📄 `EventDocuments/Appraisal Documents/CorrespondenceWithContractor(PureConstruction).pdf`
 
-**09/12/2025 — Appraisal inspection and Award issued.** Results: Windows RCV ≈ $12,800 / ACV ≈ $6,400 — **hail confirmed as cause of loss.** Siding, paint, gutters: $0. Signed by Greg Tomes (Farmers' appraiser) and Wade Roos (umpire). John Foster (insured's appraiser) did NOT sign. Net payment: $0 (deductible of $17,720 exceeds the RCV).
+**09/12/2025 — Appraisal inspection and Award issued.** Results: Windows RCV ≈ $12,800 / ACV ≈ $6,400 — **hail confirmed as cause of loss.** Siding, paint, gutters: $0. Signed by Wade Roos (umpire) and by John Foster (insured's appraiser. Greg Tomes (Farmers' appraiser) did NOT sign. Net payment: $0 (deductible of $17,720 exceeds the RCV).
 📄 `EventDocuments/Appraisal Documents/Appraisal_Result_Front.png`, `EventDocuments/Appraisal Documents/Appraisal_Result_Back.png`
 
 ---
