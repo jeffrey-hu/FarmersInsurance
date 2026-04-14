@@ -79,6 +79,9 @@
 
 **11/11/2024 — Nic Brau refuses to meet.** Email states: "I have already responded with our finding/outcome in the letter/engineer report."
 
+**~November 2024 — Circular refusal to discuss the engineer report.** Agent Pete advised the family to contact Nathan Prieve directly to discuss the report. Prieve refused to discuss it and directed the family back to Nic Brau. The family was caught in a loop: Farmers' adjuster refused to meet, the agent said talk to the engineer, and the engineer said talk to the adjuster. No one at Farmers would discuss the report or its conclusions with the family.
+⚠️ *Sourced from family's key-facts account (CaseContext/key-facts.md, Section 2). Exact dates not documented.*
+
 ---
 
 ## Phase 5: Administrative Complaints & Appeals (November 2024–February 2025)
@@ -118,7 +121,7 @@
 
 **~Late April 2025 — Family meets with Katherine post-travel.** Katherine recommends taking legal action as the next step. Family begins contacting attorneys.
 
-**05/28/2025 — Family meets with agent Pete.** Shares NWS weather report for July 13–14 storms and interactive weather data. Pete uploads to Farmers' system and asks claim team to review.
+**05/28/2025 — Family meets with agent Pete at his office.** Shares two new pieces of evidence: (1) a weather report from Interactive Hail Maps and (2) a National Weather Service article documenting the July 13–14, 2024 storms — confirming strong wind and hail impacting Eden Prairie, with hail stones up to 4 inches in diameter in some areas. Family reiterates their request: Farmers should review these new facts and evidence and reevaluate the claim — they cannot simply ignore the evidence and refuse to act on it. Pete uploads the new facts to Farmers' system and asks the claim team to review.
 📄 `Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf`
 
 **As of 06/18/2025 — No feedback from Farmers** on the 5/28 submission.
@@ -153,7 +156,7 @@
 
 ## Phase 7: Appraisal Process (August–September 2025)
 
-**08/03/2025 — Demand for Appraisal filed** under Minn. Stat. § 65A.01. Insured's appraiser: John Foster (retained through Pure Construction at $2,200, split with family). Sworn Proof of Loss states total claimed loss of $310,000. Three items in dispute: Windows, Siding (repaint), Siding (replace & remove).
+**08/03/2025 — Demand for Appraisal filed** under Minn. Stat. § 65A.01. Insured's appraiser: John Foster (retained through Pure Construction at $2,200, split with family). The family did not interview or select Foster — Pure Construction chose him. The family later learned Foster previously worked for insurance companies. Sworn Proof of Loss states total claimed loss of $310,000. Three items in dispute: Windows, Siding (repaint), Siding (replace & remove).
 📄 `EventDocuments/Appraisal Documents/AppraisalDemand.pdf`
 
 **06/21–09/08/2025 — Email correspondence with Pure Construction** (Zach Sexe) regarding claim status, appraisal preparation, and specific window details (kitchen units W-247 through W-250).

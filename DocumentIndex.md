@@ -354,4 +354,55 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 **Date:** Created 2026-04-04
 **Significance:** Tracks URLs for key legal references used in the case. Currently includes the Minnesota Rules of Civil Procedure (mncourts.gov). Resources are kept as URLs rather than local files to stay current. Ask Claude to fetch any specific rule or section as needed.
 
-*Last updated: 2026-04-04 — ClaimTimeline.md and Copy of ComunicationLogs.docx.md added. Add new entries below as documents are added to the project.*
+---
+
+### CaseLawReference.md
+**Type:** Case law reference document — court cases relevant to hail damage insurance denial disputes
+**Date:** Created 2026-04-11; updated 2026-04-12 (moved from HailShapes/; added CL-6 Cedar Bluff and CL-7 Noonan matching cases)
+**Significance:** Documents 7 court cases (CL-1 through CL-7) with detailed facts, holdings, and relevance analysis for the family's claim. Key cases include: Burgess v. Farmers ($130M verdict for systematic underpayment — same insurer); State Farm "Hail Focus Initiative" litigation (ongoing, AG intervened — identical engineering-report-as-denial-tool pattern); Dagley v. Haag Engineering (engineering firm liability theory); Cedar Bluff v. American Family (Minn. 2014 — Minnesota Supreme Court required full replacement when matching unavailable, directly supports Semco matching argument); and Noonan v. American Family (8th Cir. 2019 — matching endorsement upheld, but distinguishable when manufacturer is defunct). Also includes emerging legal trends section on engineering report bias, scientific expert testimony requirements, and AG intervention. Cross-references HailShapes research documents for scientific evidence supporting each case law issue.
+
+---
+
+### LegalStrategy.md
+**Type:** Comprehensive litigation strategy and roadmap
+**Date:** Created 2026-04-11; updated 2026-04-12 (moved from HailShapes/; added matching/Semco claim, Cedar Bluff case law, expanded evidence needs and appraisal analysis)
+**Significance:** The primary litigation planning document. Contains: (I) case theory; (II) five potential legal claims — breach of contract, bad faith under § 604.18, unfair claims practices under 72A.201, matching/full window replacement based on Semco's closure and *Cedar Bluff*, and negligence against Prieve Engineering; (III) evidence framework with 24 assembled scientific sources and 11 evidence items still needed (including window replacement quotes and Semco unavailability confirmation); (IV) summary rebuttals to each Prieve Engineering opinion; (V) key weaknesses in the Prieve report; (VI) recommended litigation timeline from pre-suit through trial; (VII) Minnesota-specific legal considerations including appraisal award challenge and J6944 endorsement analysis; and (VIII) document repository table with paths to all project files.
+
+---
+
+---
+
+## CaseContext/
+
+### key-facts.md
+**Type:** Family's first-person account of key facts and events in the claim dispute
+**Date:** Created 2026-04-11; updated 2026-04-12
+**Authors:** Yibiao Lu (Bill)
+**Significance:** A structured record of 11 key facts and events as described directly by the family, intended to serve as a primary reference for all research, filings, argument evaluations, and strategic decisions. Covers:
+
+1. Nic Brau's 9/6/2024 inspection — found dents, measured windows, yet Farmers claims no report exists
+2. Post-denial stonewalling — circular refusal by Nic Brau, Nathan Prieve, and agent Pete to discuss the engineer report with the family
+3. Complaint filed with MN Department of Commerce (cross-references `EventDocuments/11-19-complaint-to-dept-of-commerce.pdf`)
+4. Additional evidence submitted to Farmers on 1/31/2025 (letter, hail damage photos, Stormersite.com weather data)
+5. Bradlee Monson's blanket refusal to review evidence on 2/3/2025 — imposed an arbitrary "engineer only" standard not found in the policy
+6. Neighbor canvass (2/4–2/7/2025) — 14 of 19 homeowners confirmed hail damage with insurance-covered repairs
+7. Nic Brau's 2/10/2025 voicemail confirming the same refusal (cross-references `EventDocuments/2025-02-10-TheyDon_tLookAtAnyNewFactsEvidence1.PNG`)
+8. Appraisal process — John Foster selected by Pure Construction without family input; family later learned Foster previously worked for insurance companies
+9. Appraisal award deficiencies — single page, no location details, contradictory information from Farmers' appraiser, Farmers refused to explain exclusions
+10. New evidence submitted through agent Pete (5/28/2025) — NWS storm documentation and Interactive Hail Maps data; no response from Farmers as of 6/18/2025
+11. **Semco Windows and Doors out of business since 2019** — matching implications under *Cedar Bluff v. American Family* (Minn. 2014); J6944 endorsement analysis; impact on appraisal award valuation and bad faith argument
+
+**Key legal significance:** This document consolidates the family's most important factual observations, many of which are not fully captured in the formal correspondence or timeline documents. It is particularly important for: (a) the bad faith argument under § 604.18 (Sections 2, 5, 7, 11), (b) the appraisal scope challenge (Sections 8, 9, 11), (c) unfair claims practices under 72A.201 (Sections 1, 2, 5, 6), and (d) the matching/full replacement argument (Section 11).
+
+---
+
+## HailShapes/
+
+### DocumentIndex.md
+**Type:** Specialized research document index for hail shape, impact, and damage pattern evidence
+**Date:** Created 2026-04-11
+**Significance:** Comprehensive index of 24 research documents across 5 subfolders (Shapes, AcademicPapers_Claude, Speed, HailData, HailDamageWindow), plus 4 project documents and 2 insurer documents. Assembled to counter the insurer's claim that hail damage is always round without scratches. Includes key formulas and theorems (terminal velocity, impact force, dent formation, glass failure), a quick-reference counter-argument table, and a litigation document map. See `HailShapes/DocumentIndex.md` for the full index.
+
+---
+
+*Last updated: 2026-04-12 — CaseLawReference.md and LegalStrategy.md indexed under LegalReferences/ (moved from HailShapes/). Add new entries below as documents are added to the project.*
