@@ -108,7 +108,8 @@
 **02/10/2025 — Family submits neighbor survey results to Farmers** with second response letter, including City permit data showing 25 permits for exterior work in the neighborhood.
 📄 `EventDocuments/2025-02-10-SecondResponseToFinalReport.pdf`
 
-**02/10/2025 — Nic Brau leaves voicemail:** Farmers will not review the new facts/evidence.
+**02/10/2025 — Nic Brau leaves voicemail at 11:06 AM:** Farmers will not review the new facts/evidence. Per the voicemail transcription, Nick states his "field claim supervisor ... did receive the information that you just sent in recently but it's not an engineers report so I believe that's what he wanted to look for from you." Farmers' stated reason for refusing to engage with the neighbor canvass, City permit data, and stormersite weather records is that the new evidence was not an engineer's report — not that the evidence was reviewed and found unpersuasive.
+📄 `EventDocuments/2025-02-10-TheyDon_tLookAtAnyNewFactsEvidence1.PNG` (voicemail screenshot with transcription)
 
 **02/12/2025 — Family forwards the 2/10 response to Katherine at Commerce.**
 

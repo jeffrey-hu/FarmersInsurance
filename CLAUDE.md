@@ -12,7 +12,7 @@ This project supports a lawsuit the Lu/Hu family is preparing against Farmers In
 
 ## Root Folders
 
-- **CaseContext/** — Contains `key-facts.md`, the authoritative reference for all case facts, events, and their legal significance. Consult this for research, filings, argument evaluation, and strategy.
+- **CaseContext/** — Contains two fact references: (1) `key-facts.md`, an earlier unrefined family account of key events with legal-significance annotations; and (2) `key-facts-excluding-legal-context.md`, a more recent, phase-organized catalog of pro-family facts drawn directly from the source documents with per-fact citations and intentionally no legal framing (facts will be tied to legal arguments separately). Consult both for research, filings, argument evaluation, and strategy; prefer `key-facts-excluding-legal-context.md` when you need the sourced factual record and `key-facts.md` when you need the family's narrative framing.
 - **EventDocuments/** — Primary evidence folder: Farmers' denial letters, appraisal documents, family response letters, post-appraisal email chains, the Dept. of Commerce complaint, and the family's raw `Copy of ComunicationLogs.docx.md` communication log.
 - **Evidence/** — External/meteorological evidence of the 7/13/2024 storm (e.g., Minnesota wind & hail report PDF).
 - **HailShapes/** — Academic papers and analysis on hail shapes/speeds and damage signatures, plus rebuttal material countering Farmers' damage-causation arguments.
@@ -22,4 +22,4 @@ This project supports a lawsuit the Lu/Hu family is preparing against Farmers In
 ## Working Notes
 
 - All dates are U.S. format (M/D/YYYY).
-- When researching, filing, or evaluating arguments, start with `CaseContext/key-facts.md` and cross-reference `ClaimTimeline.md` and `DocumentIndex.md`.
+- When researching, filing, or evaluating arguments, start with `CaseContext/key-facts-excluding-legal-context.md` (sourced, phase-organized factual catalog) and cross-reference `CaseContext/key-facts.md`, `ClaimTimeline.md`, and `DocumentIndex.md`.

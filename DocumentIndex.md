@@ -453,6 +453,26 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
+### key-facts-excluding-legal-context.md
+**Type:** Phase-organized catalog of pro-family facts with per-fact source citations, intentionally stripped of legal framing
+**Date:** Created 2026-04-15
+**Significance:** A more recent, structured companion to `key-facts.md`. Organized to match the 8 phases of `ClaimTimeline.md` (Phase 1 background/prior claims through Phase 8 post-appraisal correspondence). Each fact is stated plainly, drawn directly from the underlying source documents, and cites the specific file(s) and page/entry it is based on. Legal framing (bad faith, breach of contract, unfair claims practices, matching, § 604.18, § 65A.01, Cedar Bluff, J6944, etc.) is intentionally excluded — facts will be tied to legal arguments separately in later work.
+
+**Phase-by-phase summary of facts captured:**
+
+1. **Phase 1 — Background & Prior Claims (2014–2023):** 4 facts establishing continuous policy since 2014, 2020 claim scope limited to exactly 2 casement windows, post-9/13/2021 gutter replacement as objective evidence of post-2020 storm activity, and 2023 renewal confirming policy in force on loss date.
+2. **Phase 2 — The Storm & Claim Filing (July–Aug 2024):** 4 facts establishing NWS-documented 7/13–14/2024 storm with Eden Prairie ASOS 48 MPH wind gust, damage first identified by third-party Legacy contractor (not homeowner), prompt/cooperative claim filing, and Farmers' unilateral choice of Hancock Claims Consultants for the first inspection.
+3. **Phase 3 — First Denial & Second Inspection (Sept 2024):** 4 facts establishing that the 9/3/2024 denial was issued before any engineering analysis, that the 9/3 letter affirmatively stated "no other damages observed" (a baseline later contradicted by every subsequent Farmers position), that the family was cooperative throughout the reopened process, and that the 9/6/2024 Nic Brau inspection generated no produced written record.
+4. **Phase 4 — Prieve Inspection & Second Denial (Oct–Nov 2024):** 8 facts establishing that the 9/3 and 11/4 denials rest on incompatible theories, that Prieve's own narrative documents dents across most of the home, that Prieve confirms the 2020 scope was exactly 2 windows, that Prieve affirmatively claimed no hail in Eden Prairie after 2020 (contradicted by NWS/stormersite/permits/appraisal award), that Prieve's east-siding dismissal depends on a hail-from-west generalization, that Prieve is a paid Farmers expert, that Brau refused to meet on 11/11/2024, and that the family was caught in a Pete/Prieve/Brau circular refusal.
+5. **Phase 5 — Administrative Complaints & Appeals (Nov 2024 – Feb 2025):** 7 facts establishing the 11/19/2024 MN Dept of Commerce complaint, the 1/31/2025 detailed appeal with stormersite data, City of Eden Prairie permit records (including EP187829 and EP190835 on George Moran Dr), the 14-of-19 neighbor canvass, Farmers' refusal to engage with new evidence, Bradlee Monson's "engineer's report only" gatekeeping rule corroborated by Brau's 2/10 voicemail, and Commerce's lack of authority to compel reversal.
+6. **Phase 6 — Legal Action Efforts & Continued Evidence Gathering (May–July 2025):** 6 facts establishing the 5/28/2025 NWS/Interactive Hail Maps submission through agent Pete (with no Farmers response), the family's sustained good-faith pursuit of every admin/legal channel short of litigation (MN DNR, FOX9, MN Bar, Lawyer Referral, Self Help Center, AG Office Consumer Assistance Request), the MN Lawyer Referral refund indicating no attorney would take the case, Brau's 7/11/2025 boilerplate non-answer on deadlines, and the silence from AG Office and FOX9.
+7. **Phase 7 — Appraisal Process (Aug–Sept 2025):** 11 facts establishing the 8/3/2025 appraisal demand under § 65A.01, the 9/12/2025 award confirming hail as cause of loss, Greg Tomes's non-signature, the $0 siding awards, the net-$0 payment due to the $17,720 deductible, the family's non-selection of Foster (chosen by Pure Construction), Farmers' timely participation, the missing item-by-item itemization on the award form ("F1.7"/"B1.2" only), Foster's insurance-industry background cutting against "disinterested" under § 65A.01, Foster's siding-position alignment with Farmers, and the Senco-defunct-since-2019 factual claim (flagged as family account pending verification).
+8. **Phase 8 — Post-Appraisal Correspondence (Sept–Oct 2025):** 5 facts establishing Farmers' mutually inconsistent descriptions of which windows the award covers, Farmers' 9/24 written confirmation that the umpire produced no report or estimate, the 10/10 "no file" statement on Brau's 9/6/2024 inspection, Brau's 10/29 personal refusal to release notes (in tension with the 10/10 "no file" statement), and Farmers' 10/21 refusal to engage on the scope gap (directing the family back to their own appraiser).
+
+**How to use:** When writing briefs, answering legal questions, or building argument structures, use this document as the sourced factual backbone and `key-facts.md` for the family's narrative framing. Cite the underlying source files referenced in each fact rather than citing this document itself.
+
+---
+
 ## HailShapes/
 
 ### DocumentIndex.md
@@ -462,4 +482,4 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
-*Last updated: 2026-04-15 — Added FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 claim Xactimate estimate) to EventDocuments/. These resolve Missing Documentation entries #1 and #3 from ClaimTimeline.md.*
+*Last updated: 2026-04-15 — Added FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 claim Xactimate estimate) to EventDocuments/. These resolve Missing Documentation entries #1 and #3 from ClaimTimeline.md. Also added `CaseContext/key-facts-excluding-legal-context.md`, a phase-organized catalog of pro-family facts with per-fact source citations and no legal framing.*
