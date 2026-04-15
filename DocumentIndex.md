@@ -94,7 +94,7 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
-### Copy of ComunicationLogs.docx.md
+### EventDocuments/Copy of ComunicationLogs.docx.md
 **Type:** Raw communication notes — family's chronological activity log for the hail claim
 **Date:** Covers 8/9/2024 through ~10/29/2025
 **Authors:** Yibiao Lu & Jie Hu

@@ -230,6 +230,6 @@
 
 ---
 
-*Source: Compiled from `Copy of ComunicationLogs.docx.md`, `DocumentIndex.md`, and all referenced project documents.*
+*Source: Compiled from `EventDocuments/Copy of ComunicationLogs.docx.md`, `DocumentIndex.md`, and all referenced project documents.*
 
 *Last updated: 2026-04-15 — Integrated FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 Xactimate scope). Missing Documentation entries #1 and #3 resolved.*
