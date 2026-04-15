@@ -15,8 +15,8 @@
 **2015 — Prior hail claim inspection: no window dents observed.** This is significant because it establishes that no dents existed on any windows as of 2015.
 ⚠️ *No document in project — sourced from family's 2/10/2025 letter to Farmers. The 2015 claim file itself is not in the project folder.*
 
-**09/05/2020 — Prior hail claim (claim #3013539499-1).** Roof and gutters replaced. Only 2 window sashes approved: F1.7 (1-sash window at corner of stairs, facing front) and B1.2 (3-sash window in family room, facing back). Due to COVID-19, repairs were extended but the 2 sashes and front door were never actually replaced before the extension expired.
-⚠️ *The 2020 claim FinalDocument.pdf is referenced in several letters but is NOT in the project folder. This is a critical missing document.*
+**09/05/2020 — Prior hail claim (claim #3013539499-1).** Adjusted by Allen Banning (Claims Representative). Estimate completed 11/9/2020. Xactimate scope approved roof (49.71 squares wood shakes), gutter guards (387 LF), downspouts (36 LF), exterior door (1 metal insulated), and exactly **2 EA wood casement windows (12-23 sf each)** — line items 1–4. Total RCV $125,044.03; deductible $13,020. No other windows, sashes, or glass were ever part of the 2020 scope. Due to COVID-19 the repairs were extended but the 2 window sashes and the exterior door were never actually completed before the extension expired — these appear on the Building Loss Worksheet under "Work Not Completed." Settlement Notice issued 2/18/2022 with final recoverable depreciation payment of $4,315.14 (Robbie Bledsoe). Note: the 2020 claim file shows NO on-site inspection date — the estimate was built from contractor information and Eagle View roof measurements.
+📄 `EventDocuments/FinalDocument_2020.pdf`
 
 **After 09/13/2021 — Gutters and downspouts replaced** by contractor (evidenced by contractor text messages dated 9/13/2021). Any hail damage visible on these gutters necessarily postdates 2021.
 📄 Referenced in `EventDocuments/2025-01-31-ResponseToFarmer-01-31-25-StormsAfter2020.pdf`
@@ -40,15 +40,16 @@
 
 **08/20/2024 — Family calls Hancock** and provides Legacy's contact information to schedule the inspection.
 
-**08/29/2024 — First inspection: Jayden Grimm of Hancock Claims Consultants** inspects the property.
-⚠️ *No Hancock inspection report is in the project folder.*
+**08/29/2024 — First inspection: Jayden Grimm of Hancock Claims Consultants** inspects the property. Hancock produces a systematic photo set of every window wrap (North, South, West elevations) — each tagged "Damaged – No." Hancock's blanket conclusion is that no exterior damage exists anywhere on the home.
+📄 Hancock photo set appended to `EventDocuments/FarmersDenyLetter_09_03_2024.pdf` (pp. 5–74)
 
 ---
 
 ## Phase 3: First Denial, Reopening & Second Inspection (September 2024)
 
-**09/03/2024 — FIRST DENIAL.** Farmers calls and denies the claim by phone — before hiring any forensic engineer.
-⚠️ *No written denial letter for the first denial is in the project folder (denial was by phone).*
+**09/03/2024 — FIRST DENIAL (by phone + written letter same day).** Farmers' Catastrophe Claims Representative Christian Dudley calls the family to deny the claim and issues a formal written denial letter the same day (delivered by email). The denial is based entirely on Hancock's 8/29 inspection, before any forensic engineer has been engaged. **Critically, the stated rationale is "no opening" and "no other damages observed" — an interior-water-damage-without-wind/hail-opening exclusion.** The 9/3 letter makes no finding that the dents are pre-existing or attributable to the 2020 storm; that theory only emerges later through Prieve Engineering. Cites policy exclusions including Water Damage, Wear/Tear, Corrosion, Construction Defect, Inherent Vice, Neglect, Faulty Construction, Windstorm/Hail, and Weather Conditions. Advises of right to file a complaint with MN Dept of Commerce.
+📄 `EventDocuments/FarmersDenyLetter_09_03_2024.pdf`
+💡 *Shifting-rationale significance: the first denial ("no opening, no other damage") and the second denial 11/4/2024 ("already paid in 2020 / wear and tear") rest on incompatible theories. Shifting rationales are probative of bad faith under Minn. Stat. § 604.18.*
 
 **09/05/2024 — Family submits photos of hail damage to Farmers.** Farmers reopens the claim. Farmers adjuster Nic Brau calls to schedule a second inspection.
 
@@ -217,9 +218,9 @@
 
 | # | Document | Significance |
 |---|----------|-------------|
-| 1 | **2020 claim FinalDocument.pdf** (claim #3013539499-1) | Shows scope of what was approved in 2020 — critical to proving current damage is newer |
+| ~~1~~ | ~~2020 claim FinalDocument.pdf (claim #3013539499-1)~~ | ✅ **Resolved 2026-04-15** — now in `EventDocuments/FinalDocument_2020.pdf`. Confirms only 2 casement windows were ever approved in 2020. |
 | 2 | **2015 claim file / inspection report** | Establishes no window dents existed as of 2015 |
-| 3 | **Hancock Claims Consultants report** (Jayden Grimm, 8/29/2024) | Basis of the first denial on 9/3/2024 |
+| ~~3~~ | ~~Hancock Claims Consultants report (Jayden Grimm, 8/29/2024)~~ | ✅ **Resolved 2026-04-15** — Hancock photo set is included within `EventDocuments/FarmersDenyLetter_09_03_2024.pdf` (pp. 5–74). |
 | 4 | **Nic Brau inspection report/notes** (9/6/2024) | Farmers claims it doesn't exist — potential spoliation issue |
 | 5 | **Contractor text messages** (dated 9/13/2021) | Proves gutter replacement timeline |
 | 6 | **FOX9 weather records** | No response documented |
@@ -231,4 +232,4 @@
 
 *Source: Compiled from `Copy of ComunicationLogs.docx.md`, `DocumentIndex.md`, and all referenced project documents.*
 
-*Last updated: 2026-04-04. This timeline may be updated as additional events are identified.*
+*Last updated: 2026-04-15 — Integrated FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 Xactimate scope). Missing Documentation entries #1 and #3 resolved.*
