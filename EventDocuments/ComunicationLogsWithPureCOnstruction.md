@@ -22,5 +22,8 @@
   * On 7/16/2025, Zach responded the email: "... We’ll go ahead and update the estimate to include the following: The replacement of the four kitchen windows: W-247, W-248, W-249, and W-250; The cost to replace the window blinds .... Regarding the potential for mold treatment, we can include a “paid when incurred” line item in the estimate. This ensures that any necessary treatment for mold or water damage can be properly addressed and restored if discovered during the project."
 * On 7/18/2025, we sent an email to Zach: "... Can we also add similar line item for sidings? There are damages to the sidings as well. Please refer to some photos in the engineer report: A-53, A-90; and in our document: Fig 1.5.5, Fig 2.4.5. And additional photos in the attached doc.". The attachment is located at `EventDocuments/CommunicationWithPureConstruction/SidingsDamage-sent-07-18-25.pdf`.
   * On same day, Zach replied: " ... Yes, I will have these items updated. ...."
-
+* on 9/12/2025, on the day of appraisal:
+  * Before appraisal, we asked Zach if we should talked to the appraisers and he said there is no need for us to do so. He and Jade (another employee of Pure Construction) will take care of everything.
+  * After an hour or so, Zach knocked the door and said the appraisal was done and the appraisers would meet in another place to discussion the case. 
+  * We didn't have chance to speak to any of the appraisers at any time even though made the requests before the appraisal was initiated.
  

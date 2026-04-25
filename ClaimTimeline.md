@@ -123,10 +123,17 @@
 
 **~Late April 2025 — Family meets with Katherine post-travel.** Katherine recommends taking legal action as the next step. Family begins contacting attorneys.
 
+**05/14/2025 — Family contacts Pure Construction.** Family calls Dan Traxler at Pure Construction (contact obtained from a neighbor in February). Dan, now a manager, refers the file; within 15 minutes Zach calls. Same evening Zach and Jade visit the property. Family explains the claim status and shows their own damage documentation and the Prieve engineer report. Pure Construction recommends pursuing the policy's appraisal process and reports prior favorable outcomes for homeowners.
+📄 `EventDocuments/ComunicationLogsWithPureConstruction.md`
+
+**05/20–05/27/2025 — Family agrees to engage Pure Construction.** Zach texts on 5/20 to check interest. On 5/27 the family replies that the appraisal-panel material from Pure Construction will be very important and should be done first, and asks to meet Pure Construction's window expert. Same day the family sends Zach the family's damage documentation, photos from the Prieve engineer report, and the claim information.
+
 **05/28/2025 — Family meets with agent Pete at his office.** Shares two new pieces of evidence: (1) a weather report from Interactive Hail Maps and (2) a National Weather Service article documenting the July 13–14, 2024 storms — confirming strong wind and hail impacting Eden Prairie, with hail stones up to 4 inches in diameter in some areas. Family reiterates their request: Farmers should review these new facts and evidence and reevaluate the claim — they cannot simply ignore the evidence and refuse to act on it. Pete uploads the new facts to Farmers' system and asks the claim team to review.
 📄 `Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf`
 
 **As of 06/18/2025 — No feedback from Farmers** on the 5/28 submission.
+
+**06/05/2025 — Pure Construction status check.** Zach reports he has sent the window documentation to Pure Construction's window expert and that the family's documentation alone appears sufficient to move forward with the appraisal.
 
 **06/06/2025 — Family visits MN Department of Natural Resources** (speaks with Marvin, who suggests FOX9 for weather reports) and then visits FOX9 office in Eden Prairie.
 
@@ -139,6 +146,8 @@
 
 **06/11/2025 — Referral service responds:** no attorney available to pursue the claim. Fee refunded.
 
+**06/12/2025 — Window identification.** Pure Construction's expert reports back that the original windows are discontinued. The family responds same day identifying them as extruded aluminum windows, with Pella Reserve Traditional or Marvin Ultimate as the closest current-production equivalents. Zach agrees: "extruded would be the reserve rather than the lifestyle."
+
 **06/17/2025 — Family visits Hennepin Government Center Self Help Center;** receives packet on how to start a civil lawsuit.
 
 **06/18/2025 — Family meets with John (volunteer lawyer) at Self Help Center.**
@@ -146,13 +155,31 @@
 **06/18/2025 — Legacy contractor Pat helps file Consumer Assistance Request** with the Attorney General's Office (ID: 6260735278129023664).
 ⚠️ *No AG office response is documented in the logs.*
 
+**06/21/2025 — Zach emails the appraisal documents.**
+
+**06/25/2025 — Cross-reference document received from Zach** identifying which windows were damaged and their sizes.
+📄 `EventDocuments/CommunicationWithPureConstruction/Bill-Lu-CR-Hover-2.pdf`
+
+**07/01/2025 — Pella Reserve estimate received.**
+📄 `EventDocuments/CommunicationWithPureConstruction/Reserve-Traditional.pdf`
+
 **07/09/2025 — Family emails Pete** asking for feedback on the 5/28 submission.
 
 **07/10/2025 — Family emails Nic Brau, Bradlee Monson, and Pete** asking about claim deadlines and requesting an extension if any apply.
 
+**07/10/2025 — Family emails Zach** stating they are not ready to start the appraisal process yet and "would like to talk to the appraiser."
+⚠️ *Cross-reference: this stated intent is contradicted on 9/12/2025 when Pure Construction tells the family there is no need to speak to the appraisers and the family does not.*
+
 **07/11/2025 — Pete responds:** no update from Farmers. Nic responds with generic policy language about lawsuit time limits but does not directly answer.
 
 **07/11/2025 — Family sends follow-up** confirming their understanding that the only deadline is the 2-year lawsuit limitation. **No response from Nic or Farmers.**
+
+**07/13/2025 — Family emails Zach asking to add to the estimate:** (1) the four kitchen windows W-247–W-250; (2) replacement window blinds; and asking how to include mold treatment if needed and to add exterior repaint after window install.
+
+**07/16/2025 — Zach confirms the additions** and offers a "paid when incurred" line item to address mold/water-damage treatment if discovered during the project.
+
+**07/18/2025 — Family emails Zach asking to add line items for siding damage,** citing Prieve photos A-53, A-90, family-document figures Fig 1.5.5 and Fig 2.4.5, and an additional photo packet. Zach replies same day confirming.
+📄 `EventDocuments/CommunicationWithPureConstruction/SidingsDamage-sent-07-18-25.pdf`
 
 ---
 
@@ -161,8 +188,10 @@
 **08/03/2025 — Demand for Appraisal filed** under Minn. Stat. § 65A.01. Insured's appraiser: John Foster (retained through Pure Construction at $2,200, split with family). The family did not interview or select Foster — Pure Construction chose him. The family later learned Foster previously worked for insurance companies. Sworn Proof of Loss states total claimed loss of $310,000. Three items in dispute: Windows, Siding (repaint), Siding (replace & remove).
 📄 `EventDocuments/Appraisal Documents/AppraisalDemand.pdf`
 
-**06/21–09/08/2025 — Email correspondence with Pure Construction** (Zach Sexe) regarding claim status, appraisal preparation, and specific window details (kitchen units W-247 through W-250).
-📄 `EventDocuments/Appraisal Documents/CorrespondenceWithContractor(PureConstruction).pdf`
+**Pure Construction appraisal-prep correspondence (May–July 2025)** is documented in Phase 6 above and in `EventDocuments/ComunicationLogsWithPureConstruction.md`. A consolidated email packet is also archived at `EventDocuments/Appraisal Documents/CorrespondenceWithContractor(PureConstruction).pdf`.
+
+**09/12/2025 — Day-of-appraisal: Pure Construction blocks family contact with the appraisers.** Before the appraisal, the family asks Zach whether they should speak with the appraisers. Zach says no — he and Jade will handle everything. Roughly an hour later Zach knocks and reports the appraisal is complete and the appraisers have moved elsewhere to deliberate. **The family does not speak with any appraiser (Foster, Tomes, or Roos) at any point.** Directly contradicts the family's prior requests — both the 7/10/2025 written request to Zach and the family's same-morning 9/12/2025 ask.
+📄 `EventDocuments/ComunicationLogsWithPureConstruction.md`
 
 **09/12/2025 — Appraisal inspection and Award issued.** Results: Windows RCV ≈ $12,800 / ACV ≈ $6,400 — **hail confirmed as cause of loss.** Siding, paint, gutters: $0. Signed by Wade Roos (umpire) and by John Foster (insured's appraiser. Greg Tomes (Farmers' appraiser) did NOT sign. Net payment: $0 (deductible of $17,720 exceeds the RCV).
 📄 `EventDocuments/Appraisal Documents/Appraisal_Result_Front.png`, `EventDocuments/Appraisal Documents/Appraisal_Result_Back.png`
@@ -234,3 +263,5 @@
 *Source: Compiled from `EventDocuments/Copy of ComunicationLogs.docx.md`, `DocumentIndex.md`, and all referenced project documents.*
 
 *Last updated: 2026-04-15 — Integrated FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 Xactimate scope). Missing Documentation entries #1 and #3 resolved.*
+
+*Last updated: 2026-04-25 — Integrated `EventDocuments/ComunicationLogsWithPureConstruction.md`. Phase 6 expanded with the 5/14–7/18/2025 Pure Construction appraisal-prep sequence (window identification as extruded aluminum / Pella Reserve, kitchen-window add-ons, blinds, mold line item, exterior repaint, siding additions). Phase 7 augmented with the 9/12/2025 day-of fact that Pure Construction told the family not to speak with the appraisers and the family did not.*
