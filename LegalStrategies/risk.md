@@ -82,7 +82,82 @@ Of that, the recoverable portion if Plaintiffs prevail on C3 and the § 604.18 m
 
 For the family specifically, the meaningful number is the **money they must front before any reimbursement.** Even on the most favorable assumptions about the eventual fee award, that front-loaded number is in the tens of thousands of dollars at minimum, and into six figures if the case goes to trial without contingency representation.
 
-### 1.5 Why this matters for the strategic decisions in `bowl.md`
+### 1.5 Pro se / DIY budget through trial
+
+Section 1.4 assumes hourly counsel, professional exhibit preparation, and the full slate of paid experts. This section recomputes the budget under the realistic alternative posture for this family: **pro se representation, with AI/DIY production of all written work, exhibits, demonstratives, and trial materials that don't require credentialed third parties.**
+
+#### 1.5.1 What pro se / DIY removes from the Section 1.4 budget
+
+Three of the four Section 1.4 categories drop materially:
+
+- **Attorney fees ($60,000–$200,000) → $0.** Plaintiffs don't bill themselves. This is the biggest single delta.
+- **Trial exhibits and disbursements ($5,000–$20,000) → ~$300–$2,000.** Exhibit boards, demonstratives, PowerPoint, document copying, and trial technology are all DIY-able with consumer print services and software the family already owns. AI tools handle drafting exhibit lists, comparison overlays, and timeline graphics.
+- **Filing/service/court reporter/mediation ($5,000–$15,000) → $4,000–$13,000.** Modest reduction. Service of process by non-party adults (family/friends) cuts a few hundred dollars; court-annexed rather than private mediation cuts $1,500–$3,000. The dominant line item — court reporter fees — is **not DIY-able** and survives mostly intact.
+- **Expert witness fees ($20,000–$60,000) → $5,000–$30,000.** Significant reduction by limiting expert count to what's strictly required. The forensic hail-damage engineer to rebut Prieve is essentially mandatory; matching, valuation, and appraisal-process experts are strategy calls that can be skipped or folded into other testimony.
+
+#### 1.5.2 What pro se / DIY does NOT remove
+
+Two categories dominate the residual budget because no DIY substitute exists:
+
+**Court reporter fees ($3,000–$15,000).** Depositions require a licensed reporter to administer oaths and produce certified transcripts. Pro se litigants cannot self-record and have transcripts admitted. Per-deposition cost: $600–$1,500. Strategic lever: take fewer depositions. A focused 3–5 deposition plan (Brau, Prieve, Foster, possibly Tomes and Roos) costs $3,000–$7,500; the full 8–10 deposition plan costs $5,000–$15,000.
+
+**Expert witness fees ($5,000–$30,000).** Courts won't accept a homeowner's hail-causation opinion as expert testimony. The minimum viable expert spend is one forensic engineer ($5,000–$10,000 for report, prep, deposition, and trial testimony). Adding a window-matching expert for the *Cedar Bluff* theory is another $3,000–$10,000; a valuation expert is $0–$5,000 (often foldable into contractor or engineer testimony); an appraisal-process expert is $0–$8,000 (only if *Mork*/*Herll* sub-claims become contested).
+
+**Expert travel ($500–$4,000).** If experts are out of state — common for forensic hail engineers and window-matching specialists — travel and lodging during their testimony day comes out of pocket.
+
+#### 1.5.3 Revised Pro Se / DIY budget table
+
+| Category | Minimum (focused) | Maximum (thorough) | Notes |
+|---|---|---|---|
+| Filing fees (court) | $500 | $1,500 | Unavoidable; paid to court |
+| Service of process | $200 | $3,000 | DIY personal service where allowed |
+| Court reporter / deposition transcripts | $3,000 | $15,000 | NOT DIY; driven by deposition count |
+| Mediation fees | $0 | $3,000 | Court-annexed if available |
+| Forensic hail engineer (required) | $5,000 | $15,000 | Essentially mandatory to rebut Prieve |
+| Additional experts (matching/valuation/appraisal-process) | $0 | $23,000 | Strategy-dependent |
+| Expert travel and lodging | $500 | $4,000 | If out-of-state experts |
+| Exhibits, demonstratives, trial tech (DIY) | $300 | $2,000 | Mostly consumer print services |
+| Copying, supplies, miscellaneous | $200 | $1,000 | Home printer, binders, etc. |
+| **Total Pro Se / DIY out-of-pocket** | **~$9,700** | **~$67,500** |  |
+
+**The realistic floor** — pro se, DIY, focused deposition strategy, one forensic engineer, court-annexed mediation, mostly DIY service — lands near **$10,000–$18,000** in total cash outlay.
+
+**The realistic ceiling** — pro se, DIY, full deposition slate, two or three experts, private mediation, professional service for high-stakes subpoenas — lands near **$30,000–$50,000**.
+
+The $67,500 high-end figure assumes maximum spend across every category (all three optional experts retained, full deposition slate, private mediation, expert travel for two specialists). That's a possible ceiling but not a likely outcome.
+
+#### 1.5.4 Cash-flow timeline — when each cost becomes due
+
+Costs do not arrive evenly across the case. They cluster in three distinct waves, with most pressure in the discovery and trial-preparation phases.
+
+```
+                    PROJECTED CASH OUTFLOW BY CASE PHASE (PRO SE / DIY)
+
+  Phase             Months    Cost Range          Visual (each # ≈ $1,000)
+  ────────────────────────────────────────────────────────────────────────
+  Filing & service  M 0       $400 – $1,500       #
+  Early discovery   M 1–6     $500 – $2,000       ##
+  Deposition phase  M 6–15    $3,000 – $15,000    ###############
+  Expert retention  M 12–18   $5,000 – $30,000    ##############################
+  Mediation         M 12–15   $0 – $3,000         ###
+  Trial prep & trial M 18–22  $1,500 – $8,000     ########
+  ────────────────────────────────────────────────────────────────────────
+  CUMULATIVE        M 0 → 22  $9,700 – $67,500
+```
+
+#### 1.5.5 The hidden cost pro se introduces — fee-shifting becomes largely moot
+
+The DIY budget makes the cash side of the case manageable, but it changes the fee-shifting calculus described in Sections 1.2 and 1.3. Minnesota courts generally do not award "attorney fees" to pro se litigants under fee-shifting statutes, because there are no attorney fees to award — Plaintiffs cannot bill themselves. So:
+
+- The § 604.18 $100,000 attorney-fee cap is essentially irrelevant pro se; there's nothing to cap.
+- The uncapped MCFA fee-shifting under § 8.31 / § 325F.70 also doesn't flow as personal compensation for time spent.
+- Pro se litigants can still recover **taxable costs and disbursements** (filing fees, service, court reporter fees, statutory witness fees, and the recoverable portion of expert fees) under § 549.04 if they prevail on the merits.
+
+In other words, the family can recover most of the ~$10,000–$50,000 cash outlay listed above if they win — but the headline fee-shifting numbers ($100,000 cap, uncapped MCFA) don't function as a personal reward for the family's time. They function only as cost reimbursement.
+
+This is the principal trade pro se involves: **lower cash exposure, but no monetization of the family's time investment, and materially higher risk of losing on the merits to procedural or evidentiary defects.**
+
+### 1.6 Why this matters for the strategic decisions in `bowl.md`
 
 The "near-term out-of-pocket cost is real" warning is the practical reality check behind several § 0 strategic decisions:
 
