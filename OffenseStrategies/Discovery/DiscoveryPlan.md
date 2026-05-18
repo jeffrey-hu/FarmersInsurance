@@ -824,25 +824,102 @@ Each escalation step is itself a defense-hours driver. Use the meet-and-confer r
 
 ---
 
-## 17. Discovery Budget (Out-of-Pocket — Plaintiff Side)
+## 17. Discovery Budget — Out-of-Pocket, With Cost Allocation Between Parties
 
-Beyond family/plaintiff hours, expect direct out-of-pocket costs:
+This section identifies who pays for each category of discovery cost upfront, then sets out the family's net out-of-pocket projection. Cross-reference `LegalStrategies/riskV2.md` for the full financial-risk recalibration.
 
-| Item | Estimate |
-|---|---|
-| Filing fees and process service | $400–$1,500 |
-| Rule 45 subpoenas and witness fees | $1,500–$5,000 |
-| Court reporter and transcripts (10–12 depositions) | $15,000–$35,000 |
-| Videographer (10–12 depositions) | $10,000–$25,000 |
-| Forensic hail-damage expert | $30,000–$75,000 |
-| Window-matching expert | $10,000–$30,000 |
-| Claims-handling expert | $20,000–$60,000 |
-| Trial exhibits and graphics | $5,000–$15,000 |
-| ESI vendor (if needed for production review) | $2,000–$10,000 |
-| Mediation / ADR fees (if ordered) | $2,000–$5,000 |
-| **Total** | **~$96,000–$261,000** |
+### 17.1 Cost-Allocation Rules
 
-Cross-reference `LegalStrategies/riskV2.md` for the full financial-risk recalibration.
+**Cost responsibility is determined by who *notices* (or "takes") the deposition, not by who attends.** A deposition of Brau is a single event but only one side initiated it; the initiating party pays the upfront costs. The non-noticing party pays only for copy transcripts and copy video if it wants them.
+
+| Category | Rule / Authority | Allocation |
+|---|---|---|
+| Witness fees — party witness | Minn. R. Civ. P. 30 (deposition notice) | None payable; party compelled by notice |
+| Witness fees — third-party witness | Minn. R. Civ. P. 45 + Minn. Stat. § 357.22 | Subpoenaing party pays $20 + mileage at service |
+| Witness fees — expert witness | Minn. R. Civ. P. 26.02(b)(2) | Party taking the deposition pays the expert's reasonable hourly rate for deposition time |
+| Court reporter per diem | Minn. R. Civ. P. 30.03 | Noticing party |
+| Original transcript | Minn. R. Civ. P. 30.03 | Noticing party |
+| Copy transcript | Practice | Each side pays for its own copy at copy rate |
+| Videographer | Minn. R. Civ. P. 30.02(b) | Whoever requested videotape pays; copies at copy rate |
+| Subpoena duces tecum production | Minn. R. Civ. P. 45.04 | Subpoenaing party pays reasonable production costs |
+| Translator / interpreter | Minn. R. Civ. P. 28 | Requesting party unless court orders otherwise |
+| Conference-room rental, exhibit copies, incidentals | Practice | Each side for itself |
+| Filing fees, service of process | Statute | Filing party |
+| ESI vendor | Practice | Each side for its own vendor; producing party bears reasonable production costs |
+| Mediation / ADR fees | Minn. R. Gen. Prac. 114 | Typically split between parties |
+
+**Recovery at end of case.** Under Minn. Stat. § 549.04 and Minn. R. Civ. P. 54.04, the prevailing party may recover reasonable deposition costs as taxable costs in the judgment. This is a back-end allocation; the family carries the cost upfront and recovers if it prevails. See `LegalStrategies/riskV2.md` for the prevailing-party / losing-party scenarios.
+
+### 17.2 Witness-by-Witness Cost Responsibility
+
+**Family-noticed depositions.** Family pays court reporter, original transcript, videographer; pays $20 + mileage for Rule 45 third-party subpoenas; pays Rule 26.02(b)(2) expert hourly rate when deposing Farmers' retained experts.
+
+| Witness | Notice Type | Witness Fee | Court Reporter / Original | Videographer |
+|---|---|---|---|---|
+| Brau | Rule 30 (party) | None | Family | Family |
+| Monson | Rule 30 (party) | None | Family | Family |
+| Dudley | Rule 30 (party) | None | Family | Family |
+| Tomes | Rule 45 (likely independent contractor) | $20 + mileage | Family | Family |
+| Pietila | Likely Rule 45 (independent agent) | $20 + mileage | Family | Family |
+| Z. Miller, T. Miller, Jones | Rule 30 (party) | None | Family | Family |
+| Rule 30.02(f) corporate designee | Rule 30 (party) | None | Family (multi-day) | Family |
+| Prieve | Rule 45 (third-party; likely expert rate applies) | $20 + mileage + expert hourly rate | Family | Family |
+| Foster | Rule 45 (third-party; likely expert rate applies) | $20 + mileage + likely expert hourly rate | Family | Family |
+| Roos | Rule 45 (third-party; likely expert rate applies) | $20 + mileage + likely expert hourly rate | Family | Family |
+| Grimm | Rule 45 (third-party) | $20 + mileage | Family | Family |
+| Defense experts (forensic, claims-handling, etc.) | Rule 26.01(b)(2) | Expert hourly rate paid by family | Family | Family |
+
+Approximately **~13 noticed depositions** plus ~2–3 defense-expert depositions = **~15–16 depositions on the family's tab**.
+
+**Farmers-noticed depositions.** Farmers pays court reporter, original transcript, videographer; pays Rule 26.02(b)(2) expert hourly rate when deposing the family's retained experts.
+
+| Witness | Notice Type | Cost Borne By Farmers |
+|---|---|---|
+| Yibiao Lu | Rule 30 (party) | Court reporter, transcript, videographer |
+| Jie Hu | Rule 30 (party) | Same |
+| Family's forensic hail-damage expert | Rule 26.01(b)(2) | Court reporter + expert hourly rate |
+| Family's window-matching expert | Rule 26.01(b)(2) | Same |
+| Family's claims-handling expert | Rule 26.01(b)(2) | Same |
+| Possibly Zach Sexe (Pure Construction) | Rule 45 | $20 + mileage + court reporter |
+| Possibly Dan Traxler | Rule 45 | Same |
+| Possibly Mary / Jack / Pat (Legacy contractor) | Rule 45 | Same |
+| Possibly neighbors from Eden Prairie canvass | Rule 45 / by affidavit | Same |
+
+Approximately **~5–8 noticed depositions on Farmers' tab**. The family pays only copy-transcript and copy-video for these if it wants them.
+
+### 17.3 Family's Out-of-Pocket Budget
+
+| Item | Calculation | Estimate |
+|---|---|---|
+| Filing fees and service of process | One-time | $400–$1,500 |
+| Rule 45 witness fees ($20 + mileage × ~7 third-party witnesses) | Per witness | $200–$500 |
+| Court reporter / original transcript — family-noticed depositions (~13) | ~$1,500–$3,000/day × 13 (some half-day) | $15,000–$30,000 |
+| Court reporter — copy transcripts of Farmers-noticed depositions (~6) | ~$400–$1,000/copy × 6 | $2,500–$6,000 |
+| Videographer — family-noticed depositions (~13) | ~$1,000–$2,000/day × 13 | $10,000–$22,000 |
+| Videographer — copy videos of Farmers-noticed depositions (~6) | ~$200–$500/copy × 6 | $1,200–$3,000 |
+| Expert-deposition fees — family deposing Farmers' experts (Rule 26.02(b)(2)) | $300–$600/hour × 5–8 hours × 2–3 defense experts | $3,000–$15,000 |
+| Forensic hail-damage expert (engagement) | Pre-litigation through report and trial | $30,000–$75,000 |
+| Window-matching expert (engagement) | Same | $10,000–$30,000 |
+| Claims-handling expert (engagement) | Same | $20,000–$60,000 |
+| Trial exhibits and graphics | One-time | $5,000–$15,000 |
+| ESI vendor (if needed for production review) | Variable | $2,000–$10,000 |
+| Mediation / ADR fees (if ordered) | Split with Farmers | $2,000–$5,000 |
+| **Deposition-related subtotal** | | **~$32,000–$76,000** |
+| **Family total out-of-pocket** | | **~$101,000–$272,000** |
+
+### 17.4 Offsetting Inflows From Farmers
+
+When Farmers deposes the family's retained experts, **Farmers pays each expert's hourly rate for deposition time** under Rule 26.02(b)(2). These payments flow from Farmers to the family's experts (not directly to the family), but they partially offset the family's overall expert-engagement cost:
+
+- Expert rate $300–$600/hour × ~5–8 hours per expert × 3 family experts ≈ **$5,000–$15,000 in Farmers-to-family-experts payments**.
+
+This does not appear in the family's outflows above but reduces the effective expert-engagement burden.
+
+### 17.5 Cost-Ratio Note
+
+Although the family pays more upfront for depositions because it notices more of them (~13 vs. ~5–8), the *defense cost* of those depositions is much larger than the family's upfront cost. Each family-noticed deposition consumes 6–15 hours of Farmers' defense-counsel prep + 4–8 hours of defense attendance + 3–8 hours of post-deposition follow-up at ~$337/hour Minnesota civil-litigation rate.
+
+Each $2,000–$5,000 the family spends on a single deposition's court reporter and videographer therefore imposes $5,000–$10,000 in Farmers' defense fees, plus defense-expert prep. The cost-ratio analysis from `WhatFarmersNeedToProveAndDo.md` § 6 still holds: the family's depositions are net cost-impositions on Farmers even after the family pays the court reporter and videographer.
 
 ---
 
