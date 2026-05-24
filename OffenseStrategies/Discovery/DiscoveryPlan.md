@@ -127,7 +127,11 @@ The objective is to capture the entire foundational record on the claim itself. 
 
 **A.4 All Hancock Claims Consultants workproduct related to the 8/29/2024 inspection** — narrative report, field notes, measurement sheets, the systematic photo set (already partially produced via the FarmersDenyLetter_09_03_2024.pdf pp. 5–74), internal Hancock communications, communications between Hancock and Farmers, billing records, and the Hancock retention agreement. Objectives 1, 4, 7.
 
-**A.5 All Prieve Engineering workproduct related to File #241008** — engagement letter, retainer, billing records, statement of work, the underlying weather-research file (including any data sources consulted for the "no hail in Eden Prairie after 2020" assertion), field notes, photos beyond Appendix A, the full report and all drafts, peer reviews, internal communications with Farmers, communications between Prieve and Farmers, communications between Prieve and any third party. Objectives 4, 5, 6.
+**A.5 All Prieve Engineering workproduct related to File #241008** — engagement letter, retainer, billing records, statement of work (including the actual document defining the engagement as "windows only" and any internal Farmers approval of that scope), the underlying weather-research file (including any data sources consulted for the "no hail in Eden Prairie after 2020" assertion), field notes from the 10/9/2024 inspection (including any working sheet identifying observations carried into vs. omitted from the narrative), the original camera download from the 10/9/2024 inspection (not just the curated Appendix A — Appendix A captions go to A-217; the original capture set is likely larger), the full report and all drafts (including any draft that contained narrative discussion of the downspout/flashing observations at photographs A-42, A-91, A-92, A-93, A-98, A-99, and A-103 later removed), peer reviews, internal communications with Farmers (including any Farmers comments on or instructions to revise drafts), communications between Prieve and Farmers, and communications between Prieve and any third party. Objectives 4, 5, 6.
+
+**A.5.1 The scope-of-engagement decision record for Prieve Engineering File #241008.** All documents and communications showing (a) who at Farmers decided to scope the engineering engagement to "windows only" and the date of that decision; (b) whether that scope decision was made before or after the family reported damage to siding, downspouts, doors, and other components; (c) whether Prieve requested expansion of the scope and Farmers refused; (d) whether Farmers ever instructed Prieve, formally or informally, not to opine on observed non-window damage; (e) any supplemental or amended engagement after the family's 1/31/2025 appeal package, the 2/10/2025 second response, the 5/28/2025 Pietila NWS submission, or the 9/12/2025 appraisal award. Objectives 4, 5, 6.
+
+**A.5.2 The Prieve report's complete Photo Appendix metadata.** Native digital images for every photograph in Appendix A (A-1 through A-217), with embedded EXIF metadata preserved (camera, lens, timestamp, GPS coordinates if available); the original file names; and any captioning database or worksheet used to assign captions. Objectives 4, 5, 7.
 
 **A.6 The Prieve Engineering engagement record more broadly.** All retention agreements between Farmers (or any Farmers affiliate) and Prieve Engineering (or Prieve's affiliated entities) in Minnesota from 1/1/2020 forward, with file numbers and claim numbers for each engagement. Objective 6 (C3 pattern-of-practice).
 
@@ -157,6 +161,10 @@ The objective is to capture the entire foundational record on the claim itself. 
 
 **A.19 The 2014, 2015, and 2020 prior-claim inspection records** for the property at 17756 George Moran Dr, including the 2014 claim from the previous owner. Objectives 1, 2, 3 — relates to the "no dents in 2015" baseline.
 
+**A.19.1 The complete October 13, 2020 Farmers Insurance photo log** referenced at page 7 of the Prieve report ("we note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020"). Every photograph taken at the property on or about that date, with file names and metadata. Needed to (a) confirm the trim-chip identification Prieve relies on at A-53 and (b) identify which observations in the 2020 photo log were excluded from the 2020 Xactimate scope (which approved only 2 casement windows). Objectives 1, 2, 3, 4.
+
+**A.19.2 The 2020 Farmers Insurance photo log captions or inspector notes** identifying each observation in the 2020 photo log by location, condition, and inspector recommendation, together with any internal Farmers worksheet showing which observations were translated into Xactimate line items and which were not. Objectives 1, 2, 3, 4.
+
 **A.20 The standard Farmers homeowners' policy form** (including endorsements J6898, J6944, MN079, MN080) applicable to policy 98055-49-65 on the loss date, with all drafting history and explanatory underwriting bulletins available to Farmers. Objective 2 (matching defense).
 
 **A.21 The City of Eden Prairie building-permit responses to Farmers (if Farmers ever requested permit records on the family's claim).** Objective 4 (refused-to-engage record).
@@ -184,6 +192,14 @@ Once Tranche A has produced documents (and Rule 37 motions on Tranche A have res
 **B.5 The full personnel and disciplinary record for Bradlee Monson, Nicholas Brau, and Christian Dudley** for the period in which they were assigned to or supervising hail claims in Minnesota — limited to records relating to (a) claims-handling practices, (b) discipline relating to claim denials, (c) training records on § 72A.201 or hail claims, (d) bonuses or compensation tied to claim outcomes. Subject to protective order. Objectives 4, 5, 8.
 
 **B.6 Communications between Farmers and Prieve regarding the "no hail in Eden Prairie after 2020" claim, including any internal Farmers review of that assertion before Farmers adopted it in the 11/4/2024 denial.** Objectives 4, 5, 8.
+
+**B.6.1 Farmers' standard practice for scoping engineering engagements on hail claims.** All written guidelines, training materials, claim-system templates, and engagement-letter templates used by Farmers' Minnesota catastrophe and field teams from 1/1/2020 forward to define the scope of forensic-engineering engagements. The narrowing of an engineering engagement to a single building component (e.g., "windows only") on a multi-component hail claim is a discrete claim-handling decision; produce all documents reflecting Farmers' policy or practice on it. Objectives 4, 5, 6.
+
+**B.6.2 Farmers' standard practice for reviewing and accepting engineering reports.** All written guidelines and quality-assurance protocols Farmers' Minnesota operation used from 1/1/2020 forward to (a) review engineering reports for internal consistency between narrative and photo appendix, (b) verify factual premises (such as historical weather claims) before adopting them in a denial, and (c) require engineers to address observations documented in the engineer's own photographs. Objectives 4, 5, 6.
+
+**B.6.3 The complete log of Prieve Engineering Minnesota engagements with Farmers from 1/1/2020 forward**, by file number and claim number, identifying for each engagement: (a) the scoped scope of work; (b) the hail-causation finding (hail / no-hail / mixed); (c) any subsequent appraisal proceeding under § 65A.01; (d) the outcome of any such appraisal; (e) any subsequent regulatory complaint, litigation, or settlement; and (f) the engineer who signed the report. Objective 6 (C3 pattern-of-practice).
+
+**B.6.4 The complete log of all forensic engineers Farmers engaged on Minnesota hail claims from 1/1/2020 forward**, by engineer/firm, with annual fee totals paid to each. Objective 6.
 
 **B.7 Farmers' financial reports for the Minnesota homeowners' line of business 2022–2025**, limited to loss ratio, denied-claim rate, and reserve practices for hail claims. Disclosable subject to protective order. Objective 8 (D1 punitive damages — financial condition).
 
@@ -233,7 +249,19 @@ Minnesota Rule 33.01 sets a default limit of 50 interrogatories per party (count
 
 **INT.2.** For each of the six exclusions cited in the 11/4/2024 denial letter, state the specific factual basis Farmers contends supports application of that exclusion to each contested window at 17756 George Moran Dr. Identify the documents and witnesses Farmers will rely on to support each.
 
-**INT.3.** Describe in complete detail the methodology and data sources Nathan Prieve used to support the statement "most recent hail in Eden Prairie reported in 2020" in his Weather Records section. Identify every data source consulted; every data source available to Prieve that was not consulted; and the basis for any conclusion drawn from those sources.
+**INT.2.1** For each non-window component documented as damaged in the Prieve report's Photo Appendix A (downspouts at A-42, A-91, A-92, A-93, A-98, A-99; flashing at A-103; siding at A-25, A-26; trim board at A-53, A-54, A-90, A-148; and door window screen at A-141), state Farmers' position on (a) whether the damage exists; (b) the cause of the damage; and (c) whether Farmers contends any policy exclusion or limitation applies. If Farmers contends the damage is not hail-related, identify the specific non-hail cause and the evidence supporting that identification.
+
+**INT.2.2** State the basis for Farmers' decision to scope the Prieve Engineering engagement to "the condition of windows in the home as relates to hail" and to exclude from that scope the siding, downspouts, flashing, and doors Plaintiffs had reported as damaged. Identify (a) the date of the scoping decision; (b) the Farmers employee(s) who made the decision; (c) the documents reflecting the decision; (d) whether Plaintiffs were informed of the scope limitation; (e) whether Prieve requested expansion of scope and Farmers declined; and (f) the basis for Farmers' use of the resulting "windows only" report to support denial of non-window components of the claim.
+
+**INT.3.** Describe in complete detail the methodology and data sources Nathan Prieve used to support the statement "most recent hail in Eden Prairie reported in 2020" in his Weather Records section. Identify every data source consulted; every data source available to Prieve that was not consulted; and the basis for any conclusion drawn from those sources. Without limitation, state whether Prieve consulted: (a) the National Weather Service Twin Cities/Chanhassen office; (b) the Eden Prairie Airport (ASOS) station records for the period 2020 through October 2024; (c) the City of Eden Prairie building-permit records for hail-related repairs from 2020 forward; (d) stormersite or any comparable commercial weather-data subscription; (e) Interactive Hail Maps; (f) the NOAA Storm Events Database (and if so, the exact query parameters, date ranges, and results); (g) Farmers' own internal claims database for other Eden Prairie hail claims filed 2020–2024; and (h) any peer-reviewed meteorological or engineering literature.
+
+**INT.3.1** State the basis in fact and engineering for the conclusion in Conclusion 2 of the Prieve report that "past hail at the site was not of sufficient size to dent window frames or the face of sashes." Identify (a) the specific hail-size threshold Prieve applies to determine sufficiency for denting extruded aluminum or aluminum-clad wood window frames; (b) the source for that threshold (peer-reviewed literature, industry guideline, internal protocol, or other); (c) the terminal velocity Prieve calculates for hailstones at the documented sizes (1.25", 1.75", 1"–2"); (d) the material composition Prieve assumes for the windows in question; and (e) any quantitative impact-force calculation Prieve performed.
+
+**INT.3.2** State the basis in fact and meteorology for the generalization in Conclusion 4 of the Prieve report that "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction." Identify (a) whether the generalization was derived from analysis of the specific 7/13–7/14/2024 storm event; (b) whether Prieve obtained from the National Weather Service or any other source the wind-direction record for Eden Prairie ASOS during the 7/13–7/14/2024 event; (c) the basis for excluding multi-directional or rotational storm-system effects from the analysis of the east-side siding penetration; and (d) the basis for applying a generalization to a specific observation in a forensic report intended to support a coverage denial.
+
+**INT.3.3** Identify every Prieve report observation that, in the report's Photo Appendix A captions, documents damage to a non-window component (downspouts, flashing, siding, trim board, door windows, screens) at 17756 George Moran Dr, and for each such observation state (a) whether the observation is addressed in the report's narrative; (b) whether the observation is addressed in the report's Conclusions; (c) the basis for any omission; and (d) Farmers' position on whether the observed damage is hail-caused.
+
+**INT.3.4** State the basis for the statement at page 7 of the Prieve report that the trim-board chip photographed at A-53 "is visible in prior photo logs from Farmers Insurance dated October 13, 2020." Identify (a) which 2020 Farmers photograph shows the chip; (b) whether the chip was identified for repair in the 2020 Xactimate; (c) if not identified for repair, the reason; and (d) Farmers' position on whether the 2020 trim observation should have been included in the 2020 estimate.
 
 **INT.4.** Describe in complete detail the methodology and data sources the 9/12/2025 appraisal panel used to (a) identify the windows described as "F1.7" and "B1.2"; (b) value those windows at $12,800 RCV / $6,400 ACV; and (c) determine the scope of windows the panel evaluated and excluded.
 
@@ -359,6 +387,62 @@ Admit or deny each of the following:
 **RFA.38.** Policy 98055-49-65 does not contain any provision requiring evidence on a hail claim to be provided by an engineer.
 **RFA.39.** Endorsement J6944 (Limited Matching of Undamaged Property) is in effect on Policy 98055-49-65.
 **RFA.40.** Net payment to Plaintiffs after the 9/12/2025 appraisal award is $0.00.
+
+### 5.1.A Engineer-Report-Specific RFAs (added with Tranche A)
+
+**RFA.41.** The Prieve Engineering report (File #241008) states on page 2 that the scope of the engagement was to "evaluate the condition of windows in the home as relates to hail."
+
+**RFA.42.** The Prieve Engineering report (File #241008) states on page 2 that "All other aspects of the subject structure and property are excluded from this evaluation and report."
+
+**RFA.43.** Farmers retained Prieve Engineering on a scope limited to "windows only" notwithstanding that Plaintiffs had reported damage to windows, siding, and downspouts.
+
+**RFA.44.** The Prieve report's Photo Appendix A includes photograph A-42, captioned "DOWNSPOUT EXTENSION AT FRONT, VIEW OF DENT AT UPPER EDGE."
+
+**RFA.45.** The Prieve report's Photo Appendix A includes photographs A-91, A-92, and A-93, depicting and captioning dents on a downspout extension at the south side of the home.
+
+**RFA.46.** The Prieve report's Photo Appendix A includes photographs A-98 and A-99, depicting and captioning dents (including a "crease") on a downspout at the east side of the home.
+
+**RFA.47.** The Prieve report's Photo Appendix A includes photograph A-103, captioned "VIEW OF DENTS IN FLASHING AT BASE OF WALL ALONG DECK."
+
+**RFA.48.** The Prieve report's narrative does not address the downspout observations photographed at A-42, A-91, A-92, A-93, A-98, or A-99.
+
+**RFA.49.** The Prieve report's narrative does not address the flashing observation photographed at A-103.
+
+**RFA.50.** The Prieve report's Conclusions do not address the downspout observations at A-42, A-91, A-92, A-93, A-98, or A-99.
+
+**RFA.51.** The Prieve report's Conclusions do not address the flashing observation at A-103.
+
+**RFA.52.** The gutters and downspouts at 17756 George Moran Dr were replaced after September 13, 2021.
+
+**RFA.53.** Any dent on the downspouts at 17756 George Moran Dr photographed in October 2024 cannot have been caused by a hail event that occurred before September 13, 2021.
+
+**RFA.54.** The Prieve report states in its Background section: "Convective storm activity and hail have been reported on multiple occasions in the area of the subject structure."
+
+**RFA.55.** The Prieve report states in Conclusion 1: "It is our opinion that no recent hail damage has occurred to windows in the subject structure related to any recent hail or other storm activity."
+
+**RFA.56.** The Prieve report contains no quantitative impact-force calculation for hailstones at the documented hail sizes (1.25", 1.75", or 1"–2") against the window components observed at 17756 George Moran Dr.
+
+**RFA.57.** The Prieve report contains no terminal-velocity calculation for hailstones at the documented hail sizes.
+
+**RFA.58.** The Prieve report contains no peer-reviewed citation to engineering or meteorological literature on hail-damage assessment.
+
+**RFA.59.** The Prieve report's Activities section does not list as inputs the Hancock Claims Consultants 8/29/2024 inspection workproduct.
+
+**RFA.60.** The Prieve report's Activities section does not list as inputs Nicholas Brau's 9/6/2024 inspection observations.
+
+**RFA.61.** The Prieve report's Activities section does not list as inputs the family's photographic submissions of September 5, 8, and 10, 2024.
+
+**RFA.62.** The Prieve report states on page 7: "we note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020."
+
+**RFA.63.** The October 13, 2020 Farmers Insurance photo log was created in connection with claim 3013539499-1 (the 2020 hail claim).
+
+**RFA.64.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 did not include a line item for the trim-board chip referenced in the Prieve report at page 7 / photograph A-53.
+
+**RFA.65.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 approved exactly two casement window replacements (line items 1–4).
+
+**RFA.66.** The Prieve report's Conclusion 1 treats those two casement windows as "2 windows" already paid for and uses that prior payment as a basis to deny additional windows in the current claim.
+
+**RFA.67.** The current Prieve report documents dents at sashes on the same two windows that the 2020 Xactimate approved.
 
 ### 5.2 Tranche B — Targeted Lock-Ins (month 4–5)
 
@@ -527,6 +611,9 @@ Topics (high-level — to be expanded in the deposition-folder doc):
 5. Farmers' retention and management of Hancock Claims Consultants — this claim and as a general Minnesota practice.
 6. The 9/12/2025 appraisal scope, methodology, and post-award communications.
 7. Farmers' position on each Section I exclusion as applied to each contested window.
+7.1. Farmers' standard practice for scoping forensic-engineering engagements on multi-component hail claims, including the basis for limiting the Prieve Engineering engagement to "windows only" on this claim.
+7.2. Farmers' standard practice for reviewing engineering reports before adoption in a denial letter, including any practice for verifying internal consistency between the engineer's narrative and the engineer's photo appendix, and any practice for verifying the factual accuracy of weather-history statements in the engineer's report.
+7.3. Farmers' position on the Prieve report's omission from its narrative and Conclusions of the downspout observations photographed at A-42, A-91, A-92, A-93, A-98, and A-99, and the flashing observation photographed at A-103.
 8. Farmers' acceptance/rejection log for non-engineer-sourced evidence in hail claims.
 9. Records-retention policy for adjuster inspection notes; the specific search performed for Brau's 9/6/2024 notes.
 10. Farmers' litigation-hold posture for this matter.
