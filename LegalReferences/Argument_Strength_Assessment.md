@@ -1,7 +1,12 @@
 # Realistic Assessment of Legal Arguments — Lu v. Fire Insurance Exchange
 
-**Prepared:** April 4, 2026 | **Updated:** April 12, 2026 (added Semco Windows out-of-business / matching analysis to arguments 1, 5, 7, and deductible math; added Cedar Bluff and Noonan case law; previously updated 4/11/2026 with HailShapes research and 5/28/2025 evidence)
-**Purpose:** Honest evaluation of each proposed legal argument, informed by current Minnesota case law, litigation trends in hail claims, and the specific facts of this case. This document identifies which arguments are strongest, which have significant vulnerabilities, and what a court is likely to focus on.
+**Prepared:** April 4, 2026
+**Updated:**
+- April 11, 2026 — HailShapes scientific research integrated; bad faith upgraded from "long shot" to preserved-and-pursued
+- April 12, 2026 — Semco out-of-business / matching analysis added (arguments 1, 5, 7, deductible math); *Cedar Bluff* and *Noonan* added
+- **May 24, 2026 — Substantial revision incorporating (a) Engineer Report Rebuttal (eight independent defects in the Prieve report); (b) the garage-window self-defining diagnostic; (c) the downspout/flashing omission analysis; (d) the full AppraisalAwardStrategy three-tier framework (Tier 1 *Herll*/*Rymer* remand, Tier 2 § 65A.01 Subd. 3 modification, Tier 3 *Mork* vacatur); (e) the *Quade*-reservation theory for unevaluated windows; (f) new common-law fraud, negligent misrepresentation, and MCFA arguments added to the complaint drafts.**
+
+**Purpose:** Honest evaluation of each proposed legal argument, informed by current Minnesota case law, litigation trends in hail claims, and the specific facts of this case — now including the full Prieve Engineering Photo Appendix A record (217 photographs documenting ~42 distinct window damage observations, 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim board chips, and 1 door window screen dent) against the 9/12/2025 appraisal award of 2 windows for $12,800 RCV ($0 net after deductible).
 
 **Disclaimer:** This is legal research compiled for informational purposes. It is not legal advice. The family should consult with a licensed Minnesota attorney before filing suit.
 
@@ -9,296 +14,439 @@
 
 ## Executive Summary
 
-After reviewing the MN_CaseLaw_Research.md alongside the full claim timeline and current Minnesota hail claim litigation trends, the honest picture is this: the family has a viable case, but it is narrower and more complex than the research document suggests. The research document correctly identifies the right categories of arguments, but it overstates the strength of some (particularly bad faith) and underemphasizes the central challenge the family actually faces — overcoming the binding appraisal award that valued the damage below the deductible.
+After incorporating the engineer-report-rebuttal work and the appraisal-award-strategy work completed in May 2026, the honest picture has shifted materially in the family's favor. The earlier assessment (April 2026) correctly identified the appraisal scope challenge as the central battlefield but did not yet have (a) the exhaustive cross-reference between Prieve's photographic record and the appraisal's two-window scope, (b) the *Herll*/*Rymer* remand framework as the primary procedural vehicle, or (c) the engineer-report defects as both a damages and a bad-faith record. With those pieces in place, the strongest arguments are:
 
-The three arguments worth building the case around are, in order of priority:
+1. **Tier 1 — Remand for clarification under *Herll* / *Rymer*** (the new primary motion; ~70/100 strength on the current record)
+2. **Breach of contract under the *Quade*-reservation theory** (coverage for the ~10 unevaluated hail-signature windows Prieve documented; the dollar-driver; ~65/100)
+3. **Declaratory judgment** (the framing vehicle for the *Quade* reservation, matching, and exclusion-preclusion declarations; ~70/100)
+4. **Bad faith under Minn. Stat. § 604.18** (factual basis materially strengthened by the eight Prieve report defects; statutory appraisal bar is real but defeatable; ~55/100, up from ~40 at last assessment)
+5. **§ 65A.01 Subd. 3 modification** (Tier 2; ~45/100)
+6. **Endorsement J6944 / Semco matching** (potentially transformative; ~60/100)
+7. **Common-law fraud / negligent misrepresentation** (newly developed; not subject to the appraisal bar; ~40/100 strict, ~55/100 as negligent misrepresentation alternative)
+8. **Minnesota Consumer Fraud Act** (newly developed; ~35/100 standalone, ~50/100 as fee-shifting overlay)
+9. **Unfair claims practices under § 72A.201** (~50/100 — strong factual support, uncertain private remedy)
+10. ***Mork* vacatur (Tier 3)** (last alternative; destroys *Quade* preclusion; ~25/100 on current record)
+11. **Spoliation / adverse inference** (~30/100 — evidentiary tool, not a count)
+12. **Cosmetic-vs.-functional damage** (~50/100 — strongest defensive position because of the documented leaks)
 
-1. **Breach of contract focused on challenging the appraisal's scope** (the family's best and most essential argument)
-2. **Declaratory judgment on coverage questions** (the vehicle that frames everything else)
-3. **Unfair claims practices under Minn. Stat. 72A.201** (supporting narrative, strongest regulatory argument)
+The single most important update since April 2026: **the family no longer needs to prove the appraisal award was wrong in order to recover.** Under the *Quade*-reservation theory, the panel's authority extends only to items it actually evaluated; coverage for the ~10 hail-signature window locations Prieve documented but the panel did not evaluate remains a live coverage question for the court under Count I — **without disturbing the existing award**. This sidesteps the entire "but the appraisal said $12,800" defense.
 
-Two arguments the research document rates as "Strong" face legal obstacles, though the bad faith argument is stronger than initially assessed:
+---
 
-- **Bad faith under Minn. Stat. 604.18 faces a serious statutory obstacle** (the appraisal bar), but the factual basis is strong — including documented refusal to review evidence, an arbitrary "engineer only" standard imposed by Farmers' claim supervisor, and missing inspection notes from an adjuster whose own conduct suggested he found hail damage. If the appraisal scope challenge succeeds, the bad faith argument becomes viable.
-- **Spoliation** is a supporting evidentiary tool, not a standalone claim in Minnesota
+## The Three Major Strategic Shifts Since the April 2026 Assessment
+
+Before working argument-by-argument, three structural changes deserve flagging:
+
+### Shift 1 — The Prieve Report Is Now the Family's Best Single Piece of Evidence
+
+The April 2026 assessment treated the Prieve report primarily as a defense Farmers would raise. The May 2026 rebuttal work (`OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md`) and the appraisal-strategy work (`OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md`) reframe Prieve as **a Farmers-funded record of damage on the property**. Eight independent defects (scope limitation; observations omitted from narrative; internal contradictions; contradictions with the 2020 file; factual errors disprovable on public record; methodology gaps; biased framing; reliance gaps) — plus the garage-window self-defining diagnostic ("No smooth or rounded dents were observed in the frame or sashes" — which by inverse means "rounded dents observed = hail," and Prieve documented rounded dents at the front/west triple window at A-38–41 and "generally smooth" dents at the north porch four-unit window at A-179) — make Prieve's report cite-able **for** the family on most pages. The 217-photograph Appendix A is the principal exhibit in every motion under Count I, Count II, and Count III.
+
+### Shift 2 — The Three-Tier Appraisal Strategy Replaces "Challenge the Appraisal" as a Single Argument
+
+The April 2026 assessment treated "Appraisal Challenge (Scope and Process)" as a single argument with three sub-paths (vacate; new appraisal; unfair process). The May 2026 strategy reorganizes that into a three-tier framework documented in `OffenseStrategies/AppraisalAwardStrategy/`:
+
+- **Tier 1 — Remand for clarification under *Herll v. Auto-Owners Ins. Co.*, 879 F.3d 293 (8th Cir. 2018), and *Cincinnati Ins. Co. v. Rymer Cos.*, No. 24-3356 (8th Cir. Mar. 27, 2026).** Preserves the *Quade* causation finding; expands the itemization on remand. Primary motion.
+- **Tier 2 — Modification under § 65A.01 Subd. 3's "stating separately actual value and loss to each item" / "so itemized" textual gate.** Judicial itemization on the record. First alternative.
+- **Tier 3 — Vacatur under *Mork v. Eureka-Security Fire & Marine Ins. Co.*, 230 Minn. 382, 42 N.W.2d 33 (1950).** Destroys *Quade* preclusion. Reserved last alternative.
+
+This framework supersedes the single appraisal-challenge argument in the April assessment.
+
+### Shift 3 — *Quade*-Reservation Theory Adds a Dollar-Driving Lane That Does Not Require Disturbing the Award
+
+The April 2026 assessment focused on (a) defeating the appraisal award and (b) overcoming the deductible. The May 2026 work identifies a third lane: under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), the appraisal panel's authority extends only to items it actually evaluated. Items the panel did not evaluate remain coverage questions reserved to the court. Per `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md` § F, Prieve's catalog documents ~10 hail-signature window locations the panel did not award, plus 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim chips, and 1 door window screen — none of which are foreclosed by the appraisal. Coverage and amount of loss for each is a live court question under Count I. This lane is the new dollar driver: simple per-window arithmetic on Prieve's observations puts the family above the deductible without any change to the $12,800 figure.
 
 ---
 
 ## Argument-by-Argument Assessment
 
-### 1. BREACH OF CONTRACT — Challenging the Appraisal Scope
+### 1. BREACH OF CONTRACT — Two Distinct Tracks
 
-**Research document rating:** Strong
-**Realistic rating:** Strong, but the battlefield is specific
+**Prior rating:** Strong, but the battlefield is specific.
+**Revised rating (May 2026):** **Strong on both tracks.** Track 1 (unevaluated windows under *Quade* reservation) is now the dollar driver. Track 2 (matching under *Cedar Bluff*) is the secondary dollar driver.
 
-This is, and should be, the foundation of any lawsuit. The elements are straightforward and well-supported: a valid policy existed, the family performed all conditions precedent (timely reporting, cooperating with inspections, participating in appraisal), and Farmers paid $0.
+The April 2026 assessment correctly recognized that "breach of contract" in this case is not simply "Farmers didn't pay." What has changed is the discovery of two distinct, simultaneously available tracks that produce damages without disturbing the appraisal award:
 
-The complication is that breach of contract in this case is not a simple "they didn't pay a covered loss." Farmers will respond that the appraisal — the contractual mechanism for resolving amount-of-loss disputes — determined the damage was only ~$12,800 RCV, which is below the $17,720 deductible. They'll argue they complied with the contract by honoring the binding appraisal award.
+**Track 1 — Coverage for windows the panel did not evaluate (the *Quade* reservation).** The 9/12/2025 award covered F1.7 and B1.2 — best identified as the front/west single-sash window near the stairs and the rear/east three-sash window in the family room (Farmers' inconsistent post-award descriptions notwithstanding). Prieve's own photographic record documents hail-signature damage at ~10 other window locations: the upper-west 3-unit bedroom (A-43–46), the upper southwest bedroom (A-59–65, particularly A-64), the upper east window above the porch (A-118–124), the NE-facing family room window (A-125–135), the SE window at deck (A-136–141), the north window at upper family room (A-145–146), the upper bay window group at central quadrant (A-147–160, particularly A-115–117 and A-156), the upper east window above porch (A-161–166), the four-season porch windows (A-167–175, particularly A-165–166), the north-facing porch window (A-176–183 — the "other 2020-paid" window with vertically aligned dents at A-179), the kitchen corner windows (A-184–195), the main-level east NE-quadrant window (A-196–204), and the upper-north window above kitchen (A-205–206). Under *Quade*, each is a coverage question reserved to the court because the panel did not evaluate it. The award's binding effect does not extend to items the panel did not appraise.
 
-**The family's actual argument, therefore, is not just "Farmers didn't pay" but "the appraisal was deficient because it failed to account for all damaged windows."** This is a narrower, more specific claim that requires the family to prove:
+**Track 2 — Matching under *Cedar Bluff* (the Semco-out-of-business path).** Even on the two awarded windows, the policy requires "comparable material and quality" replacement. Semco Windows and Doors ceased operations in 2019; Sierra Pacific Windows acquired Semco's operating assets in February 2020 but, on information and belief, current-production matching profiles for the family's specific 1993/1997/2008 sash stamps are not available. Under *Cedar Bluff Townhome Condo. Ass'n v. American Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014), the matching cost is part of the replacement cost. Endorsement J6944 by its own terms applies only to "property which is not damaged by the covered peril" — the awarded windows ARE damaged property, and J6944 does not bar their replacement.
 
-- That additional windows beyond those in the award were damaged by hail (photos, the neighbor survey, and the family's documentation support this)
-- That the appraisal process was procedurally flawed or the umpire and Farmers' appraiser failed to assess the full scope of damage
-- That the appraisal process failed to properly account for the full scope of damage, despite the insured's appraiser (John Foster) signing the award — potentially because certain windows were never assessed by the panel
+**The Prieve report is the principal evidence for Track 1.** This is the most important practical change since April 2026. Each Track 1 window is a damaged-component allegation the family will need to prove. Farmers' own engineer photographed and described each one. The family pays nothing for that evidence; Farmers already paid Prieve to create it. The complaint paragraphs reproducing Prieve's photo and narrative observations are essentially uncontested damages allegations against a Farmers witness.
 
-Under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), the appraisal panel's causation determination (hail caused the window damage) is binding. This is helpful — Farmers cannot relitigate causation after their own appraiser confirmed hail damage. But *Quade* also means the appraisal's determination of the "amount of loss" carries significant weight, and courts are reluctant to second-guess appraisal awards. The family would need to show the award was the product of fraud, mistake, or a failure to follow the appraisal's proper scope.
+**Why Track 1 sidesteps the prior assessment's central concern.** The April 2026 assessment treated the appraisal-bar problem as a headwind: "Even if the family convinces a court that additional windows should have been included, the total damage still needs to exceed $17,720 before Farmers owes a single dollar." Track 1 does not require convincing the court that "additional windows should have been included in the award." It requires convincing the court that the panel did not evaluate those windows — which is on the face of the award (a $12,800 figure against "F1.7 / B1.2") and confirmed by Farmers' 9/24/2025 admission that the umpire produced no report or estimate. The court evaluates the unevaluated windows under Count I on a clean record, with Prieve's Appendix A as the principal evidence.
 
-**Scientific evidence now strengthens the "all windows are damaged" claim.** *(Added 4/11/2026 — from HailShapes research)* The family has assembled 24 scientific, government, and professional sources (indexed in `HailShapes/DocumentIndex.md`) that explain why hail damage to windows naturally varies in appearance — round dents on some windows, elongated marks on others, spatter marks, scratches, and frame cracking. Key findings: (a) NOAA confirms hailstones are irregular with spikes and lobes, not spheres (NOAA Severe Weather 101); (b) wind-driven hail strikes at angles, producing elongated rather than circular damage — a 2025 Applied Sciences study found that 13 m/s wind increases peak impact force by 18.9%; (c) InterNACHI professional inspection standards recognize spatter marks, streaking, and varied damage patterns as legitimate hail damage; (d) a 2024 field study (Calotescu et al., Journal of Wind Engineering) documented 90% of hail damage concentrated on the windward facade with elongated patterns on other orientations. This body of evidence is critical because it explains why an appraiser looking only for "classic" round dents may have missed windows with legitimate but differently-presenting hail damage — directly supporting the scope gap argument.
+**Quantum on Track 1 alone (illustrative).** If the per-window RCV implied by the F1.7 / B1.2 award (~$6,400 per window) is applied to the ~10 unevaluated hail-signature windows, the additional RCV is roughly $64,000 (more if Track 2 matching is applied; less if depreciation is heavier). After depreciation at the same ratio (~50%) and adding the deductible math, the family's net recovery on Track 1 alone is likely in the $15,000–$50,000 range — comfortably above the $0 the appraisal produced.
 
-**What makes this argument viable despite these hurdles:** The appraisal confirmed hail causation but then valued only a small subset of windows. The family has photographic evidence of damage across all windows, and 14 out of 19 surveyed neighbors confirmed hail damage to their own homes. The umpire (Wade Roos) sided with the insured's appraiser (John Foster) — not with Farmers' appraiser (Greg Tomes), who did not sign the award. This means the neutral umpire rejected Farmers' position, which strengthens the causation finding. However, the fact that the insured's appraiser signed the award creates a complication: a court will ask why the family is challenging the scope of an award their own appraiser agreed to. The family would need to show that certain windows were never submitted to or assessed by the panel — meaning Foster signed off on what was evaluated, but not everything was evaluated.
+**What a court will still want to see** (largely unchanged from April assessment, with additions in italics):
 
-**An important contextual factor: the family did not select Foster directly.** *(Added 4/11/2026)* John Foster was chosen by Pure Construction (the contractor the family was working with), not by the family themselves. The family did not interview Foster or have input into his selection. While Farmers will note that the Appraisal Demand form names Foster as the insured's appraiser and the family split the $2,200 retainer with Pure Construction — suggesting the family authorized and participated in the process — the lack of a direct relationship between the family and Foster is relevant context. Additionally, after the appraisal was completed, Pure Construction informed the family that Foster used to work for insurance companies — a background the family was not aware of when the appraisal took place. While working for insurance companies is not inherently disqualifying, it raises a question about whether Foster was the most effective advocate for the insured's interests, particularly on scope. Combined with the family's lack of input into his selection, a court may be more sympathetic to a scope challenge when the insured did not personally select their representative, was unaware of his background, and had limited control over how aggressively Foster advocated for their position. It also raises a practical concern: getting Foster's cooperation for a written account may require going through Pure Construction (Zach Sexe), and Foster may feel less obligation to assist since his engagement was with the contractor, not directly with the family.
+- Specific evidence identifying which windows were damaged → *now provided by `01_DamageCatalog_PrieveAppendixA.md` (217 photographs catalogued by elevation and damage indicator)*
+- Which windows the appraisal covered → *F1.7 and B1.2, to be decoded through discovery per `05_AppraisalSpecific_Discovery_Deposition.md`*
+- Why the gap exists → *because the panel did not evaluate the rest, as confirmed by the umpire's missing methodology document and Farmers' inconsistent post-award descriptions*
 
-**Semco Windows out of business — additional breach dimension.** *(Added 4/12/2026)* The window manufacturer, Semco Windows and Doors, went out of business in 2019. Both Farmers and the appraiser (John Foster) are aware of this. This creates an additional breach of contract argument beyond the scope gap: even for the windows the appraisal did cover, the ~$12,800 RCV may have been calculated using discontinued Semco pricing or assumed Semco parts availability. Since Semco products cannot be purchased at any price, any estimate based on Semco costs fails to reflect the actual replacement cost with available comparable windows — which will be higher. Under the policy's obligation to pay replacement cost, Farmers must pay what it actually costs to replace the windows with "comparable material and quality," not what it would have cost to buy products from a company that no longer exists. Furthermore, under *Cedar Bluff Townhome Condo. Ass'n v. American Family Mut. Ins. Co.* (Minn. 2014), if replacement windows from another manufacturer cannot match the existing undamaged Semco windows in appearance, the family may be entitled to replacement of ALL windows — dramatically changing the damages calculation. See Section 7 (J6944) for the matching analysis.
+**Foster's account remains valuable but is no longer the linchpin.** The April assessment treated Foster's written account as essential evidence. The May 2026 strategy keeps Foster's testimony important but reduces its centrality because the *Quade* reservation theory does not depend on Foster confirming "we didn't evaluate these windows." The face of the award and Farmers' own 9/24/2025 admission are sufficient. Foster's testimony (per `05_AppraisalSpecific_Discovery_Deposition.md` § 5) confirms it.
 
-**What a court will want to see:** Specific evidence identifying which windows were damaged, which windows the appraisal covered, and why the gap exists. The family should get John Foster to provide a written statement explaining (a) which specific windows the appraisal panel evaluated, (b) whether any damaged windows were excluded from the panel's review, and (c) why he agreed to the award given the family's position that all windows are damaged. Foster's account of the appraisal process is now critical — not because he dissented, but because he is the family's best witness to what the panel actually did and did not assess.
-
-**How common is this in MN hail litigation?** Very common. Disputes over appraisal scope — particularly where the insured believes the appraisal undervalued or under-scoped the damage — are a recurring theme in Minnesota hail cases. Courts do entertain these challenges, but the burden is on the insured to show the award was materially deficient.
+**Common in MN hail litigation?** Track 1 (*Quade* reservation) is increasingly common as a strategy in cases where the appraisal award is much smaller than the documented damage. Track 2 (*Cedar Bluff* matching) is the standard matching argument.
 
 ---
 
 ### 2. DECLARATORY JUDGMENT — Minn. Stat. Ch. 555
 
-**Research document rating:** Strong
-**Realistic rating:** Strong as a procedural vehicle
+**Prior rating:** Strong as a procedural vehicle.
+**Revised rating (May 2026):** Strong — and the specific declarations have grown materially.
 
-The research document's analysis here is sound. A declaratory judgment action is the right framing for this case because there are genuine, unresolved coverage questions:
+The declaratory-judgment count is now the framing vehicle for seven distinct declarations (per Draft Complaint v2 ¶ 48):
 
-- Does Endorsement J6944 (matching exclusion) apply when the family's position is that all windows are directly damaged?
-- Was the appraisal award's scope consistent with the policy's coverage obligations?
-- Are Farmers' original exclusion defenses (wear/tear, marring, corrosion, neglect, faulty construction) valid given the appraisal's finding that hail caused the damage?
+(a) **Coverage** — that the 7/13/2024 hail loss is a covered loss subject only to the $17,720 deductible.
+(b) **Preclusion of denial-letter exclusions for the awarded windows** under *Quade* — Farmers cannot re-litigate the six exclusions cited in the 11/4/2024 denial as to F1.7 and B1.2.
+(c) **Coverage for unevaluated windows** — the *Quade* reservation theory in declaratory form. The court declares that the panel did not resolve coverage for the ~10 unevaluated hail-signature windows, and that those windows remain live coverage questions.
+(d) **Marring exclusion and windstorm/hail restoration** — that the policy's Definitions § 16 inclusion of "denting" within "marring," together with § I.A.8(b)'s restoration of coverage for marring "directly caused by ... windstorm or hail," does not defeat coverage for hail-caused dents.
+(e) **Endorsement J6944 — limited scope** — J6944 by its own terms applies only to "property which is not damaged by the covered peril" and does not bar replacement of damaged windows. Where matching from the original manufacturer is unavailable, *Cedar Bluff* applies.
+(f) **Estoppel of denial rationales** — Farmers issued two formal denials on incompatible factual theories (9/3/2024 "no other damages observed"; 11/4/2024 "wear and tear / 2020 already paid"); Farmers is estopped from asserting any rationale not in its written letters.
+(g) **Suit-limitation period** — the two-year contractual suit-limitation period in the policy controls.
 
-This is not really an independent "argument" so much as the proper legal mechanism for presenting the breach of contract and coverage disputes to the court. Filing a declaratory judgment claim alongside breach of contract is standard practice in Minnesota insurance litigation and gives the court a clean framework to resolve the threshold questions.
+Declarations (b), (c), and (e) are the new high-value declarations. Declaration (c) in particular is the *Quade*-reservation theory in declaratory form — a court declaration that the appraisal did not resolve coverage for the unevaluated windows unlocks the entire Track 1 breach claim.
 
-**How common?** Standard. Nearly every contested insurance coverage case in Minnesota includes a declaratory judgment count.
-
----
-
-### 3. BAD FAITH — Minn. Stat. 604.18
-
-**Research document rating:** Strong
-**Realistic rating:** Serious statutory obstacle, but factual basis is strong enough to preserve *(revised 4/11/2026 — upgraded from "likely barred; at best a long shot" based on additional evidence)*
-
-The central obstacle remains the appraisal bar: **Minn. Stat. 604.18, subd. 4(b) explicitly states: "An award of taxable costs under this section is not available in any claim that is resolved or confirmed by arbitration or appraisal."** The family's claim went through the appraisal process. An appraisal award was issued on September 12, 2025, signed by two of the three panel members. Under the plain language of the statute, the bad faith remedy appears to be unavailable.
-
-However, the argument that the appraisal did not truly "resolve" the claim is now more concrete than a theoretical exercise (see Section 5 below). If the family succeeds in showing the appraisal was deficient in scope — a single-page award that doesn't specify damaged window locations, backed by Farmers' own appraiser (Greg Tomes) who gave contradictory location information and didn't even sign the award, plus an umpire who produced no report or methodology — then the claim was partially addressed at best, not "resolved" within the meaning of § 604.18. The fact that Farmers' appraiser dissented from the award further complicates Farmers' ability to claim the appraisal "resolved" the claim — their own representative didn't agree with the result. This is untested in Minnesota courts, but the facts supporting a scope challenge are strong enough that a court may be willing to consider it.
-
-**The factual case for bad faith is considerably stronger than initially assessed.** Three specific pieces of evidence documented since the original assessment significantly strengthen the showing that Farmers knew or should have known it had no reasonable basis for denial:
-
-**1. Farmers' claim supervisor imposed an arbitrary "engineer only" standard.** On February 3, 2025, Bradlee Monson (field claim supervisor) told the family in a phone conversation that "extruded aluminum windows are easily got damaged" and that he and Farmers would not review any evidence or documents unless they were provided by an engineer. The policy contains no such requirement. This is not a good-faith evaluation of evidence — it is a blanket refusal to engage, imposed by a supervisor, based on an arbitrary standard designed to avoid reconsidering the denial.
-
-**2. The adjuster confirmed this position by voicemail.** On February 10, 2025, at 11:06 AM, Nic Brau left a voicemail (transcription preserved as screenshot at `EventDocuments/2025-02-10-TheyDon_tLookAtAnyNewFactsEvidence1.PNG`) stating: "Brad reached out to me on the field claim supervisor wanted me to let you know that he did receive the information that you just sent in recently but it's not an engineers report so I believe that's what he wanted to look for from you." This is a documented, contemporaneous record of Farmers' refusal to review the family's additional evidence (neighbor survey, permit data, weather data) for the sole reason that it did not come from an engineer. Under Minn. Stat. 72A.201, an insurer is required to conduct a reasonable investigation and consider relevant evidence — not to impose arbitrary gatekeeping standards that the policy does not require.
-
-**3. Nic Brau's own inspection contradicts the denial.** When Nic Brau personally inspected the property on September 6, 2024, he found additional dents on windows and measured the dimensions of multiple windows. His conduct during the inspection — identifying damage, taking measurements — is consistent with someone documenting hail damage, not dismissing it. Yet Farmers claims no report from this inspection exists ("the file does not contain a report on the requested date"), and Nic Brau refused to provide his notes ("all the information we can release has already been sent to you"). If Brau's own observations during his inspection supported the existence of hail damage — which his actions strongly suggest — then Farmers had internal knowledge contradicting the denial *before* Prieve was even hired. This goes directly to the "knew or should have known it had no reasonable basis" element of § 604.18.
-
-**4. Farmers ignored evidence submitted through their own agent.** *(Added 4/11/2026)* On May 28, 2025, the family met with agent Pete Pietila and shared two new pieces of evidence: a weather report from Interactive Hail Maps and an official National Weather Service article documenting the July 13–14, 2024 storms — confirming strong wind and hail impacting Eden Prairie, with hail stones up to 4 inches in diameter in some areas. Pete uploaded these documents to Farmers' system and asked the claim team to review. As of June 18, 2025, Farmers provided no feedback whatsoever. This is significant because: the NWS article is an official federal government publication that directly and specifically contradicts Prieve Engineering's central conclusion that "storm data does not document a 7/13/2024 event"; the evidence was submitted through Farmers' own agent via Farmers' own system — not by the family sending unsolicited materials; and even Farmers' own agent's request for review was apparently ignored. An insurer that receives an official NWS report contradicting its expert's key finding, uploaded by its own agent, and does nothing — not even acknowledge receipt — is not conducting a reasonable investigation.
-
-**The Prieve Engineering report itself is now a liability for Farmers, not a shield.** *(Added 4/11/2026 — from HailShapes research)* The HailShapes research collection includes a detailed point-by-point rebuttal of all four Prieve opinions (see `HailShapes/RebuttalToFarmersDenial.md`). Prieve's core assumptions — that hail damage is always round, that scrape marks cannot be from hail, that hail was too small to dent frames, and that east-side damage is impossible — are each contradicted by NOAA, peer-reviewed journals, and professional inspection standards. Critically, Prieve's report contains zero quantitative analysis: no formulas, no material testing, no impact calculations, no literature citations. By contrast, the assembled scientific evidence includes peer-reviewed regression models for impact force, material-dependent dent depth formulas, and empirical terminal velocity equations. An insurer that bases a denial on an engineering report this scientifically deficient — one that ignores the U.S. government's own authoritative source on hail (NOAA) — faces a stronger "knew or should have known" argument. The science disproving Prieve's assumptions is not obscure; it is readily available from government agencies and mainstream academic journals.
-
-**The "fairly debatable" defense is weakened by this evidence.** The original assessment noted that Farmers had a forensic engineer (Prieve) whose opinion typically makes a claim "fairly debatable." That remains true in isolation. But Farmers' own adjuster appears to have found evidence of hail damage during his personal inspection, and Farmers then (a) failed to preserve or produce his notes, (b) hired Prieve anyway, (c) refused to review additional contrary evidence after the denial, and (d) ignored an official NWS report — submitted through their own agent — that directly contradicts Prieve's storm data conclusions. A court evaluating "fairly debatable" may look not just at the existence of Prieve's opinion, but at the process that led to relying on it — including whether Farmers suppressed or ignored contrary internal and external evidence.
-
-**The Sela case cited in the research document remains distinguishable** — in *Selective v. Sela*, the bad faith finding was supported by a fraud accusation rejected by the jury and a $500,000 appraisal award. Here there was no fraud allegation, and the appraisal went in Farmers' favor. However, the pattern of conduct documented here — premature first denial before hiring an expert, adjuster observations suggesting damage followed by no report, blanket refusal to review evidence, arbitrary gatekeeping standard — is the kind of systematic conduct that distinguishes bad faith from a mere coverage disagreement.
-
-**The procedural requirement** under 604.18 still applies: bad faith cannot be alleged in the initial complaint. The insured must first file the breach claim, then move to amend. This adds cost and delay but is manageable.
-
-**Revised recommendation:** Do not make bad faith the centerpiece of the case — the appraisal bar is a genuine legal obstacle. But the factual basis is strong enough that this argument should be actively preserved, not abandoned. The strategic approach: (1) lead with breach of contract and the appraisal scope challenge; (2) if the court finds the appraisal did not "resolve" the claim, move to amend to add bad faith; (3) use the documented refusal to review evidence, the "engineer only" standard, and the missing Brau notes as the factual foundation. The facts here are the kind that make a court uncomfortable dismissing a bad faith claim on purely procedural grounds.
+**How common?** Standard. Declaratory judgment is the right vehicle for this case. The expansion in number and specificity of the declarations is consistent with the more developed factual record.
 
 ---
 
-### 4. UNFAIR CLAIMS PRACTICES — Minn. Stat. 72A.201
+### 3. BAD FAITH — Minn. Stat. § 604.18
 
-**Research document rating:** Strong
-**Realistic rating:** Moderate — strong narrative support, uncertain as standalone claim
+**Prior rating (April 2026):** Serious statutory obstacle, but factual basis is strong enough to preserve.
+**Revised rating (May 2026):** **Materially strengthened** — the eight categories of Prieve report defects, the garage-window self-defining diagnostic, and the downspout/flashing-omission analysis convert this from "preserve and pursue if scope challenge succeeds" to "preserve and likely pursue alongside the scope challenge." Strength rating revised upward from ~40 to ~55/100.
 
-The facts here are genuinely compelling:
+The statutory appraisal-bar problem under § 604.18 Subd. 4(b) remains genuine. The argument that the appraisal did not "resolve" the claim within the meaning of Subd. 4(b) was the family's best path before May 2026 and is even better now: under the *Quade*-reservation theory, the appraisal manifestly did not resolve the claim with respect to the ~10 unevaluated hail-signature windows, the 5 dented downspouts, the 3 dented flashing observations, the 2 siding penetrations, the 3 trim chips, and the 1 door window screen. The textual gate in § 65A.01 Subd. 3 ("an award in writing, so itemized") is unmet because the award lumps two distinct windows into a single $12,800 figure. Both arguments now support the Subd. 4(b) attack from independent directions.
 
-- Farmers denied the claim by phone on 9/3/2024 — only 5 days after the first inspection, and before hiring any forensic engineer
-- After the 11/4/2024 denial, the family was caught in a circular refusal: Nic Brau refused to meet to discuss the Prieve report; the agent said to talk to Prieve; Prieve refused and directed the family back to Nic. No one at Farmers would discuss the engineer report or its conclusions with the family. *(Added 4/11/2026 per CaseContext/key-facts.md)*
-- Bradlee Monson (field claim supervisor) imposed an arbitrary "engineer only" standard on 2/3/2025, refusing to review any evidence not submitted by an engineer — a requirement not found in the policy *(Added 4/11/2026)*
-- Nic Brau's 2/10/2025 voicemail confirmed this was the official claims team position, not just Bradlee's personal view *(Added 4/11/2026)*
-- Farmers refused to review new evidence (neighbor survey, permit data, weather data) on 2/10/2025
-- On 5/28/2025, the family shared an official NWS article and Interactive Hail Maps data with agent Pete, who uploaded them to Farmers' system and asked the claim team to review — as of 6/18/2025, Farmers provided no feedback, ignoring even their own agent's request *(Added 4/11/2026)*
-- Farmers cannot produce Nic Brau's inspection notes from 9/6/2024
-- The Hancock inspection report has never been produced
+**The "knew or should have known it had no reasonable basis" element is now much stronger.** Beyond the four pieces of evidence already documented in the April assessment (engineer-only standard imposed by Monson; confirmation voicemail by Brau; Brau's own observations contradicting the denial; ignored NWS evidence through Pietila), the May 2026 work adds the following:
 
-**The Prieve report's scientific deficiencies further support the inadequate investigation argument.** *(Added 4/11/2026 — from HailShapes research)* A reasonable investigation under 72A.201 would include an engineering assessment grounded in established science. The Prieve report cites no scientific literature, applies no quantitative formulas, and rests on assumptions (spherical hail, perpendicular impact, uniform damage patterns) that are contradicted by NOAA, the Journal of the Atmospheric Sciences, and the Insurance Institute for Business and Home Safety's own research. When Farmers relied on this report as the basis for denial, and then refused to consider the family's evidence to the contrary, it compounded the investigation failure. See `HailShapes/KeyDecisionDocument.md` for the five specific counter-arguments with supporting formulas, and `HailShapes/RebuttalToFarmersDenial.md` for the point-by-point rebuttal of each Prieve opinion.
+**5. The Prieve report's own scope was limited to "windows only" while Farmers used it to deny the entire claim.** Per `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 1: the report states on its face that "Our office was retained to evaluate the condition of windows in the home as relates to hail" and "[a]ll other aspects of the subject structure and property are excluded from this evaluation and report." Farmers scoped the engineer's mandate narrowly, then used the resulting "windows only" report to deny non-window components Plaintiffs had reported as damaged. This is a deliberate gating decision by Farmers, not a methodological oversight — and it is documented in the engagement letter Farmers must produce in discovery.
 
-These facts pattern-match well to the unfair claims practices described in Minn. Stat. 72A.201: failing to conduct a reasonable investigation, failing to fairly evaluate evidence, and failing to acknowledge new evidence.
+**6. The Prieve report's own Photo Appendix A documents non-window damage the report's narrative and Conclusions ignore.** Per `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 2 and `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md` § E: dented downspouts at three elevations (A-42, A-91 through A-93, A-98 and A-99), dented flashing at the deck (A-103, A-128, A-129), 2 distinct siding penetrations (A-26/A-27, A-208/A-212), 3 trim board chips (A-53, A-90, A-148), and 1 door window screen dent (A-141). The narrative addresses none of the downspout or flashing observations. **The gutters and downspouts were replaced after September 13, 2021, so any dent on those components physically cannot pre-date late 2021 — direct physical proof of post-2020 hail at the property that defeats Prieve's "no hail in Eden Prairie after 2020" premise.** An insurer that bases a denial on an engineering report whose own photo file contains direct physical evidence defeating the report's central premise has, at minimum, recklessly disregarded that contrary evidence.
 
-**The limitation:** Section 72A.201 is primarily an administrative and regulatory statute. Whether it creates a direct private right of action for damages (as opposed to just authorizing complaints to the Department of Commerce) has been debated. The Minnesota Supreme Court has recognized that violations of 72A.201 can be relevant to bad faith and breach of contract claims, and some courts have allowed claims under Minn. Stat. 8.31 (the private attorney general statute) for 72A.201 violations. However, this is not a straightforward path.
+**7. The Prieve report's internal contradictions are evident on the face of the report.** Per `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 3: the Background section says "Convective storm activity and hail have been reported on multiple occasions in the area of the subject structure," while Conclusion 1 says "no recent hail damage has occurred." The narrative uses the word "dent" or "dents" 16 separate times on a single page (the east-side discussion) before concluding "no recent hail damage has occurred." These contradictions are visible to any reader; Farmers adopted the report anyway.
 
-**Best use:** Frame 72A.201 violations as evidence supporting the breach of contract claim. Farmers' refusal to investigate fairly, its premature denial, and its refusal to consider new evidence all go to whether the appraisal process was conducted in good faith and whether Farmers met its contractual obligations. Even if 72A.201 doesn't support a standalone damages claim, it provides powerful factual ammunition.
+**8. The Prieve report's "smooth or rounded = hail" diagnostic is self-defeating.** Per `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 6A: at page 6 of the Prieve report, in the rear/east garage window discussion, the report states "No smooth or rounded dents were observed in the frame or sashes" as the reason hail is ruled out there. The mirror proposition — that the presence of smooth or rounded dents indicates hail — is Prieve's implicit diagnostic. Yet the same report documents "**Rounded dents** were observed at sashes" at the front/west triple window (page 4) and "Two dents ... **generally smooth**" at the north porch four-unit window (page 5). By Prieve's own diagnostic, those observations are hail damage. Prieve handwaves them away by attributing them to the 2020 storm — but Farmers' own 2020 Xactimate (claim 3013539499-1, line items 1–4) approved only two casement windows and the family's account is that the 2020 dents were on two sashes, not whole windows. The "already paid in 2020" defense does not extend to dents on other sashes on the same windows, much less to dents on other windows entirely.
 
-**How common in MN hail cases?** Extremely common as a supporting argument. Insureds in Minnesota hail cases routinely cite 72A.201 violations — premature denials, refusal to review supplemental evidence, and inadequate documentation are the most frequently raised issues.
+**9. The "2 windows already paid in 2020" theory in Prieve Conclusion 1 is contradicted by Farmers' own 2020 file.** Per `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 4: Conclusion 1 treats the 2020 scope as "2 windows already paid." Farmers' 2020 Xactimate approved 2 casement window replacements at line items 1–4 — what the family identifies as 2 sashes, not 2 whole windows. The Prieve report itself acknowledges at page 7 that the chip at trim board photograph A-53 "is visible in prior photo logs from Farmers Insurance dated October 13, 2020" — yet the 2020 Xactimate did not include that chip. Either Farmers underpaid the 2020 claim or Prieve's "same chip" identification is wrong; in either case, the report's "already paid in 2020" theory is unsupported by Farmers' own records.
+
+**10. The Prieve report's Activities section omits inputs Prieve should have reviewed.** Per `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 8: the Activities section does not list (i) the Hancock 8/29/2024 inspection workproduct, (ii) the 9/3/2024 first denial letter, (iii) any record of adjuster Nicholas Brau's 9/6/2024 observations, or (iv) the family's photographic submissions of September 5, 8, and 10, 2024. Brau personally observed dents on multiple windows on 9/6/2024 and measured window dimensions; Prieve was not given access to or did not use those observations. An engineer asked to evaluate hail damage whose engagement scope deliberately excludes the most relevant contemporaneous internal observations is not conducting an independent investigation.
+
+**The cumulative bad-faith record.** Combining the prior four pieces with these six new ones produces ten distinct documented facts each supporting the "knew or should have known" element of § 604.18 Subd. 2(a)(2). No single fact is dispositive; the pattern is what makes the bad-faith case. A court evaluating "fairly debatable" must look at the entire pattern of conduct — premature first denial before retaining an engineer, adjuster observations suggesting damage followed by no produced report, blanket refusal to review non-engineer evidence, ignored evidence submitted through Farmers' own agent, scope-limited engineering engagement, engineer's own photo file ignored, internal contradictions and self-defeating diagnostic in the engineer's own report, contradicted 2020-attribution theory, omitted inputs in the engineer's Activities section, and the umpire's missing methodology.
+
+**Practical implication.** The April 2026 assessment recommended waiting to amend in bad faith only if the scope challenge succeeded. The May 2026 record is strong enough that the family should consider seeking leave to amend earlier in the process — possibly immediately after the Rule 30(b)(6) deposition (per `OffenseStrategies/Discovery/DiscoveryPlan.md` § 12, month 12). The motion for leave under § 604.18 Subd. 4(a) is supported by a much fuller record now.
 
 ---
 
-### 5. APPRAISAL CHALLENGE (SCOPE AND PROCESS)
+### 4. UNFAIR CLAIMS PRACTICES — Minn. Stat. § 72A.201
 
-**Research document rating:** Moderate-Strong
-**Realistic rating:** This IS the case — it is the single most important argument *(reinforced 4/11/2026 with additional supporting details)*
+**Prior rating:** Moderate — strong narrative support, uncertain as standalone claim.
+**Revised rating (May 2026):** Unchanged on the doctrinal posture; **the narrative support is stronger.** Strength rating ~50/100 as supporting evidence, ~30/100 as a standalone claim.
 
-The research document treats this as one of seven arguments. In reality, it is the argument that determines whether the family wins or loses. Everything else is supporting.
+The doctrinal limitation on § 72A.201 (uncertain private right of action; primarily administrative) has not changed. What has changed is the factual record. Each of the eight Prieve-report defects above pattern-matches to at least one § 72A.201 violation:
 
-Here is the core problem: the appraisal award found ~$12,800 RCV in hail damage to windows. The deductible is $17,720. If the award stands, Farmers owes nothing, and no amount of bad faith or unfair claims practices arguments changes that math.
+| Prieve report defect | § 72A.201 subdivision violation |
+|---|---|
+| Scope limitation to "windows only" while Farmers used report to deny entire claim | Subd. 4(3) (misrepresenting facts or policy provisions); Subd. 6 (failure to conduct reasonable investigation) |
+| Photo appendix observations omitted from narrative and Conclusions | Subd. 6(d) (failure to investigate based on relevant facts) |
+| Internal contradictions on face of report | Subd. 4(4) (failure to acknowledge and act reasonably promptly upon communications); Subd. 8 (failure to investigate the claim) |
+| Self-defeating "smooth or rounded" diagnostic | Subd. 6 (reasonable investigation); Subd. 8 (good-faith effort) |
+| 2-windows-vs.-2-sashes contradiction with 2020 file | Subd. 4(11) (refusal to settle when liability is clear) |
+| Methodology gaps (no quantitative analysis, no peer-reviewed citation) | Subd. 6(d) (failure to investigate based on relevant facts) |
+| Biased framing ("not consistent with hail" as conclusion-first label) | Subd. 4(3); Subd. 8 |
+| Activities-section omissions | Subd. 6(d); Subd. 8 |
 
-The family must convince a court either that:
+**Best use (unchanged from April 2026):** Frame § 72A.201 violations as evidence supporting the breach of contract claim and the § 604.18 bad-faith claim. Even if § 72A.201 doesn't support a standalone damages claim, it provides powerful factual ammunition. The May 2026 work multiplies the ammunition.
 
-**(a) The appraisal award should be set aside** because it was the product of mistake, fraud, or a failure to follow proper procedures — specifically, that the umpire and Farmers' appraiser did not assess all damaged windows; OR
+**Independent statutory claim under § 8.31 Subd. 3a (Private AG).** This avenue is still doctrinally uncertain (see *Ly v. Nystrom*, 615 N.W.2d 302 (Minn. 2000), public-benefit requirement). Pursue if the bad-faith claim is dismissed.
 
-**(b) The appraisal did not "resolve" the full claim** because the disputed windows were never submitted to or evaluated by the panel, meaning the family is entitled to a new or supplemental appraisal; OR
+---
 
-**(c) The appraisal process itself was fundamentally unfair** because the umpire issued no report or estimate (confirmed by Farmers on 9/24/2025), Farmers' own appraiser (Greg Tomes) dissented from the award, and there is no documented methodology for how the umpire reached his conclusions.
+### 5. APPRAISAL CHALLENGE — Three-Tier Framework
 
-Minnesota courts generally treat appraisal awards as binding (similar to arbitration awards), but they can be vacated for fraud, mistake, or if the appraisers exceeded or failed to exercise their authority. The family's strongest angle is (a) — the award was a mistake of scope because the appraisers failed to evaluate all hail-damaged windows.
+**Prior rating:** Moderate-Strong; treated as a single argument with three sub-paths.
+**Revised rating (May 2026):** **Restructured into three distinct tiers per `OffenseStrategies/AppraisalAwardStrategy/`. Tier 1 is the lead; Tier 2 is the first alternative; Tier 3 is the reserved last alternative.** Aggregate strength rating: Tier 1 ~70/100, Tier 2 ~45/100, Tier 3 ~25/100.
 
-**The award itself is remarkably thin and unsupported.** *(Added 4/11/2026)* The appraisal award is a single-page document. It does not specify the location of the damages — it does not identify which windows were found to be hail-damaged, which were excluded, or why. There is no accompanying report, estimate, or methodology from the umpire (Wade Roos), as Farmers confirmed on 9/24/2025. Notably, Farmers' own appraiser (Greg Tomes) did not sign the award — the umpire sided with the insured's appraiser (John Foster), rejecting Farmers' position. And when the family asked Farmers for basic details about which windows the award covers, Tomes gave contradictory information — initially describing the damaged windows as being in the "dining room," later acknowledging this was an error, but providing a corrected description that still conflicts with the executed Award form. This means the one person on Farmers' side who could explain the award's scope cannot describe it consistently — and he didn't even agree with the result.
+The April assessment correctly identified this as "the case." The May 2026 restructure changes the procedural vehicle from "vacate or get a new appraisal" to "lead with remand for clarification; reserve modification and vacatur."
 
-**Farmers' refusal to explain the gap is itself significant.** *(Added 4/11/2026)* When the family asked why other damaged windows — visible in their photos and in Prieve's own appendix — were not covered by the award, Farmers did not provide an answer. Instead, Farmers' response was: "The claim was settled per the binding appraisal award received. The loss is under your deductible." When pressed further, Farmers directed the family to contact their own appraiser for explanations. An insurer that cannot or will not explain what its own appraisal award covers — and whose appraiser contradicts himself about the locations — is in a weak position to argue the award should be treated as a reliable, binding resolution. This stonewalling supports both the scope challenge and, if the appraisal bar can be overcome, the bad faith argument.
+#### Tier 1 — Remand for Clarification under *Herll* / *Rymer* (PRIMARY)
 
-**Scientific evidence explains why the scope gap exists.** *(Added 4/11/2026 — from HailShapes research)* The HailShapes research provides a scientific explanation for why the appraisal may have missed damaged windows: hail damage does not always present as "classic" round dents. If the appraisal panel (or the umpire) used a narrow visual standard — looking only for circular impact marks — they would have excluded windows with elongated marks from angled impacts, spatter marks, frame cracking, or other legitimate hail damage patterns documented by NOAA and InterNACHI. The Calotescu et al. (2024) field study found that hail damage on non-windward facades presents as elongated rather than circular — meaning windows facing different directions on the family's home would show different damage morphology. An appraiser unfamiliar with this science (or applying an artificially narrow definition of "hail damage," as Prieve's report does) could easily undercount the damaged windows. This provides the court with a credible scientific explanation for the scope gap — it is not that the other windows are undamaged, but that their damage looks different because of impact angle, wind direction, and material properties. See `HailShapes/DocumentIndex.md` for the full 24-source evidence base and `HailShapes/KeyDecisionDocument.md` for the five counter-arguments with formulas.
+**Strength rating:** ~70/100 — the best legal hook on the present record.
 
-**Semco out of business — the award's valuation is also suspect.** *(Added 4/12/2026)* Beyond the scope gap, the award's dollar amount may itself be flawed. If the ~$12,800 RCV was calculated using Semco pricing — which is unobtainable because Semco went out of business in 2019 — then the valuation does not reflect actual replacement cost. Both the appraiser and Farmers knew Semco was defunct. An appraisal award based on phantom pricing is arguably the product of "mistake" within the vacatur standard. The family should investigate whether the award used Semco pricing or actual market pricing for comparable replacement windows.
+**The ask.** Remand the 9/12/2025 award to the appraisal panel (or to a successor panel) for the limited purpose of (a) identifying each window or item within the scope of the panel's evaluation by location, elevation, sash count, and manufacturer stamp; (b) stating separately the actual cash value and replacement cost value attributable to each; and (c) identifying any window or item Plaintiffs submitted that the panel did not evaluate, with the reason.
 
-**Additionally, the award entirely fails to address matching.** If replacement windows from another manufacturer do not match the existing undamaged Semco windows, the cost of restoring the property may be dramatically higher than the award reflects — potentially requiring replacement of all windows. The appraisal panel did not consider this issue, and the single-page award contains no analysis of matching. Under *Cedar Bluff v. American Family* (Minn. 2014), this is a coverage question that the court can address even if the appraisal's factual findings are binding.
+**Why this is the lead.** *Herll v. Auto-Owners Insurance Co.*, 879 F.3d 293 (8th Cir. 2018), holds that an ambiguous Minnesota appraisal award is properly remanded to the panel for clarification. *Cincinnati Insurance Co. v. Rymer Cos.*, No. 24-3356 (8th Cir. Mar. 27, 2026), reaffirms. The 9/12/2025 award is facially ambiguous: F1.7 and B1.2 are undefined; the umpire produced no methodology document (Farmers admitted 9/24/2025); Farmers' three written attempts to describe the award scope (9/18, 9/19, 10/14/2025) are mutually inconsistent. Remand preserves the panel's *Quade* causation finding (the family's most valuable single piece of doctrine) while forcing the panel to either expand the itemization (the family wins on dollars) or admit it didn't evaluate the rest of the documented-damage windows (the family wins on *Quade* reservation under Track 1 of the breach-of-contract argument).
 
-**Key evidence for this challenge:**
+**How Prieve's evidence supports Tier 1.** The 217-photograph Appendix A is the proof that the award scope and the documented-damage scope diverge sharply. The remand asks the panel to reconcile its $12,800 number against Prieve's record. (Per `OffenseStrategies/AppraisalAwardStrategy/04_MotionTactics.md` for the full motion outline.)
 
-- **The award's own deficiencies:** A single page with no location details, no explanation of inclusions or exclusions, no supporting methodology — this is not the kind of well-documented award that courts are inclined to defer to
-- **Farmers' appraiser's contradictory location descriptions:** The "dining room" error, later corrected but still inconsistent with the executed award, undermines the award's reliability and suggests the appraiser himself may not have clearly documented which windows he evaluated
-- **Farmers' refusal to explain the scope gap:** When asked directly why other damaged windows were excluded, Farmers refused to answer and told the family to figure it out themselves — a court may view this as an admission that Farmers cannot justify the award's scope
-- **Semco pricing issue:** *(Added 4/12/2026)* If the award's RCV was based on Semco pricing, it fails to reflect actual replacement cost — supporting a "mistake" challenge to the dollar amount, not just the scope
-- The family's photos showing dents on all windows, not just the ones in the award
-- John Foster signed the award — but his written account of what the panel evaluated and what it did not is critical to establishing whether the scope was complete
-- Greg Tomes (Farmers' appraiser) did NOT sign — the umpire rejected Farmers' position, strengthening the hail causation finding
-- The umpire's failure to produce any report or methodology
-- The 14 of 19 neighbors confirming hail damage — circumstantial evidence that widespread hail damage occurred
+#### Tier 2 — Modification under § 65A.01 Subd. 3 (FIRST ALTERNATIVE)
+
+**Strength rating:** ~45/100.
+
+**The ask.** Modify or correct the 9/12/2025 award to comply with the statute's "stating separately actual value and loss to each item" requirement.
+
+**Why this is alternative-to-Tier-1.** § 65A.01 Subd. 3 provides that "an award in writing, **so itemized**, of any two when filed with this company shall determine the amount of actual value and loss." The textual qualifier "so itemized" means an award that is *not* so itemized is not, by the statute's own terms, a binding determination. The award lists "Windows F1.7 B1.2" against a single lump $12,800 RCV — that is not item-by-item itemization. The court has authority to conform the award to the statute. Filed only if Tier 1 is denied or insufficient.
+
+**How Prieve's evidence supports Tier 2.** Prieve's catalog supplies the items into which the award should be split. The court itemizes using Appendix A as the inventory and the Pure Construction / Pella Reserve workpapers as the valuation methodology.
+
+#### Tier 3 — Vacatur under *Mork* (FURTHER ALTERNATIVE — RESERVED)
+
+**Strength rating:** ~25/100 on the present record; potentially higher after appraisal-panel discovery.
+
+**The ask.** Vacate the 9/12/2025 award under *Mork v. Eureka-Security Fire & Marine Insurance Co.*, 230 Minn. 382, 42 N.W.2d 33 (1950), which authorizes vacatur on clear evidence of fraud, misfeasance, malfeasance, or wrongdoing.
+
+**Why Tier 3 is the *last* alternative, not the first.** Vacatur destroys the panel's binding hail-causation finding under *Quade*. The hail-causation finding is the family's most valuable single piece of evidence. Tier 3 trades that preservation for a recalculation of the dollar number, which is a bad trade on the present record because Tier 1 produces a higher dollar number without losing preclusion. **Do not file Tier 3 unless Tier 1 and Tier 2 have failed and the *Mork* misconduct record (developed through discovery of Foster, Tomes, Roos, and Pure Construction per `05_AppraisalSpecific_Discovery_Deposition.md`) supports it.**
+
+**The award's documented deficiencies** (unchanged from April assessment but now also supported by `02_AwardedScope_vs_DocumentedDamage_Gap.md`):
+- Single-page form with no location details;
+- No accompanying methodology from umpire Roos;
+- Farmers' appraiser Tomes did not sign;
+- Farmers' three contradictory written descriptions of the award scope;
+- Farmers refused to explain the gap when asked directly on 10/21/2025;
+- The dollar gap between $12,800 RCV and the photographic record of damage at ~12 window locations + non-window components.
 
 ---
 
 ### 6. SPOLIATION OF EVIDENCE / ADVERSE INFERENCE
 
-**Research document rating:** Moderate
-**Realistic rating:** Weak as standalone; useful as supporting evidence
+**Prior rating:** Weak as standalone; useful as supporting evidence.
+**Revised rating (May 2026):** Unchanged. Strength rating ~30/100 as evidentiary tool.
 
 Minnesota does not recognize an independent tort of spoliation. The available remedies are limited to adverse inference jury instructions and discovery sanctions, both of which require showing that the missing evidence was relevant and that its absence is prejudicial.
 
-The two missing documents (Nic Brau's 9/6/2024 inspection notes and the Hancock report) are concerning. But there are practical problems:
+The principal targets remain (a) Nic Brau's 9/6/2024 inspection notes (Farmers' 10/10/2025 "the file does not contain a report" statement, in tension with Brau's 10/29/2025 "all the information we can release has already been sent" statement), (b) the Hancock 8/29/2024 inspection narrative (only the photo set has been produced), and (c) umpire Roos's working file (per Farmers' 9/24/2025 admission, no report or estimate exists).
 
-- **Nic Brau's notes:** Farmers says the file doesn't contain a report. This could mean Brau never wrote one (poor practice, but not destruction of evidence) or that it was lost/not preserved. Without evidence that notes existed and were destroyed, an adverse inference instruction is uncertain.
-- **Hancock report:** This was a third-party inspector's report. If Hancock produced a report and Farmers didn't retain it, that's stronger. But if Hancock only communicated findings verbally (which led to the phone denial), there may be no document to produce.
-
-**Best use:** Raise these issues during discovery. If Farmers cannot explain why an adjuster who physically inspected the property, observed damage, and took measurements produced no documentation, that fact supports the broader narrative of an inadequate investigation. It's evidence, not a claim.
+**Use unchanged from April assessment.** Raise these issues during discovery; preserve them for the adverse-inference instruction at trial; cross-reference into the § 604.18 Subd. 4(a) motion.
 
 ---
 
-### 7. ENDORSEMENT J6944 (MATCHING EXCLUSION) AND SEMCO MATCHING ARGUMENT
+### 7. ENDORSEMENT J6944 (MATCHING) AND SEMCO MATCHING ARGUMENT
 
-**Research document rating:** Strong (if damage proven)
-**Realistic rating:** Significantly strengthened by Semco's closure *(revised 4/12/2026 — upgraded from defensive-only to potentially transformative)*
+**Prior rating (April 12, 2026):** Significantly strengthened by Semco's closure; potentially transformative.
+**Revised rating (May 2026):** Unchanged in posture, slightly stronger in factual support. ~60/100 standalone, higher when combined with Track 2 of the breach-of-contract argument.
 
-The original analysis correctly identifies the key distinction: J6944 only applies to "undamaged property." If the family can prove all windows were damaged by hail, there is no matching issue and J6944 is irrelevant.
+The two-paths analysis from the April 12, 2026 update remains correct:
 
-However, the discovery that **Semco Windows and Doors went out of business in 2019** fundamentally changes the matching analysis. There are now TWO paths to defeating the deductible math — not just one:
+- **Path 1:** Prove all windows are damaged → J6944 is irrelevant because there is no "undamaged property." Now supported by Prieve's catalog of ~12+ documented window damage locations plus the HailShapes scientific framework.
+- **Path 2:** Even if some windows are undamaged, *Cedar Bluff* matching requires full replacement when the original manufacturer is defunct.
 
-**Path 1: Prove all windows are damaged (original strategy).** If all windows sustained hail damage, J6944 is irrelevant — there is no "undamaged property" to match. The HailShapes research provides the scientific basis for this claim (see below).
+**Case law remains:** *Cedar Bluff Townhome Condo. Ass'n v. Am. Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014) (matching cost is part of replacement cost; full replacement required when matching unavailable). *Noonan v. American Family Mut. Ins. Co.* (8th Cir. 2019) (upholding matching exclusion on different facts). Federal district court voiding matching exclusion in American Family policies (Hellmuth & Johnson reference).
 
-**Path 2: Matching argument — even if some windows are undamaged, full replacement may be required.** *(Added 4/12/2026)* Under *Cedar Bluff Townhome Condo. Ass'n v. American Family Mut. Ins. Co.* (Minn. 2014), the Minnesota Supreme Court held that when hail-damaged siding could not be replaced with a matching color (same model available, but color discontinued), the insurer was required to replace ALL siding on all 20 buildings — even though less than 2% was actually damaged. The court held this constituted a "distinct, demonstrable, and physical alteration" requiring full replacement to achieve "comparable material and quality."
+**Practical action item carrying forward from April:** Obtain written quotes from 2–3 window companies establishing (a) that Semco/Semco-successor parts are unavailable, and (b) the cost of replacing all windows with comparable products. This evidence is essential for both Path 1 and Path 2 quantification.
 
-**The family's case is stronger than Cedar Bluff.** In Cedar Bluff, the manufacturer still existed and replacement panels were available — just not in the same color. Here, Semco is entirely out of business. No replacement of any kind is available from the original manufacturer. Replacement windows from another manufacturer will differ from existing Semco windows in profile, dimensions, hardware, and overall appearance — a much more dramatic mismatch than a color variance in otherwise identical panels. If a color mismatch in available siding justified wholesale replacement in Cedar Bluff, a complete manufacturer change for windows should justify at least as much.
-
-**The J6944 endorsement complication.** The policy includes Endorsement J6944 ("Limited Matching of Undamaged Property"), which may limit Farmers' matching obligation. Case law on similar endorsements:
-
-- **Noonan v. American Family (8th Cir. 2019):** The Eighth Circuit upheld American Family's matching exclusion endorsement, finding the language was clear and unambiguous. If J6944 contains similar language, this case presents a risk.
-- **Pleasure Creek v. American Family (Minn. Ct. App.):** Also upheld a matching exclusion.
-- **A Minnesota federal court voided a similar matching exclusion** in American Family policies (Hellmuth & Johnson reference), creating a split in authority.
-
-**However, J6944 may not apply to these facts.** *(Added 4/12/2026)* The matching endorsements in *Noonan* and *Pleasure Creek* were tested in situations where replacement materials were available but did not match aesthetically. The question of whether a matching exclusion applies when the manufacturer is entirely defunct — making matching not just aesthetically imperfect but physically impossible — appears to be a distinct legal question that has not been directly addressed by Minnesota courts. The argument: J6944 limits Farmers' obligation to replace undamaged property to achieve a match. But if the damaged windows themselves cannot be replaced with matching Semco products (because Semco no longer exists), the issue is not about extending coverage to undamaged property — it is about how to properly value the replacement of the damaged property itself. The policy requires "comparable material and quality" for the damaged windows. If comparable windows from another manufacturer create a mismatch with the rest of the house, that mismatch is a direct consequence of the covered loss, not an extension of coverage to undamaged property.
-
-**This argument potentially transforms the deductible math.** If the matching argument succeeds, the replacement cost is no longer ~$12,800 for a subset of windows. It is the cost of replacing ALL windows in the home with comparable products — which could easily exceed the $17,720 deductible by a wide margin. Even if the matching argument only partially succeeds (e.g., requiring replacement of all windows on a particular facade rather than the entire home), it significantly increases the damages.
-
-**The HailShapes research remains the factual foundation for Path 1.** *(Added 4/11/2026 — from HailShapes research)* The J6944 defense depends on some windows being "undamaged." The family's strongest counter is proving all windows sustained hail damage, even if that damage presents differently across windows. The HailShapes research provides exactly this scientific basis: different damage morphology on different facades is expected (Calotescu 2024 field study), different materials show different damage patterns (InterNACHI W-2), and wind-driven hail creates varied impact angles producing varied mark shapes (Applied Sciences 2025, Geosciences 2020). An independent expert armed with this research could assess all windows and document damage that may not fit the narrow "round dent" definition Prieve used, but is nonetheless legitimate hail damage under established science and professional inspection standards.
-
-**Revised recommendation:** Pursue both paths simultaneously. Path 1 (prove all windows damaged) eliminates J6944 entirely. Path 2 (Semco matching argument) provides an alternative route that does not depend on proving every single window was damaged — it only requires showing that replacement windows cannot match existing Semco windows, which is objectively verifiable. **The immediate practical step: obtain written quotes from 2–3 window companies establishing (a) that Semco replacement parts/windows are unavailable, and (b) the cost of replacing all windows with comparable products from available manufacturers.**
-
-**Key case law for this argument:**
-- *Cedar Bluff Townhome Condo. Ass'n v. American Family Mut. Ins. Co.* (Minn. 2014) — MN Supreme Court; wholesale replacement required when matching unavailable
-- *Noonan v. American Family Mutual Insurance* (8th Cir. 2019) — matching endorsement upheld, but distinguishable facts
-- Minnesota federal court voiding matching exclusion (Hellmuth & Johnson reference — full citation needed)
+**Cross-reference to declaratory judgment.** Declaration (e) in the v2 Count II ¶ 48 list specifically asks the court to declare that J6944 does not bar replacement of damaged property and that *Cedar Bluff* matching applies. The declaratory framing puts the matching question to the court at the threshold rather than as a damages contest.
 
 ---
 
-## Additional Issue: Cosmetic vs. Functional Damage
+### 8. COMMON-LAW FRAUD AND, IN THE ALTERNATIVE, NEGLIGENT MISREPRESENTATION (B2 / NEW)
 
-The research document does not address this, but it is a significant battleground in current Minnesota hail litigation.
+**Prior rating:** Not assessed (this count was added to the complaint drafts after April 2026).
+**Initial rating (May 2026):** Strict common-law fraud ~25/100 (reliance is the chief vulnerability); negligent misrepresentation alternative ~55/100; principal value is preserving the path to § 549.20 punitive damages by post-discovery § 549.191 motion.
 
-In **Cannon Falls Area Schools v. Hanover (D. Minn. 2025)**, the court held that hail dents to metal roofs that did not impair the roof's ability to function as a barrier to the elements were properly excluded under a cosmetic damage exclusion. The court looked at whether the damage currently prevents function — not whether it might eventually cause problems.
+**The count.** Per Draft Complaint v2 Count IV (¶¶ 56–63), Defendant made three (now four, after the engineer-report-rebuttal update) misrepresentations:
 
-**For the family's case:** The windows are reportedly leaking (documented on 10/28/2025). If the damage causes functional problems (water intrusion), it goes well beyond cosmetic. The family should document the leaking thoroughly — photos, video, dates, which windows, how much water. Functional damage from hail is the strongest possible position because no cosmetic exclusion can apply. If Farmers or the policy contains a cosmetic damage exclusion, the leaking windows defeat it.
+(i) **The November 4, 2024 "no hail in Eden Prairie after 2020" misrepresentation** — Prieve's foundational empirical premise, transmitted by Farmers as the basis for denial, disproven by NWS, City permits, neighbor canvass, and Defendant's own September 2025 appraisal award.
+
+(ii) **The September 3, 2024 "no other damages observed" misrepresentation** — Catastrophe Claims Rep Dudley's signed finding, contradicted by Defendant's own adjuster's observations three days later.
+
+(iii) **The February 2025 "engineer's report only" misrepresentation** — Field Claim Supervisor Monson's representation that the policy required evidence to be provided by an engineer, when the policy contains no such requirement.
+
+(iv) **The November 4, 2024 scope-of-engineering-report misrepresentation (newly added in v2 ¶ 57a after the engineer-report-rebuttal work)** — Defendant transmitted the Prieve report as a comprehensive forensic evaluation when in fact (a) the report on its face limited its evaluation to "windows only" yet was used to deny non-window claim components, and (b) the report's own Photo Appendix A documents dented downspouts at three elevations and dented flashing at the deck that the report's narrative and Conclusions do not address.
+
+**Strength analysis.**
+- **Falsity:** Strong. Each representation is independently disprovable on documents already in the file.
+- **Knowledge / reckless disregard:** Strong. Same ten-fact record that supports the § 604.18 bad-faith count (see Argument 3 above).
+- **Intent to induce reliance:** Strong on the formal denial letters; weaker on the supervisor's phone-call rule.
+- **Justifiable reliance:** **The vulnerability.** Insurance-claim cases recharacterized as fraud face the *Short v. Dairyland* recharacterization risk. The v2 complaint's reliance framing (the family developed each round of disproving evidence in reliance on Defendant's stated grounds; pursued the appraisal process at out-of-pocket cost; delayed litigation; suffered continuing water-intrusion damages) is workable but contested.
+- **Damages:** Quantifiable through the out-of-pocket appraisal cost, the time-and-materials cost of developing each round of disproving evidence, and the continuing water-intrusion damages.
+- **Rule 9.02 particularity:** Met — each representation is identified by date, speaker, and document.
+
+**Strategic value.** Common-law fraud is not subject to the § 604.18 Subd. 4(b) appraisal bar. Even if Subd. 4(b) precludes the bad-faith count, the fraud count survives. The count also preserves the path to § 549.20 punitive damages, which a bad-faith count alone cannot do.
+
+**Negligent misrepresentation under Restatement § 552 / *Bonhiver v. Graff*** is the alternative pleading. The "reasonable care or competence" standard is materially easier than fraud's "knowledge or reckless disregard." If common-law fraud falls on reliance, negligent misrepresentation may survive.
 
 ---
 
-## Practical Realities
+### 9. MINNESOTA CONSUMER FRAUD ACT (C3 / NEW)
+
+**Prior rating:** Not assessed.
+**Initial rating (May 2026):** ~35/100 standalone; ~50/100 as fee-shifting overlay. Principal value is uncapped fee-shifting under § 8.31 Subd. 3a / § 325F.70 (in contrast to § 604.18's $100,000 cap).
+
+**The count.** Per Draft Complaint v2 Count V (¶¶ 64–66), Defendant engaged in a course of misrepresentation, misleading statements, and deceptive practices in violation of Minn. Stat. § 325F.69 Subd. 1, in connection with the sale and renewal of homeowner's insurance Policy 98055-49-65 for personal, family, and household purposes.
+
+**Strength analysis.**
+- **"Merchandise" includes insurance** under *Force v. ITT Hartford Life & Annuity Ins. Co.*, 4 F. Supp. 2d 843, 858 (D. Minn. 1998).
+- **"In connection with the sale" applied to claim-handling conduct years after policy inception** is the chief interpretive risk. *Force* supports the broader continuing-relationship reading; not all federal courts have followed.
+- **Causal nexus / no individual reliance** required under *Wiegand v. Walser Auto. Groups, Inc.*, 683 N.W.2d 807 (Minn. 2004), and *Group Health Plan, Inc. v. Philip Morris, Inc.*, 621 N.W.2d 2 (Minn. 2001). This is materially easier than common-law fraud's reliance element.
+- **Personal/family/household purpose** plainly satisfied (owner-occupied primary residence).
+- **Public-benefit framing** under § 325F.70's 2023 statutory declaration plus the institutional-practices framing under § 8.31 Subd. 3a (supervisor-level "engineer's report only" rule).
+
+**Strategic value.** Fee-shifting under § 8.31 Subd. 3a / § 325F.70 is uncapped — a meaningful advantage over § 604.18's $100,000 cap on taxable costs. Not subject to the § 604.18 Subd. 4(b) appraisal bar. Survives in parallel with the fraud count.
+
+---
+
+### 10. *QUADE* RESERVATION FOR UNEVALUATED WINDOWS (NEW / restructured from Argument 1)
+
+**Prior rating:** Subsumed under Argument 1.
+**Initial rating (May 2026):** ~75/100 — this is now the highest-strength single argument in the case, but it is properly pleaded as Track 1 of breach of contract (per Argument 1 above) and as Declaration (c) of the declaratory-judgment count (per Argument 2 above), rather than as a standalone count.
+
+**The argument in one paragraph.** Under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), the appraisal panel's authority extends only to items the panel actually evaluated and awarded. Items the panel did not evaluate remain coverage questions reserved to the court. The 9/12/2025 award covered F1.7 and B1.2; per `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md` § F, Prieve's photographic record documents ~10 other hail-signature window locations the panel did not evaluate, plus 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim chips, and 1 door window screen — none of which the panel had jurisdiction over (in the case of downspouts/flashing/doors) or did not evaluate (in the case of the other windows). Coverage and amount of loss for each is a live court question under Count I.
+
+**Why this is the strongest argument.** It does not require disturbing the appraisal award. It does not require winning on *Mork* misconduct. It does not require defeating the appraisal-bar defense to § 604.18 Subd. 4(b). It operates entirely within the *Quade* framework Farmers itself relies on. **The strategic effect is to convert Farmers' appraisal-bar defense from a shield into a frame: the more Farmers insists the appraisal is final and binding, the more it concedes that the appraisal evaluated only what the award itemizes — and the more the unevaluated population becomes the court's exclusive domain.**
+
+**Quantum.** As computed in Argument 1 above, simple per-window arithmetic on Prieve's observations puts the family above the $17,720 deductible on Track 1 alone, before any matching cost or non-window component.
+
+---
+
+### 11. CHALLENGING THE PRIEVE REPORT DIRECTLY (NEW — Daubert)
+
+**Prior rating:** Treated as a methodology critique within Argument 1.
+**Initial rating (May 2026):** ~55/100 as a Daubert exclusion motion; higher in combination with the engineer-report rebuttal.
+
+**The argument.** Move under Daubert / *Frye-Mack* to exclude or limit Prieve's testimony at trial based on the methodology gaps documented in `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` § 6 and § 6A: no quantitative impact-force calculation; no terminal-velocity calculation; no material-specific dent-depth threshold; no peer-reviewed citation; no stated error rate; no general acceptance of the "smooth or rounded = hail; scrape marks inside dents = not hail" diagnostic; the diagnostic itself is internally inconsistent with Prieve's own observations.
+
+**Strategic value.** A successful Daubert motion either excludes Prieve entirely or limits him to factual observations (which are favorable to the family) rather than opinions (which are not). Either outcome supports the breach-of-contract and bad-faith claims because (a) Prieve's "no hail" opinion was the principal basis for the 11/4/2024 denial, and (b) without that opinion, Farmers' "fairly debatable" defense to bad faith largely collapses.
+
+**Timing.** File the Daubert motion ~60 days before trial per `OffenseStrategies/Discovery/DiscoveryPlan.md` § 12 (month ~14). The Prieve deposition (per `OffenseStrategies/Deposition/2.1Prieve_Nathan.md`) is the principal record-development event; the deposition's 7-step garage-window cross-examination sequence is the centerpiece.
+
+---
+
+### 12. COSMETIC VS. FUNCTIONAL DAMAGE
+
+**Prior rating:** Strongest possible position because of the leaking windows.
+**Revised rating (May 2026):** Unchanged. ~50/100 as a defensive argument against any cosmetic-damage defense Farmers might raise.
+
+The April 2026 analysis of *Cannon Falls Area Schools v. Hanover* (D. Minn. 2025) remains correct. The family's documented active leaks (10/28/2025 report; continuing through October 2025) establish functional damage — water intrusion through unrepaired windows — which defeats any cosmetic-damage exclusion. The family should continue to document each rain event, each affected window, and each water-damage location. The 10/28/2025 report should be supplemented with additional leak records.
+
+---
+
+## Updated Recommended Priority of Arguments
+
+| Priority | Argument | Role in Case | Strength (May 2026) | Change from April 2026 |
+|----------|----------|--------------|---------------------|--------------------------|
+| **1** | **Tier 1 Remand under *Herll* / *Rymer*** | Primary procedural vehicle for the appraisal challenge | **~70/100** | NEW as discrete tier (was subsumed in Argument 5) |
+| **2** | **Track 1 Breach of Contract — *Quade* reservation for unevaluated windows** | Dollar driver — does not require disturbing the award | **~75/100** | MATERIALLY STRENGTHENED — new theory enabled by Prieve catalog |
+| **3** | **Declaratory judgment with 7 declarations** | Framing vehicle; converts *Quade* reservation into a court declaration | ~70/100 | EXPANDED — more declarations, particularly (c) on unevaluated windows |
+| **4** | **Bad faith under § 604.18** | Post-pleading motion under Subd. 4(a) | ~55/100 | UPGRADED from ~40 — ten documented "knew or should have known" facts |
+| **5** | **Track 2 Breach of Contract — *Cedar Bluff* matching with Semco closure** | Secondary dollar driver | ~60/100 | UNCHANGED from April 2026 update |
+| **6** | **Tier 2 Modification under § 65A.01 Subd. 3** | First alternative to Tier 1 | ~45/100 | NEW as discrete tier |
+| **7** | **Common-law fraud / negligent misrepresentation (B2)** | Not subject to appraisal bar; preserves punitive-damages path | ~55/100 (NM)/~25/100 (strict fraud) | NEW count (added to v2 Count IV) |
+| **8** | **Minnesota Consumer Fraud Act (C3)** | Fee-shifting overlay; not subject to appraisal bar | ~35/100 standalone / ~50/100 overlay | NEW count (added to v2 Count V) |
+| **9** | **§ 72A.201 violations** | Supporting evidence for breach + bad faith | ~50/100 | Slightly stronger factual record |
+| **10** | **Daubert motion to exclude Prieve** | Trial-preparation motion | ~55/100 | NEW — supported by the rebuttal work |
+| **11** | **Cosmetic-vs.-functional damage** | Defensive | ~50/100 | UNCHANGED |
+| **12** | **Tier 3 *Mork* vacatur** | Reserved last alternative | ~25/100 | NEW as discrete tier; trades *Quade* preclusion |
+| **13** | **Spoliation / adverse inference** | Evidentiary tool | ~30/100 | UNCHANGED |
+
+**The single most important change in priority.** Track 1 of Breach of Contract — the *Quade*-reservation theory — has moved to position 2 (from being subsumed in Argument 1 without a discrete strength rating). It is now the dollar driver because it produces recovery without requiring the family to defeat the appraisal award. The April 2026 assessment correctly noted that overcoming the appraisal-bar problem was the central challenge; the May 2026 work identifies a path that *sidesteps* the challenge entirely.
+
+---
+
+## Updated Practical Realities
 
 ### The Attorney Problem
 
-The family has been unable to retain an attorney. The MN Lawyer Referral Service returned the fee because no attorney was available. This is unfortunately common in hail damage cases where the disputed amount (the gap between the appraisal award and the family's claimed damage, minus the deductible) may not be large enough to attract contingency-fee counsel. If the family files pro se, they should be aware that:
+Unchanged from April 2026. The family has not retained counsel; the MN Lawyer Referral Service returned the fee because no attorney was available. The case has grown materially more complex since April — five counts (v2) or seven counts (v3) plus a three-tier appraisal-award strategy plus a Daubert motion plus § 604.18 and § 549.191 post-filing motions — and pro se representation is correspondingly more challenging. Limited-scope counsel for specific motion drafting (Tier 1 remand motion; § 604.18 Subd. 4(a) motion) is the recommended adaptation.
 
-- Pro se parties are held to the same procedural standards as attorneys
-- The 7/13/2026 filing deadline is absolute — missing it extinguishes the claim entirely
-- The complaint must be properly formatted and served under Minnesota Rules of Civil Procedure
+### The Deductible Math — Materially Improved
 
-### The Deductible Math
+The April 12, 2026 update introduced the Semco matching argument as a path to overcome the deductible. The May 2026 work adds a second independent path:
 
-This is the elephant in the room. The deductible is $17,720. The appraisal valued the damage at ~$12,800 RCV. Even if the family convinces a court that additional windows should have been included, the total damage still needs to exceed $17,720 before Farmers owes a single dollar. The sworn proof of loss stated $310,000, but that appears to include siding and other items that the appraisal valued at $0.
+| Path | How it overcomes the deductible |
+|---|---|
+| **Path 1: All windows damaged + Prieve catalog** | Simple per-window arithmetic on ~12 documented hail-signature windows at ~$6,400 per window RCV produces ~$76,800 RCV → ACV ~$38,400 → net after $17,720 deductible ~$20,680 — without matching premium |
+| **Path 2: Semco matching under *Cedar Bluff*** | Full window replacement on a Coverage A $886,000 home easily exceeds the deductible by tens of thousands of dollars |
+| **Path 3: Non-window components (downspouts, flashing, doors, siding)** | 5 downspouts + 3 flashing + 2 siding penetrations + 3 trim chips + 1 door window screen — none subject to the appraisal bar; quantum to be developed by contractor estimates |
 
-**However, the Semco matching argument potentially transforms this math.** *(Added 4/12/2026)* If the matching argument succeeds under *Cedar Bluff* — requiring replacement of all windows because Semco products are no longer available — the replacement cost is not ~$12,800 for a few windows but the cost of replacing every window in the home with comparable products from another manufacturer. For a home with Coverage A of $886,000, a full window replacement could easily run into six figures, vastly exceeding the $17,720 deductible. Even a partial matching outcome (e.g., all windows on a particular floor or facade) would likely exceed the deductible. The family should obtain concrete replacement quotes to quantify this. The matching argument is the single most powerful tool for overcoming the deductible barrier — and it does not require proving every window was individually damaged by hail, only that replacement windows cannot match the existing Semco windows.
+Any one path overcomes the deductible. All three are simultaneously available. The deductible is no longer the structural impediment it appeared to be in the original assessment.
 
 ### Timeline
 
-- **Today:** April 11, 2026
-- **Filing deadline:** July 13, 2026 (~3 months)
-- **Action needed:** If the family intends to sue, the complaint should be prepared and filed well before the deadline. Last-minute filings risk procedural errors.
+- **Today:** May 24, 2026
+- **Filing deadline:** July 13, 2026 (~7 weeks)
+- **Action needed:** The complaint must be prepared and filed within the next 4–5 weeks to allow time for service. Per the existing complaint drafts (v1 / v2 / v3 in `LegalStrategies/`), v2 (Balanced) is the recommended posture for a counseled case; v1 (Streamlined) is the recommended posture for a pro se case. Either should be filed alongside the Tier 1 motion preparation timeline in `OffenseStrategies/AppraisalAwardStrategy/04_MotionTactics.md`.
 
 ---
 
-## Recommended Priority of Arguments
+## Updated Next Steps
 
-| Priority | Argument | Role in Case | Realistic Strength |
-|----------|----------|--------------|--------------------|
-| **1** | **Breach of contract (appraisal scope challenge)** | Primary claim | Strong — this is the case |
-| **2** | **Declaratory judgment** | Framing vehicle | Strong — standard practice |
-| **3** | **72A.201 unfair claims practices** | Supporting evidence and possible statutory claim | Moderate — strong facts, uncertain private remedy |
-| **4** | **J6944 rebuttal + Semco matching** | Offensive and defensive — two paths to full replacement | Strong and potentially transformative *(upgraded 4/12/2026)* |
-| **5** | **Spoliation / missing documents** | Evidentiary support | Weak as standalone; useful in discovery |
-| **6** | **Bad faith (604.18)** | Potential amendment later | Statutory obstacle (appraisal bar), but strong factual basis — preserve and pursue if scope challenge succeeds |
+0. **Decide on complaint version (v1, v2, or v3)** based on whether limited-scope counsel can be engaged. v2 is the recommended posture; v1 is the pro-se-feasible alternative; v3 is the maximalist option with additional Rule 12 surface area.
 
----
+0a. **Obtain window replacement quotes and Semco unavailability confirmation** (carried forward from April 12, 2026) — Get written quotes from 2–3 reputable window companies for replacing all windows with comparable (non-Semco) products. Confirm in writing that Semco / Semco-successor parts are unavailable. This evidence is critical for both Path 1 (Track 2 matching) and Path 2 (Tier 2 modification methodology).
 
-## What the Family Should Do Next
+0b. **Use the HailShapes scientific research to support an independent expert assessment** (carried forward from April 11, 2026) — The 24-document HailShapes collection provides peer-reviewed formulas, NOAA authority, and professional inspection standards. Engage a forensic-hail-damage expert per `OffenseStrategies/Discovery/DiscoveryPlan.md` § 10.1.
 
-0. **Obtain window replacement quotes and Semco unavailability confirmation** *(Added 4/12/2026)* — Get written quotes from 2–3 reputable window companies for replacing all windows with comparable (non-Semco) products. Also obtain written confirmation from window suppliers/distributors that Semco parts, sashes, and complete units are no longer available from any source. This evidence is critical for both the matching argument under *Cedar Bluff* and for challenging the appraisal award's valuation. The quotes will establish whether the full replacement cost exceeds the $17,720 deductible — the threshold question for the entire case.
-0a. **Use the HailShapes scientific research to support an independent expert assessment** *(Added 4/11/2026)* — The 24-document HailShapes collection (`HailShapes/` folder) provides peer-reviewed formulas, NOAA authority, and professional inspection standards that an independent engineer or expert witness can use to produce a comprehensive damage assessment of all windows. The KeyDecisionDocument.md contains ready-to-use counter-arguments with mathematical formulas. The RebuttalToFarmersDenial.md maps each Prieve opinion to its specific scientific rebuttal. This material should be provided to any retained expert.
-1. **Get John Foster's written account of the appraisal process** — specifically: which windows did the panel actually evaluate, were any damaged windows excluded from the panel's review, and why did he agree to the ~$12,800 figure given the family's position that all windows are damaged? Foster is the family's best witness to what happened during the appraisal. Note: because Pure Construction (not the family) selected Foster, the family should coordinate through Zach Sexe at Pure Construction to reach him.
-2. **Document the window leaks thoroughly** — this transforms the claim from cosmetic to functional damage
-3. **Prepare the complaint** focusing on breach of contract and declaratory judgment, with 72A.201 violations as supporting facts
-4. **File before July 13, 2026** — preferably by mid-June to allow time for service
-5. **Continue attempting to retain counsel** — even limited-scope representation for complaint drafting and initial filings would be valuable
-6. **Preserve all evidence** — the family should not repair the windows before filing, as the damage is the evidence
+1. **Get John Foster's written account of the appraisal process** (carried forward) — specifically: which windows did the panel actually evaluate, were any damaged windows excluded from the panel's review, and why did he agree to the $12,800 figure given the family's position that all windows are damaged? Now supplemented by the Foster deposition outline at `OffenseStrategies/Deposition/2.2Foster_John.md`.
+
+2. **Document the window leaks thoroughly** (carried forward) — every rain event after October 28, 2025; every affected window; every water-damage location. This evidence is the cosmetic-vs.-functional damage record.
+
+3. **Prepare the complaint with all relevant counts** — for v2, that is Counts I (breach with both tracks), II (declaratory with 7 declarations), III (clarify/modify/vacate the appraisal), IV (fraud / negligent misrepresentation), and V (MCFA). Reserve § 604.18 bad faith and § 549.20 punitive damages for post-filing motions per the statutory framework.
+
+4. **File before July 13, 2026** — preferably by mid-June to allow time for service.
+
+5. **Continue attempting to retain counsel** — limited-scope representation for (a) the complaint drafting, (b) the Tier 1 remand motion in month 12, and (c) the § 604.18 Subd. 4(a) motion in month 12 — would be valuable even if full-case representation cannot be secured.
+
+6. **Preserve all evidence** (carried forward) — do not repair the windows before filing.
+
+7. **NEW (May 24, 2026): Issue the litigation-hold letter contemporaneously with filing** per `OffenseStrategies/Discovery/DiscoveryPlan.md` § 2.1. This forecloses Farmers' "we routinely delete" defense to spoliation on the Brau notes and the umpire methodology.
+
+8. **NEW (May 24, 2026): Issue Tranche A discovery contemporaneously with filing** per `OffenseStrategies/Discovery/DiscoveryPlan.md` § 3.1. The early discovery on the Prieve engagement letter, the Pure Construction file, the umpire's working file (or absence thereof), and the F1.7 / B1.2 decoding is the foundation for the Tier 1 motion in month 12.
 
 ---
 
 ## Sources
 
+(Sources carried forward from April 2026 with additions for May 2026)
+
+### Statutes
+- [Minn. Stat. § 65A.01 (Standard Fire Insurance Policy; appraisal)](https://www.revisor.mn.gov/statutes/cite/65a.01)
+- [Minn. Stat. § 604.18 (Bad faith remedy)](https://www.revisor.mn.gov/statutes/cite/604.18)
+- [Minn. Stat. § 72A.201 (Claims practices)](https://www.revisor.mn.gov/statutes/cite/72a.201)
+- [Minn. Stat. § 325F.69 (Consumer Fraud Act)](https://www.revisor.mn.gov/statutes/cite/325F.69)
+- [Minn. Stat. § 325F.70 (CFA enforcement)](https://www.revisor.mn.gov/statutes/cite/325F.70)
+- [Minn. Stat. § 8.31 (Private AG)](https://www.revisor.mn.gov/statutes/cite/8.31)
+- [Minn. Stat. § 549.191 (Punitive damages procedure)](https://www.revisor.mn.gov/statutes/cite/549.191)
+- [Minn. Stat. § 549.20 (Punitive damages standard)](https://www.revisor.mn.gov/statutes/cite/549.20)
+- [Minn. Stat. Ch. 555 (Declaratory Judgments)](https://www.revisor.mn.gov/statutes/cite/555)
+
+### Case Law
 - [Quade v. Secura Ins., 814 N.W.2d 703 (Minn. 2012)](https://caselaw.findlaw.com/mn-supreme-court/1603333.html)
+- [Mork v. Eureka-Security Fire & Marine Ins. Co., 230 Minn. 382, 42 N.W.2d 33 (1950)] — common-law vacatur standard
+- [Herll v. Auto-Owners Ins. Co., 879 F.3d 293 (8th Cir. 2018)] — remand for clarification
+- [Cincinnati Ins. Co. v. Rymer Cos., No. 24-3356 (8th Cir. Mar. 27, 2026)] — reaffirms Herll
+- [Oliver v. State Farm Fire & Cas. Ins. Co., 939 N.W.2d 749 (Minn. 2020)] — § 65A.01 not UAA arbitration
+- [Cedar Bluff Townhome Condo. Ass'n v. American Family Mut. Ins. Co., 857 N.W.2d 290 (Minn. 2014)] — matching doctrine
 - [Selective Ins. Co. v. Sela (8th Cir. 2021)](https://law.justia.com/cases/federal/appellate-courts/ca8/20-2029/20-2029-2021-08-30.html)
-- [Minn. Stat. 604.18 (Bad Faith)](https://www.revisor.mn.gov/statutes/cite/604.18)
-- [Minn. Stat. 72A.201 (Claims Practices)](https://www.revisor.mn.gov/statutes/cite/72a.201)
 - [Noonan v. American Family (8th Cir. 2019)](https://ecf.ca8.uscourts.gov/opndir/19/05/181393P.pdf)
 - [Pleasure Creek v. American Family (Minn. Ct. App.)](https://sjjlawfirm.com/2019/11/25/court-of-appeals-upholds-material-matching-exclusion-in-minnesota-policy/)
 - [Cannon Falls v. Hanover (D. Minn. 2025) — Cosmetic Damage Ruling](https://www.propertyinsurancelawobserver.com/2025/11/17/dents-dont-count-court-clarifies-hail-damage-coverage/)
+- [Hammer v. Investors Life Ins. Co. of N. Am., 511 N.W.2d 6 (Minn. 1994)] — contra proferentem
+- [Atwater Creamery Co. v. Western Nat'l Mut. Ins. Co., 366 N.W.2d 271 (Minn. 1985)] — reasonable expectations
+- [Short v. Dairyland Ins. Co., 334 N.W.2d 384 (Minn. 1983)] — fraud recharacterization
+- [Force v. ITT Hartford Life & Annuity Ins. Co., 4 F. Supp. 2d 843 (D. Minn. 1998)] — insurance as MCFA "merchandise"
+- [Wiegand v. Walser Auto. Groups, Inc., 683 N.W.2d 807 (Minn. 2004)] — MCFA causal nexus
+- [Group Health Plan, Inc. v. Philip Morris, Inc., 621 N.W.2d 2 (Minn. 2001)] — MCFA causal nexus
+- [Ly v. Nystrom, 615 N.W.2d 302 (Minn. 2000)] — § 8.31 public benefit
+- [Bonhiver v. Graff, 311 Minn. 111, 248 N.W.2d 291 (1976)] — negligent misrepresentation
+- [Poehler v. Cincinnati Insurance Co., 899 N.W.2d 135 (Minn. 2017)] — prejudgment interest
+
+### Internal Project Documents (May 2026 additions)
+- `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` — eight categories of Prieve report defects + the garage-window self-defining diagnostic
+- `OffenseStrategies/AppraisalAwardStrategy/00_Overview.md` — three-tier framework
+- `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md` — exhaustive cross-reference of Appendix A
+- `OffenseStrategies/AppraisalAwardStrategy/02_AwardedScope_vs_DocumentedDamage_Gap.md` — gap analysis
+- `OffenseStrategies/AppraisalAwardStrategy/03_LegalFramework.md` — statutory + decisional authorities tied to Prieve evidence
+- `OffenseStrategies/AppraisalAwardStrategy/04_MotionTactics.md` — tier-by-tier motion strategy
+- `OffenseStrategies/AppraisalAwardStrategy/05_AppraisalSpecific_Discovery_Deposition.md` — discovery and deposition targets specific to the appraisal count
+- `OffenseStrategies/Discovery/DiscoveryPlan.md` — master discovery plan with Prieve-driven RFPs, INTs, and RFAs
+- `OffenseStrategies/Deposition/2.1Prieve_Nathan.md` — Prieve deposition outline with garage-window cross-examination sequence
+- `LegalStrategies/Draft_Complaint_v1_Streamlined.md`, `Draft_Complaint_v2_Balanced.md`, `Draft_Complaint_v3_Comprehensive.md` — updated complaint drafts with engineer-report-defect paragraphs
+
+### External References
 - [MN Bad Faith Statute Analysis — Bench & Bar of Minnesota](https://mnbars.org/?pg=BenchBarofMinnesota&pubAction=viewIssue&pubIssueID=52616&pubIssueItemID=332278)
 - [Federal Judge Voids Matching Exclusion — Hellmuth & Johnson](https://hjlawfirm.com/federal-judge-voids-matching-exclusion-good-news-for-homeowners-denied-coverage-under-exclusion/)
 - [Minnesota Hail Claim Deadlines — Beckmann Law](https://beckmannlawfirm.com/2024/03/30/minnesota-hail-claim-deadlines/)
 - [First Party Property Appraisals — ALFA International](https://www.alfainternational.com/publications_news/first-party-property-appraisals-its-not-as-easy-as-it-looks/)
 - [MN Spoliation Law Summary](https://www.mwl-law.com/wp-content/uploads/2018/02/SPOLIATION-OF-EVIDENCE-SUMMARY-1.pdf)
+
+---
+
+*End of Argument Strength Assessment — May 24, 2026 revision.*
