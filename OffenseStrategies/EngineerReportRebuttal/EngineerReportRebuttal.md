@@ -274,6 +274,47 @@ The report concludes that observed dents are from "blunt object other than hail"
 
 ---
 
+## 6A. The Self-Defining Hail Signature — Prieve's Garage-Window Sentence Convicts the Rest of the Report
+
+In one sentence on page 6 of the Prieve report (page 9 of the combined PDF), Prieve admits the operative diagnostic test he applies to determine whether a dent was caused by hail. The sentence appears at the end of the East Side discussion, in the paragraph covering the rear/east garage window:
+
+> "A 2 unit window appears at the rear/east side of the garage adjacent to a shed. Various scrape marks appear in the frame of the window not consistent with hail. **No smooth or rounded dents were observed in the frame or sashes.**"
+
+The sentence operates as a deductive equivalence: Prieve uses the *absence* of "smooth or rounded dents" at the garage window as the reason hail can be ruled out there. The necessary mirror proposition is that the *presence* of smooth or rounded dents would indicate hail. That is Prieve's own implicit diagnostic.
+
+### 6A.1 Prieve's report documents smooth/rounded dents elsewhere — and his own narrative calls them dents
+
+Applied across the rest of the report, the diagnostic Prieve set up at the garage window defeats his own Conclusion 1:
+
+- **Front/west triple window (photographs A-38 through A-41).** Page 4 of the Prieve report (page 7 of the combined PDF): "A triple window unit appears at the main level to the north of the main entry as shown in photograph A-38. **Rounded dents** were observed at sashes of this window unit."
+- **North porch four-unit window (photographs A-178, A-179, A-181).** Page 5 of the Prieve report (page 8 of the combined PDF): "Two dents appear at the lower left corner of the left casement **which are generally smooth**."
+
+Both observations match the very signature Prieve uses elsewhere as the marker of hail. Prieve does not deny that these dents are smooth or rounded; he handwaves them away by attributing them to "a prior hail claim," not because the dents themselves differ from a hail signature but because Farmers' 2020 file mentioned those windows. That is a presumption, not a methodology — and it depends on Farmers' 2020 file actually having covered the specific sashes in question, which (per §§ 4.1–4.2 above) it did not.
+
+### 6A.2 The "scrape marks inside dents → blunt object" framework is internally inconsistent with Prieve's own diagnostic
+
+The other observations Prieve repeatedly dismisses as "not consistent with hail" are dents that include scrape marks (e.g., A-45, A-64, A-107, A-113, A-115–117, A-156, A-159, A-166). Prieve's "smooth or rounded" diagnostic implies that a hail dent should be free of scrape marks. There is no peer-reviewed support for that proposition anywhere in his report. The HailShapes literature in the project folder (`HailShapes/DocumentIndex.md` and underlying PDFs) establishes the opposite: real hailstones are rarely perfectly smooth or spherical; they often have lobes, points, and irregular surfaces; and they routinely produce impact signatures that include abrasions and scrape marks, especially in oblique-angle impacts driven by wind. The 7/13–7/14/2024 storm — with a 48 MPH gust recorded at Eden Prairie ASOS at 1:00 AM on 7/14 (`Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf`) — is the textbook example of conditions that would produce wind-driven, oblique-angle hail impacts with scraping signatures.
+
+So Prieve's two-track diagnostic — (i) "smooth/rounded" = hail, but only if Farmers' 2020 file already covered it, and (ii) "scrape marks inside dents" = blunt object other than hail — is constructed to produce a non-hail finding on every observation regardless of what is physically present. That is the structure of an advocacy document, not a forensic evaluation.
+
+### 6A.3 The diagnostic strengthens the *Quade* / appraisal-award argument
+
+The 9/12/2025 appraisal panel awarded "Windows (F1.7 / B1.2)": a single-sash window at the corner of stairs facing front, and a three-sash window in family room facing back. At least one of those — the front/west window — is where Prieve documented "**rounded dents**" in his own narrative. The panel's award of hail causation on that window aligns with Prieve's own implicit diagnostic, not against it. Prieve's report therefore does not just lose to the appraisal panel; it tacitly agrees with the panel's causation finding while reaching the opposite conclusion. That alignment supports the *Quade* binding-effect argument and reinforces the post-award "Farmers cannot consistently describe its own scope" argument.
+
+### 6A.4 The diagnostic is a Daubert ground
+
+A forensic engineer's operative diagnostic test for the central causation question must be supported by methodology, peer-reviewed citation, error rate, and general acceptance. Prieve's "smooth or rounded = hail; scrape marks inside dents = not hail" framework has none of those things on the face of the report. The garage-window sentence is the single cleanest entry point for the Daubert motion: it shows the diagnostic exists, shows it is applied inconsistently, and shows the report contains no methodological defense of it.
+
+### 6A.5 What discovery and deposition should establish
+
+- The peer-reviewed engineering or meteorological literature that supports the "smooth or rounded" = hail / "scrape marks inside dents" = not-hail distinction.
+- The hail-impact mechanics under which a smooth or rounded dent forms versus a dent with internal scrape marks.
+- Prieve's awareness of the HailShapes peer-reviewed literature.
+- Prieve's basis for attributing the front/west "rounded dents" and the north porch "generally smooth" dents to the 2020 storm rather than the 7/13–7/14/2024 storm, given that the 7/13–7/14/2024 storm produced larger hail across the region (up to 3.5–4 inches per NWS).
+- The cross-examination sequence at § 4 of `OffenseStrategies/Deposition/2.1Prieve_Nathan.md` (the 7-step garage-window walkthrough).
+
+---
+
 ## 7. Biased Framing — The Report Is Argumentative, Not Investigative
 
 Beyond the specific factual and methodological deficiencies, the Prieve Report reads throughout as an advocacy document rather than a neutral forensic evaluation.

@@ -263,6 +263,8 @@ Minnesota Rule 33.01 sets a default limit of 50 interrogatories per party (count
 
 **INT.3.4** State the basis for the statement at page 7 of the Prieve report that the trim-board chip photographed at A-53 "is visible in prior photo logs from Farmers Insurance dated October 13, 2020." Identify (a) which 2020 Farmers photograph shows the chip; (b) whether the chip was identified for repair in the 2020 Xactimate; (c) if not identified for repair, the reason; and (d) Farmers' position on whether the 2020 trim observation should have been included in the 2020 estimate.
 
+**INT.3.5** State the methodology Nathan Prieve uses to distinguish hail-caused dents from dents caused by other mechanisms in extruded aluminum or aluminum-clad wood window frames and sashes. Without limitation, address (a) whether "smooth or rounded" dent geometry — referenced at page 6 of the Prieve report in the rear/east garage window discussion ("No smooth or rounded dents were observed in the frame or sashes") — is treated as a diagnostic indicator of hail causation; (b) the peer-reviewed engineering or meteorological literature that supports the use of "smooth or rounded" dent geometry as a hail-vs.-non-hail diagnostic; (c) the peer-reviewed literature that supports treating "scrape marks inside dents" as ruling out hail causation; (d) the hail-impact mechanics under which a smooth or rounded dent forms versus a dent with internal scrape marks, including the role of hailstone shape irregularity, wind-driven oblique-angle impacts, and post-impact debris contact; and (e) Prieve's basis for attributing the "rounded dents" he documents at the front/west triple window (page 4) and the "generally smooth" dents he documents at the north porch four-unit window (page 5) to the 2020 storm rather than the 7/13–7/14/2024 storm, given that the 7/13–7/14/2024 storm produced larger hail across the region per National Weather Service documentation.
+
 **INT.4.** Describe in complete detail the methodology and data sources the 9/12/2025 appraisal panel used to (a) identify the windows described as "F1.7" and "B1.2"; (b) value those windows at $12,800 RCV / $6,400 ACV; and (c) determine the scope of windows the panel evaluated and excluded.
 
 **INT.5.** Identify by date, speaker, audience, and medium every Farmers communication articulating, restating, or applying the rule that Farmers will not review evidence on a hail claim unless that evidence is provided by an engineer. Include without limitation the 2/3/2025 Monson phone call and the 2/10/2025 Brau voicemail.
@@ -443,6 +445,24 @@ Admit or deny each of the following:
 **RFA.66.** The Prieve report's Conclusion 1 treats those two casement windows as "2 windows" already paid for and uses that prior payment as a basis to deny additional windows in the current claim.
 
 **RFA.67.** The current Prieve report documents dents at sashes on the same two windows that the 2020 Xactimate approved.
+
+**RFA.68.** The Prieve Engineering report (File #241008) treats the presence of "smooth or rounded" dents as a diagnostic indicator of hail-caused damage to window frames and sashes.
+
+**RFA.69.** At page 6 of the Prieve Engineering report (page 9 of the combined 11/4/2024 denial-letter PDF), the report states: "No smooth or rounded dents were observed in the frame or sashes."
+
+**RFA.70.** The Prieve report uses the absence of "smooth or rounded dents" at the rear/east garage window as a reason to rule out hail causation at that window.
+
+**RFA.71.** At page 4 of the Prieve report, the report states: "Rounded dents were observed at sashes of this window unit" with respect to the front/west triple window depicted in photograph A-38.
+
+**RFA.72.** At page 5 of the Prieve report, the report states: "Two dents appear at the lower left corner of the left casement which are generally smooth" with respect to the north porch four-unit window depicted in photographs A-178 and A-179.
+
+**RFA.73.** The Prieve Engineering report (File #241008) does not cite any peer-reviewed engineering or meteorological literature in support of treating "smooth or rounded" dent geometry as a diagnostic indicator of hail causation.
+
+**RFA.74.** The Prieve Engineering report (File #241008) does not cite any peer-reviewed engineering or meteorological literature in support of treating "scrape marks inside dents" as a diagnostic indicator ruling out hail causation.
+
+**RFA.75.** Hailstones at the sizes documented in the Prieve report's Weather Records section (1.25", 1.75", 1"–2") are not uniformly smooth or spherical in shape.
+
+**RFA.76.** Wind-driven hail impacts can produce dents that include scrape marks or abrasions.
 
 ### 5.2 Tranche B — Targeted Lock-Ins (month 4–5)
 
