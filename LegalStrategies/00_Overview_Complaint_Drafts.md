@@ -6,6 +6,7 @@
 **Filing Deadline:** July 13, 2026 (2-year contractual suit limitation)
 **Forum (assumed):** Hennepin County District Court (Minnesota state court)
 **Prepared:** April 29, 2026
+**Updated:** May 24, 2026 — Strength ratings refreshed to reflect (i) the Engineer Report Rebuttal work (eight categories of Prieve report defects + the garage-window self-defining diagnostic), (ii) the AppraisalAwardStrategy folder (three-tier framework with Tier 1 *Herll*/*Rymer* remand as primary), and (iii) the *Quade*-reservation theory for unevaluated windows. The argument-catalog ratings now align with `LegalReferences/Argument_Strength_Assessment.md` (May 24, 2026 revision).
 
 **Purpose.** This folder contains three draft complaints in escalating scope. The drafts implement the recommendations from `LegalReferences/LegalArguments/A1.md` through `E4.md`. Each draft tracks the same factual record but differs in (a) which causes of action are pleaded, (b) how much exposure the family creates for itself by adding marginal counts, and (c) how much fee-shifting and punitive-damages leverage is preserved.
 
@@ -27,26 +28,30 @@
 
 The chart below maps every argument analyzed in `LegalReferences/LegalArguments/` to its recommended treatment in the complaint. Strength ratings come from the individual argument memos.
 
-| ID | Argument | Strength (standalone / supporting) | v1 | v2 | v3 | Why |
+| ID | Argument | Strength (May 2026) | v1 | v2 | v3 | Why |
 |---|---|---|---|---|---|---|
-| A1 | Breach of Contract | 65/100 | ✅ | ✅ | ✅ | Anchor count. Required vehicle for damages. |
-| A2 | Declaratory Judgment (Minn. Stat. Ch. 555) | 70/100 | ✅ | ✅ | ✅ | Required to lock in coverage rulings outside the appraisal. |
-| A3 | Vacate/Modify/Remand Appraisal | 45/100 (Tier 1 *Herll*: 65/100) | ✅ | ✅ | ✅ | Required to address the award scope. Lead with *Herll*/*Rymer* clarification; reserve *Mork* vacatur. |
+| A1 | Breach of Contract — Track 1 (*Quade* reservation for unevaluated windows + outside-appraisal-scope components) | **75/100** | ✅ | ✅ | ✅ | **The dollar driver.** Sidesteps the deductible-math problem because it does not require disturbing the award. |
+| A1 | Breach of Contract — Track 2 (*Cedar Bluff* matching with Semco out of business) | 60/100 | ✅ | ✅ | ✅ | Secondary dollar driver. Reaches the F1.7 / B1.2 windows directly. |
+| A2 | Declaratory Judgment (Minn. Stat. Ch. 555) — 7 declarations including (c) coverage for unevaluated windows | 70/100 | ✅ | ✅ | ✅ | Declaration (c) is the declaratory companion to Track 1 above; remains the most efficient vehicle for the coverage rulings. |
+| A3 | Action to Clarify, Modify, Correct, or Vacate Appraisal — Tier 1 (*Herll*/*Rymer* remand) | **70/100** | ✅ | ✅ | ✅ | **Primary motion.** Preserves *Quade*; forces panel to itemize. |
+| A3 | A3 — Tier 2 (modification under § 65A.01 Subd. 3 "so itemized" gate) | 45/100 | ✅ | ✅ | ✅ | First alternative. Judicial itemization on the record. |
+| A3 | A3 — Tier 3 (*Mork* vacatur) | 25/100 | ✅ | ✅ | ✅ | Reserved last alternative. Destroys *Quade* preclusion; pursue only on four-part go/no-go test. |
 | A4 | Unjust Enrichment | 15/100 | ❌ | ❌ | ✅ (alt. plea) | Doctrinally barred by valid contract under *U.S. Fire Ins. / Holman / ServiceMaster*. Marginal hedge. |
-| B1 | Bad Faith (§ 604.18) | 40–60/100 | ⏳ post-filing motion | ⏳ | ⏳ | Cannot be in initial complaint. Added by Subd. 4(a) motion after discovery. |
-| B2 | Common-Law Fraud / Negligent Misrep. | 25/100 | ❌ | ✅ | ✅ | Carrier for D1 punitive damages. Not subject to § 604.18 appraisal bar. Reliance is the chief vulnerability. |
+| B1 | Bad Faith (§ 604.18) | **55/100** (up from 40 — ten documented "knew or should have known" facts) | ⏳ post-filing motion | ⏳ | ⏳ | Cannot be in initial complaint. Added by Subd. 4(a) motion after discovery. Materially strengthened by the eight Prieve defects. |
+| B2 | Common-Law Fraud / Negligent Misrep. | 25/100 strict fraud; **55/100 negligent misrep alternative** | ❌ | ✅ | ✅ | Carrier for D1 punitive damages. Not subject to § 604.18 appraisal bar. Reliance is the chief vulnerability for strict fraud. |
 | B3 | Negligent Claims Handling | 5/100 | ❌ | ❌ | ❌ | Foreclosed by *Haagenson / Short / Pillsbury*. Do not plead. |
 | B4 | Estoppel / Waiver of Denial Rationales | 25/100 standalone; 55/100 inside A1/A2 | ✅ (inside A2) | ✅ (inside A2) | ✅ (separate count) | Best as declaratory question inside A2. v3 adds a dedicated count. |
-| C1 | Unfair Claims Practices (§ 72A.201) | 15/100 standalone; 70/100 supporting | ⏳ supporting | ⏳ supporting | ⏳ supporting | *Morris* forecloses private right of action. Use as standard-of-conduct evidence inside A1 and the future B1 motion. |
+| C1 | Unfair Claims Practices (§ 72A.201) | 15/100 standalone; **70/100 supporting** | ⏳ supporting | ⏳ supporting | ⏳ supporting | *Morris* forecloses private right of action. Use as standard-of-conduct evidence inside A1 and the future B1 motion. Mapping table in `Argument_Strength_Assessment.md` § 4. |
 | C2 | Unfair Methods (§ 72A.20) | 10/100 standalone; 45/100 supporting | ⏳ supporting | ⏳ supporting | ⏳ supporting | Same — *Morris* forecloses. Used as standard-of-conduct evidence. |
-| C3 | Minnesota Consumer Fraud Act (§ 325F.69 / § 8.31 Subd. 3a / § 325F.70) | 20–30/100 | ❌ | ✅ | ✅ | Principal value: fee-shifting, no § 604.18 appraisal bar, no individual-reliance requirement under *Wiegand / Group Health Plan*. The "in connection with the sale" hurdle is the contested interpretive question. |
-| C4 | § 65A.26 / Claims-Practices Regs | 8/100 standalone; 35/100 supporting | ⏳ supporting | ⏳ supporting | ⏳ supporting | Embed in A3 (mechanic-specific arguments) and inside A1/B1 record. Not a count. |
-| D1 | Punitive Damages (§ 549.20 / § 549.191) | 15–30/100 | ⏳ post-filing motion | ⏳ | ⏳ | Cannot be in initial complaint. Travels with B2 only. Added by § 549.191 motion. |
-| D2 | Prejudgment Interest (§ 549.09) | 85/100 | ✅ (prayer) | ✅ (prayer) | ✅ (prayer) | Statutory remedy. Strong under *Poehler*. Plead in prayer attached to each pecuniary count. |
+| C3 | Minnesota Consumer Fraud Act (§ 325F.69 / § 8.31 Subd. 3a / § 325F.70) | 35/100 standalone; **50/100 as fee-shifting overlay** | ❌ | ✅ | ✅ | Principal value: uncapped fee-shifting (vs. § 604.18's $100K cap), no § 604.18 appraisal bar, no individual-reliance requirement under *Wiegand / Group Health Plan*. |
+| C4 | § 65A.26 / Claims-Practices Regs | 8/100 standalone; 35/100 supporting | ⏳ supporting | ⏳ supporting | ⏳ supporting | Embed in A3 and inside A1/B1 record. Not a count. |
+| D1 | Punitive Damages (§ 549.20 / § 549.191) | 15–30/100 | ⏳ post-filing motion | ⏳ | ⏳ | Cannot be in initial complaint. Travels with B2. Added by § 549.191 motion. |
+| D2 | Prejudgment Interest (§ 549.09) | 85/100 | ✅ (prayer) | ✅ (prayer) | ✅ (prayer) | Statutory remedy. Strong under *Poehler*. |
 | D3 | Spoliation / Adverse Inference | 15/100 standalone; 55/100 supporting | ⏳ supporting | ⏳ supporting | ⏳ supporting | Not a count. Allege the missing-documents facts; preserve for Rule 37 motions and adverse-inference instructions. |
-| D4 | Discovery Sanctions (Rule 37) | 5/100 standalone; 75/100 downstream | ⏳ litigation lever | ⏳ | ⏳ | Procedural rule, not a count. Use the missing-documents record now; deploy Rule 37 motions later. |
-| E1 | *Quade* Appraisal Causation Preclusion | 80/100 supporting | ✅ (inside A1/A2) | ✅ | ✅ | Doctrinal premise inside A1 and A2. Not a count. |
-| E2 | J6944 Scope Limits | 35/100 affirmative; 55/100 declaratory | ✅ (inside A2) | ✅ | ✅ | Best as declaratory questions inside A2. |
+| D4 | Discovery Sanctions (Rule 37) | 5/100 standalone; 75/100 downstream | ⏳ litigation lever | ⏳ | ⏳ | Procedural rule, not a count. |
+| D5 | Daubert Motion to Exclude/Limit Prieve | **55/100** (NEW) | ⏳ trial motion | ⏳ | ⏳ | Trial-preparation motion. Supported by the eight Prieve report defects and the garage-window self-defining diagnostic. See `OffenseStrategies/Deposition/2.1Prieve_Nathan.md` § 2.6.A. |
+| E1 | *Quade* Appraisal Causation Preclusion | **80/100 supporting** (also activates Track 1) | ✅ (inside A1/A2) | ✅ | ✅ | Doctrinal premise inside A1 Track 1 and A2 declaration (c). Not a count. |
+| E2 | J6944 Scope Limits / *Cedar Bluff* Matching | 60/100 (combined; was 35/55) | ✅ (inside A2 + A1 Track 2) | ✅ | ✅ | Activates A1 Track 2. Best as declaratory question inside A2(e). |
 | E3 | Reasonable Expectations (*Atwater*) | 30/100 affirmative; 45/100 interpretive | ✅ (inside A2) | ✅ | ✅ | Interpretive overlay on A1/A2. Not a count. |
 | E4 | *Contra Proferentem* | 35/100 primary; 55/100 interpretive | ✅ (inside A1/A2) | ✅ | ✅ | Interpretive overlay on A1/A2. Not a count. |
 
@@ -84,6 +89,8 @@ The recommended posture is **v2 — Balanced**. The reasoning:
 If the family is filing pro se with no counsel involvement, **v1 — Streamlined** is the safer choice. The reduced count list lowers the chance of procedural missteps that erode the family's credibility with the court.
 
 If the family retains experienced bad-faith counsel and the lawyer is comfortable with the complexity, **v3 — Comprehensive** is the right choice. The additional counts produce broader settlement leverage at the cost of a more complex pleading-stage record.
+
+**May 24, 2026 cross-reference:** The May 2026 revision of `LegalReferences/Argument_Strength_Assessment.md` confirms the v2 recommendation. The three major strategic shifts identified there — (i) Prieve as the family's best evidence rather than Farmers' defense, (ii) the three-tier appraisal framework, and (iii) the *Quade*-reservation theory for unevaluated windows — all operate within the v2 count structure. No additional counts are needed in v2 to capture the shifts; the existing Counts I–V (with the Track 1 / Track 2 framing added to Count I in the May 24, 2026 pass) already plead them.
 
 ---
 
