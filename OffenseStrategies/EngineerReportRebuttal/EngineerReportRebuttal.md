@@ -315,6 +315,49 @@ A forensic engineer's operative diagnostic test for the central causation questi
 
 ---
 
+## 6B. Incomplete Inspection — A Garage Window Prieve Never Inspected
+
+> ⚠️ **Verification flag.** This fact was established by the family on cross-check of the Prieve report against the actual building. Before this point is used in any filing, it should be documented with supporting evidence — a dated photograph of the window and its obstruction, and/or a measured site sketch showing the window's location relative to the garage door, the shed, and the house wall. The factual description below is the family's account pending that documentation.
+
+### 6B.1 The window Prieve documented vs. the window he missed
+
+The Prieve report and Photo Appendix A document **one** garage window: a 2-unit window described in the narrative at page 6 as appearing "at the rear/east side of the garage adjacent to a shed," photographed at A-213 through A-217. The report treats that single window as the complete garage-window population.
+
+In fact there is a **second** garage window that does not appear anywhere in the Prieve report or in the 217-photograph Photo Appendix A:
+
+- A small fixed window, approximately 2 feet by 2 feet, split by a horizontal frame into what appears to be two sashes;
+- Located on the **front** face of the garage, to the **right of the garage door** when facing the garage — a different elevation from the rear/east window Prieve did document;
+- Partially obstructed by a shed standing in front of it;
+- Accessible only through a narrow gap between the shed and the house wall, or by passing through the shed itself (opening the shed's front and back doors).
+
+Because this window appears nowhere in the report's narrative, nowhere in the Conclusions, and nowhere in the 217-image appendix, the only available inference is that **Prieve did not inspect it.**
+
+### 6B.2 Why a missed window is a distinct and serious defect
+
+This is categorically different from the eight defects in §§ 1–6A above. Those defects concern how Prieve mischaracterized, omitted from his narrative, or drew unsupported conclusions about damage he actually observed. This defect concerns a window he **never observed at all**:
+
+- **It proves the inspection was incomplete even within Prieve's own stated scope.** The report's stated scope is to "evaluate the condition of windows in the home as relates to hail" (p. 2). A windows-only evaluation that omits a window is incomplete on its own terms. Prieve cannot claim the missed window was "outside scope" — windows were the entire scope.
+- **It is the cleanest possible unevaluated-window for the *Quade* reservation.** The appraisal panel could not have evaluated a window that Farmers' own engineer never inspected and never documented. Coverage and amount of loss for this window are necessarily reserved to the court under Count I (see `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md`).
+- **The obstruction explains the omission and indicts the methodology.** The window is blocked by a shed and requires awkward access (a gap between the shed and the house wall, or passing through the shed). The natural inference is that Prieve inspected only what was readily visible and skipped anything requiring effort to reach. That inference, once established, casts doubt on the completeness of the inspection everywhere on the property — including the upper-story windows Prieve reached "via a ladder" and the areas he reported with "no hail dents." If he skipped an obstructed ground-level window, the reliability of his "no damage" findings at less accessible locations is open to question.
+- **It compounds the bad-faith record.** An engineer's incomplete inspection, adopted by Farmers as the basis for denial, is evidence that Farmers failed to conduct the reasonable investigation Minn. Stat. § 72A.201 requires and supports the "knew or should have known it had no reasonable basis" element of Minn. Stat. § 604.18.
+- **It is a Daubert ground.** A forensic methodology that does not account for all units within the inspection scope is unreliable. An expert who reaches a "no recent hail damage" conclusion about the property's windows without inspecting all of the windows has not applied a reliable methodology to sufficient facts.
+
+### 6B.3 The arithmetic effect
+
+The missed window adds one more window to the count of windows Prieve documented damage on or failed to evaluate, and it is the only window in the entire population that Prieve did not inspect at all. In the damage catalog it should be carried as a separate line — not within the A-213–217 garage-window entry (which is a different, rear/east window) — and added to the unevaluated-windows total that drives the Track 1 *Quade*-reservation breach claim.
+
+### 6B.4 What discovery and deposition should establish
+
+- Confirmation that the Prieve report and the complete camera-download from the 10/9/2024 inspection contain no photograph of the front-of-garage window to the right of the garage door. (The original camera download — not just the curated Appendix A — should be subpoenaed; see `OffenseStrategies/Discovery/DiscoveryPlan.md` RFP A.5.)
+- Whether Prieve was aware of the window's existence at the time of the inspection.
+- Whether Prieve attempted to access the window and was prevented by the shed, or never identified it at all.
+- Prieve's standard practice for inspecting obstructed or hard-to-access windows.
+- Whether Prieve's engagement or Farmers' instruction limited the inspection to readily accessible windows.
+- How many other windows or components on the property Prieve did not physically access during the 10/9/2024 inspection.
+- The family's own photograph and site sketch of the window and its obstruction (to be produced as the verification evidence flagged above).
+
+---
+
 ## 7. Biased Framing — The Report Is Argumentative, Not Investigative
 
 Beyond the specific factual and methodological deficiencies, the Prieve Report reads throughout as an advocacy document rather than a neutral forensic evaluation.
@@ -430,6 +473,7 @@ The complaints should add a discrete Factual Background subsection cataloging th
 | Pull the full 2020 photo log referenced by Prieve at p. 7 (the "October 13, 2020" Farmers photo log) — needed to verify the A-53 trim-chip claim | Family | Open (pre-discovery target) |
 | Pull all Eden Prairie building permits on the surrounding streets, with cause "hail" tags, to corroborate the post-2020 hail timeline (extension of the 2/10/2025 family canvass) | Family | Open |
 | Verify the actual material composition of the windows (extruded aluminum vs. aluminum-clad wood) before expert engagement to size the forensic-hail-damage expert correctly | Family / counsel | Open |
+| ⚠️ Document the uninspected front-of-garage window (§ 6B): dated photograph showing the window and its shed obstruction, plus a measured site sketch of its location relative to the garage door, the shed, and the house wall — needed before § 6B is used in any filing | Family | Open (verification) |
 
 ---
 
