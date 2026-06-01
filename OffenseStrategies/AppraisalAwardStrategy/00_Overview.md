@@ -1,5 +1,13 @@
 # Appraisal-Award Strategy — Overview
 
+> ## READ FIRST — THE MOST CURRENT CONTEXT IS IN `06_Addendum_EvaluatedButRejected.md`
+>
+> **This Overview and files `01`–`05` are written on the assumption that the appraisal panel did _not_ evaluate the windows beyond the two it awarded. That assumption may not hold at remand.**
+>
+> **`06_Addendum_EvaluatedButRejected.md` addresses the contingency where the panel claims it _did_ evaluate every window and simply awarded damage to only two — and the changes that follow for motion tactics, the proposed remand-order wording, and the deposition / discovery plan.**
+>
+> **Read `06` together with this folder. Where `06` and these base files differ, `06` reflects the more up-to-date strategic thinking.**
+
 **Folder purpose.** This folder houses the family's strategy for Count III of the complaints: the action to *clarify, modify, or correct* (and, as a reserved alternative, to *vacate*) the September 12, 2025 Appraisal Award entered under Minn. Stat. § 65A.01. The strategy is built around a single empirical asymmetry: **Farmers' own engineer (Prieve Engineering, File #241008) photographed and described damage at most of the home's windows and at multiple non-window components, but the appraisal panel awarded only two windows for $12,800 RCV / $6,400 ACV — leaving the family with $0 after the $17,720 deductible.** That asymmetry is the leverage. Prieve's report is, paradoxically, the family's most useful evidence for expanding the appraisal scope.
 
 **Filing context.** This strategy is the implementation layer for paragraphs 50–55 (v1), 50–55 (v2), and 25–26 (v3) of the draft complaints. It is also the operational complement to `LegalStrategies/00_Overview_Complaint_Drafts.md`, `OffenseStrategies/Discovery/DiscoveryPlan.md`, and the appraisal-panel deposition outlines (`2.2Foster_John.md`, `2.3Roos_Wade.md`, `2.4Tomes_Greg.md`).
