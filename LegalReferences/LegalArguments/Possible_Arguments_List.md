@@ -11,7 +11,7 @@
 
 This document is a superset catalog of legal arguments, claims, remedies, and doctrines *potentially available* to the family on the existing factual record. Each item is described only briefly — just enough to orient a future research session. Strength assessment, prioritization, and ordering for a complaint are intentionally left out and should be evaluated separately.
 
-For factual foundations, cross-reference `CaseContext/key-facts-excluding-legal-context.md` and `ClaimTimeline.md`.
+For factual foundations, cross-reference `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` and `ClaimTimeline.md`.
 
 ---
 

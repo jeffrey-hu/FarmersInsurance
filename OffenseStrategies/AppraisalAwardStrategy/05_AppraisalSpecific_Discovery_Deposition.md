@@ -137,7 +137,7 @@ The 9/18, 9/19, and 10/14/2025 Farmers correspondence is already in the file at 
 
 ### 5.1 Background
 
-John Foster was selected by Pure Construction's Zach Sexe, not by the family. The family signed the retainer at $2,200. The family later learned Foster previously worked for insurance companies. (Per `CaseContext/key-facts-excluding-legal-context.md` Phase 7 Fact #9 and the family's account.) "Disinterested" within § 65A.01 Subd. 3 requires freedom from the interests of either party.
+John Foster was selected by Pure Construction's Zach Sexe, not by the family. The family signed the retainer at $2,200. The family later learned Foster previously worked for insurance companies. (Per `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 7 Fact #9 and the family's account.) "Disinterested" within § 65A.01 Subd. 3 requires freedom from the interests of either party.
 
 ### 5.2 Rule 45 subpoena to Foster
 
@@ -207,7 +207,7 @@ Tomes's deposition outline at `OffenseStrategies/Deposition/2.4Tomes_Greg.md` sh
 
 ### 7.1 Background
 
-Pure Construction's Zach Sexe drove the appraisal preparation end-to-end (per `CaseContext/key-facts-excluding-legal-context.md` Phase 7 Facts #13–15). Pure Construction prepared the scope, engaged its "window expert," retained Foster, assembled the documentation, and presented the claim to the panel. The family was largely reactive. Pure Construction's file is therefore the source-of-truth on what items the panel was asked to evaluate.
+Pure Construction's Zach Sexe drove the appraisal preparation end-to-end (per `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 7 Facts #13–15). Pure Construction prepared the scope, engaged its "window expert," retained Foster, assembled the documentation, and presented the claim to the panel. The family was largely reactive. Pure Construction's file is therefore the source-of-truth on what items the panel was asked to evaluate.
 
 ### 7.2 Rule 45 subpoena to Pure Construction
 

@@ -12,7 +12,7 @@
 >
 > **Why this matters.** This case is built primarily on Farmers' conduct, not on the family's. But Farmers will try to flip the narrative by making the family the defensive party — picking at every email, every photo, every recollection. Done badly, family depositions can damage the strongest cases. Done well, they confirm what the documents already show. The goal of this guide is to make sure you do them well.
 >
-> **Cross-references.** `OffenseStrategies/offenseStrategy.md` (overall litigation strategy); `OffenseStrategies/Discovery/DiscoveryPlan.md` (discovery framework); `OffenseStrategies/Deposition/` folder (Farmers-side witness prep — the inverse perspective); `CaseContext/key-facts-excluding-legal-context.md` and `ClaimTimeline.md` (the factual record).
+> **Cross-references.** `OffenseStrategies/offenseStrategy.md` (overall litigation strategy); `OffenseStrategies/Discovery/DiscoveryPlan.md` (discovery framework); `OffenseStrategies/Deposition/` folder (Farmers-side witness prep — the inverse perspective); `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` and `ClaimTimeline.md` (the factual record).
 >
 > **Disclaimer.** Strategic preparation guide, not legal advice. The family should retain limited-scope counsel for the deposition itself if at all possible — defending a deposition is one of the highest-leverage tasks counsel can do for a pro se litigant.
 
@@ -95,7 +95,7 @@ These are the questions Farmers will likely send. For each, the entry tells you 
 
 **Q11. State when you first observed any damage to the property attributable to the 7/13/2024 storm.**
 - **Trap alert.** The 5-week delay between 7/13 and 8/9/2024 (when Mary from Legacy first contacted you) is the obvious vulnerability. Farmers will use this to argue the damage might not be from the 7/13 storm, or that you were dilatory.
-- **Best answer:** truthful. Hail damage to windows is **not visible without close inspection**. The family does not climb ladders to look at upper-story window wraps routinely. The damage was identified by a professional (Legacy contractor) on a routine call about a leak (`CaseContext/key-facts-excluding-legal-context.md` Phase 2 Item 2).
+- **Best answer:** truthful. Hail damage to windows is **not visible without close inspection**. The family does not climb ladders to look at upper-story window wraps routinely. The damage was identified by a professional (Legacy contractor) on a routine call about a leak (`OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 2 Item 2).
 - **Document support:** Mary's 8/9 contact and Jack's 8/13 visit. Use these as anchors.
 
 **Q12. Identify every window at the property that you contend was damaged by hail on 7/13/2024.**
