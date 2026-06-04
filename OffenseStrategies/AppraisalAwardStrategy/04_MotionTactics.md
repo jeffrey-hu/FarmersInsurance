@@ -38,7 +38,7 @@ If the codes turn out to refer to (for example) a building elevation key prepare
 
 ### 2.2 Lock in the inconsistent-description record
 
-Farmers' three written attempts to describe the awarded scope (9/18, 9/19, 10/14/2025) are already in the `EventDocuments/2025-09-18-PostAppraisalEmailChain.md` file. Compile them into a single exhibit with a side-by-side comparison. This is the textbook *Herll* "the parties cannot agree on what the award means" fact.
+Farmers' three written attempts to describe the awarded scope (9/18, 9/19, 10/14/2025) are already in the `EventDocuments/2025-09-18-PostAppraisalEmailChain.md` file and the 9/19 letter is at `EventDocuments/Appraisal Documents/2025-09-19-ResponseFromFarmers.pdf`. Compile them into a single exhibit with a side-by-side comparison. This is the textbook *Herll* "the parties cannot agree on what the award means" fact. The 9/19 correction does double duty: beyond the dining-room→family-room flip, it contains the appraiser's admission that the front **dining-room window** was documented as damaged but excluded "from the prior claim" — a false premise for 2 of its 3 sashes, developed in `08_DiningRoomWindow_PriorClaimExclusion.md`.
 
 ### 2.3 Lock in the umpire's missing methodology
 
@@ -98,7 +98,7 @@ d/b/a Farmers Insurance,                   REMAND APPRAISAL AWARD
 | A | 9/12/2025 Appraisal Award (front and back) |
 | B | 8/3/2025 Appraisal Demand and Sworn Statement on Proof of Loss |
 | C | 9/24/2025 Farmers email confirming umpire produced no report or estimate |
-| D | 9/18, 9/19, 10/14/2025 Farmers correspondence describing the awarded scope (the three inconsistent descriptions) |
+| D | 9/18, 9/19, 10/14/2025 Farmers correspondence describing the awarded scope (the three inconsistent descriptions). The 9/19/2025 letter (`EventDocuments/Appraisal Documents/2025-09-19-ResponseFromFarmers.pdf`) is the centerpiece: the appraiser flips the rear window from "dining room" (9/18) to "family room" (9/19), and admits the front **dining-room window** was documented as damaged but excluded as "from the prior claim" — a prior-payment exclusion that is false for 2 of the window's 3 sashes (see `08_DiningRoomWindow_PriorClaimExclusion.md`) |
 | E | Prieve report narrative (pp. 4–10 of `EventDocuments/FarmersDenyLetter-11-4.pdf`) |
 | F | Prieve Photo Appendix A (selected pages — A-38 through A-41, A-101 / A-108 / A-113–117, A-42, A-92, A-93, A-98, A-99, A-103, A-26 / A-27, A-208 / A-212, A-53, A-90) |
 | G | The damage catalog cross-reference table from `01_DamageCatalog_PrieveAppendixA.md` |
@@ -168,9 +168,13 @@ and SHALL:
     (iii) location identifier (e.g., "front/west triple window above main
           entry"; "rear/east family-room three-sash main window");
     (iv)  sash count and sash configuration;
-    (v)   manufacturer name and any visible manufacturer stamp date.
+    (v)   manufacturer name and any visible manufacturer stamp date; and
+    (vi)  for any multi-sash window, EACH SASH individually, identified by
+          position and by its visible manufacturer stamp date (e.g., the
+          three sashes stamped 1993, 1997, and 2008).
 
-(b) STATE SEPARATELY, for each window or item identified under (a),
+(b) STATE SEPARATELY, for each window or item identified under (a) — and,
+    for any multi-sash window, for EACH SASH identified under (a)(vi) —
     the Replacement Cost Value and the Actual Cash Value, with
     Replacement Cost Value calculated to include the cost of comparable
     current-production material under the policy's "comparable material
@@ -186,6 +190,21 @@ and SHALL:
     (ii)  each appraiser's notes and methodology document(s);
     (iii) any photographs, sketches, or measurements the panel relied on;
     (iv)  any written communications among the panel members.
+
+(e) For any window, or any sash of any window, that the panel excluded
+    from the award on the ground that the damage was attributable to a
+    prior insurance claim, STATE separately, sash by sash:
+    (i)   the prior claim number and date relied on;
+    (ii)  the specific line item(s) in the prior claim's estimate that
+          the panel understood to have paid for that sash; and
+    (iii) whether the panel independently evaluated that sash for damage
+          from the July 13, 2024 loss, or instead treated the prior
+          claim as foreclosing further evaluation.
+    (This item is directed at the front dining-room window, which the
+    appraiser described on September 19, 2025 as documented-but-excluded
+    "from the prior claim," where the prior (2020) claim's estimate paid
+    for only a subset of the window's sashes. See
+    `08_DiningRoomWindow_PriorClaimExclusion.md`.)
 
 If, in the panel's view, no responsive document exists in any
 category above, the panel shall file with this Court a sworn statement
