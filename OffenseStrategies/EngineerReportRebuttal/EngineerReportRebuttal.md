@@ -151,7 +151,7 @@ The 2020 Settlement Notice and Xactimate (`EventDocuments/FinalDocument_2020.pdf
 | 3 | Additional charge for a retrofit window, 24–40 sf | 2.00 EA |
 | 4 | Scaffolding Setup & Take down — per hour | 11.00 HR |
 
-The line item is a casement window replacement quantity of 2. The family's contemporaneous account (Phase 1, Fact #2 of `CaseContext/key-facts-excluding-legal-context.md`) records that the 2020 dents were on **sashes**, not whole windows, and the 2020 settlement covered two sashes. The Prieve report treats the 2020 scope as two **whole windows** to support the conclusion that any further work on those same windows is duplicative.
+The line item is a casement window replacement quantity of 2. The family's contemporaneous account (Phase 1, Fact #2 of `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md`) records that the 2020 dents were on **sashes**, not whole windows, and the 2020 settlement covered two sashes. The Prieve report treats the 2020 scope as two **whole windows** to support the conclusion that any further work on those same windows is duplicative.
 
 ### 4.2 The 3-sash window with dents on all three sashes
 

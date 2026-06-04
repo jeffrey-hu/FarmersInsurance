@@ -33,7 +33,7 @@ The award must state both, separately, *to each item*. Listing "Windows F1.7 B1.
 
 ### 1.2 The "competent and disinterested" requirement — Foster
 
-The family's appraiser was John Foster, retained through Pure Construction at $2,200 (Plaintiffs paid half). The family did not interview or select Foster; Pure Construction's contact Zach Sexe selected him and presented the retainer (`EventDocuments/Appraisal Documents/AppraisalDemand.pdf` p. 2; family's account in `CaseContext/key-facts.md` §11). The family later learned Foster previously worked for insurance companies (`CaseContext/key-facts-excluding-legal-context.md` Phase 7 Fact #9).
+The family's appraiser was John Foster, retained through Pure Construction at $2,200 (Plaintiffs paid half). The family did not interview or select Foster; Pure Construction's contact Zach Sexe selected him and presented the retainer (`EventDocuments/Appraisal Documents/AppraisalDemand.pdf` p. 2; family's account in `CaseContext/key-facts.md` §11). The family later learned Foster previously worked for insurance companies (`OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 7 Fact #9).
 
 "Disinterested" within the meaning of § 65A.01 Subd. 3 means free from the interests of either party to the dispute. An appraiser selected by a contractor (rather than by the insured) and with a prior insurance-industry background is not a textbook "disinterested" appraiser on the insured side. The Tier 3 *Mork* analysis will revisit this.
 

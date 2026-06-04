@@ -482,4 +482,4 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
-*Last updated: 2026-04-15 — Added FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 claim Xactimate estimate) to EventDocuments/. These resolve Missing Documentation entries #1 and #3 from ClaimTimeline.md. Also added `CaseContext/key-facts-excluding-legal-context.md`, a phase-organized catalog of pro-family facts with per-fact source citations and no legal framing.*
+*Last updated: 2026-04-15 — Added FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 claim Xactimate estimate) to EventDocuments/. These resolve Missing Documentation entries #1 and #3 from ClaimTimeline.md. Also added `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md`, a phase-organized catalog of pro-family facts with per-fact source citations and no legal framing.*

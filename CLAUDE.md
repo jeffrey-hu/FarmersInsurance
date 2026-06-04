@@ -22,4 +22,4 @@ This project supports a lawsuit the Lu/Hu family is preparing against Farmers In
 ## Working Notes
 
 - All dates are U.S. format (M/D/YYYY).
-- When researching, filing, or evaluating arguments, start with `CaseContext/key-facts-excluding-legal-context.md` (sourced, phase-organized factual catalog) and cross-reference `CaseContext/key-facts.md`, `ClaimTimeline.md`, and `DocumentIndex.md`.
+- When researching, filing, or evaluating arguments, start with `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` (sourced, phase-organized factual catalog) and cross-reference `CaseContext/key-facts.md`, `ClaimTimeline.md`, and `DocumentIndex.md`.

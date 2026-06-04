@@ -242,7 +242,7 @@ These are not pleaded in the initial complaint. Drafting must be ready in parall
 
 - [ ] **🟡 [Both]** **Update `ClaimTimeline.md` Missing Documentation table** as items above are resolved.
 
-- [ ] **🟡 [Both]** **Update `CaseContext/key-facts-excluding-legal-context.md`** as new factual information is obtained (especially Senco/Semco resolution and any Brau-notes outcome).
+- [ ] **🟡 [Both]** **Update `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md`** as new factual information is obtained (especially Senco/Semco resolution and any Brau-notes outcome).
 
 ---
 
