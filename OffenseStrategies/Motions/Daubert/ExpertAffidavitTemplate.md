@@ -141,11 +141,11 @@ Material-specific damage modeling is essential because different materials respo
 
 ### 4.4 Pillar 4 — Window-By-Window Analysis: NOT PERFORMED
 
-The Prieve Report documents dents, marks, and indentations at twelve or more distinct window locations at the subject property. *(Ex. 1 at pp. 4–9.)* The Report's causation conclusions, however, are stated in generalized form — categorical attributions to "wear/tear," "marring," or the 2020 storm event — without window-by-window quantitative analysis distinguishing hail-attributable damage from non-hail damage.
+The Prieve Report documents dents, marks, and indentations at nineteen or more distinct windows (plus a sliding door) at the subject property. *(Ex. 1 at pp. 4–9.)* The Report's causation conclusions, however, are stated in generalized form — categorical attributions to "wear/tear," "marring," or the 2020 storm event — without window-by-window quantitative analysis distinguishing hail-attributable damage from non-hail damage.
 
 This omission is particularly significant because:
 
-(a) Defendant's 2020 Xactimate scope approved only two casement windows. The Prieve Report's documentation of damage at twelve or more locations cannot be reconciled with the 2020 attribution unless the Report demonstrates, window-by-window, that each documented dent is consistent with the 2020 event and inconsistent with the 7/13–7/14/2024 event. The Report performs no such analysis.
+(a) Defendant's 2020 Xactimate scope approved only two casement windows. The Prieve Report's documentation of damage at nineteen or more locations (plus a sliding door) cannot be reconciled with the 2020 attribution unless the Report demonstrates, window-by-window, that each documented dent is consistent with the 2020 event and inconsistent with the 7/13–7/14/2024 event. The Report performs no such analysis.
 
 (b) The categorical attribution of damage to "wear/tear" without window-by-window analysis is not a forensic-engineering opinion; it is a conclusory dismissal.
 
@@ -199,7 +199,7 @@ The Prieve Report does not satisfy any of the four pillars of foundationally rel
 
 7.3 The 7/13–7/14/2024 storm event documented by the NWS produced hail conditions at the subject property consistent with the dent damage observed by Mr. Prieve and documented in the Photo Appendix to his Report.
 
-7.4 [Specific window-by-window analysis, if conducted.] At each of the 12+ window locations identified in the Prieve Report, the observed dent characteristics — depth, distribution, edge profile — are consistent with hail-impact damage from hail of the size and velocity documented by the NWS for the 7/13–7/14/2024 storm event. A more detailed window-by-window analysis will be presented in my expert report.
+7.4 [Specific window-by-window analysis, if conducted.] At each of the 19+ window locations (plus a sliding door) identified in the Prieve Report, the observed dent characteristics — depth, distribution, edge profile — are consistent with hail-impact damage from hail of the size and velocity documented by the NWS for the 7/13–7/14/2024 storm event. A more detailed window-by-window analysis will be presented in my expert report.
 
 ---
 

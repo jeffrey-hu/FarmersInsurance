@@ -24,7 +24,7 @@ Plaintiffs Yibiao Lu and Jie Hu respectfully submit this Memorandum in Support o
 
 This Motion seeks not to exclude Mr. Prieve in his entirety, but to narrow his trial testimony to the matters for which his report demonstrates foundational reliability. Specifically, the Motion targets four categories of opinions in Mr. Prieve's report dated November 4, 2024 (Prieve Engineering File #241008) that do not satisfy Rule 702: (i) his weather-records assertion that no hail occurred in Eden Prairie after 2020; (ii) his causation opinions on individual windows reached without quantitative methodology; (iii) his directional generalization on the east-siding penetration; and (iv) his attribution of observed damage to wear/tear or to the 2020 storm event.
 
-Mr. Prieve will remain free at trial to testify to his professional qualifications, to his factual observations of dents at twelve or more window locations during his October 9, 2024 inspection, and to any opinions for which his methodology meets Rule 702's foundational-reliability standard. The relief requested is narrowly tailored to exclude only those opinions whose foundation has been demonstrated, through discovery and through the deposition of Mr. Prieve, to be inadequate under controlling Minnesota law.
+Mr. Prieve will remain free at trial to testify to his professional qualifications, to his factual observations of dents at nineteen or more window locations (plus a sliding door) during his October 9, 2024 inspection, and to any opinions for which his methodology meets Rule 702's foundational-reliability standard. The relief requested is narrowly tailored to exclude only those opinions whose foundation has been demonstrated, through discovery and through the deposition of Mr. Prieve, to be inadequate under controlling Minnesota law.
 
 ---
 
@@ -58,7 +58,7 @@ Mr. Prieve's report makes four categories of contested assertions:
 
 **1. The "No Hail After 2020" Assertion.** In the report's "Weather Records" section, Mr. Prieve states that "[t]he most recent hail in Eden Prairie [was] reported in 2020" based on his summary of the Stormersite database and the NOAA Storm Events Database. *(Ex. 1 at p. 9.)*
 
-**2. Window-By-Window Damage Observations and Causation Opinions.** Mr. Prieve's narrative documents observed dents, marks, and indentations at twelve or more distinct window locations across the home: the front/west triple window above the main entry, the upper-west 3-unit bedroom window (Photo A-45), the upper southwest bedroom window (A-64), the east family-room bay projection (A-107, A-113, A-121), the upper-east window above the four-season porch (A-163), the four-season porch SE/E/NE/N windows (A-165, A-166, A-174), the kitchen east window, the main-level NE 3-unit window (A-199, A-201), the upper-north window above the kitchen, the rear/east garage window, and an east-siding penetration (A-26, A-27, A-212). *(Ex. 1 at pp. 4–9.)* Despite documenting damage across the home, Mr. Prieve concluded that the damage was not consistent with hail.
+**2. Window-By-Window Damage Observations and Causation Opinions.** Mr. Prieve's narrative documents observed dents, marks, and indentations at nineteen or more distinct windows (plus a sliding door) across the home: the front/west triple window above the main entry, the upper-west 3-unit bedroom window (Photo A-45), the upper southwest bedroom window (A-64), the east family-room bay projection (A-107, A-113, A-121), the upper-east window above the four-season porch (A-163), the four-season porch SE/E/NE/N windows (A-165, A-166, A-174), the kitchen east window, the main-level NE 3-unit window (A-199, A-201), the upper-north window above the kitchen, the rear/east garage window, and an east-siding penetration (A-26, A-27, A-212). *(Ex. 1 at pp. 4–9.)* Despite documenting damage across the home, Mr. Prieve concluded that the damage was not consistent with hail.
 
 **3. The Directional Generalization.** In Conclusion 4, Mr. Prieve states that the east-siding penetration cannot have been caused by hail because "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction. The penetration in siding appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)*
 
@@ -94,7 +94,7 @@ On ____________, 2026, Plaintiffs deposed Mr. Prieve under subpoena. The deposit
 - Mr. Prieve's report relies on the Stormersite database and the NOAA Storm Events Database for the "no hail after 2020" assertion, but he did not consult the NWS Twin Cities/Chanhassen Forecast Office, the Eden Prairie ASOS station records, City of Eden Prairie permit records, or local news archives. *(Id. at [pages].)*
 - Mr. Prieve did not perform any quantitative impact-force analysis, terminal-velocity calculations, material-specific dent-depth modeling, or peer-reviewed methodological comparison in his evaluation of individual windows. *(Id. at [pages].)*
 - Mr. Prieve's directional generalization on the east-siding penetration was not informed by analysis of the actual 7/13–7/14/2024 multi-round storm event. *(Id. at [pages].)*
-- Mr. Prieve was aware that Defendant's 2020 Xactimate scope approved only two casement windows, yet his report attributes damage at twelve or more locations to the 2020 storm event without reconciling this discrepancy. *(Id. at [pages].)*
+- Mr. Prieve was aware that Defendant's 2020 Xactimate scope approved only two casement windows, yet his report attributes damage at nineteen or more locations (plus a sliding door) to the 2020 storm event without reconciling this discrepancy. *(Id. at [pages].)*
 
 ---
 
@@ -218,7 +218,7 @@ Plaintiffs' retained forensic-engineering expert applies the HailShapes peer-rev
 
 The Court should limit Mr. Prieve to testifying to:
 
-**1.** His factual observations of physical conditions at the subject property on October 9, 2024 — including specifically his catalog of dents, marks, and indentations at the 12+ window locations identified in his report. *(Ex. 1 at pp. 4–9.)*
+**1.** His factual observations of physical conditions at the subject property on October 9, 2024 — including specifically his catalog of dents, marks, and indentations at the 19+ window locations (plus a sliding door) identified in his report. *(Ex. 1 at pp. 4–9.)*
 
 **2.** Any opinion for which his methodology has been demonstrated to satisfy Rule 702's foundational-reliability standard.
 
@@ -266,9 +266,9 @@ This causation theory fails Rule 702 for two independent reasons.
 
 Defendant's 2020 Xactimate scope on Claim No. 3013539499-1 approved **exactly two (2) wood-casement windows**. *(Ex. 8, 2020 Final Document, line items 1–4.)* The 2020 settlement payment of $125,044.03 reflects this two-window scope plus roof, gutter, downspout, and exterior door line items.
 
-Mr. Prieve's report documents observed damage at **twelve or more distinct window locations** across the subject property. *(Ex. 1 at pp. 4–9.)* Mr. Prieve was aware, at the time of writing his report, that Defendant's 2020 Xactimate approved only two casement windows. *(Ex. 7 at [pages] (Prieve Dep. Tr.).)*
+Mr. Prieve's report documents observed damage at **nineteen or more distinct windows (plus a sliding door)** across the subject property. *(Ex. 1 at pp. 4–9.)* Mr. Prieve was aware, at the time of writing his report, that Defendant's 2020 Xactimate approved only two casement windows. *(Ex. 7 at [pages] (Prieve Dep. Tr.).)*
 
-The mathematical impossibility is plain: if the 2020 storm caused only the two windows Defendant paid for in 2020, the 2020 storm cannot account for the additional ten or more damaged windows Mr. Prieve documented. Mr. Prieve's report does not address this discrepancy. He performed no window-by-window analysis distinguishing 2020-attributable damage from later damage. The "2020-already-paid" theory has no foundation.
+The mathematical impossibility is plain: if the 2020 storm caused only the two windows Defendant paid for in 2020, the 2020 storm cannot account for the additional seventeen or more damaged windows Mr. Prieve documented. Mr. Prieve's report does not address this discrepancy. He performed no window-by-window analysis distinguishing 2020-attributable damage from later damage. The "2020-already-paid" theory has no foundation.
 
 #### B. The Wear/Tear Theory Lacks Methodological Support
 
@@ -293,7 +293,7 @@ The Court should exclude any opinion by Mr. Prieve attributing observed damage t
 
 ## IV. THE RELIEF SOUGHT IS NARROW, TAILORED, AND PRESERVES MR. PRIEVE'S TESTIMONY TO THE EXTENT IT HAS FOUNDATIONAL RELIABILITY
 
-The Motion does not seek wholesale exclusion of Mr. Prieve. It does not seek to bar him from testifying about his professional background. It does not seek to bar him from describing his October 9, 2024 inspection in factual terms — including the dents, marks, and indentations he catalogued at 12+ window locations. It does not seek to prevent him from testifying to opinions that, on examination, meet Rule 702's foundational-reliability standard.
+The Motion does not seek wholesale exclusion of Mr. Prieve. It does not seek to bar him from testifying about his professional background. It does not seek to bar him from describing his October 9, 2024 inspection in factual terms — including the dents, marks, and indentations he catalogued at 19+ window locations (plus a sliding door). It does not seek to prevent him from testifying to opinions that, on examination, meet Rule 702's foundational-reliability standard.
 
 The Motion targets only four specific categories of opinions — each shown to lack foundational reliability:
 

@@ -32,7 +32,7 @@
 A Daubert-style motion under Minn. R. Evid. 702 rarely results in the complete exclusion of an expert. Courts generally permit experts to testify and let cross-examination address weaknesses. The realistic and strategically valuable relief targets **specific, identifiable defects in Prieve's report** and seeks **narrow exclusionary or limiting orders**. The motion's prayer for relief should therefore ask the court to:
 
 1. **Exclude testimony or opinion that no hail occurred in Eden Prairie after 2020** or substantively similar. This assertion is the foundation of Prieve's report and is provably false on the record.
-2. **Limit Prieve to factual testimony about observations he personally made** on 10/9/2024 — particularly the dents he catalogued at 12+ window locations. (This is *helpful* to the family; it locks in Prieve's own concession that damage exists.)
+2. **Limit Prieve to factual testimony about observations he personally made** on 10/9/2024 — particularly the dents he catalogued at 19+ window locations (plus a sliding door). (This is *helpful* to the family; it locks in Prieve's own concession that damage exists.)
 3. **Exclude Prieve's causation opinions on individual windows** where his report contains no quantitative methodology, no terminal-velocity calculation, no material-specific dent-depth modeling, and no peer-reviewed support.
 4. **Exclude the unidirectional-hail generalization on the east-siding penetration** as unsupported by analysis of the actual 7/13–7/14/2024 multi-round storm event.
 5. **Exclude the "wear/tear / 2020-already-paid" causation theory** as unsupported by any window-by-window analysis and contradicted by Farmers' own 2020 Xactimate scope (which approved only 2 casement windows).
@@ -98,7 +98,7 @@ If the scheduling order allows earlier filing, the family may want to file the m
 
 Prieve's report is a **mixed bag** for the family:
 
-- **Useful:** Prieve's catalog of dents at 12+ window locations. This is direct admission that damage exists across most of the home — contradicting Farmers' 9/3/2024 "no other damages observed" finding.
+- **Useful:** Prieve's catalog of dents at 19+ window locations (plus a sliding door). This is direct admission that damage exists across most of the home — contradicting Farmers' 9/3/2024 "no other damages observed" finding.
 - **Useful:** Prieve's identification of the 2020 claim's scope (2 casement windows) — confirms Farmers' own records.
 - **Harmful:** The "no hail after 2020" assertion.
 - **Harmful:** The wear/tear and 2020-already-paid causation theories.
@@ -166,7 +166,7 @@ The court orders Prieve excluded from testifying:
 - To the directional generalization on east-siding penetration;
 - To the wear/tear / 2020-already-paid theory.
 
-Prieve can testify to his factual observations on 10/9/2024 (including the catalog of dents at 12+ locations) and to general professional background.
+Prieve can testify to his factual observations on 10/9/2024 (including the catalog of dents at 19+ locations) and to general professional background.
 
 **Family's response:** Use the order to (i) anchor the § 604.18 Subd. 4(a) motion's Prong 1 argument that Farmers had no fairly debatable basis after 11/4/2024 when Prieve's report rested on excluded foundations; (ii) compress Farmers' trial-defense theory; (iii) cite the exclusion on summary judgment to lock in *Quade* preclusion for F1.7/B1.2 without Prieve as a competing voice; (iv) press settlement leverage.
 

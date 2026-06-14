@@ -18,7 +18,7 @@
 |---|---|---|
 | **Appraisal Demand (family's submitted scope)** | 3 items: Windows, Siding (repaint), Siding (R&R) | $310,000 whole loss claimed |
 | **Appraisal Award (panel's output)** | "Siding & Paint" — **$0** RCV; "Windows F1.7 B1.2" — **$12,800** RCV / $6,400 ACV; "Siding" — **$0** RCV | $12,800 RCV / $6,400 ACV |
-| **Prieve Appendix A (Farmers' own engineer's documented damage)** | ~10+ window locations with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 2 siding penetrations; 3 trim board chips; 1 door window screen dent | Not quantified by Prieve (not his scope) |
+| **Prieve Appendix A (Farmers' own engineer's documented damage)** | at least 19 distinct windows (plus a sliding door) with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 2 siding penetrations; 3 trim board chips; 1 door window screen dent | Not quantified by Prieve (not his scope) |
 
 The award represents approximately **4% of the demanded loss**, and the awarded RCV is **less than 75% of the deductible**, producing $0 net payment.
 
@@ -35,12 +35,12 @@ The family demanded "Windows" with no further qualification. The panel awarded "
 | Sub-frame | Count |
 |---|---|
 | Windows on the home (estimated from Prieve's elevation-by-elevation narrative and Appendix A) | ~30+ window units (including bay groups, casements, and single units) |
-| Windows Prieve documented with damage observations (sash dents, frame dents/scrapes, drip cap dents, accessory groove dents) | **~12 distinct window locations** |
+| Windows Prieve documented with damage observations (sash dents, frame dents/scrapes, drip cap dents, accessory groove dents) | **at least 19 distinct windows (plus a sliding door)** |
 | Windows the appraisal panel evaluated and awarded | **2** (F1.7, B1.2) |
-| Windows Prieve documented as damaged but the panel did not award | **~10 distinct window locations** |
+| Windows Prieve documented as damaged but the panel did not award | **~17 distinct window locations** |
 | Windows with "no hail" findings by Prieve | ~14 window locations |
 
-**The Tier 1 remand argument flows from line 4.** The panel either (a) evaluated and rejected the ~10 unevaluated-but-documented windows (in which case the award should say so and itemize the rejection rationale), or (b) did not evaluate them at all (in which case those windows are coverage questions for the court under *Quade*). Either answer is good for the family. The award as written does neither — it lists two windows against a lump $12,800 without any treatment of the rest.
+**The Tier 1 remand argument flows from line 4.** The panel either (a) evaluated and rejected the ~17 unevaluated-but-documented windows (in which case the award should say so and itemize the rejection rationale), or (b) did not evaluate them at all (in which case those windows are coverage questions for the court under *Quade*). Either answer is good for the family. The award as written does neither — it lists two windows against a lump $12,800 without any treatment of the rest.
 
 ### 2.2 Siding — the gap
 
@@ -108,10 +108,10 @@ Set the legal arguments aside for a moment and consider the dollar math.
 | Calculation | Number |
 |---|---|
 | Replacement cost per window if the panel valued F1.7 + B1.2 = $12,800 collectively | ~$6,400 per window (RCV) |
-| Number of windows Prieve documented as damaged with hail-signature observations (sash dents, frame dents) | ~12 |
-| Implied RCV if all 12 were valued at the same per-window rate | ~$76,800 RCV |
-| Less depreciation at the same ratio the panel applied ($12,800 → $6,400 = 50%) | ACV ~$38,400 |
-| Less $17,720 deductible | Net to family ~$20,680 |
+| Number of windows Prieve documented as damaged with hail-signature observations (sash dents, frame dents) | 17 |
+| Implied RCV if all 17 were valued at the same per-window rate | ~$108,800 RCV |
+| Less depreciation at the same ratio the panel applied ($12,800 → $6,400 = 50%) | ACV ~$54,400 |
+| Less $17,720 deductible | Net to family ~$36,680 |
 
 Even before the family adds siding repair, downspout replacement, flashing repair, door window screen replacement, exterior repaint, mold remediation, blinds R&R, and the matching-cost premium for the discontinued Senco/Semco windows (each of which has been documented in the Pure Construction file and the family's Pella Reserve workpapers), simple per-window arithmetic on Prieve's own observations puts the family above the deductible. The two-window award is not just under-itemized; it is the source of the $0 net payment.
 

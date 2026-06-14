@@ -453,7 +453,7 @@ Be calm. Do not be defensive about the 5 weeks. Many homeowners never identify h
 **Right response:**
 - Legacy was called about a leak (a maintenance issue), not to generate a claim. The damage they identified was independent of any payout motive.
 - The family did not select Pure Construction's choice of appraiser; the family signed Pure Construction's retainer at $2,200, paid half, and did not interview Foster. The family later learned Foster had prior insurance-industry employment.
-- Multiple non-contractor professionals also observed damage: Brau (Farmers' own employee); Prieve (Farmers' own engineer, who catalogued dents at 12+ locations); the appraisal panel including the umpire (who confirmed hail causation).
+- Multiple non-contractor professionals also observed damage: Brau (Farmers' own employee); Prieve (Farmers' own engineer, who catalogued dents at 19+ locations); the appraisal panel including the umpire (who confirmed hail causation).
 
 The damage record does not depend on contractor testimony.
 
@@ -475,11 +475,11 @@ The damage record does not depend on contractor testimony.
 
 ### 5.6 The "Prieve Documented Damage" Gambit (Reverse-Use)
 
-**What it looks like:** "You acknowledge Prieve's report. You rely on Prieve's catalog of dents at 12+ locations. You're picking and choosing which parts of Prieve's report to accept."
+**What it looks like:** "You acknowledge Prieve's report. You rely on Prieve's catalog of dents at 19+ locations. You're picking and choosing which parts of Prieve's report to accept."
 
 **Why Farmers wants this:** To make you appear to cherry-pick evidence.
 
-**Right response:** The family does not "rely on" Prieve's report; the family points out that Prieve's own narrative documents damage at 12+ locations, which contradicts Farmers' 9/3 denial finding "no other damages observed." Acknowledging that Prieve's observations are correct does not mean accepting Prieve's flawed conclusions (e.g., "no hail in Eden Prairie after 2020," which is disproven by the NWS, City permits, neighbor canvass, and the 9/12/2025 appraisal panel's hail-causation finding). The damage observations are factual; the causation conclusions are an opinion that is independently disproven.
+**Right response:** The family does not "rely on" Prieve's report; the family points out that Prieve's own narrative documents damage at 19+ locations, which contradicts Farmers' 9/3 denial finding "no other damages observed." Acknowledging that Prieve's observations are correct does not mean accepting Prieve's flawed conclusions (e.g., "no hail in Eden Prairie after 2020," which is disproven by the NWS, City permits, neighbor canvass, and the 9/12/2025 appraisal panel's hail-causation finding). The damage observations are factual; the causation conclusions are an opinion that is independently disproven.
 
 ### 5.7 The Spousal-Inconsistency Trap
 
@@ -519,7 +519,7 @@ The damage record does not depend on contractor testimony.
 **Right response:** Do not concede that Farmers had a reasonable basis. Be precise:
 - "Hail damage *can* sometimes be technically complex."
 - "But in this case, Farmers' own appraisal panel found hail causation."
-- "And Farmers' own engineer Prieve documented dents at 12+ locations."
+- "And Farmers' own engineer Prieve documented dents at 19+ locations."
 - "Reasonable experts may disagree about specific cases. I am here today because Farmers' own experts agree with us on causation."
 
 ### 5.11 The Mitigation Trap

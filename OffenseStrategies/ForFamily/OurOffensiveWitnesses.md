@@ -198,7 +198,7 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 12. Window-by-window damage findings.
 13. Photographs, measurements, calculations.
 14. Causation opinion for each window.
-15. Comparison with Brau's 9/6/2024 observations and Prieve's catalog of dents at 12+ locations.
+15. Comparison with Brau's 9/6/2024 observations and Prieve's catalog of dents at 19+ locations.
 
 *Block 4 — Critique of Prieve (30 minutes).*
 16. Methodology gaps in the Prieve report.

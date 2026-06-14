@@ -267,7 +267,7 @@ To support the Tier 1 motion in month 12 (per `04_MotionTactics.md` § 8), the a
 
 If everything else is set aside, the Tier 1 motion depends on two outputs:
 
-**Output 1 — The F1.7 / B1.2 decoding key.** Without it, the family's ambiguity argument is "the codes are undefined." With it (showing F1.7 = window X, B1.2 = window Y, and identifying ~10 other Prieve-documented hail-signature windows the panel did not evaluate), the family's ambiguity argument becomes "Farmers' own appraiser/contractor identified ~12 windows, the panel awarded 2 of them, and the panel never explained what happened to the rest."
+**Output 1 — The F1.7 / B1.2 decoding key.** Without it, the family's ambiguity argument is "the codes are undefined." With it (showing F1.7 = window X, B1.2 = window Y, and identifying 17 other hail-signature windows Prieve documented that the panel did not evaluate), the family's ambiguity argument becomes "Farmers' own appraiser/contractor identified 19 windows, the panel awarded 2 of them, and the panel never explained what happened to the rest."
 
 **Output 2 — The umpire's nothing-on-file confirmation.** Either Roos produces a methodology document (in which case the methodology is subpoenable and impeachable through Foster's and Tomes's depositions) or Roos confirms no document exists (in which case the *Herll* / *Rymer* "ambiguity supported by no methodology" argument is locked).
 
