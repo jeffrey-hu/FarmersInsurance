@@ -68,8 +68,8 @@
 
 ## Phase 4: Prieve Inspection & Second Denial (October–November 2024)
 
-**10/09/2024 — Third inspection: Nathan Prieve (Prieve Engineering LLC, File #241008) inspects.** Family hands him their damage documentation. Prieve later concludes: no hail damage to windows from any recent storm; all dents from 2020 or non-hail causes; no storm event documented on 7/13/2024; water leakage from wear/tear.
-📄 Report included in `EventDocuments/FarmersDenyLetter-11-4.pdf` (pp. 4–10); photos in `EventDocuments/FarmersDenyLetter-11-4-AppendixA.pdf`
+**10/09/2024 — Third inspection: Nathan Prieve (Prieve Engineering LLC, File #241008) inspects.** Family hands him their damage documentation — the 72-page `WindowsDamage.pdf` photo catalog they prepared on agent Pete's 9/11 advice, mapping dents on dozens of windows across all four elevations. Prieve later concludes: no hail damage to windows from any recent storm; all dents from 2020 or non-hail causes; no storm event documented on 7/13/2024; water leakage from wear/tear.
+📄 `EventDocuments/WindowsDamage.pdf` (family's damage documentation); Prieve report in `EventDocuments/FarmersDenyLetter-11-4.pdf` (pp. 4–10); photos in `EventDocuments/FarmersDenyLetter-11-4-AppendixA.pdf`
 
 **11/04/2024 — SECOND AND FINAL DENIAL.** Farmers issues formal denial letter citing wear/tear, marring, corrosion/deterioration, inherent vice, neglect, and faulty construction exclusions, based on Prieve's report.
 📄 `EventDocuments/FarmersDenyLetter-11-4.pdf`
@@ -124,7 +124,7 @@
 **~Late April 2025 — Family meets with Katherine post-travel.** Katherine recommends taking legal action as the next step. Family begins contacting attorneys.
 
 **05/14/2025 — Family contacts Pure Construction.** Family calls Dan Traxler at Pure Construction (contact obtained from a neighbor in February). Dan, now a manager, refers the file; within 15 minutes Zach calls. Same evening Zach and Jade visit the property. Family explains the claim status and shows their own damage documentation and the Prieve engineer report. Pure Construction recommends pursuing the policy's appraisal process and reports prior favorable outcomes for homeowners.
-📄 `EventDocuments/ComunicationLogsWithPureConstruction.md`
+📄 `EventDocuments/ComunicationLogsWithPureConstruction.md`; damage documentation: `EventDocuments/WindowsDamage.pdf`
 
 **05/20–05/27/2025 — Family agrees to engage Pure Construction.** Zach texts on 5/20 to check interest. On 5/27 the family replies that the appraisal-panel material from Pure Construction will be very important and should be done first, and asks to meet Pure Construction's window expert. Same day the family sends Zach the family's damage documentation, photos from the Prieve engineer report, and the claim information.
 
@@ -178,8 +178,8 @@
 
 **07/16/2025 — Zach confirms the additions** and offers a "paid when incurred" line item to address mold/water-damage treatment if discovered during the project.
 
-**07/18/2025 — Family emails Zach asking to add line items for siding damage,** citing Prieve photos A-53, A-90, family-document figures Fig 1.5.5 and Fig 2.4.5, and an additional photo packet. Zach replies same day confirming.
-📄 `EventDocuments/CommunicationWithPureConstruction/SidingsDamage-sent-07-18-25.pdf`
+**07/18/2025 — Family emails Zach asking to add line items for siding damage,** citing Prieve photos A-53, A-90, family-document figures Fig 1.5.5 and Fig 2.4.5 (both in `EventDocuments/WindowsDamage.pdf`), and an additional photo packet. Zach replies same day confirming.
+📄 `EventDocuments/CommunicationWithPureConstruction/SidingsDamage-sent-07-18-25.pdf`; figure source: `EventDocuments/WindowsDamage.pdf`
 
 ---
 
@@ -255,7 +255,7 @@
 | 5 | **Contractor text messages** (dated 9/13/2021) | Proves gutter replacement timeline |
 | 6 | **FOX9 weather records** | No response documented |
 | 7 | **Attorney General Consumer Assistance Request outcome** (ID: 6260735278129023664) | Status unknown |
-| 8 | **Family's damage documentation** handed to Prieve on 10/9/2024 | Family's own evidence given to Farmers' expert |
+| ~~8~~ | ~~Family's damage documentation handed to Prieve on 10/9/2024~~ | ✅ **Resolved 2026-06-14** — now in `EventDocuments/WindowsDamage.pdf`. 72-page photo catalog of dents across all four elevations; also shared with Farmers. |
 | 9 | **Umpire (Wade Roos) report or estimate** | Farmers confirms none was provided |
 
 ---
@@ -265,3 +265,5 @@
 *Last updated: 2026-04-15 — Integrated FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 Xactimate scope). Missing Documentation entries #1 and #3 resolved.*
 
 *Last updated: 2026-04-25 — Integrated `EventDocuments/ComunicationLogsWithPureConstruction.md`. Phase 6 expanded with the 5/14–7/18/2025 Pure Construction appraisal-prep sequence (window identification as extruded aluminum / Pella Reserve, kitchen-window add-ons, blinds, mold line item, exterior repaint, siding additions). Phase 7 augmented with the 9/12/2025 day-of fact that Pure Construction told the family not to speak with the appraisers and the family did not.*
+
+*Last updated: 2026-06-14 — Integrated `EventDocuments/WindowsDamage.pdf`, the family's 72-page window-damage photo documentation (created ~9/29/2024, handed to Prieve at the 10/9/2024 inspection and shared with Farmers). Linked at the 10/9/2024 inspection, the 5/14/2025 Pure Construction meeting, and the 7/18/2025 siding additions (Fig 1.5.5, Fig 2.4.5). Missing Documentation entry #8 resolved.*

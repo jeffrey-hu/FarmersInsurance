@@ -201,6 +201,28 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
+### WindowsDamage.pdf
+**Type:** The family's own systematic window-damage photo documentation (72 pages, photo-heavy ~64 MB)
+**Date:** Created ~September 29, 2024 (file date); handed to Nathan Prieve at the 10/9/2024 inspection and shared with Farmers
+**Authors:** Yibiao Lu & Jie Hu
+**Significance:** **The family's self-prepared damage document** — Missing Documentation entry #8 in ClaimTimeline.md, now resolved. Created on agent Pete Pietila's 9/11/2024 advice to document the damage before the inspector arrived, it predates Prieve's 10/9/2024 site visit and was physically handed to him that day; it was also the "damage documentation" the family later showed Pure Construction (5/14–5/27/2025) and the source of the figure references used in the 7/18/2025 siding additions.
+
+*Structure (organized by elevation, with a table of contents and labeled figures):*
+- **Section 1 — Front (West side):** Dining room (3 sashes), Bedroom 1 and Bedroom 2 (2nd-floor west-facing), Foyer, Living room (sashes, frames, plus siding Fig 1.5.5 and gutter Fig 1.5.6).
+- **Section 2 — Back (East side):** Family room (11 figures across upper/lower 3-sash windows), Eat-in area, Porch (four-season), Master bedroom (incl. siding Fig 2.4.5), Kitchen, Main-floor office, 2nd-floor east bedroom (incl. siding), and Garage windows.
+- **Section 3 — South side:** Upper 6-sash window and lower 3-sash window.
+
+Each figure documents a specific dent or mark on a named window, sash, frame, window cap, siding panel, or gutter, with location notes (e.g., "bottom frame, 5 inches from left").
+
+**Key legal significance:**
+- **Contemporaneous, location-specific proof of damage across nearly the entire home** — dozens of windows on all four elevations — directly contradicting Prieve's conclusion that only 2 windows were affected and that there was "no newer damage." It was in Prieve's hands at his inspection, so Farmers' expert cannot claim he was unaware of the family's damage map.
+- Created on the agent's own instruction and before the engineering inspection, it rebuts any suggestion the damage list was reverse-engineered after the denial.
+- Its figure labels are cited as evidence elsewhere in the record: Fig 1.5.5 and Fig 2.4.5 anchor the 7/18/2025 siding-damage additions to the Pure Construction estimate, and the document underpins the appraisal scope demand.
+- The siding (Fig 1.5.5, Fig 2.4.5) and gutter (Fig 1.5.6) figures corroborate the post-2021 gutter-damage and siding-damage arguments.
+- Resolves Missing Documentation entry #8.
+
+---
+
 ### FarmersDenyLetter-11-4.pdf
 **Type:** Denial letter + Coverage Outcome – Policy Provisions + Prieve Engineering forensic report (10 pages combined)
 **Date:** November 4, 2024 (letter and report share same date; site visit October 9, 2024)
@@ -483,3 +505,5 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 ---
 
 *Last updated: 2026-04-15 — Added FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 claim Xactimate estimate) to EventDocuments/. These resolve Missing Documentation entries #1 and #3 from ClaimTimeline.md. Also added `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md`, a phase-organized catalog of pro-family facts with per-fact source citations and no legal framing.*
+
+*Last updated: 2026-06-14 — Added `EventDocuments/WindowsDamage.pdf`, the family's own 72-page systematic window-damage photo documentation (created ~9/29/2024, handed to Prieve at the 10/9/2024 inspection and shared with Farmers). Resolves Missing Documentation entry #8 in ClaimTimeline.md.*

@@ -188,7 +188,7 @@ Some materials can be obtained outside formal discovery and should be in hand be
 
 - [ ] **🟡 [Family]** **Locate the contractor text messages dated 9/13/2021** establishing the gutter-replacement timeline. `ClaimTimeline.md` Missing Documentation entry #5.
 
-- [ ] **🟡 [Family]** **Reproduce the family's damage documentation handed to Prieve on 10/9/2024.** If the originals are in Prieve's file (recoverable through discovery), re-create them from the family's photographs and notes. `ClaimTimeline.md` Missing Documentation entry #8.
+- [x] **🟢 [Family]** **Family's damage documentation handed to Prieve on 10/9/2024 — located.** The family's retained copy is now in the project folder as `EventDocuments/WindowsDamage.pdf` (72-page photo catalog). `ClaimTimeline.md` Missing Documentation entry #8 resolved 2026-06-14. Remaining step: in discovery, obtain Farmers'/Prieve's work file and compare it against `WindowsDamage.pdf` to confirm what the family handed over was received and considered.
 
 - [ ] **🟡 [Family]** **Obtain a copy of the FOX9 weather records** the family requested on 6/8–6/9/2025. `ClaimTimeline.md` Missing Documentation entry #6. (FOX9 did not respond; this may not be obtainable.)
 

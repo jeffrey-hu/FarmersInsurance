@@ -250,7 +250,7 @@ The deposition is broader than the interrogatories. Farmers' counsel will have y
 
 **Farmers will ask:** What did Prieve do on 10/9/2024? Did you give him documentation? Did you discuss his methodology? Did you receive the 11/4 denial? Read it? Understand it? What was your response?
 
-**How to handle:** Document what you observed. You handed Prieve a damage-documentation binder (`ClaimTimeline.md` Missing Documentation #8). The 11/4 denial rests on Prieve's report; the family disputes its factual premises (NWS evidence; City permits; neighbor canvass).
+**How to handle:** Document what you observed. You handed Prieve a damage-documentation binder (your retained copy is `EventDocuments/WindowsDamage.pdf`). The 11/4 denial rests on Prieve's report; the family disputes its factual premises (NWS evidence; City permits; neighbor canvass).
 
 **Traps:**
 - **The "you do not have the engineering training to disagree with Prieve" trap:** Counter: you do not need engineering training to point out that NWS records, City permits, and a 14-of-19 neighbor canvass contradict Prieve's "no hail after 2020" assertion. Those are public records, not engineering opinions.
