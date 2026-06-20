@@ -52,6 +52,22 @@ Senco is defunct, and the three different stamp years (1993/1997/2008) on a sing
 
 ---
 
+## 2.7 The baseline generalizes beyond the dining room — the 2020 file caps "prior" damage home-wide
+
+The sash-by-sash analysis above is the dining-room *application* of a broader fact that should be pleaded in its own right: **Farmers' 2020 inspection documented hail dents on only two sashes and recorded no other dented sash or window anywhere on the home.** Because that record is Farmers' own contemporaneous documentation, it is a party-admission baseline of the property's window condition as of 10/13/2020 — not merely the family's account.
+
+Two consequences follow, and they reach every window, not just the dining room:
+
+1. **Affirmative causation engine.** Any dent the 2024 inspections documented on a sash *other than* the two paid in 2020 is, by Farmers' own baseline, post-2020 damage. The only documented hail event at the property after 10/13/2020 is the 7/13/2024 storm. So the baseline does the family's causation work across the ~19 windows Prieve catalogs: the argument shifts from "prove these are hail dents" to "Farmers' own file proves these dents were not present in 2020."
+
+2. **The "prior claim" basket is capped at two sashes.** Prieve attributes "rounded dents … at sashes" on multiple windows to "a prior hail claim." That basket cannot hold more sashes than Farmers' 2020 record documented — i.e., two. Every additional sash Prieve assigns to "prior" is contradicted by Farmers' own file. This generalizes the § 2.2 "false premise" point from the dining-room window to the whole home and feeds the bad-faith / pretext theory (§ 604.18) and the MCFA count.
+
+**Precision caveat (do not overstate).** Plead the defensible version — "the 2020 inspection documented hail dents *warranting repair* on only two sashes, and the settlement compensated only those two; no other window or sash was *identified as hail-damaged*" — rather than a flat "no dents existed anywhere." The reason is § 4.3 of `EngineerReportRebuttal.md`: Prieve found a trim-board chip (A-53) visible in Farmers' 2020 *photo log* that the 2020 *Xactimate* did not pay. Trim is neither a sash nor a window, so it does not contradict the careful phrasing — but it shows the 2020 photo log and the 2020 payment scope are **not coextensive**. Confirm the exact per-sash scope against the actual 2020 Xactimate + photo log (RFP A.2) before filing. If the photo log shows additional dents, that supports a *separate* 2020-underpayment argument but undercuts a flat "no other dents" allegation.
+
+**Where this is now pleaded.** Folded into the complaint drafts: `Draft_Complaint_V4.md` ¶ 23 (restructured as a baseline-admission allegation with subparts (a)–(e)), with cross-references added at ¶ 49(a) (Quade-reservation lane) and ¶ 52 (good-faith/§ 604.18 list); mirrored at `Draft_Complaint_v2_Balanced.md` ¶¶ 21b, 42(a), 44 and `Draft_Complaint_v3_Comprehensive.md` ¶¶ 9a(d), 19(a), 20.
+
+---
+
 ## 3. The Decisive Move and Next Steps
 
 1. **Pull the 2020 claim file (Xactimate + photo log)** and establish, sash by sash, exactly what was paid — proving that two of the three dining-room sashes were never compensated. This is the factual kill-shot and a priority discovery target (`EngineerReportRebuttal.md` § 4.4; `DiscoveryPlan.md` RFP A.2).
