@@ -252,7 +252,7 @@ Mr. Prieve's deposition confirmed that he did not analyze the 7/13–7/14/2024 s
 
 #### D. Multi-Round Storms Produce Multi-Directional Impacts
 
-Plaintiffs' forensic engineer's affidavit explains that multi-round convective storm events — like the 7/13–7/14/2024 event documented by the NWS — can produce hail impacts from multiple directions on the same structure. *(Ex. 17.)* Damage on the east elevation — including the rear/east B1.2 window Defendant's own panel awarded as a hail loss — is consistent with such multi-directional impact patterns. Mr. Prieve's report does not engage with this analysis.
+Plaintiffs' forensic engineer's affidavit explains that multi-round convective storm events — like the 7/13–7/14/2024 event documented by the NWS — can produce hail impacts from multiple directions on the same structure. *(Ex. 17.)* Indeed, wind direction is not fixed even within a single storm: surface winds veer and back as a thunderstorm cell approaches, passes, and departs, and gust fronts, outflow boundaries, and a rotating updraft drive hail toward different faces of a structure at different moments of the same event. *(Ex. 17.)* Damage on the east elevation — including the rear/east B1.2 window Defendant's own panel awarded as a hail loss — is consistent with such multi-directional impact patterns. Mr. Prieve's report does not engage with this analysis.
 
 #### E. The Relief Sought
 
