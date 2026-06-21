@@ -150,9 +150,9 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
 ### J. Manufacturer Discontinuation of the Insured Windows
 
-35. The insured windows are, on information and belief, manufactured by Semco Windows and Doors of Merrill, Wisconsin, with manufacturer stamps in the sashes from 1993, 1997, and 2008. *(Verification flag: Defendant's 9/18/2025 email refers to "Senco"; Plaintiffs' account refers to "Semco"; this identification needs cleanup before filing.)*
+35. The insured windows are, on information and belief, manufactured by Semco Windows and Doors of Merrill, Wisconsin, with manufacturer stamps in the sashes from 1993, 1997, 2008, and 2014; the front dining-room window's three sashes are all stamped 2008, and the awarded family-room window includes a 2014 sash matching that window's other sashes, while Defendant's September 18, 2025 description listed only the 1993, 1997, and 2008 stamps, omitting the 2014 sash. *(Verification flag: Defendant's 9/18/2025 email refers to "Senco"; Plaintiffs' account refers to "Semco"; this identification needs cleanup before filing.)*
 
-36. Semco Windows and Doors ceased operations on December 31, 2019. Sierra Pacific Windows acquired Semco's operating assets in February 2020. On information and belief, current-production matching profiles for the family's specific 1993, 1997, and 2008 sash stamps are not available, requiring use of comparable current-production extruded aluminum equivalents (such as Pella Reserve Traditional or Marvin Ultimate, identified by Plaintiffs and their contractor on June 12, 2025) for any replacement.
+36. Semco Windows and Doors ceased operations on December 31, 2019. Sierra Pacific Windows acquired Semco's operating assets in February 2020. On information and belief, current-production matching profiles for the family's specific 1993, 1997, 2008, and 2014 sash stamps are not available, requiring use of comparable current-production extruded aluminum equivalents (such as Pella Reserve Traditional or Marvin Ultimate, identified by Plaintiffs and their contractor on June 12, 2025) for any replacement.
 
 ---
 

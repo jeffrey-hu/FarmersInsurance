@@ -244,7 +244,7 @@ The report does not calculate terminal velocity for any hail size at the subject
 
 ### 6.3 No material-specific dent-depth modeling
 
-The report does not specify the material composition of the windows in question (extruded aluminum, aluminum-clad wood, vinyl-clad wood, etc.), and does not apply material-specific dent-depth thresholds. The family later identified the windows as extruded aluminum and the manufacturer as Senco/Semco, with sash stamps from 1993, 1997, and 2008. Extruded aluminum windows have well-documented hail-dent signatures; the report does not engage with them.
+The report does not specify the material composition of the windows in question (extruded aluminum, aluminum-clad wood, vinyl-clad wood, etc.), and does not apply material-specific dent-depth thresholds. The family later identified the windows as extruded aluminum and the manufacturer as Senco/Semco, with sash stamps from 1993, 1997, 2008, and 2014. The 2014 sash sits on the awarded family-room window (B1.2) and, per the family, matches that window's other sashes in hardware and appearance; the front dining-room window's three sashes are all stamped 2008. Yet the appraiser's September 18, 2025 description listed manufacturer stamps of only 1993, 1997, and 2008, omitting the 2014 sash — an incompleteness in the description that extends even to a window the panel evaluated and awarded. Extruded aluminum windows have well-documented hail-dent signatures; the report does not engage with them.
 
 ### 6.4 No peer-reviewed citations
 
@@ -260,7 +260,7 @@ The report concludes that observed dents are from "blunt object other than hail"
 
 - The specific blunt-object event(s) that would have produced the dents.
 - Why "blunt object" damage would correlate spatially with the same windows that sustained hail damage in prior claims.
-- Why "installation-period" damage would appear at the same window locations across multiple windows of different manufacturer stamp dates (1993, 1997, 2008).
+- Why "installation-period" damage would appear at the same window locations across multiple windows of different manufacturer stamp dates (1993, 1997, 2008, 2014).
 - Why the family's documented contemporaneous record contains no event consistent with widespread blunt-object damage to a home's exterior.
 
 ### 6.7 What discovery and deposition should establish

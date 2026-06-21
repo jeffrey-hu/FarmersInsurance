@@ -195,7 +195,7 @@ The Prieve Report does not satisfy any of the four pillars of foundationally rel
 
 7.1 [If the family expert has performed a site inspection, summarize the findings here. Otherwise, omit and indicate that a full window-by-window analysis will be presented at the time of expert disclosure.]
 
-7.2 The subject property at 17756 George Moran Drive, Eden Prairie, Minnesota, is a residential structure with extruded-aluminum windows manufactured by Senco / Semco. The window stamps observed include dates of 1993, 1997, and 2008.
+7.2 The subject property at 17756 George Moran Drive, Eden Prairie, Minnesota, is a residential structure with extruded-aluminum windows manufactured by Senco / Semco. The window stamps observed include dates of 1993, 1997, 2008, and 2014.
 
 7.3 The 7/13–7/14/2024 storm event documented by the NWS produced hail conditions at the subject property consistent with the dent damage observed by Mr. Prieve and documented in the Photo Appendix to his Report.
 

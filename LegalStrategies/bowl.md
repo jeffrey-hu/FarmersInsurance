@@ -96,7 +96,7 @@ The drafts rely on specific provisions of the policy and endorsements. Each must
 
 The "manufacturer defunct" predicate for matching arguments under E2 / E3 / E4 / A1 Track 2 turns on resolving an unresolved factual question.
 
-- [ ] **🔴 [Family]** **Capture full-resolution photographs of the manufacturer stamps** on the existing window sashes (the 1993, 1997, and 2008 stamps Farmers identified). Stamps must be legible.
+- [ ] **🔴 [Family]** **Capture full-resolution photographs of the manufacturer stamps** on the existing window sashes (the 1993, 1997, and 2008 stamps Farmers identified, **and especially the 2014 stamp on the awarded family-room window that Farmers' 9/18/2025 description omitted**). Stamps must be legible.
 
 - [ ] **🔴 [Both]** **Determine definitively whether the windows are Senco or Semco.** Defendant's 9/18/2025 email said "Senco." Plaintiffs' account said "Semco." The two are different companies with different status (Senco Industries appears to be a going concern; Semco Windows and Doors of Merrill, WI ceased operations 12/31/2019, with Sierra Pacific Windows acquiring assets in February 2020). *(E2 § 3.4, § 3.7.)*
 

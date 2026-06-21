@@ -231,7 +231,7 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 
 **Key facts to establish:**
 - The expert's qualifications.
-- The Senco / Semco window identification (manufacturer stamps from 1993, 1997, 2008).
+- The Senco / Semco window identification (manufacturer stamps from 1993, 1997, 2008, and 2014).
 - The operational status of Semco Windows and Doors (defunct since 2019 per family account; needs independent verification per `bowl.md`).
 - Sierra Pacific Windows or successor-entity inquiry — whether any current manufacturer produces compatible windows.
 - The Pella Reserve Traditional and Marvin Ultimate equivalency analysis (per `EventDocuments/CommunicationWithPureConstruction/Reserve-Traditional.pdf`).

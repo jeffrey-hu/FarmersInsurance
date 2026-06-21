@@ -377,7 +377,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 *Key facts established in this chain:*
 - **2020 claim number confirmed:** 3013539499-1, loss date 09/05/2020
 - **Approved windows identified:** F1.7 = 1-sash window at corner of stairs, facing front; B1.2 = 3-sash window in family room, facing back
-- **Window manufacturer:** Senco; sash stamps dated 1993, 1997, 2008
+- **Window manufacturer:** Senco/Semco; sash stamps dated 1993, 1997, 2008, and 2014 (dining-room window's three sashes all 2008; the awarded family-room window B1.2 includes a matching 2014 sash that Farmers' 9/18/2025 description omitted)
 - **Appraiser error:** Farmers' appraiser (Greg Tomes) initially described approved windows as being in the dining room, later acknowledged this was a mistake — but his corrected report conflicts with the executed Appraisal Award form, raising questions about the integrity of the award
 - **No Nic Brau report:** Farmers claims the file "does not contain a report" from Nic Brau's 9/6/2024 inspection — the inspection where Nic personally found dents alongside the family and measured window dimensions. Nic Brau himself refused to provide his notes, stating "all the information we can release has already been sent to you."
 - **2020 sash positions never produced:** Despite multiple specific requests, Farmers never identified which 2 sashes were approved in the 2020 claim — information critical to establishing that current window damage is newer

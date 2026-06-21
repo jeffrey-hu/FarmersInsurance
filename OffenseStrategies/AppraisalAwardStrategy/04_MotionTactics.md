@@ -171,7 +171,8 @@ and SHALL:
     (v)   manufacturer name and any visible manufacturer stamp date; and
     (vi)  for any multi-sash window, EACH SASH individually, identified by
           position and by its visible manufacturer stamp date (e.g., the
-          three sashes stamped 1993, 1997, and 2008).
+          front dining-room window's three sashes, all stamped 2008, and
+          the awarded family-room window's sash stamped 2014).
 
 (b) STATE SEPARATELY, for each window or item identified under (a) — and,
     for any multi-sash window, for EACH SASH identified under (a)(vi) —

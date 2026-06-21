@@ -85,7 +85,7 @@ Defendant will argue that the 9/12/2025 appraisal "resolved or confirmed" the cl
 J6944 (Limited Matching of Undamaged Property) is an exclusion-style endorsement; Defendant bears the burden of proving its application. *Cedar Bluff Townhome Condo. Ass'n v. American Family Mutual Insurance Co.*, 857 N.W.2d 290 (Minn. 2014), supports the matching obligation under "comparable material and quality"; *Noonan v. American Family Mutual Insurance Co.*, 929 F.3d 633 (8th Cir. 2019), is adverse. To carry the J6944 defense, Farmers must:
 
 - Brief the textual scope of J6944's three gates (damage-gate, reason-gate, diminution-gate) against the family's *Cedar Bluff*-based contrary reading.
-- Procure a window-matching expert to opine on (a) availability of replacement windows compatible with the existing 1993/1997/2008 Senco/Semco stock, (b) the Pella Reserve Traditional vs. Marvin Ultimate equivalency question identified in the family's 6/12/2025 communications, and (c) the "obsolescence or discontinuation" gate at J6944(1)(iii).
+- Procure a window-matching expert to opine on (a) availability of replacement windows compatible with the existing 1993/1997/2008/2014 Senco/Semco stock (including the matched 2014 sash on the awarded family-room window), (b) the Pella Reserve Traditional vs. Marvin Ultimate equivalency question identified in the family's 6/12/2025 communications, and (c) the "obsolescence or discontinuation" gate at J6944(1)(iii).
 - Defend or controvert the family's "Semco out of business since 2019" factual claim, which requires independent verification work.
 - Reconcile the J6944 buy-back election (if any was offered) against the buy-back-election text in the endorsement.
 
