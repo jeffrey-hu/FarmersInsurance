@@ -78,7 +78,7 @@ Underwriters Association
 
 ### C. Discovery of Damage and Claim Opening
 
-13. On August 9, 2024, Mary of Legacy contractor contacted Plaintiffs about a leaking window. On August 13, 2024, Jack of Legacy visited the property, identified dents on the windows, and assisted Plaintiffs in opening a claim with Defendant. Defendant assigned the claim number 7007986837-1-1.
+13. On August 9, 2024, Mary of Legacy contractor contacted Plaintiffs to check whether recent storms had caused damage to the property, and Plaintiffs discovered a leaking window. On August 13, 2024, Jack of Legacy visited the property, identified dents on the windows, and assisted Plaintiffs in opening a claim with Defendant. Defendant assigned the claim number 7007986837-1-1.
 
 14. Plaintiffs cooperated with Defendant's claim-handling process throughout. Plaintiffs called Defendant for a status update on August 19, 2024 and proactively contacted Hancock Claims Consultants, Defendant's chosen inspection vendor, on August 20, 2024.
 

@@ -32,7 +32,7 @@
 **07/13/2024 — LOSS DATE.** Hailstorm strikes Eden Prairie. NWS records confirm multiple rounds of severe thunderstorms across Minnesota with hail up to 4" in diameter; Eden Prairie ASOS station recorded a 48 MPH wind gust at 1:00 AM on July 14.
 📄 `Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf`
 
-**08/09/2024 — Mary from Legacy (contractor) contacts the family.** Window leaking discovered.
+**08/09/2024 — Mary from Legacy (contractor) contacts the family to check whether recent storms had caused damage.** Window leaking discovered.
 
 **08/13/2024 — Jack from Legacy visits the property.** Finds dents on windows. Helps the family open the claim with Farmers.
 

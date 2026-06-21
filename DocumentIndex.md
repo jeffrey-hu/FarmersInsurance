@@ -176,7 +176,7 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 *Photo evidence:* Family's own photos of dents at: west-facing second floor bedroom (above dining room), family room windows, four-season porch, master bedroom. Also identifies photos from Prieve's own appendix (A-39 through A-179) that they argue show hail damage Prieve improperly dismissed.
 
 *Complete claim timeline (page 13):*
-- 8/9/2024: "Mary of Legacy" called; found window leaking
+- 8/9/2024: "Mary of Legacy" called check if there is damage from recent storms; and we found window leaking
 - 8/13/2024: "Jack of Legacy" visited; found dent; helped open claim
 - 8/29/2024: Jayden Grimm of Hancock Claims Consultants performed first inspection
 - 9/3/2024: **First denial** — Farmers called and denied the claim (before Prieve was hired)

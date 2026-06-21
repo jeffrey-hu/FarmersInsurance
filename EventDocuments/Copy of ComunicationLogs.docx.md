@@ -1,6 +1,6 @@
 **Activities regarding the claim**
 
-* On 8/9/2024: Mary of Legacy called us. We found the leaking to the windows.  
+* On 8/9/2024: Mary of Legacy called us to check if there is damage from recent storms. We found the leaking to the windows.  
 * 0n 8/13/2024: Jack from Legacy stopped by our property. He also found a dent to the windows and helped us to open the claim with Farmers.  
 * On 8/19/2024: we called Farmers for status update.  
 * On 8/19/2024: Farmers called back and told us that the Inspection will be done by Hancock Claims Consultants.  
