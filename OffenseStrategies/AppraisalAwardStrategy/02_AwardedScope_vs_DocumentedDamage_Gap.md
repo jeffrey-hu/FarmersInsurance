@@ -18,7 +18,7 @@
 |---|---|---|
 | **Appraisal Demand (family's submitted scope)** | 3 items: Windows, Siding (repaint), Siding (R&R) | $310,000 whole loss claimed |
 | **Appraisal Award (panel's output)** | "Siding & Paint" — **$0** RCV; "Windows F1.7 B1.2" — **$12,800** RCV / $6,400 ACV; "Siding" — **$0** RCV | $12,800 RCV / $6,400 ACV |
-| **Prieve Appendix A (Farmers' own engineer's documented damage)** | at least 19 distinct windows (plus a sliding door) with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 2 siding penetrations; 3 trim board chips; 1 door window screen dent | Not quantified by Prieve (not his scope) |
+| **Prieve Appendix A (Farmers' own engineer's documented damage)** | at least 19 distinct windows (plus a sliding door) with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 3 trim board chips; 1 door window screen dent *(the 2 siding penetrations A-26/A-27 and A-208/A-212 are excluded as prior-hail-storm damage)* | Not quantified by Prieve (not his scope) |
 
 The award represents approximately **4% of the demanded loss**, and the awarded RCV is **less than 75% of the deductible**, producing $0 net payment.
 
@@ -44,11 +44,13 @@ The family demanded "Windows" with no further qualification. The panel awarded "
 
 ### 2.2 Siding — the gap
 
+> ⚠️ **REVIEW FLAG (prior-storm siding penetrations):** The 2 siding penetrations have been reclassified as PRIOR-hail-storm damage and removed from this claim's counts. The argument text below (and its reliance on "2 photographed penetrations") still references them and needs your review/rework — left intact per instruction.
+
 The family demanded "Siding (repaint)" and "Siding (R&R)" as separate items. The panel awarded $0 on both.
 
 | Sub-frame | Count |
 |---|---|
-| Distinct siding penetrations Prieve documented in Appendix A | **2** (A-26/A-27 below NE bedroom; A-208/A-212 below upper east bedroom NE quadrant) |
+| Distinct siding penetrations Prieve documented in Appendix A | **0 for this claim** — A-26/A-27 and A-208/A-212 are attributed to a PRIOR hail storm and excluded |
 | Distinct trim board damage observations Prieve documented | **3** (A-53 front bump-out — visible in 2020 photo log; A-90 south projection; A-148 east bay) |
 | Distinct flashing damage observations Prieve documented (flashing is part of the wall/siding system at the deck interface) | **3** (A-103, A-128, A-129 — all at deck along wall base) |
 | Siding amount awarded by the panel | **$0** RCV / **$0** ACV |

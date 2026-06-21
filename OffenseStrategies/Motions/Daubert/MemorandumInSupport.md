@@ -22,7 +22,7 @@ d/b/a FARMERS INSURANCE,
 
 Plaintiffs Yibiao Lu and Jie Hu respectfully submit this Memorandum in Support of their Motion to Limit the Expert Testimony of Nathan Prieve, P.E., of Prieve Engineering LLC, pursuant to Minn. R. Evid. 702.
 
-This Motion seeks not to exclude Mr. Prieve in his entirety, but to narrow his trial testimony to the matters for which his report demonstrates foundational reliability. Specifically, the Motion targets four categories of opinions in Mr. Prieve's report dated November 4, 2024 (Prieve Engineering File #241008) that do not satisfy Rule 702: (i) his weather-records assertion that no hail occurred in Eden Prairie after 2020; (ii) his causation opinions on individual windows reached without quantitative methodology; (iii) his directional generalization on the east-siding penetration; and (iv) his attribution of observed damage to wear/tear or to the 2020 storm event.
+This Motion seeks not to exclude Mr. Prieve in his entirety, but to narrow his trial testimony to the matters for which his report demonstrates foundational reliability. Specifically, the Motion targets four categories of opinions in Mr. Prieve's report dated November 4, 2024 (Prieve Engineering File #241008) that do not satisfy Rule 702: (i) his weather-records assertion that no hail occurred in Eden Prairie after 2020; (ii) his causation opinions on individual windows reached without quantitative methodology; (iii) his directional generalization dismissing east-facing damage; and (iv) his attribution of observed damage to wear/tear or to the 2020 storm event.
 
 Mr. Prieve will remain free at trial to testify to his professional qualifications, to his factual observations of dents at nineteen or more window locations (plus a sliding door) during his October 9, 2024 inspection, and to any opinions for which his methodology meets Rule 702's foundational-reliability standard. The relief requested is narrowly tailored to exclude only those opinions whose foundation has been demonstrated, through discovery and through the deposition of Mr. Prieve, to be inadequate under controlling Minnesota law.
 
@@ -58,9 +58,9 @@ Mr. Prieve's report makes four categories of contested assertions:
 
 **1. The "No Hail After 2020" Assertion.** In the report's "Weather Records" section, Mr. Prieve states that "[t]he most recent hail in Eden Prairie [was] reported in 2020" based on his summary of the Stormersite database and the NOAA Storm Events Database. *(Ex. 1 at p. 9.)*
 
-**2. Window-By-Window Damage Observations and Causation Opinions.** Mr. Prieve's narrative documents observed dents, marks, and indentations at nineteen or more distinct windows (plus a sliding door) across the home: the front/west triple window above the main entry, the upper-west 3-unit bedroom window (Photo A-45), the upper southwest bedroom window (A-64), the east family-room bay projection (A-107, A-113, A-121), the upper-east window above the four-season porch (A-163), the four-season porch SE/E/NE/N windows (A-165, A-166, A-174), the kitchen east window, the main-level NE 3-unit window (A-199, A-201), the upper-north window above the kitchen, the rear/east garage window, and an east-siding penetration (A-26, A-27, A-212). *(Ex. 1 at pp. 4–9.)* Despite documenting damage across the home, Mr. Prieve concluded that the damage was not consistent with hail.
+**2. Window-By-Window Damage Observations and Causation Opinions.** Mr. Prieve's narrative documents observed dents, marks, and indentations at nineteen or more distinct windows (plus a sliding door) across the home: the front/west triple window above the main entry, the upper-west 3-unit bedroom window (Photo A-45), the upper southwest bedroom window (A-64), the east family-room bay projection (A-107, A-113, A-121), the upper-east window above the four-season porch (A-163), the four-season porch SE/E/NE/N windows (A-165, A-166, A-174), the kitchen east window, the main-level NE 3-unit window (A-199, A-201), the upper-north window above the kitchen, and the rear/east garage window. *(Ex. 1 at pp. 4–9.)* Despite documenting damage across the home, Mr. Prieve concluded that the damage was not consistent with hail.
 
-**3. The Directional Generalization.** In Conclusion 4, Mr. Prieve states that the east-siding penetration cannot have been caused by hail because "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction. The penetration in siding appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)*
+**3. The Directional Generalization.** In Conclusion 4, Mr. Prieve invokes a west-origin storm generalization to dismiss east-facing damage as non-hail: "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction. The penetration in siding appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)* Defendant's own 9/12/2025 appraisal, however, awarded a rear/east window (B1.2, family room) as a hail loss alongside a front/west window (F1.7) — confirming hail damage on the east elevation notwithstanding the supposed westerly origin.
 
 **4. The Wear/Tear and 2020-Already-Paid Causation Theory.** Mr. Prieve's conclusions attribute the observed damage to wear/tear or to the 2020 storm event, with the 11/4/2024 denial letter (relying on Prieve) citing six exclusions on this basis: wear/tear, marring, corrosion/deterioration/decay/rust, inherent vice or latent defect, neglect/lack of maintenance, and faulty/defective construction. *(Ex. 1 at p. 3.)*
 
@@ -93,7 +93,7 @@ On ____________, 2026, Plaintiffs deposed Mr. Prieve under subpoena. The deposit
 - Mr. Prieve was retained by Defendant after the 9/3/2024 denial and after Plaintiffs had submitted rebuttal photographs. *(Ex. 7, Prieve Dep. Tr. at [pages].)*
 - Mr. Prieve's report relies on the Stormersite database and the NOAA Storm Events Database for the "no hail after 2020" assertion, but he did not consult the NWS Twin Cities/Chanhassen Forecast Office, the Eden Prairie ASOS station records, City of Eden Prairie permit records, or local news archives. *(Id. at [pages].)*
 - Mr. Prieve did not perform any quantitative impact-force analysis, terminal-velocity calculations, material-specific dent-depth modeling, or peer-reviewed methodological comparison in his evaluation of individual windows. *(Id. at [pages].)*
-- Mr. Prieve's directional generalization on the east-siding penetration was not informed by analysis of the actual 7/13–7/14/2024 multi-round storm event. *(Id. at [pages].)*
+- Mr. Prieve's directional generalization dismissing east-facing damage was not informed by analysis of the actual 7/13–7/14/2024 multi-round storm event. *(Id. at [pages].)*
 - Mr. Prieve was aware that Defendant's 2020 Xactimate scope approved only two casement windows, yet his report attributes damage at nineteen or more locations (plus a sliding door) to the 2020 storm event without reconciling this discrepancy. *(Id. at [pages].)*
 
 ---
@@ -230,29 +230,33 @@ The Court should exclude:
 
 ---
 
-### III. Mr. Prieve's Directional Generalization on the East-Siding Penetration Lacks Foundational Reliability and Should Be Excluded
+### III. Mr. Prieve's Directional Generalization (Conclusion 4) Lacks Foundational Reliability and Should Be Excluded
 
-In Conclusion 4 of his report, Mr. Prieve states that the east-siding penetration cannot have been caused by hail because "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction. The penetration in siding appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)*
+In Conclusion 4 of his report, Mr. Prieve invokes a generalized storm direction to dismiss east-facing damage as non-hail: "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction. The penetration in siding appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)* The same west-origin premise underlies Mr. Prieve's treatment of damage on the east elevation of the dwelling generally. (The siding penetration Mr. Prieve referenced has since been excluded from Plaintiffs' claim as attributable to a prior storm; the analysis below addresses the foundational reliability of the directional reasoning itself, which is independently refuted by Defendant's own award.)
 
-This conclusion rests on three foundationally unsupported propositions, each independently fatal under Rule 702.
+This conclusion rests on foundationally unsupported propositions, each independently fatal under Rule 702.
 
-#### A. Generalized Directional Patterns Cannot Substitute for Storm-Specific Analysis
+#### A. Defendant's Own Binding Appraisal Award Confirms Hail Damage on the East Elevation
+
+The directional premise is refuted by Defendant's own appraisal. The 9/12/2025 award covered two windows on opposite elevations of the home — **F1.7 on the front (west) elevation and B1.2 in the rear (east) family room.** By awarding the rear/east B1.2 window as a hail loss, Defendant's own appraisal panel confirmed that hail damaged the **east** face of the dwelling. Under *Quade v. Secura Ins.*, 814 N.W.2d 703 (Minn. 2012), that causation finding is binding on Defendant. Mr. Prieve's premise that hail at this property originates only from the west — and therefore cannot have struck the east elevation — is thus contradicted by Defendant's own binding award. An expert opinion whose central factual premise is foreclosed by the proponent's own appraisal award cannot satisfy the reliability requirements of Rule 702.
+
+#### B. Generalized Directional Patterns Cannot Substitute for Storm-Specific Analysis
 
 Mr. Prieve's conclusion treats "recent storm activity in the area generally" as if it were applicable to the specific 7/13–7/14/2024 storm event. It is not. The NWS storm report documents the 7/13–7/14/2024 event as a multi-round series of severe thunderstorms — not a single, unidirectional storm. *(Ex. 4.)* The storm produced large hail across a wide swath of east-central Minnesota with directional variation typical of multi-round convective systems. *(Id.)*
 
 An expert opinion on the cause of damage at a specific location during a specific storm event must rest on analysis of that storm event — not on a generalization about typical storm patterns in the region. Mr. Prieve's report contains no such storm-specific analysis.
 
-#### B. The Generalization is Not Supported by the Record
+#### C. The Generalization is Not Supported by the Record
 
 Mr. Prieve's deposition confirmed that he did not analyze the 7/13–7/14/2024 storm's specific path, hail-producing cells, or wind patterns. *(Ex. 7 at [pages].)* The generalization that "recent storm activity ... generally consists of storms moving from west to east" was not informed by data about the actual storm. It is a regional climatological observation, not a forensic analysis.
 
-#### C. Multi-Round Storms Produce Multi-Directional Impacts
+#### D. Multi-Round Storms Produce Multi-Directional Impacts
 
-Plaintiffs' forensic engineer's affidavit explains that multi-round convective storm events — like the 7/13–7/14/2024 event documented by the NWS — can produce hail impacts from multiple directions on the same structure. *(Ex. 17.)* The east-siding penetration is consistent with such multi-directional impact patterns. Mr. Prieve's report does not engage with this analysis.
+Plaintiffs' forensic engineer's affidavit explains that multi-round convective storm events — like the 7/13–7/14/2024 event documented by the NWS — can produce hail impacts from multiple directions on the same structure. *(Ex. 17.)* Damage on the east elevation — including the rear/east B1.2 window Defendant's own panel awarded as a hail loss — is consistent with such multi-directional impact patterns. Mr. Prieve's report does not engage with this analysis.
 
-#### D. The Relief Sought
+#### E. The Relief Sought
 
-The Court should exclude Mr. Prieve's conclusion that the east-siding penetration cannot have been caused by hail because of a generalized west-to-east storm direction. Mr. Prieve may testify, if he chooses, to his factual observation of the east-siding penetration (as documented in his report at photos A-26, A-27, A-212). He may not opine that hail could not have caused it without storm-specific analysis demonstrating foundational reliability.
+The Court should exclude Mr. Prieve's conclusion that east-facing damage cannot have been caused by hail because of a generalized west-to-east storm direction. Mr. Prieve may testify, if he chooses, to his factual storm-direction observations, but he may not opine that hail could not have caused damage on the east elevation without storm-specific analysis demonstrating foundational reliability — particularly where Defendant's own appraisal award confirms hail damage on that elevation (B1.2).
 
 ---
 
@@ -299,7 +303,7 @@ The Motion targets only four specific categories of opinions — each shown to l
 
 - The "no hail after 2020" assertion (Argument I);
 - Causation opinions reached without quantitative methodology (Argument II);
-- The directional generalization on the east-siding penetration (Argument III);
+- The directional generalization dismissing east-facing damage (Argument III);
 - The wear/tear and 2020-already-paid causation theory (Argument IV).
 
 The relief is tailored to the defects. Mr. Prieve may continue to testify to everything else. This is not an attempt to exclude expert testimony in its entirety; it is a request for the gatekeeping function the Minnesota Supreme Court has repeatedly affirmed under Rule 702.
@@ -314,7 +318,7 @@ Should the Court desire additional evidence on the foundational-reliability ques
 
 ## CONCLUSION
 
-For the reasons stated, Plaintiffs respectfully request that the Court grant the Motion to Limit Expert Testimony of Nathan Prieve and enter an Order in the form of the Proposed Order accompanying this Motion. Mr. Prieve's "no hail after 2020" assertion, his methodology-deficient causation opinions, his directional generalization on the east-siding penetration, and his wear/tear / 2020-already-paid causation theory each fail Rule 702's foundational-reliability requirement. The relief sought is narrow, tailored, and preserves Mr. Prieve's testimony to the extent it has foundation under the Rule.
+For the reasons stated, Plaintiffs respectfully request that the Court grant the Motion to Limit Expert Testimony of Nathan Prieve and enter an Order in the form of the Proposed Order accompanying this Motion. Mr. Prieve's "no hail after 2020" assertion, his methodology-deficient causation opinions, his directional generalization dismissing east-facing damage, and his wear/tear / 2020-already-paid causation theory each fail Rule 702's foundational-reliability requirement. The relief sought is narrow, tailored, and preserves Mr. Prieve's testimony to the extent it has foundation under the Rule.
 
 ```
 Dated: ____________                 Respectfully submitted,

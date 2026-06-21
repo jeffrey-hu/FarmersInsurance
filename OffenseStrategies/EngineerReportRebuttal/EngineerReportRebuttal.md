@@ -116,7 +116,7 @@ If hail has been reported "on multiple occasions in the area" — a statement Pr
 - **Background section (p. 5):** "Convective storm activity and hail have been reported on multiple occasions in the area of the subject structure." Multiple convective storm occasions, by ordinary meteorological understanding, do not all move in one direction.
 - **Conclusion 4 (p. 10):** "Recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction."
 
-The two statements are inconsistent: if storms occur "on multiple occasions," they statistically include rotating supercells, north-to-south frontal passages, and overnight squall lines (like the 7/13–7/14/2024 event with a 1:00 AM 48-MPH gust at Eden Prairie ASOS). The "generally west-to-east" gloss in Conclusion 4 is then used to dismiss the east-side siding penetration without any analysis of the specific 7/13–7/14/2024 storm.
+The two statements are inconsistent: if storms occur "on multiple occasions," they statistically include rotating supercells, north-to-south frontal passages, and overnight squall lines (like the 7/13–7/14/2024 event with a 1:00 AM 48-MPH gust at Eden Prairie ASOS). The "generally west-to-east" gloss in Conclusion 4 is then used to dismiss east-facing damage without any analysis of the specific 7/13–7/14/2024 storm. And the generalization is squarely contradicted by Farmers' own appraisal award, which awarded a **rear/east** window (B1.2, family room) alongside a **front/west** window (F1.7) — confirming hail damage on the east elevation notwithstanding the supposed westerly origin (see § 5.3).
 
 ### 3.3 "No recent hail damage" vs. the photo catalog of dents in Prieve's own appendix
 
@@ -208,16 +208,17 @@ This is a quantitative claim that requires a quantitative basis:
 
 The Prieve Report contains none of these. The Weather Records section (p. 9) lists Eden Prairie-area hail at "1.25" on June 19, 2015, 1.75" on July 25, 2017, 1" hail on September 6, 2020, and multiple reports on August 9, 2020 ranging from 1 to 2 inches." 2-inch hail is well above the conventional threshold for denting aluminum and aluminum-clad wood windows — there are peer-reviewed materials on this point (see `HailShapes/DocumentIndex.md`). Prieve's no-quantitative-analysis conclusion that 2-inch hail at this property is insufficient to dent the windows in question is not supported by any methodology shown in the report.
 
-### 5.3 The east-side siding penetration directionality fallacy
+### 5.3 The west-origin directionality fallacy
 
 Prieve Conclusion 4 (p. 10): "Recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction. The penetration in siding appears at the east side, opposite typical origination of hail in recent storm activity in the area. No repairs in our opinion are warranted to siding as relates to hail."
 
 This is the single weakest analytical statement in the report:
 
+- **Farmers' own binding appraisal award refutes the premise.** The 9/12/2025 appraisal awarded two windows on opposite elevations of the home — **F1.7 on the front (west) elevation and B1.2 in the rear (east) family room.** By awarding the rear/east B1.2 window as a hail loss, Farmers' own appraisal panel confirmed hail damage on the **east** side of the property. Under *Quade v. Secura Ins.*, 814 N.W.2d 703 (Minn. 2012), that causation finding is binding on Farmers. Prieve's premise that hail at this property originates only from the west is therefore contradicted by Farmers' own award — hail demonstrably damaged both the west and the east faces of the dwelling. (This point stands independently of the siding observations, which have been excluded from this claim as attributable to a prior storm.)
 - "Generally" is a probabilistic generalization being applied to a specific event without analysis of the specific event.
 - The 7/13–7/14/2024 storm was a multi-round, overnight thunderstorm system. The NWS report (`Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf`) documents multiple rounds of severe weather across Minnesota. Multi-round systems include rotating supercells, embedded mesocyclones, and outflow boundaries that produce multi-directional hail.
 - The 48-MPH gust recorded at Eden Prairie ASOS at 1:00 AM on 7/14 came at the end of an overnight line — wind direction at that moment is a fact, not a generality.
-- The east-siding penetration is one observation; the conclusion that it cannot be hail because hail "generally" comes from the west does not survive contact with the actual storm data.
+- The conclusion that east-facing damage cannot be hail because hail "generally" comes from the west does not survive contact with the actual storm data — or with Farmers' own east-side (B1.2) window award.
 
 ### 5.4 What discovery and deposition should establish
 

@@ -61,7 +61,7 @@ The Court should limit Mr. Prieve's testimony because specific opinions containe
    - the September 12, 2025 Appraisal Award, signed by neutral umpire Wade Roos, finding hail as the cause of loss for the awarded windows at the subject property; and
    - additional commercial weather-data records (Stormersite; Interactive Hail Maps) showing post-2020 hail reports in or near Eden Prairie.
 2. **Causation Opinions Without Quantitative Methodology.** Mr. Prieve's window-by-window causation opinions are reached without any quantitative impact-force analysis, terminal-velocity calculation, material-specific dent-depth modeling, or peer-reviewed methodological support — the rigor required for a foundationally reliable causation opinion under Rule 702 as construed in *Doe 76C v. Archdiocese of St. Paul and Minneapolis*, 817 N.W.2d 150 (Minn. 2012).
-3. **The Directional Generalization.** Mr. Prieve's conclusion that the east-siding penetration cannot have been caused by hail because "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction" rests on a generalization and does not engage with the actual multi-round, multi-directional 7/13–7/14/2024 storm event documented by the National Weather Service.
+3. **The Directional Generalization.** Mr. Prieve's conclusion that east-facing damage cannot have been caused by hail because "recent storm activity in the area generally consists of storms moving from west to east with hail originating from a westerly direction" rests on a generalization, does not engage with the actual multi-round, multi-directional 7/13–7/14/2024 storm event documented by the National Weather Service, and is contradicted by Defendant's own binding appraisal award — which awarded a rear/east window (B1.2, family room) as a hail loss alongside a front/west window (F1.7), confirming hail damage on the east elevation.
 4. **The Wear/Tear and 2020-Already-Paid Causation Theory.** Mr. Prieve's attribution of observed damage to wear/tear or to the 2020 storm event lacks foundational support. Defendant's own 2020 Xactimate scope on Claim No. 3013539499-1 approved only two (2) wood-casement windows. Mr. Prieve's report documents damage at nineteen or more distinct windows (plus a sliding door) across the property. The 2020 scope cannot account for damage at more than the two windows Defendant itself paid for in 2020, leaving Mr. Prieve's attribution of the remaining damage to wear/tear without any window-by-window quantitative or methodological support.
 
 ### II. Relief Sought
@@ -74,7 +74,7 @@ Plaintiffs respectfully request that the Court enter an Order:
 
 **C.** Excluding any opinion by Nathan Prieve attributing the observed damage to causes other than hail, including without limitation attribution to wear/tear, the 2020 storm event, marring, corrosion, inherent vice, neglect, or faulty construction, except to the extent such opinion is supported by quantitative analysis, terminal-velocity calculation, material-specific dent-depth modeling, or other foundationally reliable methodology under Minn. R. Evid. 702;
 
-**D.** Excluding Nathan Prieve's conclusion that the east-siding penetration cannot have been caused by hail because of a generalized west-to-east storm direction;
+**D.** Excluding Nathan Prieve's conclusion that east-facing damage cannot have been caused by hail because of a generalized west-to-east storm direction;
 
 **E.** Granting such other and further relief as the Court deems just and proper.
 
@@ -131,7 +131,7 @@ Based upon the foregoing, and being fully advised in the premises:
    a. That no hail occurred in Eden Prairie, Minnesota, at any time after 2020;
    b. That no hail occurred at or near the subject property at 17756 George Moran Drive, Eden Prairie, Minnesota, between the date of the 2020 hail claim (Claim No. 3013539499-1) and July 13, 2024;
    c. To causation opinions on individual windows or portions of the dwelling for which no quantitative impact-force analysis, terminal-velocity calculation, material-specific dent-depth modeling, or other foundationally reliable methodology was applied;
-   d. That the east-siding penetration cannot have been caused by hail because of a generalized west-to-east storm direction; or
+   d. That east-facing damage cannot have been caused by hail because of a generalized west-to-east storm direction; or
    e. To opinions attributing observed damage to wear/tear, the 2020 storm event, marring, corrosion, inherent vice, neglect, or faulty construction, except to the extent supported by foundationally reliable methodology under Minn. R. Evid. 702.
 
 3. Mr. Prieve MAY testify at trial:

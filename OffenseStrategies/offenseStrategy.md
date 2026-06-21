@@ -240,7 +240,7 @@ Defendant has positioned the case as fully resolved by the appraisal. Farmers mu
 
 23. **Defend any Defendant summary judgment motion on B2 and C3 vigorously.** B2's reliance vulnerability and C3's "in connection with the sale" hurdle are the principal targets. The reliance reframe in `B2.md` § 3.4 (appraisal-channel reliance; litigation-delay reliance) and the *Force* continuing-relationship reading for C3 are the answers.
 
-24. **Move in limine to exclude or limit Prieve's testimony.** Daubert-style attacks on (a) the "no hail in Eden Prairie after 2020" methodology; (b) the absence of quantitative impact analysis; (c) the unidirectional-hail generalization on the east-side siding penetration; (d) the failure to engage with NWS data available before the report was finalized.
+24. **Move in limine to exclude or limit Prieve's testimony.** Daubert-style attacks on (a) the "no hail in Eden Prairie after 2020" methodology; (b) the absence of quantitative impact analysis; (c) the unidirectional-hail generalization dismissing east-facing damage (refuted by Defendant's own award of the rear/east B1.2 window); (d) the failure to engage with NWS data available before the report was finalized.
 
 ### 4.5 Trial (if the case reaches trial)
 

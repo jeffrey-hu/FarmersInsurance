@@ -203,7 +203,7 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 *Block 4 — Critique of Prieve (30 minutes).*
 16. Methodology gaps in the Prieve report.
 17. The "no hail in Eden Prairie after 2020" factual error.
-18. The directional-generalization for the east-siding penetration.
+18. The directional-generalization dismissing east-facing damage (refuted by Defendant's own award of the rear/east B1.2 window).
 19. Confirmation-bias indicators (retention sequence; reliance on Hancock photos).
 
 **Exhibits:**

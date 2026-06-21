@@ -151,13 +151,13 @@ This omission is particularly significant because:
 
 ### 4.5 The Directional Generalization in Conclusion 4
 
-The Prieve Report's Conclusion 4 states that the east-siding penetration "appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)*
+The Prieve Report's Conclusion 4 invokes a west-origin storm generalization to dismiss east-facing damage, stating that the east-side observation "appears at the east side, opposite typical origination of hail." *(Ex. 1 at p. 10.)*
 
-This conclusion treats a generalized regional storm-pattern observation as if it were determinative for a specific storm event. It is not. The 7/13–7/14/2024 storm event documented by the NWS was a multi-round convective system. Multi-round storms produce hail impacts from multiple directions on the same structure. A foundationally reliable analysis of the east-siding penetration must engage with the actual storm-specific data — including the multi-round nature of the storm, the directional variation of the convective cells, and the localized wind patterns — and would model the expected directional pattern of hail impact at the subject property. The Prieve Report performs no such analysis.
+This conclusion treats a generalized regional storm-pattern observation as if it were determinative for a specific storm event. It is not. The 7/13–7/14/2024 storm event documented by the NWS was a multi-round convective system. Multi-round storms produce hail impacts from multiple directions on the same structure. A foundationally reliable analysis of east-facing damage must engage with the actual storm-specific data — including the multi-round nature of the storm, the directional variation of the convective cells, and the localized wind patterns — and would model the expected directional pattern of hail impact at the subject property. The Prieve Report performs no such analysis. Moreover, the directional premise is contradicted by Defendant's own appraisal award, which awarded a rear/east window (B1.2, family room) as a hail loss alongside a front/west window (F1.7) — demonstrating that hail in fact damaged the east elevation of the dwelling.
 
 ### 4.6 Summary
 
-The Prieve Report does not satisfy any of the four pillars of foundationally reliable hail-damage analysis. Storm-specific data analysis is incomplete; quantitative impact-force analysis is absent; material-specific damage modeling is absent; window-by-window analysis is absent. The Report's specific opinions — that no hail occurred in Eden Prairie after 2020, that the documented damage is not consistent with hail, that the east-siding penetration is not hail-caused, and that the damage is attributable to wear/tear or to the 2020 storm event — lack the methodological foundation required for foundationally reliable opinions under Minn. R. Evid. 702.
+The Prieve Report does not satisfy any of the four pillars of foundationally reliable hail-damage analysis. Storm-specific data analysis is incomplete; quantitative impact-force analysis is absent; material-specific damage modeling is absent; window-by-window analysis is absent. The Report's specific opinions — that no hail occurred in Eden Prairie after 2020, that the documented damage is not consistent with hail, that east-facing damage is not hail-caused, and that the damage is attributable to wear/tear or to the 2020 storm event — lack the methodological foundation required for foundationally reliable opinions under Minn. R. Evid. 702.
 
 ---
 
@@ -211,7 +211,7 @@ Based on the foregoing, I offer the following expert opinions:
 
 **Opinion 2.** The Prieve Report's window-by-window causation opinions lack foundational reliability because the underlying analysis omits quantitative impact-force analysis, terminal-velocity calculation, material-specific dent-depth modeling, and window-by-window comparison with peer-reviewed methodological standards.
 
-**Opinion 3.** The Prieve Report's Conclusion 4 (the directional generalization on the east-siding penetration) lacks foundational reliability because it relies on a generalized regional storm-pattern observation rather than on storm-specific analysis of the actual 7/13–7/14/2024 multi-round storm event.
+**Opinion 3.** The Prieve Report's Conclusion 4 (the directional generalization dismissing east-facing damage) lacks foundational reliability because it relies on a generalized regional storm-pattern observation rather than on storm-specific analysis of the actual 7/13–7/14/2024 multi-round storm event, and because its west-origin premise is contradicted by Defendant's own appraisal award confirming hail damage to a rear/east (B1.2) window.
 
 **Opinion 4.** The Prieve Report's attribution of damage to wear/tear or to the 2020 storm event lacks foundational reliability because the Report performs no window-by-window analysis to support the attribution and is mathematically incompatible with Defendant's own 2020 Xactimate scope (which approved only two casement windows).
 

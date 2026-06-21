@@ -34,7 +34,7 @@ A Daubert-style motion under Minn. R. Evid. 702 rarely results in the complete e
 1. **Exclude testimony or opinion that no hail occurred in Eden Prairie after 2020** or substantively similar. This assertion is the foundation of Prieve's report and is provably false on the record.
 2. **Limit Prieve to factual testimony about observations he personally made** on 10/9/2024 — particularly the dents he catalogued at 19+ window locations (plus a sliding door). (This is *helpful* to the family; it locks in Prieve's own concession that damage exists.)
 3. **Exclude Prieve's causation opinions on individual windows** where his report contains no quantitative methodology, no terminal-velocity calculation, no material-specific dent-depth modeling, and no peer-reviewed support.
-4. **Exclude the unidirectional-hail generalization on the east-siding penetration** as unsupported by analysis of the actual 7/13–7/14/2024 multi-round storm event.
+4. **Exclude the unidirectional-hail generalization dismissing east-facing damage** as unsupported by analysis of the actual 7/13–7/14/2024 multi-round storm event — and as contradicted by Defendant's own award of the rear/east B1.2 window.
 5. **Exclude the "wear/tear / 2020-already-paid" causation theory** as unsupported by any window-by-window analysis and contradicted by Farmers' own 2020 Xactimate scope (which approved only 2 casement windows).
 
 This is the achievable relief. Even partial success — say, an order excluding the "no hail after 2020" assertion and the directional generalization — materially weakens Farmers' position.
@@ -163,7 +163,7 @@ Farmers may argue the Daubert motion is really an attempt to undermine the merit
 The court orders Prieve excluded from testifying:
 - That no hail occurred in Eden Prairie after 2020;
 - To causation conclusions for individual windows without quantitative analysis;
-- To the directional generalization on east-siding penetration;
+- To the directional generalization dismissing east-facing damage;
 - To the wear/tear / 2020-already-paid theory.
 
 Prieve can testify to his factual observations on 10/9/2024 (including the catalog of dents at 19+ locations) and to general professional background.
