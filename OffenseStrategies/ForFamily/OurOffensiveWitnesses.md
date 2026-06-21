@@ -64,14 +64,14 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 
 ### 2.1 Mary (Legacy Contracting)
 
-**Who:** Field contact / dispatcher / first-line professional at Legacy Contracting. First contacted the family on **8/9/2024** to check whether recent storms had caused damage to the property; the family then found a leaking window — leading to the 8/13 visit by Jack and the family's same-day claim opening.
+**Who:** Field contact / dispatcher / first-line professional at Legacy Contracting. First contacted the family on **8/9/2024** to check whether recent storms had caused damage to the property; the family then found multiple leaking windows — leading to the 8/13 visit by Jack and the family's same-day claim opening.
 
-**Why she matters:** Mary is the **damage-discovery anchor witness**. Her testimony establishes that an independent professional proactively reached out to check for recent-storm damage and that the leak surfaced in that process — not that a homeowner went looking to generate a claim. This is the answer to Farmers' "5-week delay" attack (see `PreparingForFarmersQuestions.md` § 5.1).
+**Why she matters:** Mary is the **damage-discovery anchor witness**. Her testimony establishes that an independent professional proactively reached out to check for recent-storm damage and that the leaks surfaced in that process — not that a homeowner went looking to generate a claim. This is the answer to Farmers' "5-week delay" attack (see `PreparingForFarmersQuestions.md` § 5.1).
 
 **Key facts to establish:**
 - The 8/9/2024 contact with the family.
 - The nature of Legacy's routine business relationship with the family before 8/9.
-- Mary's reason for reaching out — a proactive check for damage from recent storms — and the family's discovery of the leak during that contact.
+- Mary's reason for reaching out — a proactive check for damage from recent storms — and the family's discovery of the leaking windows during that contact.
 - The decision to dispatch Jack to inspect.
 
 **How to obtain testimony:** Cooperation likely — Legacy worked with the family throughout. Subpoena under Rule 45 if needed for trial. For discovery, an interview, declaration, and possibly a brief deposition.
@@ -89,7 +89,7 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 - Legacy's billing records.
 
 **Anticipated Farmers cross-examination:**
-- "Legacy stood to profit if Farmers paid the claim, correct?" — Counter: Mary's initial contact was a proactive, post-storm courtesy check for damage, not a sales pitch for a claim. The leak was discovered during that contact, and the decision to file a claim came only after Jack's independent inspection found dents; the family decided to file, not Mary.
+- "Legacy stood to profit if Farmers paid the claim, correct?" — Counter: Mary's initial contact was a proactive, post-storm courtesy check for damage, not a sales pitch for a claim. The leaks were discovered during that contact, and the decision to file a claim came only after Jack's independent inspection found dents; the family decided to file, not Mary.
 - "You're a contractor, not an engineer." — Counter: Mary is a damage-discovery witness, not an engineering expert. Engineering opinions come from the family's retained experts.
 
 **Risk assessment:** Low risk. Mary's testimony is short, fact-bounded, and corroborated by the contemporaneous communication log. Even hostile cross-examination cannot undermine the basic fact that Legacy was contacted and identified damage.
@@ -729,7 +729,7 @@ Counter: Reasonable professional fees; standard engagement; opinion does not cha
 ### 10.2 "You Have an Interest in the Outcome"
 
 Targets: Legacy contractors; Pure Construction witnesses.
-Counter: Legacy (Mary) proactively reached out to check for recent-storm damage and the leak was found during that contact (not a pitch to generate a claim); Pure Construction's interest does not invalidate the documentary record.
+Counter: Legacy (Mary) proactively reached out to check for recent-storm damage and the leaks were found during that contact (not a pitch to generate a claim); Pure Construction's interest does not invalidate the documentary record.
 
 ### 10.3 "You Did Not Personally Inspect on July 13, 2024"
 

@@ -95,7 +95,7 @@ These are the questions Farmers will likely send. For each, the entry tells you 
 
 **Q11. State when you first observed any damage to the property attributable to the 7/13/2024 storm.**
 - **Trap alert.** The 5-week delay between 7/13 and 8/9/2024 (when Mary from Legacy first contacted you) is the obvious vulnerability. Farmers will use this to argue the damage might not be from the 7/13 storm, or that you were dilatory.
-- **Best answer:** truthful. Hail damage to windows is **not visible without close inspection**. The family does not climb ladders to look at upper-story window wraps routinely. A professional (Legacy contractor) proactively reached out to check for recent-storm damage, and the leak was found during that contact (`OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 2 Item 2).
+- **Best answer:** truthful. Hail damage to windows is **not visible without close inspection**. The family does not climb ladders to look at upper-story window wraps routinely. A professional (Legacy contractor) proactively reached out to check for recent-storm damage, and the leaking windows were found during that contact (`OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 2 Item 2).
 - **Document support:** Mary's 8/9 contact and Jack's 8/13 visit. Use these as anchors.
 
 **Q12. Identify every window at the property that you contend was damaged by hail on 7/13/2024.**
@@ -216,7 +216,7 @@ The deposition is broader than the interrogatories. Farmers' counsel will have y
 
 **Traps:**
 - **The 5-week-delay trap:** see § 6.1 below — this is one of the principal traps and is addressed at length.
-- **The "the contractor was looking for work" trap:** Farmers will argue Legacy had financial motive to identify damage. Counter: Mary's initial contact was a proactive, post-storm check for damage — not a pitch to generate a windows claim — and the leak was discovered during that contact. The decision to file came only after Jack's independent inspection. Legacy is also one of several professionals who later observed damage (Brau, Prieve, Foster, Roos all observed damage).
+- **The "the contractor was looking for work" trap:** Farmers will argue Legacy had financial motive to identify damage. Counter: Mary's initial contact was a proactive, post-storm check for damage — not a pitch to generate a windows claim — and the leaking windows were discovered during that contact. The decision to file came only after Jack's independent inspection. Legacy is also one of several professionals who later observed damage (Brau, Prieve, Foster, Roos all observed damage).
 
 ### 3.7 The Hancock Inspection 8/29/2024 (15 minutes)
 
@@ -432,7 +432,7 @@ This is the heart of the document. Each numbered trap is a specific tactic Farme
 
 **Why Farmers wants this:** To suggest (i) the damage might not be from the 7/13 storm, or (ii) you were dilatory in violation of the policy's notice provisions.
 
-**Right response:** Hail damage to window wraps and upper-story window glass is **not visible from the ground or from inside the home**. The family is not a professional roofer or window inspector. The damage was identified by a Legacy contractor after Mary proactively reached out to check for recent-storm damage and the leak was found during that contact (Mary's 8/9 contact; Jack's 8/13 inspection). The family promptly opened the claim on 8/13/2024 — the same day the damage was identified to them by a professional. There was no delay between *identification of damage* and *notice to Farmers*.
+**Right response:** Hail damage to window wraps and upper-story window glass is **not visible from the ground or from inside the home**. The family is not a professional roofer or window inspector. The damage was identified by a Legacy contractor after Mary proactively reached out to check for recent-storm damage and the leaking windows were found during that contact (Mary's 8/9 contact; Jack's 8/13 inspection). The family promptly opened the claim on 8/13/2024 — the same day the damage was identified to them by a professional. There was no delay between *identification of damage* and *notice to Farmers*.
 
 Be calm. Do not be defensive about the 5 weeks. Many homeowners never identify hail damage at all without a professional inspection.
 
@@ -451,7 +451,7 @@ Be calm. Do not be defensive about the 5 weeks. Many homeowners never identify h
 **Why Farmers wants this:** To suggest the damage record is contractor-driven and self-interested.
 
 **Right response:**
-- Legacy (Mary) reached out proactively to check for recent-storm damage, and the leak was discovered during that contact — they were not engaged to generate a claim. The damage they identified was independent of any payout motive, and the decision to file was the family's, made after Jack's independent inspection.
+- Legacy (Mary) reached out proactively to check for recent-storm damage, and the leaking windows were discovered during that contact — they were not engaged to generate a claim. The damage they identified was independent of any payout motive, and the decision to file was the family's, made after Jack's independent inspection.
 - The family did not select Pure Construction's choice of appraiser; the family signed Pure Construction's retainer at $2,200, paid half, and did not interview Foster. The family later learned Foster had prior insurance-industry employment.
 - Multiple non-contractor professionals also observed damage: Brau (Farmers' own employee); Prieve (Farmers' own engineer, who catalogued dents at 19+ locations); the appraisal panel including the umpire (who confirmed hail causation).
 
