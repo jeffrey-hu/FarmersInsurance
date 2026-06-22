@@ -319,7 +319,7 @@ A forensic engineer's operative diagnostic test for the central causation questi
 
 ## 6B. Incomplete Inspection — A Garage Window Prieve Never Inspected
 
-> ⚠️ **Verification flag.** This fact was established by the family on cross-check of the Prieve report against the actual building. Before this point is used in any filing, it should be documented with supporting evidence — a dated photograph of the window and its obstruction, and/or a measured site sketch showing the window's location relative to the garage door, the shed, and the house wall. The factual description below is the family's account pending that documentation.
+> ⚠️ **Verification flag.** This fact was established by the family on cross-check of the Prieve report against the actual building. Before this point is used in any filing, it should be documented with supporting evidence — a dated photograph of the window and its obstruction, and/or a measured site sketch showing the window's location relative to the documented rear/east garage window (A-213–217), the shed, and the house wall. The factual description below is the family's account pending that documentation.
 
 ### 6B.1 The window Prieve documented vs. the window he missed
 
@@ -328,7 +328,7 @@ The Prieve report and Photo Appendix A document **one** garage window: a 2-unit 
 In fact there is a **second** garage window that does not appear anywhere in the Prieve report or in the 217-photograph Photo Appendix A:
 
 - A small fixed window, approximately 2 feet by 2 feet, split by a horizontal frame into what appears to be two sashes;
-- Located on the **front** face of the garage, to the **right of the garage door** when facing the garage — a different elevation from the rear/east window Prieve did document;
+- Located on the **rear** elevation of the garage, immediately **south of** (and closer to the main structure than) the rear/east window Prieve did document (A-213–217);
 - Partially obstructed by a shed standing in front of it;
 - Accessible only through a narrow gap between the shed and the house wall, or by passing through the shed itself (opening the shed's front and back doors).
 
@@ -350,7 +350,7 @@ The missed window adds one more window to the count of windows Prieve documented
 
 ### 6B.4 What discovery and deposition should establish
 
-- Confirmation that the Prieve report and the complete camera-download from the 10/9/2024 inspection contain no photograph of the front-of-garage window to the right of the garage door. (The original camera download — not just the curated Appendix A — should be subpoenaed; see `OffenseStrategies/Discovery/DiscoveryPlan.md` RFP A.5.)
+- Confirmation that the Prieve report and the complete camera-download from the 10/9/2024 inspection contain no photograph of the rear-of-garage window south of the documented rear/east window (A-213–217). (The original camera download — not just the curated Appendix A — should be subpoenaed; see `OffenseStrategies/Discovery/DiscoveryPlan.md` RFP A.5.)
 - Whether Prieve was aware of the window's existence at the time of the inspection.
 - Whether Prieve attempted to access the window and was prevented by the shed, or never identified it at all.
 - Prieve's standard practice for inspecting obstructed or hard-to-access windows.
@@ -475,7 +475,7 @@ The complaints should add a discrete Factual Background subsection cataloging th
 | Pull the full 2020 photo log referenced by Prieve at p. 7 (the "October 13, 2020" Farmers photo log) — needed to verify the A-53 trim-chip claim | Family | Open (pre-discovery target) |
 | Pull all Eden Prairie building permits on the surrounding streets, with cause "hail" tags, to corroborate the post-2020 hail timeline (extension of the 2/10/2025 family canvass) | Family | Open |
 | Verify the actual material composition of the windows (extruded aluminum vs. aluminum-clad wood) before expert engagement to size the forensic-hail-damage expert correctly | Family / counsel | Open |
-| ⚠️ Document the uninspected front-of-garage window (§ 6B): dated photograph showing the window and its shed obstruction, plus a measured site sketch of its location relative to the garage door, the shed, and the house wall — needed before § 6B is used in any filing | Family | Open (verification) |
+| ⚠️ Document the uninspected rear-of-garage window (§ 6B): dated photograph showing the window and its shed obstruction, plus a measured site sketch of its location relative to the documented rear/east garage window (A-213–217), the shed, and the house wall — needed before § 6B is used in any filing | Family | Open (verification) |
 
 ---
 

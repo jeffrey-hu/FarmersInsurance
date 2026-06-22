@@ -1,6 +1,6 @@
 # Significance Assessment — The Garage Window Prieve Never Inspected
 
-**Question presented (Bill, 5/30/2026).** On cross-check of Prieve's engineering report (File #241008) against the actual building, the family found no photograph or narrative mention of the **2-sash window on the front of the garage, behind the shed.** That means Prieve did not inspect all of the windows during his 10/9/2024 site visit. How significant is that omission for the upcoming lawsuit?
+**Question presented (Bill, 5/30/2026).** On cross-check of Prieve's engineering report (File #241008) against the actual building, the family found no photograph or narrative mention of the **2-sash window on the rear of the garage, behind the shed.** That means Prieve did not inspect all of the windows during his 10/9/2024 site visit. How significant is that omission for the upcoming lawsuit?
 
 **Scope of this memo.** This is a focused significance assessment that builds on the existing §6B treatment in `EngineerReportRebuttal.md` and the damage catalog in `../AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md`. It is strategic analysis, not legal advice.
 
@@ -39,7 +39,7 @@ That is why this point punches above its dollar weight: it is the cleanest factu
 
 Under **_Quade v. Secura Insurance_, 814 N.W.2d 703 (Minn. 2012)**, an appraisal panel determines the "amount of loss," which *includes* causation, but **coverage questions remain reserved to the court.** The corollary that matters here: the panel's binding effect extends only to items the panel actually appraised. A window that **no one ever inspected** — not Prieve, and therefore not the panel that worked from Prieve's record — could not have been appraised. Coverage and amount of loss for that window are necessarily reserved to the court under Count I.
 
-This window is the **cleanest possible example** of the reserved-coverage theory the family is already running for the ~8 other documented-but-unawarded windows (`01_DamageCatalog_PrieveAppendixA.md` §F). For those windows Farmers can at least argue the panel implicitly considered them. For *this* window there is no such argument — it appears nowhere in the 217-photo appendix, so there is nothing to suggest anyone evaluated it. It belongs in the damage catalog as its own line item, separate from the rear/east garage window at A-213–217 (a different window on a different elevation).
+This window is the **cleanest possible example** of the reserved-coverage theory the family is already running for the ~8 other documented-but-unawarded windows (`01_DamageCatalog_PrieveAppendixA.md` §F). For those windows Farmers can at least argue the panel implicitly considered them. For *this* window there is no such argument — it appears nowhere in the 217-photo appendix, so there is nothing to suggest anyone evaluated it. It belongs in the damage catalog as its own line item, separate from the rear/east garage window at A-213–217 (a different window, south of it on the same rear elevation).
 
 ### 3.2 Statutory bad faith (Minn. Stat. § 604.18) — the investigation prong
 
@@ -67,7 +67,7 @@ The missed window targets that second clause precisely. Prieve's operative metho
 
 ### 3.4 Corroborative / narrative value — the "what else did he skip?" inference
 
-The window's location is the point. It is roughly 2'×2', on the front of the garage to the right of the garage door, partially blocked by a shed, reachable only through a narrow gap or by passing through the shed. The natural inference — once the obstruction is documented — is that **Prieve inspected what was easy to see and skipped what took effort to reach.** That inference is corrosive to the report as a whole: if he skipped an obstructed ground-level window, the reliability of his "no hail dents" findings at the *less* accessible locations (the upper-story windows he says he reached "via a ladder") is fairly open to question. It lets the family argue selective inspection across the whole property from a single, concrete anchor.
+The window's location is the point. It is roughly 2'×2', on the rear of the garage, south of the documented rear/east window, partially blocked by a shed, reachable only through a narrow gap or by passing through the shed. The natural inference — once the obstruction is documented — is that **Prieve inspected what was easy to see and skipped what took effort to reach.** That inference is corrosive to the report as a whole: if he skipped an obstructed ground-level window, the reliability of his "no hail dents" findings at the *less* accessible locations (the upper-story windows he says he reached "via a ladder") is fairly open to question. It lets the family argue selective inspection across the whole property from a single, concrete anchor.
 
 ---
 
@@ -88,8 +88,8 @@ A balanced memo has to state the other side. Farmers' likely responses, and how 
 
 - **Pleadings.** Add it to the Count I reserved-coverage allegations as a discrete unevaluated window, and to the Count (bad faith) "incomplete investigation" allegations. Do **not** plead a freestanding § 72A.201 violation (no private right of action); plead it as evidence supporting § 604.18.
 - **Relabel the motion.** Change "Daubert" to "Frye-Mack / Minn. R. Evid. 702" throughout the state-court strategy docs (`EngineerReportRebuttal.md` §§6A.4, 6B.2; `Deposition/2.1Prieve_Nathan.md`; the `Motions/Daubert/` folder). Keep a federal-removal contingency copy under the Daubert framing.
-- **Discovery.** The §6B.4 and §2.5 requests already cover this: subpoena the **full camera download** from 10/9/2024 (not just the curated Appendix A), Prieve's field notes, and any inspection worksheet. The target fact: confirm there is **no** photograph of the front-of-garage window anywhere in his file.
-- **Deposition.** Add a short, tight sequence to `Deposition/2.1Prieve_Nathan.md`: (1) confirm the scope was all windows on the home; (2) confirm the appendix documents exactly one garage window, on the rear/east elevation; (3) establish he did not photograph or note any window on the front of the garage; (4) establish whether he knew it existed; (5) establish his standard practice for obstructed windows and whether he disclosed any access limitation in this report (he didn't). Keep it factual and binary — do not argue.
+- **Discovery.** The §6B.4 and §2.5 requests already cover this: subpoena the **full camera download** from 10/9/2024 (not just the curated Appendix A), Prieve's field notes, and any inspection worksheet. The target fact: confirm there is **no** photograph of the rear-of-garage window anywhere in his file.
+- **Deposition.** Add a short, tight sequence to `Deposition/2.1Prieve_Nathan.md`: (1) confirm the scope was all windows on the home; (2) confirm the appendix documents exactly one garage window, on the rear/east elevation; (3) establish he did not photograph or note any other window on the rear of the garage (south of the documented one); (4) establish whether he knew it existed; (5) establish his standard practice for obstructed windows and whether he disclosed any access limitation in this report (he didn't). Keep it factual and binary — do not argue.
 
 ---
 
@@ -97,8 +97,8 @@ A balanced memo has to state the other side. Farmers' likely responses, and how 
 
 Per the ⚠️ verification flag already in `EngineerReportRebuttal.md` §6B, the point is **not filing-ready** until the family creates the proof:
 
-1. **A dated photograph** of the front-of-garage window showing the shed obstruction and the window's relationship to the garage door and house wall.
-2. **A measured site sketch** locating the window relative to the garage door, the shed, and the house wall, with approximate dimensions.
+1. **A dated photograph** of the rear-of-garage window showing the shed obstruction and the window's relationship to the documented rear/east window (A-213–217) and house wall.
+2. **A measured site sketch** locating the window relative to the documented rear/east window, the shed, and the house wall, with approximate dimensions.
 3. **A note confirming the access path** (the gap between shed and house wall, or through-the-shed access).
 4. **A policy/plat check** on whether the garage is attached or detached (affects the scope argument — see §4.3).
 5. *(If feasible and safe)* a look at the window itself for hail signatures, since finding damage there would upgrade the point from "incomplete inspection" to "incomplete inspection that missed actual covered damage."
@@ -109,7 +109,7 @@ Once those exist, the missed window moves from "the family's account" to documen
 
 ## 7. One-paragraph version (for the family / counsel)
 
-Prieve was hired to evaluate all the home's windows for hail damage, and his own 217-photo appendix documents exactly one garage window — on the rear/east side. The 2-sash window on the *front* of the garage, behind the shed, appears nowhere in his report, which means he never inspected it. That omission is worth real strategic weight: it is the cleanest example of a window the appraisal panel could not have evaluated (a coverage question reserved to the court under *Quade*); it undercuts Farmers' "we did a full investigation" defense to bad faith under Minn. Stat. § 604.18; and it supports excluding or discounting Prieve's "no recent hail damage" opinion under Minnesota's **Frye-Mack / Rule 702** reliability standard (not "Daubert" — this is state court), because an expert who didn't look at all the windows applied his method to an incomplete factual record. Its limits are that no damage to that specific window has been documented yet (so it is leverage, not a guaranteed dollar recovery) and that Farmers will argue the shed made it reasonably inaccessible — which is exactly why the family needs a dated photo and a measured sketch of the window and its obstruction before this goes into any filing.
+Prieve was hired to evaluate all the home's windows for hail damage, and his own 217-photo appendix documents exactly one garage window — on the rear/east side. The 2-sash window on the *rear* of the garage, behind the shed, appears nowhere in his report, which means he never inspected it. That omission is worth real strategic weight: it is the cleanest example of a window the appraisal panel could not have evaluated (a coverage question reserved to the court under *Quade*); it undercuts Farmers' "we did a full investigation" defense to bad faith under Minn. Stat. § 604.18; and it supports excluding or discounting Prieve's "no recent hail damage" opinion under Minnesota's **Frye-Mack / Rule 702** reliability standard (not "Daubert" — this is state court), because an expert who didn't look at all the windows applied his method to an incomplete factual record. Its limits are that no damage to that specific window has been documented yet (so it is leverage, not a guaranteed dollar recovery) and that Farmers will argue the shed made it reasonably inaccessible — which is exactly why the family needs a dated photo and a measured sketch of the window and its obstruction before this goes into any filing.
 
 ---
 
