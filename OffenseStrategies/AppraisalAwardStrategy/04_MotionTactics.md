@@ -46,7 +46,7 @@ Farmers' 9/24/2025 admission ("Unfortunately, the umpire did not provide a repor
 
 ### 2.4 Compile the Prieve-vs.-award comparison
 
-Use `01_DamageCatalog_PrieveAppendixA.md` as the comparison table. The brief should reproduce the headline totals: 42 distinct window damage observations + 5 downspouts + 3 flashing + 3 trim chips + 1 door window screen → award of 2 windows. (The 2 siding penetrations A-26/A-27 and A-208/A-212 are excluded as prior-hail-storm damage.) The visual contrast is the most persuasive single page.
+Use `01_DamageCatalog_PrieveAppendixA.md` as the comparison table. The brief should reproduce the headline totals: 42 distinct window damage observations + 5 downspouts + 3 flashing + 3 trim chips + 1 door window screen → award of 2 windows. (The 2 siding penetrations A-26/A-27 and A-208/A-212 are excluded as damage from a hail storm prior to 2020.) The visual contrast is the most persuasive single page.
 
 ### 2.5 Develop the matching cost methodology
 

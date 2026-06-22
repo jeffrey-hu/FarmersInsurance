@@ -44,8 +44,8 @@ The interior photographs document staining, water-entry patterns, and deteriorat
 | A-23 | WALL BELOW LEFT SIDE OF WINDOW | Stain | NE bedroom upper |
 | A-24 | LOWER LEFT CORNER OF WINDOW | Context | NE bedroom upper |
 | A-25 | EXTERIOR, VIEW OF SIDING BELOW UPPER BEDROOM WINDOW | Siding context (PRIOR-STORM penetration — excluded from this claim) | Below NE bedroom upper |
-| A-26 | PENETRATION IN SIDING PANEL BELOW UPPER EAST BEDROOM WINDOW | ~~Siding penetration~~ — **PRIOR HAIL STORM; excluded from this claim, not counted** | Below NE bedroom upper |
-| A-27 | VIEW OF PENETRATION IN SIDING PANEL | ~~Siding penetration (closeup)~~ — **PRIOR HAIL STORM; excluded from this claim, not counted** | Below NE bedroom upper |
+| A-26 | PENETRATION IN SIDING PANEL BELOW UPPER EAST BEDROOM WINDOW | ~~Siding penetration~~ — **HAIL STORM PRIOR TO 2020; excluded from this claim, not counted** | Below NE bedroom upper |
+| A-27 | VIEW OF PENETRATION IN SIDING PANEL | ~~Siding penetration (closeup)~~ — **HAIL STORM PRIOR TO 2020; excluded from this claim, not counted** | Below NE bedroom upper |
 | A-28 | SOUTHEAST FACING WINDOW AT REAR MAIN LEVEL PORCH | Context | Four-season porch SE |
 | A-29 | VIEW OF WALLPAPER BELOW RIGHT SIDE OF WINDOW | Stain / discoloration | Four-season porch SE |
 | A-30 | LOWER RIGHT CORNER OF WINDOW, SOUTHEAST FACING | Context | Four-season porch SE |
@@ -57,7 +57,7 @@ The interior photographs document staining, water-entry patterns, and deteriorat
 | A-36 | LOWER LEFT CORNER OF WINDOW AT SASH | Stain | Kitchen north |
 | A-37 | SOUTHEAST FACING WINDOW SOUTH OF DECK DOOR | Patching present per narrative | Kitchen SE |
 
-**Section summary:** ~15 interior locations with documented water-driven staining, deterioration, or cracking. A-26 and A-27 are exterior siding penetration photographs that the photographer interspersed with the NE bedroom upper-window sequence; **these siding penetrations are attributed to a prior hail storm and are excluded from this claim** (not counted in the totals below). They are retained here only for photo-index adjacency.
+**Section summary:** ~15 interior locations with documented water-driven staining, deterioration, or cracking. A-26 and A-27 are exterior siding penetration photographs that the photographer interspersed with the NE bedroom upper-window sequence; **these siding penetrations are attributed to a hail storm prior to 2020 and are excluded from this claim** (not counted in the totals below). They are retained here only for photo-index adjacency.
 
 ---
 
@@ -326,11 +326,11 @@ The east side carries the bulk of the documented damage and is the location of b
 | # | Caption | Damage indicator | F1.7 / B1.2 candidate? | In appraisal scope? |
 |---|---|---|---|---|
 | A-207 | UPPER EAST BEDROOM WINDOW GROUP AT NORTH QUADRANT | Context (3-unit; no hail marks per narrative) | Outside award | Windows ✓ |
-| A-208 | AREA OF SIDING PENETRATION BELOW WINDOW | ~~Penetration — siding~~ — **PRIOR HAIL STORM; excluded from this claim, not counted** | Outside award (siding) | Siding ✓ |
+| A-208 | AREA OF SIDING PENETRATION BELOW WINDOW | ~~Penetration — siding~~ — **HAIL STORM PRIOR TO 2020; excluded from this claim, not counted** | Outside award (siding) | Siding ✓ |
 | A-209 | VIEW ALONG BOTTOM OF WINDOW NEAR MULLION | Context | Outside award | Windows ✓ |
 | A-210 | VIEW NORTH ALONG BOTTOM SASH OF RIGHT CASEMENT | Context | Outside award | Windows ✓ |
 | A-211 | AREA OF MULLION AT UPPER BEDROOM WINDOW | Context | Outside award | Windows ✓ |
-| A-212 | VIEW OF SIDING PENETRATION FROM LADDER | ~~Penetration — siding (closeup from ladder)~~ — **PRIOR HAIL STORM; excluded from this claim, not counted** | Outside award | Siding ✓ |
+| A-212 | VIEW OF SIDING PENETRATION FROM LADDER | ~~Penetration — siding (closeup from ladder)~~ — **HAIL STORM PRIOR TO 2020; excluded from this claim, not counted** | Outside award | Siding ✓ |
 
 ### D.14 — Garage Window (A-213 through A-217)
 
@@ -358,7 +358,7 @@ This is the headline number for Tier 1 / Tier 2 briefing. Every cell below count
 | **Window interior — cracking** | A-15, A-18 = **2 observations** | Consequential damage | N/A |
 | **Downspouts — dents** | A-42 (front), A-92 (south), A-93 (south), A-98 (east), A-99 (east) = **5 observations** | **No — outside appraisal scope; reserved court question** | Outside award |
 | **Flashing — dents** | A-103 (deck), A-128 (deck), A-129 (deck) = **3 observations** | **No — outside appraisal scope** | Outside award |
-| ~~Siding — penetration~~ | **EXCLUDED — A-26/A-27 and A-208/A-212 attributed to a PRIOR hail storm; not counted in this claim** | — | — |
+| ~~Siding — penetration~~ | **EXCLUDED — A-26/A-27 and A-208/A-212 attributed to a hail storm PRIOR TO 2020; not counted in this claim** | — | — |
 | **Trim board — chips** | A-53 (front bump-out), A-90 (south projection), A-148 (east bay) = **3 observations** | Yes (Siding repaint) — **panel awarded $0** | Outside award |
 | **Door window — dent and scrape mark in screen** | A-141 = **1 observation** | **No — exterior door is outside appraisal scope** | Outside award |
 | **Window — "no hail" findings by Prieve** | A-67, A-68, A-70–78, A-95, A-100, A-132, A-188, A-207 (in part) = ~16 windows where Prieve found no hail damage | Yes (Windows) | Outside award |
@@ -368,7 +368,7 @@ This is the headline number for Tier 1 / Tier 2 briefing. Every cell below count
 - **42 distinct damage observations on windows (sashes, frames, drip caps, accessory grooves, sills, mullions).**
 - **5 dented downspouts at three elevations — reserved coverage questions for the court.**
 - **3 dented flashing observations at the deck — reserved coverage questions for the court.**
-- ~~2 distinct siding penetrations~~ **— EXCLUDED: A-26/A-27 and A-208/A-212 attributed to a prior hail storm; not part of this claim.**
+- ~~2 distinct siding penetrations~~ **— EXCLUDED: A-26/A-27 and A-208/A-212 attributed to a hail storm prior to 2020; not part of this claim.**
 - **3 chipped trim board observations — within appraisal scope but panel awarded $0.**
 - **1 dent on a door window screen — reserved coverage question for the court.**
 
@@ -393,7 +393,7 @@ Under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), each unevaluated
 
 ## G. The Siding-Zeroed-Without-Evaluation Issue
 
-> ⚠️ **REVIEW FLAG (prior-storm siding penetrations):** The siding penetrations A-26/A-27 and A-208/A-212 have been reclassified as PRIOR-hail-storm damage and removed from this claim's damage counts (see Sections A, D.13, E). This argument as written still relies on those two penetrations and needs your review/rework — it has been left intact per instruction, not edited.
+> ⚠️ **REVIEW FLAG (pre-2020 siding penetrations):** The siding penetrations A-26/A-27 and A-208/A-212 have been reclassified as damage from a hail storm prior to 2020 and removed from this claim's damage counts (see Sections A, D.13, E). This argument as written still relies on those two penetrations and needs your review/rework — it has been left intact per instruction, not edited.
 
 The panel awarded $0 on both siding items. Prieve's Photo Appendix A documents:
 
