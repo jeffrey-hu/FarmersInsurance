@@ -212,6 +212,8 @@ Underwriters Association
 
 53. As a direct and proximate result of Defendant's breach, Plaintiffs have suffered damages in excess of $50,000.
 
+> **Research note (remove before filing).** "In excess of $50,000" is a pleading convention, not a damages estimate. Minn. R. Civ. P. 8.01 bars stating a specific dollar amount for unliquidated damages above $50,000 and requires pleading only that "reasonable damages in an amount greater than $50,000" are sought (a specific figure is stated only when the claim is under $50,000). The phrasing also keeps the case in District Court (above the conciliation-court limit) and clears the § 549.09 interest breakpoint (~10% at $50,000+ vs. ~4% below). Actual damages — appraisal-award shortfall, full-home matching/replacement cost, consequential water-intrusion damage, out-of-pocket reliance costs, interest, and any punitive claim — are proven later by evidence and expert testimony.
+
 ---
 
 ### COUNT II — DECLARATORY JUDGMENT (Minn. Stat. Ch. 555)

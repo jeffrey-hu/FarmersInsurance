@@ -208,6 +208,8 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
 45. As a direct and proximate result of Defendant's breach, Plaintiffs have suffered damages in excess of $50,000, including the unpaid replacement cost of hail-damaged windows; consequential damage from continuing water intrusion through unrepaired windows, documented as ongoing as of October 28, 2025; the costs of pursuing administrative and contractual dispute-resolution channels; and prejudgment interest as set forth below.
 
+> **Research note (remove before filing).** "In excess of $50,000" is a pleading convention, not a damages estimate. Minn. R. Civ. P. 8.01 bars stating a specific dollar amount for unliquidated damages above $50,000 and requires pleading only that "reasonable damages in an amount greater than $50,000" are sought (a specific figure is stated only when the claim is under $50,000). The phrasing also keeps the case in District Court (above the conciliation-court limit) and clears the § 549.09 interest breakpoint (~10% at $50,000+ vs. ~4% below). Actual damages are proven later by evidence and expert testimony.
+
 ---
 
 ### COUNT II — DECLARATORY JUDGMENT (Minn. Stat. Ch. 555)
