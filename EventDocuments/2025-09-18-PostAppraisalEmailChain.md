@@ -216,7 +216,7 @@ The family visited agent Pete Pietila's office to seek help. Pete sent an email 
 |------|--------|
 | 2020 claim number | 3013539499-1, loss date 09/05/2020 |
 | Approved windows (appraisal) | F1.7: 1-sash, corner of stairs, facing front; B1.2: 3-sash, family room, facing back |
-| Window manufacturer | Senco; sash stamps dated 1993, 1997, 2008 |
+| Window manufacturer | SEMCO (Farmers' appraisal incorrectly stated "Senco"); sash stamps dated 1993, 1997, 2008 |
 | Appraiser's error | Initially reported dining room; later corrected — but corrected report conflicts with Award form |
 | Nic Brau report | Farmers claims no report exists for 9/6/2024 inspection |
 | 2020 sash positions | Never provided by Farmers despite multiple requests |
