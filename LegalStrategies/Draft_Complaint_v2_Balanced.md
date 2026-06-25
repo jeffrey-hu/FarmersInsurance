@@ -244,7 +244,7 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 >
 > **Important:** Tier 3 (full vacatur) is in tension with E1 (*Quade* preclusion) — full vacatur destroys the panel's binding hail-causation finding, which is the family's most valuable single piece of doctrine.
 >
-> **Supporting facts.** Award lists only "F1.7" / "B1.2" against $12,800 lump RCV; two-line $0 siding award without identified evaluation methodology against Prieve-documented trim chips (A-53, A-90, A-148) and dented flashing (A-103, A-128, A-129); umpire produced no report or estimate; Defendant cannot describe scope consistently across 9/18, 9/19, and 10/14/2025; Foster selected by Pure Construction; Plaintiffs not permitted to speak with appraisers on 9/12/2025; Tomes did not sign.
+> **Supporting facts.** Award lists only "F1.7" / "B1.2" against $12,800 lump RCV; two-line $0 siding award without identified evaluation methodology against Prieve-documented trim chips (A-53, A-90, A-148) and dented flashing (A-103, A-128, A-129); umpire produced no report or estimate; Defendant cannot describe scope consistently across 9/18, 9/19, and 10/14/2025; Foster selected by Pure Construction; Plaintiffs requested to speak with appraisers but were never afforded any opportunity to do so on 9/12/2025; Tomes did not sign.
 
 50. Plaintiffs reallege and incorporate paragraphs 1 through 49 above.
 

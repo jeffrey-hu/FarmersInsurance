@@ -227,7 +227,7 @@ Per `OffenseStrategies/Deposition/` series. The Count III-specific topics:
 
 - Whether the kitchen windows (W-247–W-250), blinds, mold treatment, exterior repaint, and siding damage items the family added in July 2025 were actually presented to the appraisal panel; if so, the form of presentation; if not, the reason.
 - The instruction Pure Construction received from the family vs. the items Pure Construction submitted to the panel.
-- Why the family was not permitted to speak with the appraisers on 9/12/2025.
+- Why the family had no opportunity to speak with the appraisers on 9/12/2025.
 - The basis for selecting Foster as the insured's appraiser and the family's role (or lack of role) in that selection.
 - Pure Construction's awareness of Foster's prior insurance-industry employment.
 - The post-9/12 reporting Pure Construction provided to the family on what the panel actually evaluated.

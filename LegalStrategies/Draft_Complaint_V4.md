@@ -272,7 +272,7 @@ Underwriters Association
 
    (e) for any sash or window excluded on the ground of a prior claim, identify the prior claim, the specific sash or sashes the panel understood to have been previously paid, and whether the panel independently evaluated the July 13, 2024 damage to any sash not previously paid.
 
-65. **Final alternative — vacatur.** Only to the extent the foregoing relief is unavailable or insufficient, Plaintiffs request that the Court vacate the award under *Mork v. Eureka-Security Fire & Marine Insurance Co.*, 230 Minn. 382, 42 N.W.2d 33 (1950), on the ground of misfeasance or wrongdoing in the conduct of the appraisal, including that the umpire produced no report, estimate, or methodology; that the award on its face fails the statute's itemization command; that Plaintiffs' appraiser was selected by a contractor rather than by Plaintiffs and Plaintiffs were not permitted to communicate with any member of the panel; and such further grounds as discovery may establish.
+65. **Final alternative — vacatur.** Only to the extent the foregoing relief is unavailable or insufficient, Plaintiffs request that the Court vacate the award under *Mork v. Eureka-Security Fire & Marine Insurance Co.*, 230 Minn. 382, 42 N.W.2d 33 (1950), on the ground of misfeasance or wrongdoing in the conduct of the appraisal, including that the umpire produced no report, estimate, or methodology; that the award on its face fails the statute's itemization command; that Plaintiffs' appraiser was selected by a contractor rather than by Plaintiffs, and that Plaintiffs requested to communicate with the appraisal panel before the appraisal but were never afforded any opportunity to do so; and such further grounds as discovery may establish.
 
 ---
 

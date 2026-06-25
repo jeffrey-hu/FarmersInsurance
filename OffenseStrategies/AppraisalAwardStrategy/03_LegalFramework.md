@@ -72,7 +72,7 @@ The umpire produced no report, no estimate, and no methodology document (Farmers
 - ✓ Umpire produced no report, estimate, or methodology (Farmers' 9/24/2025 admission). Suggests methodological inadequacy.
 - ✓ Farmers' appraiser (Tomes) did not sign — indicating disagreement with the panel's hail-causation finding.
 - ✓ Foster (insured's appraiser) was selected by contractor Pure Construction, not by the family, and has a prior insurance-industry background.
-- ✓ Plaintiffs were not allowed to speak with the panel on 9/12/2025 — Pure Construction's Zach Sexe affirmatively prevented the family from interacting with Foster, Tomes, or Roos.
+- ✓ Plaintiffs requested to communicate with the panel but were never afforded any opportunity to do so on 9/12/2025 — Pure Construction's Zach Sexe told the family there was no need to speak with the appraisers and that he and Jade would handle everything, and the family had no contact with Foster, Tomes, or Roos.
 - ✗ No direct evidence yet of fraud, collusion, or financial misconduct.
 
 To upgrade the record to a *Mork*-grade vacatur case, the family needs discovery into Foster's and Roos's prior engagements, the financial relationships between Foster / Pure Construction / Farmers, the umpire's working file (or absence thereof), and any communications among the three panelists. (See `05_AppraisalSpecific_Discovery_Deposition.md`.)
