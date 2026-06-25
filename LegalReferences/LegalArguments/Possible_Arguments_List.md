@@ -50,7 +50,7 @@ The 9/3/2024 denial affirmatively found "no other damages observed" and cited "n
 ## C. Statutory Claims Practices Predicates
 
 ### C1. Unreasonable Investigation — Minn. Stat. § 72A.201
-Requires 30-business-day investigation, reasonable procedures, and fair weighing of all evidence. Whether § 72A.201 supports a direct private cause of action is contested; it more reliably functions as a predicate for § 604.18 and as a standard-of-conduct benchmark. Hooks: 5-day phone denial before engineering review; refusal to consider neighbor canvass, City permit data, and NWS records; missing Brau inspection documentation.
+Requires 30-business-day investigation, reasonable procedures, and fair weighing of all evidence. Whether § 72A.201 supports a direct private cause of action is contested; it more reliably functions as a predicate for § 604.18 and as a standard-of-conduct benchmark. Hooks: phone denial issued days after inspection, before engineering review; refusal to consider neighbor canvass, City permit data, and NWS records; missing Brau inspection documentation.
 
 ### C2. Unfair Methods / Deceptive Acts — Minn. Stat. § 72A.20
 Enumerated unfair practices include misrepresenting policy provisions, failing to acknowledge claims, failing to adopt reasonable investigation standards, and compelling insureds to litigate. Historically enforced by the Commissioner rather than by private action; a future research session should confirm whether any private right of action is available (directly or via § 8.31) on these facts.

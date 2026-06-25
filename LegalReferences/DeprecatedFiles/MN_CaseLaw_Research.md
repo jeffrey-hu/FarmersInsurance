@@ -123,7 +123,7 @@ The Minnesota Supreme Court has held that an insurer's evaluation must consider 
 
 Farmers' investigation raises several red flags:
 
-- **First denial before any expert review:** Farmers denied the claim by phone on September 3, 2024 — only 5 days after the first Hancock inspection and before hiring any forensic engineer. This suggests Farmers reached a conclusion before conducting a thorough investigation.
+- **First denial before any expert review:** Farmers denied the claim by phone on September 3, 2024 — just days after the first Hancock inspection and before hiring any forensic engineer. This suggests Farmers reached a conclusion before conducting a thorough investigation.
 - **Refusal to consider new evidence:** After the family submitted neighbor survey results (14 of 19 neighbors confirmed hail damage), City of Eden Prairie permit data (25 permits for exterior work), and NWS weather data confirming severe hail on July 13, 2024, Nic Brau left a voicemail on February 10, 2025 stating Farmers would not review the new evidence.
 - **Missing inspection documentation:** Farmers claims "the file does not contain a report" from Nic Brau's own September 6, 2024 inspection, during which he and the family observed dents on windows together and he measured window dimensions. A reasonable insurer would document such an inspection.
 
@@ -168,7 +168,7 @@ Spoliation sanctions may be imposed where one party knew or should have known th
 Two critical documents are missing from Farmers' files:
 
 - **Nic Brau's inspection notes from September 6, 2024:** Brau personally inspected the property, found dents on windows with the family, and measured window dimensions. On October 10, 2025, Farmers responded to the family's request for these notes by stating "the file does not contain a report on the requested date." An insurance adjuster who physically inspects a property, identifies damage, and takes measurements but produces no documentation raises serious questions.
-- **Hancock Claims Consultants report (August 29, 2024):** Jayden Grimm of Hancock inspected the property, and the first denial followed 5 days later, but no Hancock report has been produced.
+- **Hancock Claims Consultants report (August 29, 2024):** Jayden Grimm of Hancock inspected the property, and the first denial followed just days later, but no Hancock report has been produced.
 
 Both documents were created during the claim investigation and should have been preserved. Farmers' failure to produce them, particularly after the family made specific written requests, supports an adverse inference that the contents would have supported the family's claim.
 
@@ -222,7 +222,7 @@ This statute and related regulations impose fair claims handling obligations on 
 | Breach of contract | Strong | Policy in force; hail causation confirmed by appraisal; Farmers paid $0; family performed all conditions precedent |
 | Declaratory judgment | Strong | Multiple unresolved coverage questions: appraisal scope, J6944 applicability, exclusion validity, dissenting appraiser |
 | Bad faith denial (604.18) | Strong | First denial before any expert review; refusal to consider new evidence; appraisal confirmed hail causation |
-| Inadequate investigation (72A.201) | Strong | 5-day denial; ignoring neighbor survey, permit data, weather data; missing inspection documentation |
+| Inadequate investigation (72A.201) | Strong | denial issued days after inspection; ignoring neighbor survey, permit data, weather data; missing inspection documentation |
 | Appraisal scope challenge | Moderate-Strong | Insured's appraiser dissented; all windows show damage but only a fraction valued; hail causation confirmed |
 | Spoliation / adverse inference | Moderate | Nic Brau notes missing; Hancock report unproduced; family made written requests |
 | J6944 does not bar full payment | Strong (if damage proven) | All windows damaged = no "matching" issue; the dispute is scope of hail damage, not undamaged property matching |

@@ -40,7 +40,7 @@
 
 **08/20/2024 — Family calls Hancock** and provides Legacy's contact information to schedule the inspection.
 
-**08/29/2024 — First inspection: Jayden Grimm of Hancock Claims Consultants** inspects the property. Hancock produces a systematic photo set of every window wrap (North, South, West elevations) — each tagged "Damaged – No." Hancock's blanket conclusion is that no exterior damage exists anywhere on the home.
+**08/29/2024 — First inspection: Jayden Grimm of Hancock Claims Consultants** inspects the property. Hancock produces a systematic photo set covering the window wraps (North, South, West elevations) and the home's exterior — siding, garage, and downspouts — with every inspected component uniformly tagged "Damaged – No," including the downspouts later documented as dented. The roof was not inspected (the family stated the cedar-shake roof, then ~2 years old, did not need inspection). Hancock's blanket conclusion is that no exterior damage exists anywhere on the home.
 📄 Hancock photo set appended to `EventDocuments/FarmersDenyLetter_09_03_2024.pdf` (pp. 5–74)
 
 ---
