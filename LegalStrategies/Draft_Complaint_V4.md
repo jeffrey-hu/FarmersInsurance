@@ -16,7 +16,7 @@
 ```
 STATE OF MINNESOTA                         DISTRICT COURT
 COUNTY OF HENNEPIN                         FOURTH JUDICIAL DISTRICT
-                                           Case Type: Civil — Other
+                                           Case Type: Contract
 ─────────────────────────────────────────
 Yibiao Lu and Jie Hu,
 
@@ -48,7 +48,7 @@ Underwriters Association
 
 4. Plaintiff Yibiao Lu is an individual residing at 17756 George Moran Dr., Eden Prairie, Hennepin County, Minnesota 55347, and is the named insured under Policy 98055-49-65. Plaintiff Jie Hu is the spouse of Yibiao Lu and a resident of the same household, and is an insured under the policy, which defines "you" and "your" to mean the named insured shown in the Declarations and the named insured's spouse if a resident of the same household. The policy classifies the property as "Owner Occupied (Primary Residence)."
 
-5. Defendant Fire Insurance Exchange ("Defendant" or "Farmers") is an unincorporated reciprocal insurance exchange organized under California law and authorized to transact insurance business in Minnesota, acting by and through its attorney-in-fact, Fire Underwriters Association. Defendant operates in Minnesota under the trade name Farmers Insurance and is licensed by the Minnesota Department of Commerce. Defendant maintains a registered agent for service of process in Minnesota.
+5. Defendant Fire Insurance Exchange ("Defendant" or "Farmers") is a reciprocal insurance exchange organized under California law and authorized to transact insurance business in Minnesota, acting by and through its attorney-in-fact, Fire Underwriters Association. Defendant operates in Minnesota under the trade name Farmers Insurance and is licensed by the Minnesota Department of Commerce. Defendant maintains a registered agent for service of process in Minnesota.
 
 ---
 
@@ -338,7 +338,33 @@ Plaintiffs demand a trial by jury on all issues so triable.
 
 ---
 
-## IX. SIGNATURE
+## IX. ACKNOWLEDGMENT
+
+*(Adapted from Minnesota Judicial Branch Form CIV803, Civil Complaint.)*
+
+By presenting this Complaint to the Court, the undersigned Plaintiffs certify that, to the best of their knowledge, information, and belief, the following statements are true. Plaintiffs understand that if a statement is not true, the Court may order a penalty against them (such as paying money to the other party, paying court costs, and/or other penalties).
+
+1. The information included in this Complaint is based on facts and supported by existing law.
+
+2. Plaintiffs are not presenting this Complaint for any improper purpose. Plaintiffs are not using it to:
+
+   a. harass anyone;
+
+   b. cause unnecessary delay in the case; or
+
+   c. needlessly increase the cost of litigation.
+
+3. No judicial officer has said either Plaintiff is a frivolous litigant.
+
+4. There is no court order preventing Plaintiffs from serving or filing this Complaint.
+
+5. This Complaint does not contain any "restricted identifiers" or confidential information as defined in Rule 11 of the General Rules of Practice or the Rules of Public Access to Records of the Judicial Branch.
+
+6. If Plaintiffs need to file restricted identifiers, confidential information, or a confidential document, they will use Form 11.1 and/or Form 11.2, as required by Rule 11.
+
+---
+
+## X. SIGNATURE
 
 ```
 Dated: __________________, 2026.

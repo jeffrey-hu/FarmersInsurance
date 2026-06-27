@@ -54,4 +54,19 @@ Agreement with ChatGPT's conclusion. The documentary basis is clear and consiste
 
 ---
 
-*Last updated: 2026-04-04 — add new decisions below as they are made.*
+## Decision 3: Civil Case Type Designation
+
+**Decision: Designate the case type as "Contract"**
+
+**Status:** ✅ Confirmed
+
+### Reasoning
+Minn. R. Civ. P. 10.01 requires every pleading's caption to display, in the upper right-hand corner, a case type matching the State Court Administrator's Case Type Index. Research of the official Minnesota case-category structure (MNCIS) shows insurance-coverage disputes are filed under the **Major Civil → Contract** category, whose case-type descriptions are "Contract," "Mechanics Lien," and "Receivership." **There is no separate "Insurance" case type in Minnesota state court** — the "103 – Insurance" code seen in generic templates is from the *federal* civil cover sheet, not MNCIS.
+
+The lawsuit's lead claim and gravamen is Count I, breach of the insurance contract, with monetary damages sought. "Contract" is therefore the correct, specific designation. The catch-all "Civil Other/Misc." is reserved for cases that fit no defined type; because "Contract" fits squarely, the specific type is used even though the complaint also carries declaratory-judgment (ch. 555) and Minnesota Consumer Fraud Act counts. At e-filing, select the "Contract" major category and the "Contract" case type in the eFS dropdown.
+
+**Sources:** MN State Court Administrator, Case Category Descriptions; Civil Case Type and Filing Code Index (Form 23 replacement); Minn. R. Civ. P. 10.01.
+
+---
+
+*Last updated: 2026-06-27 — add new decisions below as they are made.*
