@@ -53,7 +53,7 @@
 
 **09/05/2024 — Family submits photos of hail damage to Farmers.** Farmers reopens the claim. Farmers adjuster Nic Brau calls to schedule a second inspection.
 
-**09/06/2024 — Second inspection: Nic Brau (Farmers Claims Spec Rep Prop) inspects personally.** He and the family find dents on windows together; Nic measures window dimensions.
+**09/06/2024 — Second inspection: Nic Brau (Farmers Senior Claim Adjuster) inspects personally.** He and the family find dents on windows together; Nic measures window dimensions.
 ⚠️ *Farmers later claims "the file does not contain a report" from this inspection. Nic Brau refuses to provide his notes. This is a significant discovery/spoliation issue.*
 
 **09/08/2024 & 09/10/2024 — Family submits additional photos** of hail damage evidence to Nic Brau.

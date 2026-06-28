@@ -226,7 +226,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 ### FarmersDenyLetter-11-4.pdf
 **Type:** Denial letter + Coverage Outcome – Policy Provisions + Prieve Engineering forensic report (10 pages combined)
 **Date:** November 4, 2024 (letter and report share same date; site visit October 9, 2024)
-**From:** Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange
+**From:** Nicholas Brau, Senior Claim Adjuster, Fire Insurance Exchange
 **Addressees:** Yibiao Lu & Jie Hu (note: Jie Hu is co-named — likely spouse/co-insured; confirm whether she must be a co-plaintiff)
 **Significance:** This is Farmers' formal denial and the entire evidentiary basis for it. Three components:
 
@@ -388,7 +388,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 - **Zorphion Miller** — primary claims contact handling post-appraisal correspondence
 - **Twonda Miller** — named in October 28 email; role unclear
 - **Jed Jones** — named in October 28 email; role unclear
-- **Nic Brau** — original Farmers Claims Spec Rep Prop who conducted 9/6/2024 inspection; refused to produce notes
+- **Nic Brau** — original Farmers Senior Claim Adjuster who conducted 9/6/2024 inspection; refused to produce notes
 
 **Key legal significance:**
 - The absence of any Nic Brau inspection report is a significant discovery issue. Nic inspected the property, found dents, and measured windows — if no written record was created or if it was destroyed, that raises spoliation concerns. This should be a priority request in formal discovery.
