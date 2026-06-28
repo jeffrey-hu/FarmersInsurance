@@ -57,7 +57,7 @@ The Court should limit Mr. Prieve's testimony because specific opinions containe
 
 1. **The Weather-Records Assertion.** Mr. Prieve's statement that "[t]he most recent hail in Eden Prairie [was] reported in 2020" lacks adequate foundational support. The assertion is factually contradicted by:
    - the National Weather Service Twin Cities/Chanhassen Forecast Office storm report documenting severe thunderstorms across Minnesota on July 13–14, 2024 with hail up to 4 inches in diameter and a 48 MPH wind gust at the Eden Prairie ASOS station at 1:00 AM on July 14, 2024;
-   - City of Eden Prairie public building-permit records for permits EP187829 (issued 11/15/2023, cause: hail) and EP190835 (issued 5/9/2024, cause: hail);
+   - City of Eden Prairie public building-permit records for window-replacement permits EP187829 (issued 11/15/2023) and EP190835 (issued 5/9/2024) on the same street, the hail causation of which the affected homeowners confirmed in Plaintiffs' neighbor canvass;
    - the September 12, 2025 Appraisal Award, signed by neutral umpire Wade Roos, finding hail as the cause of loss for the awarded windows at the subject property; and
    - additional commercial weather-data records (Stormersite; Interactive Hail Maps) showing post-2020 hail reports in or near Eden Prairie.
 2. **Causation Opinions Without Quantitative Methodology.** Mr. Prieve's window-by-window causation opinions are reached without any quantitative impact-force analysis, terminal-velocity calculation, material-specific dent-depth modeling, or peer-reviewed methodological support — the rigor required for a foundationally reliable causation opinion under Rule 702 as construed in *Doe 76C v. Archdiocese of St. Paul and Minneapolis*, 817 N.W.2d 150 (Minn. 2012).

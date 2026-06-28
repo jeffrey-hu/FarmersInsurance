@@ -100,11 +100,9 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
    b. Stormersite data showing hail reports near Eden Prairie in 2022, 2023, and 2024;
 
-   c. City of Eden Prairie public permit records documenting hail-driven exterior repairs on the same street as Plaintiffs' home, including permit EP187829 at 17490 George Moran Drive (window replacement, issued November 15, 2023, cause: hail) and permit EP190835 at 17708 George Moran Drive (window replacement, issued May 9, 2024, cause: hail);
+   c. Plaintiffs' contemporaneous canvass of nineteen neighboring homeowners, of whom fourteen confirmed hail-driven exterior repairs in the immediate neighborhood after 2020; and
 
-   d. Plaintiffs' contemporaneous canvass of nineteen neighboring homeowners, of whom fourteen confirmed hail-driven exterior repairs in the immediate neighborhood after 2020; and
-
-   e. Defendant's own September 12, 2025 appraisal award, signed by the umpire Wade Roos and by Plaintiffs' appraiser John Foster, finding hail as the cause of loss to insured windows at the property.
+   d. Defendant's own September 12, 2025 appraisal award, signed by the umpire Wade Roos and by Plaintiffs' appraiser John Foster, finding hail as the cause of loss to insured windows at the property.
 
 21. **The two denials rest on incompatible factual theories.** The September 3, 2024 letter says no exterior damage exists; the November 4, 2024 letter acknowledges damage exists but blames aging and prior storms. Both cannot be correct.
 

@@ -73,7 +73,7 @@ In preparation for this Affidavit, I have reviewed the following materials:
 
 2.7 The National Weather Service Twin Cities/Chanhassen Forecast Office storm report for July 13–14, 2024, including the Eden Prairie ASOS observational data for that period.
 
-2.8 City of Eden Prairie public building-permit records, specifically permits EP187829 (issued 11/15/2023; 17490 George Moran Drive; cause: hail) and EP190835 (issued 5/9/2024; 17708 George Moran Drive; cause: hail).
+2.8 City of Eden Prairie public building-permit records, specifically window-replacement permits EP187829 (issued 11/15/2023; 17490 George Moran Drive) and EP190835 (issued 5/9/2024; 17708 George Moran Drive), the hail causation of which was confirmed by the affected homeowners in Plaintiffs' neighbor canvass.
 
 2.9 Plaintiffs' 2/10/2025 Second Response to Final Report, including the neighbor canvass results (14 of 19 neighbors confirmed hail-related repairs in 2023 and 2024).
 
@@ -119,7 +119,7 @@ The Prieve Report does not reference:
 
 (b) The Eden Prairie ASOS observational data for July 13–14, 2024;
 
-(c) City of Eden Prairie building-permit records documenting post-2020 hail-related repairs in the immediate neighborhood;
+(c) City of Eden Prairie building-permit records documenting post-2020 window-replacement repairs in the immediate neighborhood, confirmed as hail-related by the affected homeowners in Plaintiffs' neighbor canvass;
 
 (d) Local news archives.
 
@@ -167,7 +167,7 @@ The Prieve Report does not satisfy any of the four pillars of foundationally rel
 
    **(a) The NWS Twin Cities/Chanhassen Forecast Office storm report for July 13–14, 2024.** The report documents severe thunderstorms across Minnesota with hail up to 4 inches in diameter and a 48 MPH wind gust at the Eden Prairie ASOS station at 1:00 AM on July 14, 2024. The Eden Prairie ASOS station is approximately one mile from the subject property.
 
-   **(b) City of Eden Prairie public building-permit records.** Permits EP187829 (issued 11/15/2023; 17490 George Moran Drive; cause: hail) and EP190835 (issued 5/9/2024; 17708 George Moran Drive; cause: hail) are public records documenting hail-related window replacement at properties within walking distance of the subject property.
+   **(b) City of Eden Prairie public building-permit records.** Permits EP187829 (issued 11/15/2023; 17490 George Moran Drive) and EP190835 (issued 5/9/2024; 17708 George Moran Drive) are public records documenting window replacement at properties within walking distance of the subject property; the affected homeowners confirmed the work was hail-related in Plaintiffs' neighbor canvass. The permits themselves record the work type, address, contractor, and dates and do not state a cause.
 
    **(c) Plaintiffs' neighbor canvass (February 4–7, 2025).** Fourteen of nineteen neighbors confirmed hail damage and insurance-covered repairs in 2023 and / or 2024.
 

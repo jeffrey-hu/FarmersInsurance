@@ -70,7 +70,7 @@ Multiple public records and independent sources contradict Mr. Prieve's foundati
 
 - **NWS Twin Cities/Chanhassen Storm Report (7/13–7/14/2024)** documents severe thunderstorms across Minnesota, hail up to 4 inches near Monticello/Big Lake, hail up to 3.5 inches in east-central Minnesota, and a 48 MPH wind gust at Eden Prairie ASOS at 1:00 AM on 7/14. *(Ex. 4.)*
 
-- **City of Eden Prairie Building Permit Records.** Permit EP187829 was issued on November 15, 2023 for window replacement at 17490 George Moran Drive (within walking distance of the subject property), with cause: hail. Permit EP190835 was issued on May 9, 2024 for window replacement at 17708 George Moran Drive (also within walking distance), with cause: hail. *(Ex. 10, City Permit Records.)*
+- **City of Eden Prairie Building Permit Records.** Permit EP187829 was issued on November 15, 2023 for window replacement at 17490 George Moran Drive (within walking distance of the subject property). Permit EP190835 was issued on May 9, 2024 for window replacement at 17708 George Moran Drive (also within walking distance). The permits record the work type, address, contractor, and dates; the hail causation of this neighborhood work was confirmed by the affected homeowners in Plaintiffs' neighbor canvass. *(Ex. 10, City Permit Records; Ex. 9, Neighbor Canvass.)*
 
 - **Stormersite Database Records** for the Eden Prairie area show hail-event reports in 2022, 2023, and 2024 — contradicting the report Mr. Prieve cites as showing "most recent hail in Eden Prairie reported in 2020." *(Ex. 11, Stormersite Records.)*
 
@@ -146,9 +146,9 @@ The assertion that "the most recent hail in Eden Prairie [was] reported in 2020"
 
 **1.** The NWS Twin Cities/Chanhassen Forecast Office storm report for 7/13–7/14/2024 documents hail up to 3.5 inches in east-central Minnesota, hail up to 4 inches near Monticello/Big Lake, and a 48 MPH wind gust at the Eden Prairie ASOS station at 1:00 AM on 7/14/2024. *(Ex. 4.)* The Eden Prairie ASOS station is approximately one mile from the subject property. The NWS storm report places severe-storm conditions at Eden Prairie at the date and time of the loss.
 
-**2.** City of Eden Prairie public building-permit records document two permits issued for window replacement attributable to hail, on properties within walking distance of the subject property, in the period Mr. Prieve characterizes as hail-free:
-   - EP187829, issued 11/15/2023, for 17490 George Moran Drive, cause: hail; *(Ex. 10.)*
-   - EP190835, issued 5/9/2024, for 17708 George Moran Drive, cause: hail. *(Ex. 10.)*
+**2.** City of Eden Prairie public building-permit records document two window-replacement permits on properties within walking distance of the subject property, both issued in the period Mr. Prieve characterizes as hail-free; the affected homeowners confirmed the work was hail-related in Plaintiffs' neighbor canvass:
+   - EP187829, issued 11/15/2023, for 17490 George Moran Drive (window replacement); *(Ex. 10; Ex. 9.)*
+   - EP190835, issued 5/9/2024, for 17708 George Moran Drive (window replacement). *(Ex. 10; Ex. 9.)*
 
 **3.** Plaintiffs' neighbor canvass (2/4–2/7/2025) reached 19 immediate neighbors; 14 confirmed hail damage and insurance-covered repairs in 2023 and/or 2024. *(Ex. 9.)*
 

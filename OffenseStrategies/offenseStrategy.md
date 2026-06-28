@@ -288,7 +288,7 @@ Farmers' own adjuster personally observed dents on multiple windows and measured
 
 ### 5.4 Prieve's "no hail in Eden Prairie after 2020" assertion was objectively disprovable on public record
 
-The NWS Twin Cities/Chanhassen article (with the 48 MPH gust at Eden Prairie ASOS at 1:00 AM 7/14/2024); stormersite data for 2022, 2023, and 2024; City permits EP187829 (11/15/2023, hail) and EP190835 (5/9/2024, hail) on the same street; the 14-of-19 neighbor canvass; and Farmers' own subsequently-procured appraisal award all disprove it. **A forensic engineering report whose foundational factual premise is wrong on data the engineer should have consulted is not a "fairly debatable" basis for denial — it is a disprovable factual claim that Farmers continued to rely on after each piece of disproving evidence was put on the record.**
+The NWS Twin Cities/Chanhassen article (with the 48 MPH gust at Eden Prairie ASOS at 1:00 AM 7/14/2024); stormersite data for 2022, 2023, and 2024; City window-replacement permits EP187829 (11/15/2023) and EP190835 (5/9/2024) on the same street, with hail causation homeowner-confirmed via the 14-of-19 neighbor canvass; and Farmers' own subsequently-procured appraisal award all disprove it. **A forensic engineering report whose foundational factual premise is wrong on data the engineer should have consulted is not a "fairly debatable" basis for denial — it is a disprovable factual claim that Farmers continued to rely on after each piece of disproving evidence was put on the record.**
 
 ### 5.5 The award's facial non-compliance with § 65A.01 Subd. 3
 

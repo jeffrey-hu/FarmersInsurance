@@ -314,8 +314,8 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 - **14 of 19 confirmed their exterior work was due to hail damage**, with claims spanning 2023 and/or 2024 storms
 
 *City permit table (pages 2–3):* Lists 25 permits on nearby streets (George Moran Dr, Cascade Dr, Steading Rd, Clear Spring La, Cimarron La, Galway Cove, Dover Cove), covering reroofs, resinings, and window replacements issued between 2023 and 2024. Of those where homeowners were reached, 14 are marked "Yes" for hail damage confirmation. Notable entries directly relevant to the claim:
-- **17490 George Moran Dr** — Window replacement (permit EP187829, issued 11/15/2023), confirmed hail damage
-- **17708 George Moran Dr** — Window replacement (permit EP190835, issued 5/9/2024), confirmed hail damage
+- **17490 George Moran Dr** — Window replacement (permit EP187829, issued 11/15/2023); hail cause homeowner-confirmed via canvass (permit itself states no cause)
+- **17708 George Moran Dr** — Window replacement (permit EP190835, issued 5/9/2024); hail cause homeowner-confirmed via canvass (permit itself states no cause)
 - Multiple reroofs and residings confirmed hail on Cascade Dr in 2023 and 2024
 
 *Supplemental argument on window dent causation:* Letter states that during the 2015 hail claim inspection, **no dents were observed at all** — meaning the 2020 claim was the first time dents appeared, and then only 2 sashes were identified. All current dents therefore postdate 2020. Combined with the family's characterization of the neighborhood as very safe, the letter argues hail is the only plausible cause.

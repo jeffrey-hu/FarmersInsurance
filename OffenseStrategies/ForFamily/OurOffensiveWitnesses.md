@@ -378,14 +378,14 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 
 **Who:** Records custodian or designated representative of the City of Eden Prairie's building-permit office.
 
-**Why they matter:** Authenticates the City permit records (EP187829 at 17490 George Moran Dr, issued 11/15/2023, cause: hail; EP190835 at 17708 George Moran Dr, issued 5/9/2024, cause: hail) and any additional permits responsive to subpoena. The permits independently disprove Prieve's "no hail in Eden Prairie after 2020" assertion.
+**Why they matter:** Authenticates the City permit records (EP187829 at 17490 George Moran Dr, window replacement, issued 11/15/2023; EP190835 at 17708 George Moran Dr, window replacement, issued 5/9/2024) and any additional permits responsive to subpoena. The permits establish that post-2020 window-replacement work occurred on the same street; the hail causation of that work comes from the affected homeowners' confirmation in the neighbor canvass, not from the permits (which state no cause). Together they disprove Prieve's "no hail in Eden Prairie after 2020" assertion.
 
 **Key facts to establish:**
 - The City's permit-record system.
 - The records are accurate.
-- EP187829 was issued 11/15/2023 for hail-cause repair.
-- EP190835 was issued 5/9/2024 for hail-cause repair.
-- Other permits issued for hail-cause repairs in the post-2020 period.
+- EP187829 was issued 11/15/2023 for window-replacement work at 17490 George Moran Dr (the permit states no cause; the hail cause comes from the homeowner's canvass confirmation).
+- EP190835 was issued 5/9/2024 for window-replacement work at 17708 George Moran Dr (same — hail cause from canvass, not the permit).
+- Other permits issued for exterior repairs in the post-2020 period, with hail cause established through homeowner confirmation where available.
 
 **How to obtain testimony:** Rule 45 subpoena to the City, with a records-custodian affidavit under Minn. R. Evid. 902(11) likely sufficient. Live testimony rarely needed.
 
