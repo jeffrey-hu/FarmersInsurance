@@ -96,7 +96,7 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
 20. **Defendant adopted Prieve Engineering's representation that "the most recent hail in Eden Prairie reported in 2020."** The November 4, 2024 denial transmitted Prieve's report to Plaintiffs as the basis for the denial. Prieve's report stated, in the Weather Records section, that stormersite and the NOAA Storm Events Database showed "most recent hail in Eden Prairie reported in 2020." That representation of historical weather fact was and is objectively false. It is independently disproven by:
 
-   a. National Weather Service Twin Cities/Chanhassen documentation of severe thunderstorms across Minnesota on July 13–14, 2024 with hail up to 3.5–4 inches and a 48 MPH wind gust at Eden Prairie ASOS at 1:00 AM on July 14, 2024;
+   a. National Weather Service Twin Cities/Chanhassen documentation of the July 13–14, 2024 storm system, which produced hail up to 3.5–4 inches across the region and a 48 MPH wind gust recorded at the Eden Prairie ASOS station at 1:00 AM on July 14, 2024;
 
    b. Stormersite data showing hail reports near Eden Prairie in 2022, 2023, and 2024;
 
@@ -106,7 +106,7 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
 21. **The two denials rest on incompatible factual theories.** The September 3, 2024 letter says no exterior damage exists; the November 4, 2024 letter acknowledges damage exists but blames aging and prior storms. Both cannot be correct.
 
-21a. **The Prieve report on which the November 4, 2024 denial principally rests is independently deficient on its face.** The deficiencies include:
+21a. **The Prieve report on which the November 4, 2024 denial principally rests is independently deficient on its face.** The deficiencies include, without limitation:
 
    a. Defendant scoped Prieve's engagement to "windows only," excluding from the engineer's mandate the siding, downspouts, flashing, and doors Plaintiffs had reported as damaged, yet Defendant used the report — whose Conclusions purport to opine on siding as well — as the basis for denying the entire claim;
 
@@ -120,7 +120,7 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
    f. the report contains no quantitative impact-force calculation, no terminal-velocity calculation, no material-specific dent-depth threshold for extruded aluminum or aluminum-clad wood windows, no peer-reviewed citation, and no stated error rate;
 
-   g. Conclusion 4's directional dismissal of damage on the east elevation ("storms moving from west to east with hail originating from a westerly direction") is a generalization not derived from the specific 7/13–7/14/2024 storm event, which the National Weather Service documents as a multi-round overnight system with severe weather across Minnesota; the generalization is further refuted by Defendant's own September 12, 2025 appraisal award, which awarded a rear/east window (B1.2, family room) as a hail loss alongside a front/west window (F1.7), thereby confirming that hail damaged the east elevation of the dwelling, and by the fact that wind direction is not fixed within a single storm — surface winds veer and back as a storm cell approaches, passes, and departs, and gust fronts, outflow boundaries, and a rotating updraft can drive hail against multiple faces of a structure during the same event;
+   g. Conclusion 4's dismissal of east-elevation damage rests on a generalization — "storms moving from west to east with hail originating from a westerly direction" — not derived from the actual 7/13–7/14/2024 event, which the National Weather Service documents as a severe overnight system that produced hail over multiple hours of the same event. Defendant's own September 12, 2025 appraisal award refutes that generalization on its face: it awarded a rear/east window (B1.2, family room) as a hail loss alongside a front/west window (F1.7), confirming that hail struck the east elevation. The premise is independently unsound because wind direction is not fixed within a single storm;
 
    h. the report's Activities section does not list as inputs the Hancock 8/29/2024 inspection workproduct, the 9/3/2024 first denial letter, any record of adjuster Nicholas Brau's 9/6/2024 observations, or Plaintiffs' photographic submissions of September 5, 8, and 10, 2024; and
 
