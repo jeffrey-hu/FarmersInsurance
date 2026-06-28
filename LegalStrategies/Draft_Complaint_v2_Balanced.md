@@ -128,11 +128,11 @@ d/b/a Farmers Insurance,                   DEMAND FOR JURY TRIAL
 
 21b. **Defendant's own 2020 claim file establishes a baseline condition of the windows that forecloses its "prior damage" rationale for all but two sashes.** The 2020 hail claim (claim 3013539499-1) is Defendant's own contemporaneous documentation of the condition of the windows at the property as of the October 13, 2020 inspection. That file does not support the Prieve report's "already paid in 2020" theory:
 
-   a. the 2020 Building Loss Worksheet and Xactimate approved two casement windows at line items 1–4, with no other window-related line items, and Plaintiffs maintain that the dents within that scope were on two sashes, not two whole window units;
+   a. the 2020 Building Loss Worksheet and Xactimate approved two casement windows at line items 1–4, with no other window-related line items, and Plaintiffs maintain that the damage within that scope was confined to two sashes, not two whole window units; but on either reading, the 2020 claim reached no more than two of the home's window units;
 
-   b. Defendant's 2020 inspection documented hail dents warranting repair on only those two sashes and identified no other dented sash or window anywhere on the home, so as of October 13, 2020 Defendant's own record reflects that no window or sash other than the two paid sashes was identified as hail-damaged, and any dent the 2024 inspections documented on a different sash or window is, by Defendant's own baseline, damage that post-dates the 2020 inspection;
+   b. Defendant's 2020 inspection documented hail dents warranting repair on only those two paid units and identified no other dented sash or window anywhere on the home, so as of October 13, 2020 Defendant's own record reflects that no window or sash other than those two paid units was identified as hail-damaged, and any dent the 2024 inspections documented on a different sash or window is, by Defendant's own baseline, damage that post-dates the 2020 inspection;
 
-   c. the only documented hail event at the property after the 2020 inspection is the July 13, 2024 hailstorm, so the post-2020 dents the Prieve report catalogs across at least nineteen windows align with the July 13, 2024 loss and cannot be attributed to the 2020 claim;
+   c. the only hail event documented at the property in Defendant's claim records after the 2020 inspection is the July 13, 2024 hailstorm, so the post-2020 dents the Prieve report catalogs across at least nineteen windows align with the July 13, 2024 loss and cannot be attributed to the 2020 claim;
 
    d. the Prieve report documents dents at additional sashes on the same windows and attributes "rounded dents … at sashes" on multiple windows to "a prior hail claim," a treatment that exceeds what Defendant's 2020 file can support, because the "prior claim" basket cannot hold more sashes than Defendant's own 2020 record documented; and
 
