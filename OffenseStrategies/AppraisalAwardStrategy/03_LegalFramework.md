@@ -53,7 +53,7 @@ The umpire produced no report, no estimate, and no methodology document (Farmers
 
 **Application to the gap analysis.** Per `01_DamageCatalog_PrieveAppendixA.md` § F:
 - The panel evaluated and awarded F1.7 and B1.2 → causation finding binds Farmers on those two windows.
-- The panel did not evaluate the other 17 hail-signature window locations Prieve documented → coverage and amount of loss for those windows are reserved court questions under Count I.
+- The panel did not evaluate the other 23 hail-signature window locations Prieve documented → coverage and amount of loss for those windows are reserved court questions under Count I.
 - The panel had no jurisdiction over downspouts, flashing (apart from siding-system flashing), and exterior doors → those are reserved court questions under Count I.
 - The panel awarded $0 on siding without evident evaluation of the 2 photographed penetrations and 3 trim chips → at minimum, the basis for the $0 should be remanded for clarification under *Herll* / *Rymer*.
 

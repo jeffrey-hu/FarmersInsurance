@@ -6,7 +6,7 @@
 - April 12, 2026 — Semco out-of-business / matching analysis added (arguments 1, 5, 7, deductible math); *Cedar Bluff* and *Noonan* added
 - **May 24, 2026 — Substantial revision incorporating (a) Engineer Report Rebuttal (eight independent defects in the Prieve report); (b) the garage-window self-defining diagnostic; (c) the downspout/flashing omission analysis; (d) the full AppraisalAwardStrategy three-tier framework (Tier 1 *Herll*/*Rymer* remand, Tier 2 § 65A.01 Subd. 3 modification, Tier 3 *Mork* vacatur); (e) the *Quade*-reservation theory for unevaluated windows; (f) new common-law fraud, negligent misrepresentation, and MCFA arguments added to the complaint drafts.**
 
-**Purpose:** Honest evaluation of each proposed legal argument, informed by current Minnesota case law, litigation trends in hail claims, and the specific facts of this case — now including the full Prieve Engineering Photo Appendix A record (217 photographs documenting ~42 distinct window damage observations, 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim board chips, and 1 door window screen dent) against the 9/12/2025 appraisal award of 2 windows for $12,800 RCV ($0 net after deductible).
+**Purpose:** Honest evaluation of each proposed legal argument, informed by current Minnesota case law, litigation trends in hail claims, and the specific facts of this case — now including the full Prieve Engineering Photo Appendix A record (217 photographs documenting ~43 distinct window damage observations, 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim board chips, and 1 door window screen dent) against the 9/12/2025 appraisal award of 2 windows for $12,800 RCV ($0 net after deductible).
 
 **Disclaimer:** This is legal research compiled for informational purposes. It is not legal advice. The family should consult with a licensed Minnesota attorney before filing suit.
 
@@ -29,7 +29,7 @@ After incorporating the engineer-report-rebuttal work and the appraisal-award-st
 11. **Spoliation / adverse inference** (~30/100 — evidentiary tool, not a count)
 12. **Cosmetic-vs.-functional damage** (~50/100 — strongest defensive position because of the documented leaks)
 
-The single most important update since April 2026: **the family no longer needs to prove the appraisal award was wrong in order to recover.** Under the *Quade*-reservation theory, the panel's authority extends only to items it actually evaluated; coverage for the 17 hail-signature window locations Prieve documented but the panel did not evaluate remains a live coverage question for the court under Count I — **without disturbing the existing award**. This sidesteps the entire "but the appraisal said $12,800" defense.
+The single most important update since April 2026: **the family no longer needs to prove the appraisal award was wrong in order to recover.** Under the *Quade*-reservation theory, the panel's authority extends only to items it actually evaluated; coverage for the 23 hail-signature window locations Prieve documented but the panel did not evaluate remains a live coverage question for the court under Count I — **without disturbing the existing award**. This sidesteps the entire "but the appraisal said $12,800" defense.
 
 ---
 
@@ -53,7 +53,7 @@ This framework supersedes the single appraisal-challenge argument in the April a
 
 ### Shift 3 — *Quade*-Reservation Theory Adds a Dollar-Driving Lane That Does Not Require Disturbing the Award
 
-The April 2026 assessment focused on (a) defeating the appraisal award and (b) overcoming the deductible. The May 2026 work identifies a third lane: under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), the appraisal panel's authority extends only to items it actually evaluated. Items the panel did not evaluate remain coverage questions reserved to the court. Per `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md` § F, Prieve's catalog documents 17 hail-signature window locations the panel did not award, plus 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim chips, and 1 door window screen — none of which are foreclosed by the appraisal. Coverage and amount of loss for each is a live court question under Count I. This lane is the new dollar driver: simple per-window arithmetic on Prieve's observations puts the family above the deductible without any change to the $12,800 figure.
+The April 2026 assessment focused on (a) defeating the appraisal award and (b) overcoming the deductible. The May 2026 work identifies a third lane: under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), the appraisal panel's authority extends only to items it actually evaluated. Items the panel did not evaluate remain coverage questions reserved to the court. Per `OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md` § F, Prieve's catalog documents 23 hail-signature window locations the panel did not award, plus 5 dented downspouts, 3 dented flashing observations, 2 siding penetrations, 3 trim chips, and 1 door window screen — none of which are foreclosed by the appraisal. Coverage and amount of loss for each is a live court question under Count I. This lane is the new dollar driver: simple per-window arithmetic on Prieve's observations puts the family above the deductible without any change to the $12,800 figure.
 
 ---
 
@@ -74,7 +74,7 @@ The April 2026 assessment correctly recognized that "breach of contract" in this
 
 **Why Track 1 sidesteps the prior assessment's central concern.** The April 2026 assessment treated the appraisal-bar problem as a headwind: "Even if the family convinces a court that additional windows should have been included, the total damage still needs to exceed $17,720 before Farmers owes a single dollar." Track 1 does not require convincing the court that "additional windows should have been included in the award." It requires convincing the court that the panel did not evaluate those windows — which is on the face of the award (a $12,800 figure against "F1.7 / B1.2") and confirmed by Farmers' 9/24/2025 admission that the umpire produced no report or estimate. The court evaluates the unevaluated windows under Count I on a clean record, with Prieve's Appendix A as the principal evidence.
 
-**Quantum on Track 1 alone (illustrative).** If the per-window RCV implied by the F1.7 / B1.2 award (~$6,400 per window) is applied to the 23 unevaluated hail-signature windows, the additional RCV is roughly $108,800 (more if Track 2 matching is applied; less if depreciation is heavier). After depreciation at the same ratio (~50%) and adding the deductible math, the family's net recovery on Track 1 alone is likely in the $30,000–$55,000 range — comfortably above the $0 the appraisal produced.
+**Quantum on Track 1 alone (illustrative).** If the per-window RCV implied by the F1.7 / B1.2 award (~$6,400 per window) is applied to the 23 unevaluated hail-signature windows, the additional RCV is roughly $147,200 (more if Track 2 matching is applied; less if depreciation is heavier). After depreciation at the same ratio (~50%) and adding the deductible math, the family's net recovery on Track 1 alone is likely in the $40,000–$75,000 range — comfortably above the $0 the appraisal produced.
 
 **What a court will still want to see** (largely unchanged from April assessment, with additions in italics):
 
@@ -352,7 +352,7 @@ The April 12, 2026 update introduced the Semco matching argument as a path to ov
 
 | Path | How it overcomes the deductible |
 |---|---|
-| **Path 1: All windows damaged + Prieve catalog** | Simple per-window arithmetic on 17 documented hail-signature windows at ~$6,400 per window RCV produces ~$108,800 RCV → ACV ~$54,400 → net after $17,720 deductible ~$36,680 — without matching premium |
+| **Path 1: All windows damaged + Prieve catalog** | Simple per-window arithmetic on 23 documented hail-signature windows at ~$6,400 per window RCV produces ~$147,200 RCV → ACV ~$73,600 → net after $17,720 deductible ~$55,880 — without matching premium |
 | **Path 2: Semco matching under *Cedar Bluff*** | Full window replacement on a Coverage A $886,000 home easily exceeds the deductible by tens of thousands of dollars |
 | **Path 3: Non-window components (downspouts, flashing, doors, siding)** | 5 downspouts + 3 flashing + 2 siding penetrations + 3 trim chips + 1 door window screen — none subject to the appraisal bar; quantum to be developed by contractor estimates |
 

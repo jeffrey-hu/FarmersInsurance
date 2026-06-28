@@ -112,10 +112,10 @@ Set the legal arguments aside for a moment and consider the dollar math.
 | Calculation | Number |
 |---|---|
 | Replacement cost per window if the panel valued F1.7 + B1.2 = $12,800 collectively | ~$6,400 per window (RCV) |
-| Number of windows Prieve documented as damaged with hail-signature observations (sash dents, frame dents) | 17 |
-| Implied RCV if all 17 were valued at the same per-window rate | ~$108,800 RCV |
-| Less depreciation at the same ratio the panel applied ($12,800 → $6,400 = 50%) | ACV ~$54,400 |
-| Less $17,720 deductible | Net to family ~$36,680 |
+| Number of windows Prieve documented as damaged with hail-signature observations (sash dents, frame dents) | 23 |
+| Implied RCV if all 23 were valued at the same per-window rate | ~$147,200 RCV |
+| Less depreciation at the same ratio the panel applied ($12,800 → $6,400 = 50%) | ACV ~$73,600 |
+| Less $17,720 deductible | Net to family ~$55,880 |
 
 Even before the family adds siding repair, downspout replacement, flashing repair, door window screen replacement, exterior repaint, mold remediation, blinds R&R, and the matching-cost premium for the discontinued Senco/Semco windows (each of which has been documented in the Pure Construction file and the family's Pella Reserve workpapers), simple per-window arithmetic on Prieve's own observations puts the family above the deductible. The two-window award is not just under-itemized; it is the source of the $0 net payment.
 
