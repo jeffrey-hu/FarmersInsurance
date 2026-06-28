@@ -20,6 +20,8 @@ There is a third response the base files do not work through: **(c) the panel sa
 
 Winning the remand and then losing this branch can leave the family worse off than if it had never moved. The purpose of this addendum is to keep that from happening — primarily by *preventing* the panel from credibly making claim (c) in the first place, and secondarily by having a worked-out response if it does.
 
+> **Built-in answer for the siding (use this even in the evaluated-but-rejected scenario).** The award form's per-item "Causation" column marks the "Siding & Paint" line **"Hail"** while valuing it at **$0**. That single entry defeats claim (c) *for the siding* regardless of how the panel later characterizes its work: the panel cannot say "we evaluated siding and found no hail" because its own award says the opposite — it found hail and awarded nothing. A $0-on-hail-cause line is, by definition, an **amount or coverage** determination, not a causation finding. *Quade* makes the hail-causation finding binding on Farmers; *Mork* makes any coverage component "mere surplusage" that the court decides de novo. So even in the worst-case "we evaluated everything" posture, the siding line is locked as a coverage question for the court. The same logic is the template for attacking any *window* the panel claims to have "evaluated and rejected" on a wear/tear, cosmetic, or prior-payment basis — those are coverage calls, not causation. (Now pleaded: V4 ¶50, ¶56(j), ¶60; v2 ¶48(i), ¶51a.)
+
 ---
 
 ## 2. Why the Base Strategy Must Be Supplemented (the assumption to retire)

@@ -17,10 +17,12 @@
 | Frame | What it contains | Total Replacement Cost |
 |---|---|---|
 | **Appraisal Demand (family's submitted scope)** | 3 items: Windows, Siding (repaint), Siding (R&R) | $310,000 whole loss claimed |
-| **Appraisal Award (panel's output)** | "Siding & Paint" — **$0** RCV; "Windows F1.7 B1.2" — **$12,800** RCV / $6,400 ACV; "Siding" — **$0** RCV | $12,800 RCV / $6,400 ACV |
+| **Appraisal Award (panel's output)** | "Siding & Paint" — **$0** RCV; "Windows F1.7 B1.2" — **$12,800** RCV / $6,400 ACV; "Debris" — **$0** RCV. **All three lines marked "Hail" in the award's per-item "Causation" column; form "Loss Cause" = "Hail."** | $12,800 RCV / $6,400 ACV |
 | **Prieve Appendix A (Farmers' own engineer's documented damage)** | at least 19 distinct windows (plus a sliding door) with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 3 trim board chips; 1 door window screen dent *(the 2 siding penetrations A-26/A-27 and A-208/A-212 are excluded as damage from a hail storm prior to 2020)* | Not quantified by Prieve (not his scope) |
 
 The award represents approximately **4% of the demanded loss**, and the awarded RCV is **less than 75% of the deductible**, producing $0 net payment.
+
+**Causation-column leverage (new).** The award form marks the cause of loss "Hail" both in its "Loss Cause" field and, line by line, in a per-item "Causation" column — and it does so even for the "Siding & Paint" and "Debris" lines it valued at $0. That is a gift on the causation-vs-coverage axis: a panel that found **hail caused the siding** but awarded **$0** did not make a no-hail (causation) finding on siding — it made an amount or coverage determination. Under *Quade* the hail-causation finding binds Farmers on the siding; the $0, to the extent it rests on any exclusion, cosmetic/marring theory, deductible, or valuation rationale, is a coverage call outside the panel's authority that the court decides de novo (*Mork* surplusage). It also directly contradicts Prieve's Conclusion 4 ("east-side siding penetration not hail") with Farmers' own panel's finding.
 
 ---
 
