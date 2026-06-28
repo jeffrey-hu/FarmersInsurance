@@ -257,6 +257,8 @@ Minnesota Rule 33.01 sets a default limit of 50 interrogatories per party (count
 
 **INT.2.4** If Farmers contends that any sash of the front dining-room window was previously paid under the 2020 claim (claim 3013539499-1), identify each such sash and the specific 2020 line item that paid for it, and state Farmers' position on whether the remaining sashes of that window sustained new, previously unpaid damage in the July 13, 2024 hailstorm.
 
+**INT.2.5** State Farmers' position on whether the replacement cost owed for the covered windows includes the reasonable and necessary incidental and consequential costs of completing the window replacement, including without limitation (a) detachment and reset, or replacement, of window blinds and other window coverings mounted to or within the covered windows; (b) interior and exterior trim disturbed by the window replacement; (c) exterior repaint necessitated by the window installation; and (d) remediation of mold or water damage resulting from window leakage. For each category Farmers contends is not included in the replacement cost owed, state the specific factual and contractual basis, including any policy provision or endorsement relied upon. *(Develops the "full cost of repair / RCV exceeds the $17,720 deductible" damages point; pairs with INT.6 (J6944).)*
+
 **INT.3.** Describe in complete detail the methodology and data sources Nathan Prieve used to support the statement "most recent hail in Eden Prairie reported in 2020" in his Weather Records section. Identify every data source consulted; every data source available to Prieve that was not consulted; and the basis for any conclusion drawn from those sources. Without limitation, state whether Prieve consulted: (a) the National Weather Service Twin Cities/Chanhassen office; (b) the Eden Prairie Airport (ASOS) station records for the period 2020 through October 2024; (c) the City of Eden Prairie building-permit records for hail-related repairs from 2020 forward; (d) stormersite or any comparable commercial weather-data subscription; (e) Interactive Hail Maps; (f) the NOAA Storm Events Database (and if so, the exact query parameters, date ranges, and results); (g) Farmers' own internal claims database for other Eden Prairie hail claims filed 2020–2024; and (h) any peer-reviewed meteorological or engineering literature.
 
 **INT.3.1** State the basis in fact and engineering for the conclusion in Conclusion 2 of the Prieve report that "past hail at the site was not of sufficient size to dent window frames or the face of sashes." Identify (a) the specific hail-size threshold Prieve applies to determine sufficiency for denting extruded aluminum or aluminum-clad wood window frames; (b) the source for that threshold (peer-reviewed literature, industry guideline, internal protocol, or other); (c) the terminal velocity Prieve calculates for hailstones at the documented sizes (1.25", 1.75", 1"–2"); (d) the material composition Prieve assumes for the windows in question; and (e) any quantitative impact-force calculation Prieve performed.
@@ -473,6 +475,14 @@ Admit or deny each of the following:
 **RFA.75.** Hailstones at the sizes documented in the Prieve report's Weather Records section (1.25", 1.75", 1"–2") are not uniformly smooth or spherical in shape.
 
 **RFA.76.** Wind-driven hail impacts can produce dents that include scrape marks or abrasions.
+
+**RFA.77.** Replacing a window unit requires detaching any window blinds mounted to or within that window unit.
+
+**RFA.78.** Window blinds that are inside-mounted and sized to a specific window unit cannot be reinstalled, without modification or replacement, on a replacement window unit of different dimensions.
+
+**RFA.79.** An estimate in Farmers' claim file for this loss includes a line item for "Window blind — horizontal or vertical — Detach & reset" (2 EA).
+
+**RFA.80.** The replacement cost owed under Policy 98055-49-65 for a covered window loss includes the reasonable and necessary cost of detaching and resetting, or replacing, window blinds that cannot be reused on the replacement window.
 
 ### 5.2 Tranche B — Targeted Lock-Ins (month 4–5)
 
