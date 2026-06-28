@@ -253,6 +253,10 @@ Minnesota Rule 33.01 sets a default limit of 50 interrogatories per party (count
 
 **INT.2.2** State the basis for Farmers' decision to scope the Prieve Engineering engagement to "the condition of windows in the home as relates to hail" and to exclude from that scope the siding, downspouts, flashing, and doors Plaintiffs had reported as damaged. Identify (a) the date of the scoping decision; (b) the Farmers employee(s) who made the decision; (c) the documents reflecting the decision; (d) whether Plaintiffs were informed of the scope limitation; (e) whether Prieve requested expansion of scope and Farmers declined; and (f) the basis for Farmers' use of the resulting "windows only" report to support denial of non-window components of the claim.
 
+**INT.2.3** For each line item in the 2020 Xactimate for claim 3013539499-1, identify (a) the specific window unit to which the line item relates, by location and elevation; (b) whether the line item paid for replacement of an entire window unit or for repair or replacement of one or more individual sashes, and if sashes, which sash(es); (c) the specific physical damage observed that supported the line item; and (d) every window, sash, or component the 2020 inspection observed or photographed as damaged but did not include in a paid line item, together with the reason for the exclusion. *(Resolves the "two whole windows vs. two sashes" scope question and fixes the precise per-sash 2020 baseline.)*
+
+**INT.2.4** If Farmers contends that any sash of the front dining-room window was previously paid under the 2020 claim (claim 3013539499-1), identify each such sash and the specific 2020 line item that paid for it, and state Farmers' position on whether the remaining sashes of that window sustained new, previously unpaid damage in the July 13, 2024 hailstorm.
+
 **INT.3.** Describe in complete detail the methodology and data sources Nathan Prieve used to support the statement "most recent hail in Eden Prairie reported in 2020" in his Weather Records section. Identify every data source consulted; every data source available to Prieve that was not consulted; and the basis for any conclusion drawn from those sources. Without limitation, state whether Prieve consulted: (a) the National Weather Service Twin Cities/Chanhassen office; (b) the Eden Prairie Airport (ASOS) station records for the period 2020 through October 2024; (c) the City of Eden Prairie building-permit records for hail-related repairs from 2020 forward; (d) stormersite or any comparable commercial weather-data subscription; (e) Interactive Hail Maps; (f) the NOAA Storm Events Database (and if so, the exact query parameters, date ranges, and results); (g) Farmers' own internal claims database for other Eden Prairie hail claims filed 2020–2024; and (h) any peer-reviewed meteorological or engineering literature.
 
 **INT.3.1** State the basis in fact and engineering for the conclusion in Conclusion 2 of the Prieve report that "past hail at the site was not of sufficient size to dent window frames or the face of sashes." Identify (a) the specific hail-size threshold Prieve applies to determine sufficiency for denting extruded aluminum or aluminum-clad wood window frames; (b) the source for that threshold (peer-reviewed literature, industry guideline, internal protocol, or other); (c) the terminal velocity Prieve calculates for hailstones at the documented sizes (1.25", 1.75", 1"–2"); (d) the material composition Prieve assumes for the windows in question; and (e) any quantitative impact-force calculation Prieve performed.
@@ -441,6 +445,12 @@ Admit or deny each of the following:
 **RFA.64.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 did not include a line item for the trim-board chip referenced in the Prieve report at page 7 / photograph A-53.
 
 **RFA.65.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 approved exactly two casement window replacements (line items 1–4).
+
+**RFA.65.1.** The window-related items in the 2020 Xactimate (line items 1–4) correspond to no more than two of the home's window units.
+
+**RFA.65.2.** The 2020 inspection of the property (claim 3013539499-1) identified no dented window or sash anywhere on the home other than those within the 2020 Xactimate scope (line items 1–4).
+
+**RFA.65.3.** No more than one of the three sashes of the front dining-room window was within the scope of the 2020 claim payment (claim 3013539499-1).
 
 **RFA.66.** The Prieve report's Conclusion 1 treats those two casement windows as "2 windows" already paid for and uses that prior payment as a basis to deny additional windows in the current claim.
 
