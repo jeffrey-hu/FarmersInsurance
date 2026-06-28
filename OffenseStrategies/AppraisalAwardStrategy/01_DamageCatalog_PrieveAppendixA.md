@@ -83,7 +83,7 @@ The interior photographs document staining, water-entry patterns, and deteriorat
 | **A-53** | **CHIP IN TRIM ALONG LEFT SIDE OF BUMP-OUT** | **CHIP — TRIM BOARD** (also visible in 2020 photo log per Prieve p. 7) | Outside award (trim) | Siding ✓ (per appraisal demand — trim is part of siding system) |
 | A-54 | VIEW OF FLASHING ALONG BOTTOM OF BUMP-OUT | Flashing context | Outside award | Siding/flashing ✓ |
 | A-55 | LEFT SIDE OF WINDOW GROUP AT MAIN LEVEL IN BUMP-OUT | Context | Outside award | Windows ✓ |
-| A-56 | VIEW ALONG BOTTOM OF WINDOW FRAME | Context | Outside award | Windows ✓ |
+| **A-56** | VIEW ALONG BOTTOM OF WINDOW FRAME | **Dent in bottom frame (a few inches from lower-left corner)** | Outside award | Windows ✓ |
 | A-57 | ADJACENT AREA ALONG BOTTOM OF WINDOW | Context | Outside award | Windows ✓ |
 | A-58 | RIGHT SIDE OF WINDOW, MAIN LEVEL, SOUTHWEST QUADRANT | Context | Outside award | Windows ✓ |
 | A-59 | UPPER BEDROOM WINDOW, WEST SIDE SOUTH OF ENTRY | Context | Outside award | Windows ✓ |
@@ -353,7 +353,7 @@ This is the headline number for Tier 1 / Tier 2 briefing. Every cell below count
 | Component class | Number of Appendix A photos documenting damage | In appraisal scope? | F1.7 / B1.2 candidate? |
 |---|---|---|---|
 | **Window sashes — dents** | A-39, A-40, A-41, A-45, A-64, A-115, A-116, A-117, A-159, A-160, A-166, A-179, A-180 = **13 observations** | Yes (Windows) | A-39–41 → F1.7 candidate; A-115–117 → B1.2 candidate; rest → outside award |
-| **Window frames — dents and scrape marks** | A-50 (protrusion), A-107, A-113, A-114, A-119, A-121, A-130, A-134, A-139, A-140, A-146, A-149, A-151, A-155, A-156, A-162, A-163, A-165, A-172, A-174, A-175, A-183, A-185, A-193, A-199, A-200, A-201, A-206, A-214 = **29 observations** | Yes (Windows) | A-107, A-113, A-114 → B1.2 candidate; rest → outside award |
+| **Window frames — dents and scrape marks** | A-50 (protrusion), A-56, A-107, A-113, A-114, A-119, A-121, A-130, A-134, A-139, A-140, A-146, A-149, A-151, A-155, A-156, A-162, A-163, A-165, A-172, A-174, A-175, A-183, A-185, A-193, A-199, A-200, A-201, A-206, A-214 = **30 observations** | Yes (Windows) | A-107, A-113, A-114 → B1.2 candidate; rest → outside award |
 | **Window interior — staining/water entry** | A-2, A-3, A-5, A-7, A-13, A-20, A-21, A-23, A-29, A-32, A-34, A-35, A-36, A-37 (patching) = **14 observations** | Consequential damage; not appraisal scope | N/A |
 | **Window interior — cracking** | A-15, A-18 = **2 observations** | Consequential damage | N/A |
 | **Downspouts — dents** | A-42 (front), A-92 (south), A-93 (south), A-98 (east), A-99 (east) = **5 observations** | **No — outside appraisal scope; reserved court question** | Outside award |
@@ -365,7 +365,7 @@ This is the headline number for Tier 1 / Tier 2 briefing. Every cell below count
 
 **Headline totals:**
 
-- **42 distinct damage observations on windows (sashes, frames, drip caps, accessory grooves, sills, mullions).**
+- **43 distinct damage observations on windows (sashes, frames, drip caps, accessory grooves, sills, mullions).**
 - **5 dented downspouts at three elevations — reserved coverage questions for the court.**
 - **3 dented flashing observations at the deck — reserved coverage questions for the court.**
 - ~~2 distinct siding penetrations~~ **— EXCLUDED: A-26/A-27 and A-208/A-212 attributed to a hail storm prior to 2020; not part of this claim.**
@@ -385,7 +385,7 @@ Filed against the headline totals above, the 9/12/2025 award covered:
 
 **That is 2 windows out of at least 19 distinct windows (plus a sliding door) Prieve documented with damage on the home.**
 
-The damage observations at the remaining 17+ window locations — the upper-west 3-unit bedroom (A-43–46), the upper window above the main entry (A-48–50), the upper-level bedroom on the west side south of the entry (A-59–65), the upper east family room window (A-118–124), the lower NE-facing family room window (A-125–127 and A-130–132) and the upper NE-facing family room window (A-133–135), the SE window at deck (A-136–140), the north window at upper family room (A-145–146), the upper bay window group at central quadrant — SE-facing (A-147–152), central (A-153–156), and NE-facing (A-157–160), the upper east window above porch (A-161–163) and the southeast window at porch (A-164–166), the east-facing window at the porch (A-167–172) and the northeast-facing window at the porch (A-173–175), the north-facing porch window (A-176–183), the east-facing kitchen corner window (A-184–186) and the north-facing kitchen corner window (A-190–195), the main-level east NE-quadrant window (A-196–204), the upper-north window above kitchen (A-205–206), and the garage window (A-213–217) — are **the windows the appraisal panel did not evaluate** (or did not award).
+The damage observations at the remaining 17+ window locations — the upper-west 3-unit bedroom (A-43–46), the upper window above the main entry (A-48–50), the main-level window on the west side south of the entry (A-52, A-55–58), the upper-level bedroom on the west side south of the entry (A-59–65), the upper east family room window (A-118–124), the lower NE-facing family room window (A-125–127 and A-130–132) and the upper NE-facing family room window (A-133–135), the SE window at deck (A-136–140), the north window at upper family room (A-145–146), the upper bay window group at central quadrant — SE-facing (A-147–152), central (A-153–156), and NE-facing (A-157–160), the upper east window above porch (A-161–163) and the southeast window at porch (A-164–166), the east-facing window at the porch (A-167–172) and the northeast-facing window at the porch (A-173–175), the north-facing porch window (A-176–183), the east-facing kitchen corner window (A-184–186) and the north-facing kitchen corner window (A-190–195), the main-level east NE-quadrant window (A-196–204), the upper-north window above kitchen (A-205–206), and the garage window (A-213–217) — are **the windows the appraisal panel did not evaluate** (or did not award).
 
 Under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), each unevaluated window is a coverage question reserved to the court. The court is not bound by the appraisal's $0 implication on those windows; the appraisal's binding effect under § 65A.01 Subd. 3 extends only to items the panel actually appraised. (See `03_LegalFramework.md` § 3 for the legal analysis.)
 
