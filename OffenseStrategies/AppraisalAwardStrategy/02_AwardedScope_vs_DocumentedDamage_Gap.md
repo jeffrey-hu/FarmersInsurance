@@ -18,7 +18,7 @@
 |---|---|---|
 | **Appraisal Demand (family's submitted scope)** | 3 items: Windows, Siding (repaint), Siding (R&R) | $310,000 whole loss claimed |
 | **Appraisal Award (panel's output)** | "Siding & Paint" — **$0** RCV; "Windows F1.7 B1.2" — **$12,800** RCV / $6,400 ACV; "Debris" — **$0** RCV. **All three lines marked "Hail" in the award's per-item "Causation" column; form "Loss Cause" = "Hail."** | $12,800 RCV / $6,400 ACV |
-| **Prieve Appendix A (Farmers' own engineer's documented damage)** | at least 19 distinct windows (plus a sliding door) with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 3 trim board chips; 1 door window screen dent *(the 2 siding penetrations A-26/A-27 and A-208/A-212 are excluded as damage from a hail storm prior to 2020)* | Not quantified by Prieve (not his scope) |
+| **Prieve Appendix A (Farmers' own engineer's documented damage)** | at least 25 distinct windows (plus a sliding door) with sash/frame dents; 5 dented downspouts; 3 dented flashing observations; 3 trim board chips; 1 door window screen dent *(the 2 siding penetrations A-26/A-27 and A-208/A-212 are excluded as damage from a hail storm prior to 2020)* | Not quantified by Prieve (not his scope) |
 
 The award represents approximately **4% of the demanded loss**, and the awarded RCV is **less than 75% of the deductible**, producing $0 net payment.
 
@@ -37,12 +37,12 @@ The family demanded "Windows" with no further qualification. The panel awarded "
 | Sub-frame | Count |
 |---|---|
 | Windows on the home (estimated from Prieve's elevation-by-elevation narrative and Appendix A) | ~30+ window units (including bay groups, casements, and single units) |
-| Windows Prieve documented with damage observations (sash dents, frame dents/scrapes, drip cap dents, accessory groove dents) | **at least 19 distinct windows (plus a sliding door)** |
+| Windows Prieve documented with damage observations (sash dents, frame dents/scrapes, drip cap dents, accessory groove dents) | **at least 25 distinct windows (plus a sliding door)** |
 | Windows the appraisal panel evaluated and awarded | **2** (F1.7, B1.2) |
-| Windows Prieve documented as damaged but the panel did not award | **~17 distinct window locations** |
+| Windows Prieve documented as damaged but the panel did not award | **23 distinct window locations** |
 | Windows with "no hail" findings by Prieve | ~14 window locations |
 
-**The Tier 1 remand argument flows from line 4.** The panel either (a) evaluated and rejected the ~17 unevaluated-but-documented windows (in which case the award should say so and itemize the rejection rationale), or (b) did not evaluate them at all (in which case those windows are coverage questions for the court under *Quade*). Either answer is good for the family. The award as written does neither — it lists two windows against a lump $12,800 without any treatment of the rest.
+**The Tier 1 remand argument flows from line 4.** The panel either (a) evaluated and rejected the 23 unevaluated-but-documented windows (in which case the award should say so and itemize the rejection rationale), or (b) did not evaluate them at all (in which case those windows are coverage questions for the court under *Quade*). Either answer is good for the family. The award as written does neither — it lists two windows against a lump $12,800 without any treatment of the rest.
 
 ### 2.2 Siding — the gap
 

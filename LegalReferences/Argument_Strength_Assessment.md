@@ -17,7 +17,7 @@
 After incorporating the engineer-report-rebuttal work and the appraisal-award-strategy work completed in May 2026, the honest picture has shifted materially in the family's favor. The earlier assessment (April 2026) correctly identified the appraisal scope challenge as the central battlefield but did not yet have (a) the exhaustive cross-reference between Prieve's photographic record and the appraisal's two-window scope, (b) the *Herll*/*Rymer* remand framework as the primary procedural vehicle, or (c) the engineer-report defects as both a damages and a bad-faith record. With those pieces in place, the strongest arguments are:
 
 1. **Tier 1 — Remand for clarification under *Herll* / *Rymer*** (the new primary motion; ~70/100 strength on the current record)
-2. **Breach of contract under the *Quade*-reservation theory** (coverage for the 17 unevaluated hail-signature windows Prieve documented; the dollar-driver; ~65/100)
+2. **Breach of contract under the *Quade*-reservation theory** (coverage for the 23 unevaluated hail-signature windows Prieve documented; the dollar-driver; ~65/100)
 3. **Declaratory judgment** (the framing vehicle for the *Quade* reservation, matching, and exclusion-preclusion declarations; ~70/100)
 4. **Bad faith under Minn. Stat. § 604.18** (factual basis materially strengthened by the eight Prieve report defects; statutory appraisal bar is real but defeatable; ~55/100, up from ~40 at last assessment)
 5. **§ 65A.01 Subd. 3 modification** (Tier 2; ~45/100)
@@ -74,7 +74,7 @@ The April 2026 assessment correctly recognized that "breach of contract" in this
 
 **Why Track 1 sidesteps the prior assessment's central concern.** The April 2026 assessment treated the appraisal-bar problem as a headwind: "Even if the family convinces a court that additional windows should have been included, the total damage still needs to exceed $17,720 before Farmers owes a single dollar." Track 1 does not require convincing the court that "additional windows should have been included in the award." It requires convincing the court that the panel did not evaluate those windows — which is on the face of the award (a $12,800 figure against "F1.7 / B1.2") and confirmed by Farmers' 9/24/2025 admission that the umpire produced no report or estimate. The court evaluates the unevaluated windows under Count I on a clean record, with Prieve's Appendix A as the principal evidence.
 
-**Quantum on Track 1 alone (illustrative).** If the per-window RCV implied by the F1.7 / B1.2 award (~$6,400 per window) is applied to the 17 unevaluated hail-signature windows, the additional RCV is roughly $108,800 (more if Track 2 matching is applied; less if depreciation is heavier). After depreciation at the same ratio (~50%) and adding the deductible math, the family's net recovery on Track 1 alone is likely in the $30,000–$55,000 range — comfortably above the $0 the appraisal produced.
+**Quantum on Track 1 alone (illustrative).** If the per-window RCV implied by the F1.7 / B1.2 award (~$6,400 per window) is applied to the 23 unevaluated hail-signature windows, the additional RCV is roughly $108,800 (more if Track 2 matching is applied; less if depreciation is heavier). After depreciation at the same ratio (~50%) and adding the deductible math, the family's net recovery on Track 1 alone is likely in the $30,000–$55,000 range — comfortably above the $0 the appraisal produced.
 
 **What a court will still want to see** (largely unchanged from April assessment, with additions in italics):
 
@@ -97,7 +97,7 @@ The declaratory-judgment count is now the framing vehicle for seven distinct dec
 
 (a) **Coverage** — that the 7/13/2024 hail loss is a covered loss subject only to the $17,720 deductible.
 (b) **Preclusion of denial-letter exclusions for the awarded windows** under *Quade* — Farmers cannot re-litigate the six exclusions cited in the 11/4/2024 denial as to F1.7 and B1.2.
-(c) **Coverage for unevaluated windows** — the *Quade* reservation theory in declaratory form. The court declares that the panel did not resolve coverage for the 17 unevaluated hail-signature windows, and that those windows remain live coverage questions.
+(c) **Coverage for unevaluated windows** — the *Quade* reservation theory in declaratory form. The court declares that the panel did not resolve coverage for the 23 unevaluated hail-signature windows, and that those windows remain live coverage questions.
 (d) **Marring exclusion and windstorm/hail restoration** — that the policy's Definitions § 16 inclusion of "denting" within "marring," together with § I.A.8(b)'s restoration of coverage for marring "directly caused by ... windstorm or hail," does not defeat coverage for hail-caused dents.
 (e) **Endorsement J6944 — limited scope** — J6944 by its own terms applies only to "property which is not damaged by the covered peril" and does not bar replacement of damaged windows. Where matching from the original manufacturer is unavailable, *Cedar Bluff* applies.
 (f) **Estoppel of denial rationales** — Farmers issued two formal denials on incompatible factual theories (9/3/2024 "no other damages observed"; 11/4/2024 "wear and tear / 2020 already paid"); Farmers is estopped from asserting any rationale not in its written letters.
@@ -114,7 +114,7 @@ Declarations (b), (c), and (e) are the new high-value declarations. Declaration 
 **Prior rating (April 2026):** Serious statutory obstacle, but factual basis is strong enough to preserve.
 **Revised rating (May 2026):** **Materially strengthened** — the eight categories of Prieve report defects, the garage-window self-defining diagnostic, and the downspout/flashing-omission analysis convert this from "preserve and pursue if scope challenge succeeds" to "preserve and likely pursue alongside the scope challenge." Strength rating revised upward from ~40 to ~55/100.
 
-The statutory appraisal-bar problem under § 604.18 Subd. 4(b) remains genuine. The argument that the appraisal did not "resolve" the claim within the meaning of Subd. 4(b) was the family's best path before May 2026 and is even better now: under the *Quade*-reservation theory, the appraisal manifestly did not resolve the claim with respect to the 17 unevaluated hail-signature windows, the 5 dented downspouts, the 3 dented flashing observations, the 2 siding penetrations, the 3 trim chips, and the 1 door window screen. The textual gate in § 65A.01 Subd. 3 ("an award in writing, so itemized") is unmet because the award lumps two distinct windows into a single $12,800 figure. Both arguments now support the Subd. 4(b) attack from independent directions.
+The statutory appraisal-bar problem under § 604.18 Subd. 4(b) remains genuine. The argument that the appraisal did not "resolve" the claim within the meaning of Subd. 4(b) was the family's best path before May 2026 and is even better now: under the *Quade*-reservation theory, the appraisal manifestly did not resolve the claim with respect to the 23 unevaluated hail-signature windows, the 5 dented downspouts, the 3 dented flashing observations, the 2 siding penetrations, the 3 trim chips, and the 1 door window screen. The textual gate in § 65A.01 Subd. 3 ("an award in writing, so itemized") is unmet because the award lumps two distinct windows into a single $12,800 figure. Both arguments now support the Subd. 4(b) attack from independent directions.
 
 **The "knew or should have known it had no reasonable basis" element is now much stronger.** Beyond the four pieces of evidence already documented in the April assessment (engineer-only standard imposed by Monson; confirmation voicemail by Brau; Brau's own observations contradicting the denial; ignored NWS evidence through Pietila), the May 2026 work adds the following:
 
@@ -201,7 +201,7 @@ The April assessment correctly identified this as "the case." The May 2026 restr
 - Farmers' appraiser Tomes did not sign;
 - Farmers' three contradictory written descriptions of the award scope;
 - Farmers refused to explain the gap when asked directly on 10/21/2025;
-- The dollar gap between $12,800 RCV and the photographic record of damage at at least 19 distinct windows, plus a sliding door, + non-window components.
+- The dollar gap between $12,800 RCV and the photographic record of damage at at least 25 distinct windows, plus a sliding door, + non-window components.
 
 ---
 
