@@ -229,7 +229,7 @@ The east side carries the bulk of the documented damage and is the location of b
 | A-145 | NORTH WINDOW AT UPPER FAMILY ROOM | Context | Outside award | Windows ✓ |
 | **A-146** | **SCRAPE MARK ALONG LEFT SIDE OF SASH AT NORTH WINDOW** | **Scrape mark — sash** | Outside award | Windows ✓ |
 
-### D.7 — Upper Bay Window Group, Central Quadrant (A-147 through A-160)
+### D.7 — Upper Bay Window Group, Central Quadrant — SE-Facing (A-147 through A-152), Central (A-153 through A-156), NE-Facing (A-157 through A-160)
 
 | # | Caption | Damage indicator | F1.7 / B1.2 candidate? | In appraisal scope? |
 |---|---|---|---|---|
@@ -385,7 +385,7 @@ Filed against the headline totals above, the 9/12/2025 award covered:
 
 **That is 2 windows out of at least 19 distinct windows (plus a sliding door) Prieve documented with damage on the home.**
 
-The damage observations at the remaining 17+ window locations — the upper-west 3-unit bedroom (A-43–46), the upper-level bedroom on the west side south of the entry (A-59–65), the upper east family room window (A-118–124), the lower NE-facing family room window (A-125–127 and A-130–132) and the upper NE-facing family room window (A-133–135), the SE window at deck (A-136–140), the north window at upper family room (A-145–146), the upper bay window group at central quadrant (A-147–160), the upper east window above porch (A-161–166), the four-season porch windows (A-167–175), the north-facing porch window (A-176–183), the kitchen corner windows (A-184–195), the main-level east NE-quadrant window (A-196–204), the upper-north window above kitchen (A-205–206), and the garage window (A-213–217) — are **the windows the appraisal panel did not evaluate** (or did not award).
+The damage observations at the remaining 17+ window locations — the upper-west 3-unit bedroom (A-43–46), the upper-level bedroom on the west side south of the entry (A-59–65), the upper east family room window (A-118–124), the lower NE-facing family room window (A-125–127 and A-130–132) and the upper NE-facing family room window (A-133–135), the SE window at deck (A-136–140), the north window at upper family room (A-145–146), the upper bay window group at central quadrant — SE-facing (A-147–152), central (A-153–156), and NE-facing (A-157–160), the upper east window above porch (A-161–166), the four-season porch windows (A-167–175), the north-facing porch window (A-176–183), the kitchen corner windows (A-184–195), the main-level east NE-quadrant window (A-196–204), the upper-north window above kitchen (A-205–206), and the garage window (A-213–217) — are **the windows the appraisal panel did not evaluate** (or did not award).
 
 Under *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), each unevaluated window is a coverage question reserved to the court. The court is not bound by the appraisal's $0 implication on those windows; the appraisal's binding effect under § 65A.01 Subd. 3 extends only to items the panel actually appraised. (See `03_LegalFramework.md` § 3 for the legal analysis.)
 
