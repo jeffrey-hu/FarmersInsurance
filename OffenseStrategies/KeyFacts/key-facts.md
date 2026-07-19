@@ -145,6 +145,16 @@ The manufacturer of the family's windows, **Semco Windows and Doors**, went out 
 
 ---
 
+## 12. Litigation Filed — Case Number and Assigned Judge
+
+The family commenced suit against Fire Insurance Exchange in **Hennepin County District Court (Fourth Judicial District)**. The action is docketed as **Court File No. 27-CV-26-11606** (Case Type: Contract).
+
+**The Honorable Jamie L. Anderson has been assigned as the presiding judge.**
+
+**Significance:** Now that a judge has been assigned, the assigned judge's name (Judge Jamie L. Anderson) should appear in the caption of all subsequent pleadings, motions, and filings in this matter, in addition to the court, county, judicial district, and file number (Minn. R. Civ. P. 10.01). The initial Complaint was filed before assignment and did not name a judge; documents filed going forward should include the assignment.
+
+---
+
 *This document should be treated as a primary reference for the family's account of key events. All research, filings, argument evaluations, and strategic decisions should consider the facts documented here.*
 
-*Last updated: April 12, 2026 — Section 11 expanded with Cedar Bluff case law, J6944 analysis, and appraisal challenge implications*
+*Last updated: July 18, 2026 — Section 12 added: case docketed as 27-CV-26-11606; Judge Jamie L. Anderson assigned.*
