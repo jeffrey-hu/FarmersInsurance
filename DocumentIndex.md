@@ -450,6 +450,13 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 ---
 
+### DiscoveryPhaseReference.md
+**Type:** Discovery-phase procedural reference and deadline calendar
+**Date:** Created 2026-08-09
+**Significance:** Maps the discovery phase for the Hennepin County District Court case under the Minnesota Rules of Civil Procedure (Rules 26–37) and General Rule of Practice 111. Anchored to the **Defendant's Answer due date of 8/10/2026** (extended by the Court), it back-calculates the kickoff deadlines per Minn. R. Civ. P. 6.01: discovery conference/meet-and-confer by **9/9/2026** (Rule 26.06), written discovery plan **14 days after** the conference (~9/23/2026), initial disclosures — including FIE's insurance/coverage documents — by **10/9/2026** (Rule 26.01(a)), and the court's scheduling order **≤90 days after filing** (GRP 111.02). Also catalogs each discovery device with its limits and 30-day rolling response clocks: interrogatories (max 50 incl. subparts, Rule 33), document requests (Rule 34), requests for admission (no cap but **auto-admitted if unanswered in 30 days**, Rule 36), and depositions (7 hours/one day per deponent, Rule 30). Lists trial-date-keyed deadlines (expert reports ≥90 days before trial; pretrial disclosures 30 days before trial) as TBD until the scheduling order issues, plus practice notes on the meet-and-confer prerequisite to discovery motions (Rule 37/GRP 115) and priority document-request targets (full claim file, Brau 9/6/2024 inspection record, Prieve/Hancock files, appraisal/umpire file). **Open item:** insert the court file-stamp date to finalize the scheduling-order deadline.
+
+---
+
 ---
 
 ## CaseContext/
