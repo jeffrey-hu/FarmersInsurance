@@ -54,11 +54,13 @@
 | `Shell_Motion_to_Amend_604.18_Bad_Faith.docx` | Four-part shell (Notice & Motion; proposed Count V; supporting affidavit outline w/ evidence checklist; memorandum skeleton) to add the first-party bad-faith claim. | **SHELL — FILE WHEN TRIGGERED.** Ripe only after discovery supports the prima facie affidavit; target deadline ~**June 28, 2027** (see Discovery Plan). Cannot be pleaded in the original complaint. |
 | `Shell_Rule_56.04_Affidavit_Continuance.docx` | Affidavit asking the court to defer/deny summary judgment to allow discovery. | **SHELL — FILE WHEN TRIGGERED.** Use only if FIE moves for summary judgment **before** discovery is complete. |
 
-## F. Reference (not served or filed)
+## F. Reference & research (not served or filed)
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `SJ_Response_Playbook_and_Timeline_Checklist.docx` | Backward-timeline (28/14/7-day deadlines), first-triage decision tree, opposition-package checklist, the three winning arguments, and post-ruling steps. | **REFERENCE.** Pull out the moment any dispositive motion is filed. |
+| `SJ_Response_Playbook_and_Timeline_Checklist.docx` | Backward-timeline (28/14/7-day deadlines), first-triage decision tree, opposition-package checklist (two scenarios: early motion → Rule 56.04; ripe motion → expert affidavit), the three winning arguments, expert/literature guidance, and post-ruling steps. | **REFERENCE.** Pull out the moment any dispositive motion is filed. |
+| `Expert_Witness_Shortlist_and_Vetting.md` | Candidate forensic engineers/meteorologists (two Minnesota-local leads first), the disciplines needed, a conflict-check/vetting checklist, Minnesota's Frye-Mack standard, cost ranges, and outreach steps. | **REFERENCE / ACTION.** Vet and retain an expert early enough to have an affidavit available for summary judgment. |
+| `Expert_Intro_Email_Template.md` | Reusable intro/engagement email to send candidate experts — requests a conflict check, CV, fee schedule, and prior-testimony list before substantive discussion. | **READY — SEND** (adapt per expert). |
 
 ---
 
