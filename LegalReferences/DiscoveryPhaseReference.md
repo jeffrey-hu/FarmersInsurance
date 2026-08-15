@@ -43,6 +43,12 @@ Written discovery may be served on FIE as early as **now** (the Summons & Compla
 - A **defendant** is not required to respond to discovery before **45 days after service of the Summons & Complaint** (Rules 33/34/36). Because FIE's response window is already open by August 2026, discovery the family serves now will run on the normal **30-day** clock.
 - The family must calendar FIE's requests just as carefully — the **auto-admission trap** on Requests for Admission (Rule 36) cuts both ways.
 
+**Number of SETS vs. the caps (confirmed Aug 2026 — so we don't re-research):**
+- **Interrogatories (Rule 33.01):** the **50 cap is a cumulative TOTAL per party across ALL sets — not a per-set limit.** We may serve interrogatories in a first set, second set, etc., but the running total to a given defendant may not exceed 50 without (a) FIE's **written stipulation**, or (b) a **court order** on motion, notice, and a showing of **good cause**. **Each discrete subpart counts as a separate interrogatory** — tally subparts before serving (e.g., our Interrogatory No. 24 has subparts (a)–(d), which count as 4 toward the 50).
+- **Requests for production (Rule 34):** **NO limit** on the number of requests or the number of sets. We can serve successive sets as the case develops, subject only to relevance/proportionality (Rule 26.02).
+- **Requests for admission (Rule 36):** **NO numerical cap and NO set limit.**
+- **The court can raise or lower any of these** limits by scheduling order or on motion (Rule 26.02(a)) — check the scheduling order once it issues.
+
 **Governing standard for everything:** discovery must be relevant to a claim or defense **and proportional** to the needs of the case (Rule 26.02) — importance, amount in controversy, access to information, resources, and burden vs. benefit.
 
 ---
@@ -81,4 +87,4 @@ These are counted **backward from the trial date**, which is set in the scheduli
 
 ---
 
-*Created: 2026-08-09. Updated 2026-08-09 — added filing date 7/8/2026 and resolved the scheduling-order deadline (≤10/6/2026). Anchor date (Answer due 8/10/2026) and filing date supplied by the family; deadlines back-calculated per Minn. R. Civ. P. 6.01. Update if the Court's scheduling order sets different dates.*
+*Created: 2026-08-09. Updated 2026-08-09 — added filing date 7/8/2026 and resolved the scheduling-order deadline (≤10/6/2026). Updated Aug 2026 — added "Number of SETS vs. the caps" clarification in Section B (interrogatory 50-cap is a cumulative total across all sets; RFP/RFA have no cap; subparts count; court may alter limits). Anchor date (Answer due 8/10/2026) and filing date supplied by the family; deadlines back-calculated per Minn. R. Civ. P. 6.01. Update if the Court's scheduling order sets different dates.*

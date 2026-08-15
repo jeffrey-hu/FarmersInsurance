@@ -23,8 +23,8 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | 23 interrogatories (scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file). Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. |
-| `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | 30 document requests (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail). | **READY — SERVE.** Fill phone/email + date. |
+| `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **24** interrogatories (scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's process for reviewing third-party inspection/engineering reports). Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. |
+| `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **32** document requests + **1 optional (No. 33)** behind a delete-before-serving note (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail, third-party-report review policies; optional No. 33 = vendor-management/volume). | **READY — SERVE.** Fill phone/email + date; decide whether to keep, narrow, or cut optional No. 33. |
 | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
 | `Plaintiffs_RFA_Exhibits_A-C.pdf` | Exhibit packet for the RFAs: **A** = Sept 3, 2024 letter; **B** = Nov 4, 2024 denial; **C** = Sept 12, 2025 appraisal award. Each behind a labeled cover sheet. | **SERVE WITH THE RFAs.** (Note: Exhibit C is a phone photo of the award — a cleaner copy is preferable if available.) |
 
@@ -63,6 +63,10 @@
 | `Expert_Intro_Email_Template.md` | Reusable intro/engagement email to send candidate experts — requests a conflict check, CV, fee schedule, and prior-testimony list before substantive discussion. | **READY — SEND** (adapt per expert). |
 
 ---
+
+## G. Expert record packet (subfolder: `Expert_Record_Packet/`)
+
+Curated set of **record documents only** (no strategy material) to send an expert once they clear conflicts: the Complaint, Answer, Prieve report + Photo Appendix A, both denial letters, the appraisal award and demand, NWS weather data, the 2020 file, damage photographs, a transmittal letter + index (`01_Transmittal_and_Index.docx`), and a **neutral** factual damage-location index (`12_Damage_Location_Index.xlsx` — no legal-theory columns, safe for a testifying expert). ~98 MB total; send via share link, not email, and only after the conflict check. See also `Expert_Witness_Shortlist_and_Vetting.md` and `Expert_Intro_Email_Template.md`.
 
 ## Related strategy memos (in `../SummonsAndComplaint/AnswerFromFIE/`)
 
