@@ -23,10 +23,16 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **24** interrogatories (scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's process for reviewing third-party inspection/engineering reports). Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. |
+| `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** interrogatories (trimmed from 24 — removed items now covered by RFPs or redirected to Prieve; renumbered; count certification updated). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. Tally discrete subparts vs. the 50 cap before serving. |
 | `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **32** document requests + **1 optional (No. 33)** behind a delete-before-serving note (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail, third-party-report review policies; optional No. 33 = vendor-management/volume). | **READY — SERVE.** Fill phone/email + date; decide whether to keep, narrow, or cut optional No. 33. |
 | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
 | `Plaintiffs_RFA_Exhibits_A-C.pdf` | Exhibit packet for the RFAs: **A** = Sept 3, 2024 letter; **B** = Nov 4, 2024 denial; **C** = Sept 12, 2025 appraisal award. Each behind a labeled cover sheet. | **SERVE WITH THE RFAs.** (Note: Exhibit C is a phone photo of the award — a cleaner copy is preferable if available.) |
+
+## A2. Mandatory initial disclosures (separate exchange — Rule 26.01(a))
+
+| Document | What it is | Status / next action |
+|---|---|---|
+| `Plaintiffs_Initial_Disclosures.docx` | Rule 26.01(a) disclosures, all four categories: (A) witness table, (B) document categories, (C) damages computation anchored to the ~$303,821 Pella Reserve estimate (siding / water-mold / incidentals marked to supplement), (D) insurance (N/A to plaintiffs). Includes Rule 26.07 certification + certificate of service. | **EXCHANGE AT THE DISCLOSURE DEADLINE** (~60 days after the *initial* answer due date ≈ **mid-to-late Sept 2026**; not filed with the court). Fill phone/email + date; firm up the damages numbers; add witness last names/addresses if available. Both sides exchange; duty to supplement (Rule 26.05). |
 
 ## B. Letters to opposing counsel (Kennedy Law Firm)
 
@@ -53,6 +59,7 @@
 |---|---|---|
 | `Shell_Motion_to_Amend_604.18_Bad_Faith.docx` | Four-part shell (Notice & Motion; proposed Count V; supporting affidavit outline w/ evidence checklist; memorandum skeleton) to add the first-party bad-faith claim. | **SHELL — FILE WHEN TRIGGERED.** Ripe only after discovery supports the prima facie affidavit; target deadline ~**June 28, 2027** (see Discovery Plan). Cannot be pleaded in the original complaint. |
 | `Shell_Rule_56.04_Affidavit_Continuance.docx` | Affidavit asking the court to defer/deny summary judgment to allow discovery. | **SHELL — FILE WHEN TRIGGERED.** Use only if FIE moves for summary judgment **before** discovery is complete. |
+| `Shell_Subpoena_Duces_Tecum_to_Prieve.docx` | Rule 45 subpoena to non-party Prieve Engineering for its complete native file (photos + metadata, drafts, calculations, communications). Includes pro-se issuance instructions (obtain from the court administrator; serve notice on FIE ≥7 days first) and a note reserving the engineering-methodology questions (old Interrog. 7–8) for Prieve's deposition. | **SHELL — ISSUE WHEN READY.** Backstop to RFP 5; get from the court administrator, not self-issued. |
 
 ## F. Reference & research (not served or filed)
 
