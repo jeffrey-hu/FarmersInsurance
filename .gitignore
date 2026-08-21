@@ -4,3 +4,13 @@ EventDocuments/.DS_Store
 # FUSE mount leftovers (orphaned file copies created when files are rewritten while open)
 .fuse_hidden*
 **/.fuse_hidden*
+
+# Office lock/owner files
+~$*
+
+# Office autorecover/temp
+*.tmp
+.~lock.*#
+
+# Intellij temp files
+.idea/*
