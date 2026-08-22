@@ -6,7 +6,7 @@
 
 > **Not legal advice.** These are working drafts prepared to help a pro se plaintiff organize the case and to discuss with a Minnesota-licensed attorney. Confirm every rule, deadline, claim/policy number, and citation before serving or filing anything.
 
-**Subfolders:** `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `discoveryPlanAndInformationalStatement/` (the current V2 plan + the protective-order materials). Everything else lives at the top level.
+**Subfolders:** `FirstSetDiscovey/` (First Set Interrogatories + Requests for Production) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `discoveryPlanAndInformationalStatement/` (the current V2 plan + the protective-order materials). The Requests for Admission + RFA exhibit packet and everything else remain at the top level.
 
 ---
 
@@ -25,8 +25,8 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** interrogatories (trimmed from 24 — removed items now covered by RFPs or redirected to Prieve; renumbered; count certification updated). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. Tally discrete subparts vs. the 50 cap before serving. |
-| `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **32** document requests + **1 optional (No. 33)** behind a delete-before-serving note (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail, third-party-report review policies; optional No. 33 = vendor-management/volume). | **READY — SERVE.** Fill phone/email + date; decide whether to keep, narrow, or cut optional No. 33. |
+| `FirstSetDiscovey/Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** interrogatories (trimmed from 24 — removed items now covered by RFPs or redirected to Prieve; renumbered; count certification updated). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. Tally discrete subparts vs. the 50 cap before serving. |
+| `FirstSetDiscovey/Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **32** document requests + **1 optional (No. 33)** behind a delete-before-serving note (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail, third-party-report review policies; optional No. 33 = vendor-management/volume). | **READY — SERVE.** Fill phone/email + date; decide whether to keep, narrow, or cut optional No. 33. |
 | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
 | `Plaintiffs_RFA_Exhibits_A-C.pdf` | Exhibit packet for the RFAs: **A** = Sept 3, 2024 letter; **B** = Nov 4, 2024 denial; **C** = Sept 12, 2025 appraisal award. Each behind a labeled cover sheet. | **SERVE WITH THE RFAs.** (Note: Exhibit C is a phone photo of the award — a cleaner copy is preferable if available.) |
 
