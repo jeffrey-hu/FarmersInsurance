@@ -6,7 +6,7 @@
 
 > **Not legal advice.** These are working drafts prepared to help a pro se plaintiff organize the case and to discuss with a Minnesota-licensed attorney. Confirm every rule, deadline, claim/policy number, and citation before serving or filing anything.
 
-**Subfolders:** `FirstSetDiscovey/` (First Set Interrogatories + Requests for Production) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `discoveryPlanAndInformationalStatement/` (the current V2 plan + the protective-order materials). The Requests for Admission + RFA exhibit packet and everything else remain at the top level.
+**Subfolders:** `FirstSetDiscovey/` (First Set Interrogatories + Requests for Production) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `PotentialMotions/` (the § 604.18 motion-to-amend and Rule 56.04 continuance shells) · `RequestForAdmission/FirstSet/` (the First Set Requests for Admission) · `discoveryPlanAndInformationalStatement/` (the current V2 plan + the protective-order materials). The RFA exhibit packet (`Plaintiffs_RFA_Exhibits_A-C.pdf`), the Prieve subpoena shell, and everything else remain at the top level.
 
 ---
 
@@ -27,7 +27,7 @@
 |---|---|---|
 | `FirstSetDiscovey/Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** interrogatories (trimmed from 24 — removed items now covered by RFPs or redirected to Prieve; renumbered; count certification updated). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. Tally discrete subparts vs. the 50 cap before serving. |
 | `FirstSetDiscovey/Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **32** document requests + **1 optional (No. 33)** behind a delete-before-serving note (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail, third-party-report review policies; optional No. 33 = vendor-management/volume). | **READY — SERVE.** Fill phone/email + date; decide whether to keep, narrow, or cut optional No. 33. |
-| `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
+| `RequestForAdmission/FirstSet/Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
 | `Plaintiffs_RFA_Exhibits_A-C.pdf` | Exhibit packet for the RFAs: **A** = Sept 3, 2024 letter; **B** = Nov 4, 2024 denial; **C** = Sept 12, 2025 appraisal award. Each behind a labeled cover sheet. | **SERVE WITH THE RFAs.** (Note: Exhibit C is a phone photo of the award — a cleaner copy is preferable if available.) |
 
 ## A2. Mandatory initial disclosures (separate exchange — Rule 26.01(a))
@@ -60,9 +60,9 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `Shell_Motion_to_Amend_604.18_Bad_Faith.docx` | Four-part shell (Notice & Motion; proposed Count V; supporting affidavit outline w/ evidence checklist; memorandum skeleton) to add the first-party bad-faith claim. | **SHELL — FILE WHEN TRIGGERED.** Ripe only after discovery supports the prima facie affidavit; target deadline ~**June 28, 2027** (see Discovery Plan). Cannot be pleaded in the original complaint. |
-| `Shell_Rule_56.04_Affidavit_Continuance.docx` | Affidavit asking the court to defer/deny summary judgment to allow discovery. | **SHELL — FILE WHEN TRIGGERED.** Use only if FIE moves for summary judgment **before** discovery is complete. |
-| `Shell_Subpoena_Duces_Tecum_to_Prieve.docx` | Rule 45 subpoena to non-party Prieve Engineering for its complete native file (photos + metadata, drafts, calculations, communications). Includes pro-se issuance instructions (obtain from the court administrator; serve notice on FIE ≥7 days first) and a note reserving the engineering-methodology questions (old Interrog. 7–8) for Prieve's deposition. | **SHELL — ISSUE WHEN READY.** Backstop to RFP 5; get from the court administrator, not self-issued. |
+| `PotentialMotions/Shell_Motion_to_Amend_604.18_Bad_Faith.docx` | Four-part shell (Notice & Motion; proposed Count V; supporting affidavit outline w/ evidence checklist; memorandum skeleton) to add the first-party bad-faith claim. | **SHELL — FILE WHEN TRIGGERED.** Ripe only after discovery supports the prima facie affidavit; target deadline ~**June 28, 2027** (see Discovery Plan). Cannot be pleaded in the original complaint. |
+| `PotentialMotions/Shell_Rule_56.04_Affidavit_Continuance.docx` | Affidavit asking the court to defer/deny summary judgment to allow discovery. | **SHELL — FILE WHEN TRIGGERED.** Use only if FIE moves for summary judgment **before** discovery is complete. |
+| `Shell_Subpoena_Duces_Tecum_to_Prieve.docx` *(stays at top level — a discovery instrument, not a motion)* | Rule 45 subpoena to non-party Prieve Engineering for its complete native file (photos + metadata, drafts, calculations, communications). Includes pro-se issuance instructions (obtain from the court administrator; serve notice on FIE ≥7 days first) and a note reserving the engineering-methodology questions (old Interrog. 7–8) for Prieve's deposition. | **SHELL — ISSUE WHEN READY.** Backstop to RFP 5; get from the court administrator, not self-issued. |
 
 ## F. Reference & research (not served or filed)
 
