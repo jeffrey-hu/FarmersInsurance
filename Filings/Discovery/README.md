@@ -6,6 +6,8 @@
 
 > **Not legal advice.** These are working drafts prepared to help a pro se plaintiff organize the case and to discuss with a Minnesota-licensed attorney. Confirm every rule, deadline, claim/policy number, and citation before serving or filing anything.
 
+**Subfolders:** `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `discoveryPlanAndInformationalStatement/` (the current V2 plan + the protective-order materials). Everything else lives at the top level.
+
 ---
 
 ## Status legend
@@ -32,7 +34,7 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `Plaintiffs_Initial_Disclosures.docx` | Rule 26.01(a) disclosures, all four categories: (A) witness table, (B) document categories, (C) damages computation anchored to the ~$303,821 Pella Reserve estimate (siding / water-mold / incidentals marked to supplement), (D) insurance (N/A to plaintiffs). Includes Rule 26.07 certification + certificate of service. | **EXCHANGE AT THE DISCLOSURE DEADLINE** (~60 days after the *initial* answer due date ≈ **mid-to-late Sept 2026**; not filed with the court). Fill phone/email + date; firm up the damages numbers; add witness last names/addresses if available. Both sides exchange; duty to supplement (Rule 26.05). |
+| `InitialDisclosure/Plaintiffs_Initial_Disclosures.docx` | Rule 26.01(a) disclosures, all four categories: (A) witness table, (B) document categories, (C) damages computation anchored to the ~$303,821 Pella Reserve estimate (siding / water-mold / incidentals marked to supplement), (D) insurance (N/A to plaintiffs). Includes Rule 26.07 certification + certificate of service. | **EXCHANGE AT THE DISCLOSURE DEADLINE** (~60 days after the *initial* answer due date ≈ **mid-to-late Sept 2026**; not filed with the court). Fill phone/email + date; firm up the damages numbers; add witness last names/addresses if available. Both sides exchange; duty to supplement (Rule 26.05). |
 
 ## B. Letters to opposing counsel (Kennedy Law Firm)
 
@@ -45,7 +47,8 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `Plaintiffs_Discovery_Plan_and_Informational_Statement.docx` | Part I: Rule 26.06 discovery plan (subjects, ESI, privilege/claw-back, anticipated motions, proposed deadline table incl. the separate § 604.18 date). Part II: Rule 111 informational statement. | **FOR COURT / CONFERENCE.** Dates are proposals to confer on; transcribe onto the court's official form if required. |
+| `discoveryPlanAndInformationalStatement/Plaintiffs_Discovery_Plan_and_Informational_Statement_V2.md` | **Current version.** Rule 26.06 plan + Rule 111 statement, with a new **Section C.5 protective-order** proposal (single CONFIDENTIAL tier, **no Attorneys'-Eyes-Only** — critical for a pro se party — plus designation standard, challenge procedure, and return/destruction terms) and a revised schedule (amend/join Jan. 15, 2027; **substantial completion of document production Feb. 26, 2027**; fact discovery close July 30, 2027; ADR after fact discovery/before experts Sept. 30, 2027; trial-ready June 2028). | **FOR COURT / CONFERENCE.** ⚠ The `.docx` versions still hold the *older* dates and lack the protective-order section — sync the `.docx` to this V2 before filing. |
+| `discoveryPlanAndInformationalStatement/Protective_Order_Exhibit_A_Undertaking.md` | The signed acknowledgment/undertaking referenced in Part I.C.5(c) — each non-party recipient of CONFIDENTIAL material signs it. Carries an internal note on sequence (state position at conference → await FIE's proposed order → redline → attach as Exhibit A → sign only after the Court enters the order). | **HOLD — do not file with the plan.** Attach as Exhibit A to the agreed protective order; sign only after entry. |
 
 ## D. Evidence tracker
 
@@ -66,15 +69,15 @@
 | Document | What it is | Status / next action |
 |---|---|---|
 | `SJ_Response_Playbook_and_Timeline_Checklist.docx` | Backward-timeline (28/14/7-day deadlines), first-triage decision tree, opposition-package checklist (two scenarios: early motion → Rule 56.04; ripe motion → expert affidavit), the three winning arguments, expert/literature guidance, and post-ruling steps. | **REFERENCE.** Pull out the moment any dispositive motion is filed. |
-| `Expert_Witness_Shortlist_and_Vetting.md` | Candidate forensic engineers/meteorologists (two Minnesota-local leads first), the disciplines needed, a conflict-check/vetting checklist, Minnesota's Frye-Mack standard, cost ranges, and outreach steps. | **REFERENCE / ACTION.** Vet and retain an expert early enough to have an affidavit available for summary judgment. |
-| `Expert_Intro_Email_Template.md` | Reusable intro/engagement email to send candidate experts — requests a conflict check, CV, fee schedule, and prior-testimony list before substantive discussion. | **READY — SEND** (adapt per expert). |
+| `Expert/Expert_Witness_Shortlist_and_Vetting.md` | Candidate forensic engineers/meteorologists (two Minnesota-local leads first), the disciplines needed, a conflict-check/vetting checklist, Minnesota's Frye-Mack standard, cost ranges, and outreach steps. | **REFERENCE / ACTION.** Vet and retain an expert early enough to have an affidavit available for summary judgment. |
+| `Expert/Expert_Intro_Email_Template.md` | Reusable intro/engagement email to send candidate experts — requests a conflict check, CV, fee schedule, and prior-testimony list before substantive discussion. | **READY — SEND** (adapt per expert). |
 | `Fact_Discovery_Sequencing_Plan.docx` | **Worst-case** "documents before depositions" plan, aligned to `OffenseStrategies/Discovery/DiscoveryPlan.md`: Tranche A/B/C structure, three Rule 37 motion-to-compel cycles, a month-by-month timeline (T0 ≈ Sep 2026), the family's deposition order (individuals first → 30(b)(6) at ~month 8 → third parties ~month 9), and a quick-reference table of the timing rules. | **REFERENCE.** Serve Tranche A promptly after the Rule 26.06 conference; worst case ≈ 6 months to first deposition (Brau/Monson ~Mar 2027). Flags that this path needs a **later fact-discovery cutoff than the May 2027** in the proposed Discovery Plan — negotiate accordingly at the conference. |
 
 ---
 
-## G. Expert record packet (subfolder: `Expert_Record_Packet/`)
+## G. Expert record packet (subfolder: `Expert/Expert_Record_Packet/`)
 
-Curated set of **record documents only** (no strategy material) to send an expert once they clear conflicts: the Complaint, Answer, Prieve report + Photo Appendix A, both denial letters, the appraisal award and demand, NWS weather data, the 2020 file, damage photographs, a transmittal letter + index (`01_Transmittal_and_Index.docx`), and a **neutral** factual damage-location index (`12_Damage_Location_Index.xlsx` — no legal-theory columns, safe for a testifying expert). ~98 MB total; send via share link, not email, and only after the conflict check. See also `Expert_Witness_Shortlist_and_Vetting.md` and `Expert_Intro_Email_Template.md`.
+Curated set of **record documents only** (no strategy material) to send an expert once they clear conflicts: the Complaint, Answer, Prieve report + Photo Appendix A, both denial letters, the appraisal award and demand, NWS weather data, the 2020 file, damage photographs, a transmittal letter + index (`01_Transmittal_and_Index.docx`), and a **neutral** factual damage-location index (`12_Damage_Location_Index.xlsx` — no legal-theory columns, safe for a testifying expert). ~98 MB total; send via share link, not email, and only after the conflict check. See also the other files in `Expert/`.
 
 ## Related strategy memos (in `../SummonsAndComplaint/AnswerFromFIE/`)
 
