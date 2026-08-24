@@ -71,7 +71,7 @@ The following dates are proposals. They are keyed to the July 29, 2026 initial a
 | Rule 26.01(a) initial disclosures | Sept. 28, 2026 |
 | Deadline to join parties / amend pleadings | Jan. 15, 2027 |
 | Substantial completion of document production | Feb. 26, 2027 |
-| Close of fact discovery | July 30, 2027 |
+| Close of fact discovery | August 31, 2027 |
 | ADR completed (Rule 114) | Sept. 30, 2027 |
 | Plaintiffs' expert disclosures (Rule 26.01(b)) | Oct. 29, 2027 |
 | Deadline for Minn. Stat. § 604.18 motion to amend (bad faith) | Nov. 30, 2027 |
@@ -103,7 +103,7 @@ The following dates are proposals. They are keyed to the July 29, 2026 initial a
 
 **Alternative dispute resolution (Rule 114):** Plaintiffs propose non-binding mediation, to be completed by the ADR deadline above; the neutral to be selected by agreement or, failing agreement, appointed by the Court.
 
-**Discovery completion:** Fact discovery by July 30, 2027; expert discovery by February 25, 2028 (see Part I.E). The schedule allows time for a contested, document-intensive discovery process.
+**Discovery completion:** Fact discovery by August 31, 2027; expert discovery by February 25, 2028 (see Part I.E). The schedule allows time for a contested, document-intensive discovery process.
 
 **Expert witnesses:** Plaintiffs anticipate calling one or more retained experts (forensic engineering and/or meteorology) on hail causation and damage, plus valuation testimony; disclosure dates as set out in Part I.E.
 
