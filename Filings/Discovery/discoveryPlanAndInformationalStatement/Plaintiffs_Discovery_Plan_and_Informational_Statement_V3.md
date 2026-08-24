@@ -19,13 +19,16 @@ Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, submit this proposed discover
 
 ### B. Subjects on Which Discovery Will Be Needed (Rule 26.06(c)(2))
 
-- The cause, extent, and location of the July 13, 2024 hail damage to the windows and other exterior components of the Property, including all windows and components not evaluated by the appraisal panel;
-- The scope and methodology of the three inspections (Hancock, Brau, and Prieve), including the decision to scope the Prieve engagement to "windows only";
-- Defendant's claim-handling, the two denials (September 3 and November 4, 2024), and the "engineer's report only" evidentiary rule;
-- The 2020 claim, the 2020 Xactimate and photo log, and Defendant's "prior payment" and "no hail after 2020" theories;
-- The September 12, 2025 appraisal award, its scope and itemization, and the umpire's and appraisers' files;
-- Defendant's document retention and the existence or loss of the Brau September 6, 2024 inspection records (preservation/spoliation); and
-- Facts relevant to Plaintiffs' Consumer Fraud Act claim and to any first-party bad-faith motion under Minn. Stat. § 604.18.
+- The cause, extent, and location of the July 13, 2024 hail damage to the windows and other exterior components of the Property, including all components the appraisal panel did not evaluate;
+- The three inspections (Hancock, Brau, and Prieve) — their scope and methodology, including the decision to limit the Prieve engagement to “windows only”;
+- Defendant’s handling of the claim, the two denials (September 3 and November 4, 2024), and its “engineer’s report only” evidentiary rule;
+- The 2020 claim and file (Xactimate and photo log) and Defendant’s “prior payment” and “no hail after 2020” theories;
+- The September 12, 2025 appraisal award — its scope and itemization, and the umpire’s and appraisers’ files;
+- Defendant’s internal communications and recorded calls concerning the claim and its handling (email, messaging, and telephone);
+- Defendant’s institutional claims-handling policies, training, and procedures in effect since July 13, 2024, including its treatment of non-engineer evidence and its practice for reviewing and adopting third-party inspection and engineering reports;
+- Defendant’s retention and oversight of its inspection and engineering vendors (Hancock and Prieve), including in other Minnesota hail claims from 2020 forward;
+- Defendant’s claim file and audit trail, its record-retention practices, and the existence or loss of the Brau September 6, 2024 inspection records (Minn. Stat. § 72A.201; preservation/spoliation); and
+- Defendant’s response to Plaintiffs’ November 19, 2024 complaint to the Minnesota Department of Commerce (Complaint ID 93547).
 
 ### C. Phasing, ESI, Privilege, Confidentiality, and Limits (Rule 26.06(c)(1),(3)-(6))
 
@@ -55,7 +58,7 @@ Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, submit this proposed discover
 
 ### D. Anticipated Motions
 
-Plaintiffs anticipate possible motions to compel discovery and for discovery sanctions (including an adverse-inference instruction under Rule 37); a motion to amend to assert a first-party bad-faith claim under Minn. Stat. § 604.18 supported by the discovery record; and dispositive or partial-dispositive motions.
+Plaintiffs anticipate that discovery-related and dispositive motions may be necessary during the case. Anticipated motion deadlines are reflected in the proposed schedule in Part I.E.
 
 ### E. Proposed Scheduling Deadlines
 
