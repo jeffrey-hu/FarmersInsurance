@@ -27,7 +27,7 @@ Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, submit this proposed discover
 - Defendant’s internal communications and recorded calls concerning the claim and its handling (email, messaging, and telephone);
 - Defendant’s institutional claims-handling policies, training, and procedures in effect since July 13, 2024, including its treatment of non-engineer evidence and its practice for reviewing and adopting third-party inspection and engineering reports;
 - Defendant’s retention and oversight of its inspection and engineering vendors (Hancock and Prieve), including in other Minnesota hail claims from 2020 forward;
-- Defendant’s claim file and audit trail, its record-retention practices, and the existence or loss of the Brau September 6, 2024 inspection records (Minn. Stat. § 72A.201; preservation/spoliation); and
+- Defendant’s claim file and audit trail, its record-retention practices, and the existence or loss of the Brau September 6, 2024 inspection records; and
 - Defendant’s response to Plaintiffs’ November 19, 2024 complaint to the Minnesota Department of Commerce (Complaint ID 93547).
 
 ### C. Phasing, ESI, Privilege, Confidentiality, and Limits (Rule 26.06(c)(1),(3)-(6))
@@ -40,7 +40,15 @@ Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, submit this proposed discover
 
 4. **Discovery limits.** Absent agreement or leave of court, the parties will observe the presumptive limits on written discovery and depositions. Plaintiffs propose that the parties confer on any needed adjustments, including deposition hours for Rule 30.02(f) organizational depositions.
 
-5. **Confidentiality and protective order.** Plaintiffs’ position on the key terms is: (a) a *single* tier of protection — material may be designated CONFIDENTIAL, but Plaintiffs will not agree to an “Attorneys’ Eyes Only” or other counsel-only tier, because Plaintiffs appear pro se and such a tier would operate as a complete bar on their access to the evidence in their own case; and (b) designations must be limited to genuine trade-secret, proprietary business, or private personal or financial information, and material may not be designated merely because it was produced from a claim file. The remaining operational terms are matters for a stipulated order. As the party seeking to protect its own records, Defendant is expected to propose the form of order, and Plaintiffs will respond promptly. If the parties cannot agree, Plaintiffs request that the Court resolve any disputed terms at or promptly after the Rule 26.06 conference.
+5. **Confidentiality and protective order.** Plaintiffs’ position on the key terms is:
+
+    (a) a *single* tier of protection — material may be designated CONFIDENTIAL, but Plaintiffs will not agree to an “Attorneys’ Eyes Only” or other counsel-only tier, because Plaintiffs appear pro se and such a tier would operate as a complete bar on their access to the evidence in their own case;
+
+    (b) designations must be limited to genuine trade-secret, proprietary business, or private personal or financial information, and material may not be designated merely because it was produced from a claim file; and
+
+    (c) as to persons permitted access, material designated CONFIDENTIAL may be disclosed to: the parties; the Court and its personnel; court reporters and videographers; any person retained by a party as an expert or consultant in this action; Jeffrey Hu, who assists Plaintiffs in this litigation; deposition and trial witnesses to the extent reasonably necessary for their examination; and, as to Defendant, its counsel of record, counsel’s staff, and its employees and representatives with a need to know — with each such person, other than the parties, the Court and its personnel, and counsel of record and counsel’s staff, first signing a written undertaking agreeing to be bound by the protective order and submitting to the jurisdiction of this Court for its enforcement.
+
+The remaining operational terms are matters for a stipulated order. As the party seeking to protect its own records, Defendant is expected to propose the form of order, and Plaintiffs will respond promptly. If the parties cannot agree, Plaintiffs request that the Court resolve any disputed terms at or promptly after the Rule 26.06 conference.
 
 ### D. Anticipated Motions
 
