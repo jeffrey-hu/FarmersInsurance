@@ -2,11 +2,11 @@
 
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Hennepin County District Court, Court File No. 27-CV-26-11606 (Judge Jamie Anderson)
 **Folder purpose:** Plaintiffs' discovery and early-motion-practice work product.
-**Last updated:** August 2026
+**Last updated:** August 30, 2026
 
 > **Not legal advice.** These are working drafts prepared to help a pro se plaintiff organize the case and to discuss with a Minnesota-licensed attorney. Confirm every rule, deadline, claim/policy number, and citation before serving or filing anything.
 
-**Subfolders:** `FirstSetDiscovey/` (First Set Interrogatories + Requests for Production) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `PotentialMotions/` (the § 604.18 motion-to-amend and Rule 56.04 continuance shells) · `RequestForAdmission/FirstSet/` (the First Set Requests for Admission + its A–C exhibit packet) · `discoveryPlanAndInformationalStatement/` (the current V3 plan + the protective-order materials). The Prieve subpoena shell and everything else remain at the top level.
+**Subfolders:** `CommunicationLogs/` (dated archive of everything sent to and received from opposing counsel — see Section B2) · `FirstSetDiscovey/` (First Set Interrogatories + Requests for Production) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `PotentialMotions/` (the § 604.18 motion-to-amend and Rule 56.04 continuance shells) · `RequestForAdmission/FirstSet/` (the First Set Requests for Admission + its A–C exhibit packet) · `discoveryPlanAndInformationalStatement/` (the current V4 plan, the letter to the Court, and the protective-order materials). The Prieve subpoena shell and everything else remain at the top level.
 
 ---
 
@@ -43,14 +43,43 @@
 | `Preservation_Litigation_Hold_Letter_to_FIE.docx` | Demand to preserve the claim file, Brau notes, Prieve native photos, the 2020 file, and the audit trail; asks for written confirmation in 14 days. | **READY — SEND** now. Fill contact info + date. Keep proof of sending. |
 | `Meet_and_Confer_Letter_to_Kennedy_Law_Firm.docx` | Rule 26.06 discovery-conference letter with a 7-item agenda; also usable as an email body. | **READY — SEND.** Fill dates + contact info; enclose the Discovery Plan and Preservation letter. |
 
+## B2. Communication log — correspondence with opposing counsel (`CommunicationLogs/`)
+
+**Purpose.** A dated archive of everything exchanged with Kennedy Law Firm — both what we **receive** and what we **send** — plus anything FIE files that reaches us outside the court file. One folder per communication, holding the artifact itself (email export, letter, attachment) as sent or received.
+
+This is the meet-and-confer record. A Rule 37 motion to compel, and any certification of good-faith conferral, depends on being able to show item by item what was asked, what was answered, and when. Save the communication when it happens; reconstructing it months later from memory is worth much less.
+
+**Naming convention.** `YYYY-MM-DD[-n].ShortDescription/` — the date of the communication, an ordinal when more than one item moves the same day, and a short label naming the sender or subject (`FIEProposedPlan`, `ResponseWithOurPlan`). Keep each artifact under its original filename; do **not** rename, re-save, or convert anything received from FIE — the file as received, with its metadata, is the evidence.
+
+**Recommended:** add a two-line `note.md` to each folder recording (a) direction — sent or received, (b) medium — email / eFS / U.S. Mail, (c) participants, and (d) anything said orally that the artifact does not capture. Oral positions taken at a conference are exactly what later gets disputed.
+
+| Folder | What it holds | Status |
+|---|---|---|
+| `2026-08-17-1.FIEProposedTime/` | FIE's proposed times for the Rule 26.06(a) conference. | **EMPTY — save the email.** |
+| `2026-08-17-2. CounterTime/` | Plaintiffs' counter-proposal of conference times. | **EMPTY — save the email.** |
+| `2026-08-18-AgreedOnTime/` | Confirmation of the Aug. 28, 2026 conference date/time. | **EMPTY — save the email.** |
+| `2026-08-27-FIEProposedPlan/` | `Rule 26.06 Discovery Plan.docx` — FIE's draft joint plan. No confidentiality paragraph; ESI and privilege paragraphs are boilerplate; no amend/join deadline; discovery deadline Feb. 19, 2027 and trial Sept. 1, 2027. Two of its dates (non-dispositive motions "March 1, 2026"; mediation "June 1, 2026") are in the past as drafted, and the caption reads "Rule 26.02." | **RECEIVED** — the baseline the redline works from. |
+| `2026-08-27-ResponseWithOurPlan/` | `DISCOVERY PLAN.docx` — Plaintiffs' plan sent to FIE in response. | **SENT** |
+| `2026-08-28-1.RedlineFIEPlan/` | `Rule 26.06 Discovery Plan-Updated.docx` — Plaintiffs' tracked-changes redline of FIE's draft (81 insertions, 25 deletions, authored "Lu, Bill"), returned the day of the conference. **Evidentially important:** it shows Plaintiffs proposed substantive ESI, privilege, protective-order and § 604.18 terms, not merely different dates — which is the record answer to FIE's letter describing the impasse as one about "proposed dates." | **SENT** |
+| `2026-08-28-2.FIERequestedHearing/` | FIE's Aug. 28, 2026 letter to Judge Anderson (filed 3:15 PM) reporting that no agreement was reached and requesting a scheduling conference. | **RECEIVED / FILED BY FIE** |
+
+**Still to log:** the Aug. 28 conference itself (no memo yet — worth writing one while it is fresh, including the discussion of Jeffrey Hu's access to confidential material); Plaintiffs' responsive letter to the Court and Rule 26.06 plan once filed; and any written confirmation from Ms. Baskfield on the Jeffrey Hu question.
+
 ## C. For the court / scheduling conference
+
+> **Status as of Aug. 30, 2026.** The parties conferred Aug. 28 and did **not** agree on a joint plan. FIE wrote the Court the same day requesting a scheduling conference. Under Rule 26.06(c) the written discovery-plan report is due **September 11, 2026** (14 days after the conference), so Plaintiffs file their own plan.
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `discoveryPlanAndInformationalStatement/Plaintiffs_Discovery_Plan_and_Informational_Statement_V3.md` | **Current version.** Rule 26.06 plan + Rule 111 statement. Builds on V2 (single-CONFIDENTIAL-tier **Section C.5 protective order** with **no Attorneys'-Eyes-Only** — critical for a pro se party — plus designation standard, challenge procedure, return/destruction; and the revised schedule: amend/join Jan. 15, 2027; **substantial completion of document production Feb. 26, 2027**; fact discovery close July 30, 2027; ADR after fact discovery/before experts Sept. 30, 2027; trial-ready June 2028). **V3 change:** Section B (subjects of discovery) expanded to 11 neutral subjects drawn from the 14 preservation categories — adds internal communications, institutional claims-handling policies/SOPs, vendor retention/pattern-of-practice, and the Dept. of Commerce complaint; per-item relevance qualifiers stripped so the list stays a neutral topic list. | **FOR COURT / CONFERENCE.** ⚠ The `.docx` versions are still **stale** — they hold the *older* dates and lack the protective-order section and the expanded Section B; regenerate the `.docx` from this V3 before filing. |
-| `discoveryPlanAndInformationalStatement/Plaintiffs_Discovery_Plan_and_Informational_Statement_V2.md` | Prior version — superseded by V3 (same protective order and schedule; V3 expands Section B). | **SUPERSEDED.** Kept for reference. |
-| `discoveryPlanAndInformationalStatement/Protective_Order_Exhibit_A_Undertaking.md` | The signed acknowledgment/undertaking referenced in Part I.C.5(c) — each non-party recipient of CONFIDENTIAL material signs it. Carries an internal note on sequence (state position at conference → await FIE's proposed order → redline → attach as Exhibit A → sign only after the Court enters the order). | **HOLD — do not file with the plan.** Attach as Exhibit A to the agreed protective order; sign only after entry. |
-| `discoveryPlanAndInformationalStatement/Discovery_Conference_Prep_Sheet.docx` | Run-the-call prep sheet for the Aug. 28 conference: 11-item agenda table (your position + fallback for each — initial disclosures, schedule, ESI, privilege, protective order/no-AEO, limits, preservation, ADR), a "watch / do-not" list, and the proposed schedule table. | **REFERENCE — use at the conference.** Fill in the confirmed time/format; bring it plus the V2 plan, protective-order terms + Exhibit A, and the preservation letter. |
+| `discoveryPlanAndInformationalStatement/Plaintiffs_Rule_26.06_Discovery_Plan_V4.md` / `.docx` | **Current version.** Plaintiffs' standalone Rule 26.06(c) plan, numbered ¶¶1–7 to mirror FIE's draft so the Court can compare positions directly, plus ¶8 with the Rule 111-type scheduling information (jury, ADR, experts, trial length). Carries the single-tier protective order with **no Attorneys'-Eyes-Only** and named access for Jeffrey Hu; native-format ESI with metadata; privilege log + claw-back entered as an order; and the schedule — substantial completion of document production **Feb. 26, 2027**, amend/join **Mar. 31, 2027**, fact discovery close **Aug. 31, 2027**, ADR **Sept. 30, 2027**, § 604.18 motion **Nov. 30, 2027**, expert discovery closes **Jan. 31, 2028**, dispositive motions **Mar. 15, 2028**, trial-ready **April 2028**. Four explanatory notes cover the production milestone, the amendment sequencing (tied to FIE's jurisdiction defense), § 604.18 timing, and why dispositive motions follow expert discovery. | **FOR COURT — FILE BY SEPT. 11, 2026.** Fill the date line. |
+| `discoveryPlanAndInformationalStatement/Plaintiffs_Letter_to_Court_re_Discovery_Plan.md` / `.docx` | Letter to Judge Anderson responding to FIE's Aug. 28 letter: joins the request for a scheduling conference; records what the parties **do** agree on; identifies the three substantive terms FIE's draft is silent on (ESI form, privilege procedure, protective order); explains the fact-discovery period in terms of the specific work required; notes the move from June 2028 to April 2028; and asks that the undecided July 20, 2026 Rule 11.05 relation-back motion be taken up. Formatted to mirror FIE's own letter (two-column header, hanging-indent Re: and cc: blocks, justified body). | **READY — FILE / SEND.** Dated Aug. 31, 2026 — change if sent another day. Decide whether to keep the final relation-back paragraph. |
+| `discoveryPlanAndInformationalStatement/Plaintiffs_Proposed_Stipulated_Protective_Order.md` | Plaintiffs' proposed form of stipulated protective order — single CONFIDENTIAL tier, designation standard, challenge procedure, permitted recipients, return/destruction. | **HOLD — REFERENCE.** FIE, as the party seeking protection, is expected to propose the form; use this to redline theirs, or offer it if they do not. |
+| `discoveryPlanAndInformationalStatement/Protective_Order_Exhibit_A_Undertaking.md` | The signed acknowledgment/undertaking each non-party recipient of CONFIDENTIAL material signs — the mechanism that makes Jeffrey Hu's access workable. | **HOLD — do not file with the plan.** Attach as Exhibit A to the agreed order; sign only after entry. |
+| `discoveryPlanAndInformationalStatement/Plaintiffs_Discovery_Plan_and_Informational_Statement_V3.md` | Prior version — the plan as it stood going into the Aug. 28 conference (amend/join Jan. 15, 2027; fact discovery close Aug. 31, 2027; trial-ready June 2028). Superseded by V4, which resequences the amendment deadline and compresses the post-fact-discovery schedule. | **SUPERSEDED.** Kept for reference. |
+| `discoveryPlanAndInformationalStatement/Plaintiffs_Discovery_Plan_and_Informational_Statement_V2.md` and `.docx` | Earlier versions. The `.docx` holds stale dates and lacks the protective-order section. | **SUPERSEDED.** Do not file. |
+| `discoveryPlanAndInformationalStatement/Discovery_Conference_Prep_Sheet.docx` | Run-the-call prep sheet used for the Aug. 28 conference: 11-item agenda with position + fallback for each, a "watch / do-not" list, and the schedule table. | **REFERENCE.** Reuse for the scheduling conference once the Court sets one. |
+
+> **Build note.** The `.docx` files in this folder were generated with `pandoc`/`python-docx` against `Plaintiffs_Counter_Rule_26.06_Discovery_Plan.docx` as the style template. That template has since moved into `CommunicationLogs/2026-08-27-ResponseWithOurPlan/`; point any future rebuild script at its new location or at one of the current `.docx` files.
 
 ## D. Evidence tracker
 
@@ -62,7 +91,7 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `PotentialMotions/Shell_Motion_to_Amend_604.18_Bad_Faith.docx` | Four-part shell (Notice & Motion; proposed Count V; supporting affidavit outline w/ evidence checklist; memorandum skeleton) to add the first-party bad-faith claim. | **SHELL — FILE WHEN TRIGGERED.** Ripe only after discovery supports the prima facie affidavit; target deadline ~**June 28, 2027** (see Discovery Plan). Cannot be pleaded in the original complaint. |
+| `PotentialMotions/Shell_Motion_to_Amend_604.18_Bad_Faith.docx` | Four-part shell (Notice & Motion; proposed Count V; supporting affidavit outline w/ evidence checklist; memorandum skeleton) to add the first-party bad-faith claim. | **SHELL — FILE WHEN TRIGGERED.** Ripe only after discovery supports the prima facie affidavit; target deadline **Nov. 30, 2027** (see the V4 Discovery Plan, Section C). Cannot be pleaded in the original complaint. |
 | `PotentialMotions/Shell_Rule_56.04_Affidavit_Continuance.docx` | Affidavit asking the court to defer/deny summary judgment to allow discovery. | **SHELL — FILE WHEN TRIGGERED.** Use only if FIE moves for summary judgment **before** discovery is complete. |
 | `Shell_Subpoena_Duces_Tecum_to_Prieve.docx` *(stays at top level — a discovery instrument, not a motion)* | Rule 45 subpoena to non-party Prieve Engineering for its complete native file (photos + metadata, drafts, calculations, communications). Includes pro-se issuance instructions (obtain from the court administrator; serve notice on FIE ≥7 days first) and a note reserving the engineering-methodology questions (old Interrog. 7–8) for Prieve's deposition. | **SHELL — ISSUE WHEN READY.** Backstop to RFP 5; get from the court administrator, not self-issued. |
 
@@ -73,7 +102,7 @@
 | `SJ_Response_Playbook_and_Timeline_Checklist.docx` | Backward-timeline (28/14/7-day deadlines), first-triage decision tree, opposition-package checklist (two scenarios: early motion → Rule 56.04; ripe motion → expert affidavit), the three winning arguments, expert/literature guidance, and post-ruling steps. | **REFERENCE.** Pull out the moment any dispositive motion is filed. |
 | `Expert/Expert_Witness_Shortlist_and_Vetting.md` | Candidate forensic engineers/meteorologists (two Minnesota-local leads first), the disciplines needed, a conflict-check/vetting checklist, Minnesota's Frye-Mack standard, cost ranges, and outreach steps. | **REFERENCE / ACTION.** Vet and retain an expert early enough to have an affidavit available for summary judgment. |
 | `Expert/Expert_Intro_Email_Template.md` | Reusable intro/engagement email to send candidate experts — requests a conflict check, CV, fee schedule, and prior-testimony list before substantive discussion. | **READY — SEND** (adapt per expert). |
-| `Fact_Discovery_Sequencing_Plan.docx` | **Worst-case** "documents before depositions" plan, aligned to `OffenseStrategies/Discovery/DiscoveryPlan.md`: Tranche A/B/C structure, three Rule 37 motion-to-compel cycles, a month-by-month timeline (T0 ≈ Sep 2026), the family's deposition order (individuals first → 30(b)(6) at ~month 8 → third parties ~month 9), and a quick-reference table of the timing rules. | **REFERENCE.** Serve Tranche A promptly after the Rule 26.06 conference; worst case ≈ 6 months to first deposition (Brau/Monson ~Mar 2027). Flags that this path needs a **later fact-discovery cutoff than the May 2027** in the proposed Discovery Plan — negotiate accordingly at the conference. |
+| `Fact_Discovery_Sequencing_Plan.docx` | **Worst-case** "documents before depositions" plan, aligned to `OffenseStrategies/Discovery/DiscoveryPlan.md`: Tranche A/B/C structure, three Rule 37 motion-to-compel cycles, a month-by-month timeline (T0 ≈ Sep 2026), the family's deposition order (individuals first → 30(b)(6) at ~month 8 → third parties ~month 9), and a quick-reference table of the timing rules. | **REFERENCE.** Serve Tranche A promptly after the Rule 26.06 conference; worst case ≈ 6 months to first deposition (Brau/Monson ~Mar 2027). Flags that this path needs a late fact-discovery cutoff; the V4 plan proposes **Aug. 31, 2027**, against FIE's Feb. 19, 2027 — this sequencing plan is the concrete support for that position at the scheduling conference. |
 
 ---
 
@@ -89,6 +118,8 @@ Curated set of **record documents only** (no strategy material) to send an exper
 ---
 
 ## Recommended order of operations
+
+> **Standing practice, not a step:** log every exchange with Kennedy Law Firm in `CommunicationLogs/` as it happens (Section B2), and write a short memo of anything agreed orally.
 
 1. **Send** the Preservation/Litigation-Hold letter now (Section B).
 2. **Send** the Meet-and-Confer letter to schedule the Rule 26.06 conference (Section B), enclosing the Discovery Plan (Section C).
