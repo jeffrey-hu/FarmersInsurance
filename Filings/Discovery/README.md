@@ -41,7 +41,7 @@
 | Document | What it is | Status / next action |
 |---|---|---|
 | `Preservation_Litigation_Hold_Letter_to_FIE.docx` | Demand to preserve the claim file, Brau notes, Prieve native photos, the 2020 file, and the audit trail; asks for written confirmation in 14 days. | **READY — SEND** now. Fill contact info + date. Keep proof of sending. |
-| `Meet_and_Confer_Letter_to_Kennedy_Law_Firm.docx` | Rule 26.06 discovery-conference letter with a 7-item agenda; also usable as an email body. | **READY — SEND.** Fill dates + contact info; enclose the Discovery Plan and Preservation letter. |
+| `Meet_and_Confer_Letter_to_Kennedy_Law_Firm.docx` | Rule 26.06 discovery-conference letter with a 7-item agenda; also usable as an email body. | **USED / SUPERSEDED.** Its purpose — scheduling the Rule 26.06 conference — was served; the conference was held Aug. 28, 2026. Keep as the template for the next meet-and-confer letter, which will be the Rule 37 predecessor if FIE's discovery responses are deficient. |
 
 ## B2. Communication log — correspondence with opposing counsel (`CommunicationLogs/`)
 
@@ -117,17 +117,44 @@ Curated set of **record documents only** (no strategy material) to send an exper
 
 ---
 
-## Recommended order of operations
+## Order of operations — as of August 30, 2026
 
 > **Standing practice, not a step:** log every exchange with Kennedy Law Firm in `CommunicationLogs/` as it happens (Section B2), and write a short memo of anything agreed orally.
 
-1. **Send** the Preservation/Litigation-Hold letter now (Section B).
-2. **Send** the Meet-and-Confer letter to schedule the Rule 26.06 conference (Section B), enclosing the Discovery Plan (Section C).
-3. **Serve** the three First Sets + the RFA exhibit packet on FIE (Section A).
-4. Hold the Rule 26.06 conference; finalize/submit the Informational Statement (Section C).
-5. As responses arrive, **update the Scope Tracker** (Section D) and retain a forensic engineering expert.
-6. When the record supports it, complete and file the **§ 604.18 motion** (Section E) by its deadline.
-7. If FIE moves for summary judgment: open the **SJ Playbook** (Section F); if discovery is incomplete, file the **Rule 56.04 affidavit** (Section E).
+**A note on discovery timing.** Minn. R. Civ. P. 26.04(a) bars seeking discovery from any source "before the parties have conferred and prepared a discovery plan as required by Rule 26.06(c)," except in exempt proceedings "or when allowed by stipulation or court order." The parties conferred Aug. 28 but did not agree on a plan.
+
+**Agreement is not what the rule requires.** Rule 26.06(b) makes the parties "jointly responsible for arranging the conference, and for *attempting in good faith to agree* on the proposed discovery plan," and requires that "[a] written report outlining the discovery plan must be filed with the court within 14 days after the conference." The duty is to attempt agreement, not to achieve it; 26.04(a) cross-references 26.06(c), which is the list of what a plan must address, not a consensus requirement. Reading it to require agreement would let either side block all discovery indefinitely by refusing to agree — and would read the good-faith-attempt language out of the rule.
+
+**The practical course.** File the Rule 26.06(c) report by Sept. 11 and serve the First Sets after it is on file: at that point the parties have conferred and a plan has been prepared and filed, which satisfies the condition on any reading. Belt and braces, ask Ms. Baskfield for a one-line stipulation that discovery is open as of Aug. 28 — the bar is symmetric, so FIE cannot serve discovery either, which is the reason for her to agree. If she declines, ask the Court to confirm it at the scheduling conference; 26.04(a) expressly allows discovery "by stipulation or court order."
+
+Note also Rule 26.04(**b**), which lets a Rule 34 request for production be *delivered* more than 21 days after service of the summons and complaint. It does not accelerate anything here: under 26.04(b)(2) such a request "is considered to have been served when the parties have conferred and prepared a discovery plan as required by Rule 26.06(c)" — the same trigger as 26.04(a). Early delivery buys queue position, not time.
+
+*No Minnesota appellate decision construing the "conferred and prepared a discovery plan" phrase was located; confirm before relying on it in a contested motion.*
+
+### Now — before September 11, 2026
+
+1. **Send** the Preservation / Litigation-Hold letter (Section B). Still unsent; the date, phone and email fields are blank. This is the anchor date for any later spoliation argument about the missing Brau inspection records — every day it sits in the folder is a day FIE can say it had no notice. Keep proof of sending.
+2. **Email Ms. Baskfield** to confirm in writing that FIE does not object to disclosure of confidential material to Jeffrey Hu, subject to his signing the Exhibit A undertaking. It was discussed at the conference but nothing confirms it. Save the exchange to `CommunicationLogs/`.
+3. **File** the letter to Judge Anderson and Plaintiffs' Rule 26.06 Discovery Plan V4 (Section C). The Rule 26.06(c) report is due **September 11, 2026**. If Ms. Baskfield confirms the Jeffrey Hu point first, upgrade ¶6(c) of the plan to record it as agreed.
+4. **Write the Aug. 28 conference memo** and file it in `CommunicationLogs/` while it is fresh — who attended, what was proposed, what was said about the protective order and Jeffrey Hu.
+
+### Next — September 2026
+
+5. **Serve** the three First Sets + the RFA exhibit packet on FIE (Section A), once the plan is on file. Fill contact info and dates; tally the interrogatory subparts against the 50 cap; decide whether to keep, narrow or cut optional RFP No. 33.
+6. **Exchange** Rule 26.01(a) initial disclosures by **September 25, 2026** (Section A2) — the one date both parties already agree on. Firm up the damages computation and add witness addresses before sending. Not filed with the court.
+7. **Respond** to FIE's proposed protective order when it arrives, redlining against `Plaintiffs_Proposed_Stipulated_Protective_Order.md`. Hold the Exhibit A undertaking; it is signed only after the Court enters the order.
+
+### Then — as the case develops
+
+8. **Attend the scheduling conference** whenever the Court sets one; bring the Discovery Conference Prep Sheet, the V4 plan, and the redline showing the terms FIE's draft omits.
+9. **Update the Scope Tracker** (Section D) as answers and documents arrive, and **retain a forensic engineering expert** early enough to have an affidavit available if FIE moves for summary judgment (Section F).
+10. **Issue the Prieve subpoena** (Section E) as the backstop to RFP 5 if FIE's production of the native engineering file is incomplete. Obtain it from the court administrator; serve notice on FIE at least 7 days first.
+
+### When triggered
+
+- **Discovery stonewalled** → meet and confer in writing, log it, then the Rule 37 motion to compel. The `CommunicationLogs/` record is what supports the good-faith-conferral showing.
+- **Record supports bad faith** → complete and file the § 604.18 motion to amend (Section E) by its deadline, **November 30, 2027** under the V4 plan.
+- **FIE moves for summary judgment** → open the SJ Playbook (Section F); if discovery is incomplete, file the Rule 56.04 affidavit (Section E).
 
 ## Before you serve or send anything — fill-in checklist
 
