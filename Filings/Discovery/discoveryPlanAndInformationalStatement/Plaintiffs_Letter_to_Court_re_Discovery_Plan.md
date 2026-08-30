@@ -39,8 +39,6 @@ Plaintiffs have nonetheless moved substantially toward Defendant's position sinc
 
 Plaintiffs remain willing to confer further, will participate in any further conference the Court directs, and will promptly join a revised joint plan if agreement can be reached.
 
-Finally, Plaintiffs respectfully note that their motion of July 20, 2026 under Minn. Gen. R. Prac. 11.05, seeking to have the corrected Complaint deemed filed as of July 8, 2026, remains undecided. If the Court sets a scheduling conference, Plaintiffs request that this motion be addressed at that time or decided on the written submissions.
-
 Thank you for your consideration.
 
 Sincerely,
