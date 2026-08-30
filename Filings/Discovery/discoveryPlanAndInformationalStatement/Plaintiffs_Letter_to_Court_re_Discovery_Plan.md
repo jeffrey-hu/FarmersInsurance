@@ -35,7 +35,7 @@ Plaintiffs write separately because Defendant's letter describes the disagreemen
 
 Resolving each of these requires written discovery, a documented custodial search, and, as to the missing inspection record, an organizational deposition under Rule 30.02(f) that cannot be scheduled until that search is complete. Beyond those gaps, the case involves three separate inspections by two outside firms, the files of the members of the appraisal panel, non-party discovery from each, and a multi-year claim file spanning two claims. Defendant's proposed February 19, 2027 discovery deadline would close fact discovery approximately five months after the exchange of initial disclosures.
 
-Plaintiffs have nonetheless moved substantially toward Defendant's position since the conference. The plan Plaintiffs will file by September 11, 2026, as Rule 26.06(c) requires, proposes a trial-ready date of April 2028 rather than the June 2028 date discussed at the conference, and reaches that date by compressing the expert and motion schedule rather than by shortening fact discovery.
+Plaintiffs have nonetheless moved substantially toward Defendant's position since the conference. The plan Plaintiffs will file by September 11, 2026, as Rule 26.06(b) requires, proposes a trial-ready date of April 2028 rather than the June 2028 date discussed at the conference, and reaches that date by compressing the expert and motion schedule rather than by shortening fact discovery.
 
 Plaintiffs remain willing to confer further, will participate in any further conference the Court directs, and will promptly join a revised joint plan if agreement can be reached.
 
