@@ -4,7 +4,7 @@
 
 # PLAINTIFFS' PROPOSED RULE 26.06 DISCOVERY PLAN
 
-The parties conferred on August 28, 2026 under Minn. R. Civ. P. 26.06(a) and were unable to agree on a joint discovery plan. Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, therefore submit this plan under Minn. R. Civ. P. 26.06(b), stating the parties' views and proposals on the subjects listed in Rule 26.06(c). The paragraph numbering below follows Defendant's draft so that the Court may compare the parties' positions directly. Plaintiffs remain willing to confer further and will promptly join a revised joint plan if agreement can be reached.
+The parties conferred on August 28, 2026 under Minn. R. Civ. P. 26.06 and were unable to agree on a joint discovery plan. Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, therefore submit this plan under Minn. R. Civ. P. 26.06(b), stating the parties' views and proposals on the subjects listed in Rule 26.06(c). The paragraph numbering below follows Defendant's draft so that the Court may compare the parties' positions directly. Plaintiffs remain willing to confer further and will promptly join a revised joint plan if agreement can be reached.
 
 ---
 

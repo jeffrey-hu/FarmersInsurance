@@ -8,7 +8,7 @@
 
 # JOINT RULE 26.06 DISCOVERY PLAN
 
-The parties conferred on August 28, 2026 as required by Minn. R. Civ. P. 26.06(a), and submit the following discovery plan. The parties agree on the matters stated in paragraph 1. On the matters in paragraphs 2 through 8, each party's proposal is set out separately.
+The parties conferred on August 28, 2026 as required by Minn. R. Civ. P. 26.06, and submit the following discovery plan. The parties agree on the matters stated in paragraph 1. On the matters in paragraphs 2 through 8, each party's proposal is set out separately.
 
 **1. What changes should be made in the timing, form, or requirement for disclosures under Rule 26.01, including a statement of when initial disclosures were made or will be made:**
 

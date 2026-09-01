@@ -17,7 +17,7 @@ Re:&emsp;&emsp;***Yibiao Lu and Jie Hu v. Fire Insurance Exchange***
 
 Dear Judge Anderson:
 
-Plaintiffs write in response to defense counsel's letter of August 28, 2026. Plaintiffs agree that the parties conferred that day under Minn. R. Civ. P. 26.06(a) and were unable to reach agreement on a joint discovery plan, and Plaintiffs join Defendant's request that the Court set a scheduling conference.
+Plaintiffs write in response to defense counsel's letter of August 28, 2026. Plaintiffs agree that the parties conferred that day under Minn. R. Civ. P. 26.06 and were unable to reach agreement on a joint discovery plan, and Plaintiffs join Defendant's request that the Court set a scheduling conference.
 
 Plaintiffs write separately because Defendant's letter describes the disagreement as one over "proposed dates for the Scheduling Order," and Plaintiffs wish to complete the record in two respects.
 
