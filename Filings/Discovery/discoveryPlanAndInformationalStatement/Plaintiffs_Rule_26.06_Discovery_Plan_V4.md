@@ -13,17 +13,17 @@ Pursuant to the Court's direction of September 1, 2026 that the parties may subm
 
 **1.  Changes to the timing, form, or requirement for Rule 26.01 initial disclosures.** No changes are necessary. The parties agree that initial disclosures under Rule 26.01(a) shall be made on or before September 25, 2026.
 
-**2.  Subjects on which discovery may be needed; when discovery should be completed; whether discovery should be in phases.** Discovery will be needed on Plaintiffs' claims and Defendant's defenses. The subjects include:
+**2.  Subjects on which discovery may be needed; when discovery should be completed; whether discovery should be in phases.** Discovery will be needed on Plaintiffs' claims and Defendant's defenses. Discovery should not be conducted in phases or limited to particular issues, and fact discovery should precede expert discovery on the schedule set out in paragraph 7. The subjects include:
 
-- the cause, extent, and location of the July 13, 2024 hail damage to the windows and other exterior components of the Property, including components the appraisal panel did not evaluate;
+- The cause, extent, and location of the July 13, 2024 hail damage to the windows and other exterior components of the Property, including components the appraisal panel did not evaluate;
 
-- the three inspections of the Property — by Hancock Claims Consultants (August 29, 2024), by Defendant's adjuster Nicholas Brau (September 6, 2024), and by Prieve Engineering (File #241008) — including their scope and methodology and the decision to limit the Prieve engagement to windows;
+- The three inspections of the Property — by Hancock Claims Consultants (August 29, 2024), by Defendant's adjuster Nicholas Brau (September 6, 2024), and by Prieve Engineering (File #241008) — including their scope and methodology and the decision to limit the Prieve engagement to windows;
 
 - Defendant's handling of the claim, its denials of September 3 and November 4, 2024, and its stated requirement that evidence be provided by an engineer;
 
-- the 2020 claim and file, including the Xactimate estimate and photograph log, and Defendant's prior-payment position;
+- The 2020 claim and file, including the Xactimate estimate and photograph log, and Defendant's prior-payment position;
 
-- the September 12, 2025 appraisal award, its scope and itemization, and the files of the appraisers and the umpire;
+- The September 12, 2025 appraisal award, its scope and itemization, and the files of the appraisers and the umpire;
 
 - Defendant's internal communications and recorded calls concerning the claim and its handling;
 
@@ -34,8 +34,6 @@ Pursuant to the Court's direction of September 1, 2026 that the parties may subm
 - Defendant's claim-file audit trail and record-retention practices, including the existence or loss of the records of the September 6, 2024 inspection; and
 
 - Defendant's response to Plaintiffs' November 19, 2024 complaint to the Minnesota Department of Commerce (Complaint ID 93547).
-
-Discovery should not be conducted in phases or limited to particular issues. Fact discovery should precede expert discovery, on the schedule set out in paragraph 7.
 
 **Basis for the proposed fact-discovery period.** This is a document-intensive first-party insurance case: a multi-year claim file spanning two claims, three separate inspections by two outside firms, non-party discovery from those firms and from the members of the appraisal panel, and competing expert causation testimony. The claim file also contains unresolved factual gaps. Defendant has not identified the damage locations from the 2020 claim on which its prior-payment position depends. Defendant has given two irreconcilable accounts of the September 6, 2024 inspection conducted by its own adjuster, stating on October 10, 2025 that “[t]he file does not contain a report on the requested date” and on October 29, 2025 that “[a]ll the information we can release has already been sent to you.” And Defendant has not consistently identified which windows the September 12, 2025 appraisal award covers — an award that designates them only by the undefined codes “F 1.7” and “B 1.2.” Resolving each of these requires written discovery, a documented custodial search, and, as to the missing inspection record, an organizational deposition under Rule 30.02(f) that cannot be scheduled until that search is complete.
 
