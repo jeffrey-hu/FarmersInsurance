@@ -2,9 +2,9 @@
 |---|---|
 | **Yibiao Lu**<br>**Jie Hu**<br>**Plaintiffs Pro Se** | **17756 George Moran Dr.**<br>**Eden Prairie, MN 55347**<br>**(763) 843-2859** |
 
-August 31, 2026
+September 1, 2026
 
-***<u>Via eFS and U.S. Mail</u>***
+***<u>Via U.S. Mail</u>***
 
 The Honorable Jamie L. Anderson
 Hennepin County District Court
@@ -29,7 +29,7 @@ Plaintiffs write separately because Defendant's letter describes the disagreemen
 
 2. *Privilege procedure.* Plaintiffs ask for service of a privilege log under Rule 26.02(f) and for a non-waiver and claw-back agreement that the parties would jointly ask the Court to enter as an order, so that its protections bind non-parties. Defendant's draft states only that the parties will follow Rule 26.
 
-3. *A protective order.* Plaintiffs anticipate that Defendant will seek to designate portions of its claim file and business records as confidential. Plaintiffs will agree to a reasonable single-tier order, but cannot agree to an "attorneys' eyes only" or other counsel-only tier: Plaintiffs appear pro se and have no counsel of record, so such a tier would operate as a complete bar on their access to the evidence in their own case. Defendant's draft contains no confidentiality paragraph.
+3. *A protective order.* Plaintiffs anticipate that Defendant will seek to designate portions of its claim file and business records as confidential. Plaintiffs will agree to a reasonable single-tier order, but cannot agree to an "attorneys' eyes only" or other counsel-only tier: Plaintiffs appear pro se and have no counsel of record, so such a tier would operate as a complete bar on their access to the evidence in their own case. As to the persons permitted access to material designated CONFIDENTIAL, Plaintiffs ask that the order include Jeffrey Hu, who assists Plaintiffs in preparing this litigation and whose access the parties discussed at the conference, provided that he first sign a written undertaking to be bound by the order. Defendant's draft contains no confidentiality paragraph.
 
 **As to the schedule.** Plaintiffs proposed a longer fact-discovery period than Defendant because of specific work this case requires. The claim file contains unresolved factual gaps. Defendant has not identified the damage locations from the 2020 claim on which its prior-payment position depends. Defendant has given two irreconcilable accounts of the September 6, 2024 inspection conducted by its own adjuster, stating on October 10, 2025 that "[t]he file does not contain a report on the requested date," and on October 29, 2025 that "[a]ll the information we can release has already been sent to you." And Defendant has not consistently identified which windows the September 12, 2025 appraisal award covers — an award that designates them only by the undefined codes "F 1.7" and "B 1.2."
 
@@ -54,4 +54,4 @@ Telephone:  (763) 843-2860
 E-Mail:  jie_h_hu@yahoo.com
 
 cc:&emsp;&emsp;Mary J. Baskfield, Kennedy Law Firm P.C.
-&emsp;&emsp;&emsp;&emsp;Attorneys for Defendant (via eFS and U.S. Mail)
+&emsp;&emsp;&emsp;&emsp;Attorneys for Defendant (via U.S. Mail)
