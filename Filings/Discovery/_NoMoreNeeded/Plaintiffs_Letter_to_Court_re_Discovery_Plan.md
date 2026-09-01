@@ -53,5 +53,5 @@ Jie Hu, Plaintiff Pro Se
 Telephone:  (763) 843-2860
 E-Mail:  jie_h_hu@yahoo.com
 
-cc:&emsp;&emsp;Mary J. Baskfield, Kennedy Law Firm P.C.
-&emsp;&emsp;&emsp;&emsp;Attorneys for Defendant (via U.S. Mail)
+cc:&emsp;&emsp;Kevin J. Kennedy and Mary J. Baskfield
+&emsp;&emsp;&emsp;&emsp;Kennedy Law Firm P.C., Attorneys for Defendant (via U.S. Mail)

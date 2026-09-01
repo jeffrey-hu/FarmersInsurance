@@ -1,103 +1,92 @@
 | | |
 |---|---|
-| STATE OF MINNESOTA<br>COUNTY OF HENNEPIN<br><br>Yibiao Lu and Jie Hu,<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Plaintiffs,<br><br>vs.<br><br>Fire Insurance Exchange, by and through its attorney-in-fact, Fire Underwriters Association (d/b/a Farmers Insurance),<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Defendant. | DISTRICT COURT<br>FOURTH JUDICIAL DISTRICT<br><br>Case Type: Contract<br><br>Court File No. 27-CV-26-11606<br><br>Judge: Jamie L. Anderson |
+| STATE OF MINNESOTA<br>COUNTY OF HENNEPIN<br><br>Yibiao Lu and Jie Hu,<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Plaintiffs,<br><br>vs.<br><br>Fire Insurance Exchange, by and through its attorney-in-fact Fire Underwriters Association, doing business as Farmers Insurance,<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Defendant. | DISTRICT COURT<br>FOURTH JUDICIAL DISTRICT<br><br>Case Type: Contract<br><br>Court File No. 27-CV-26-11606<br><br>Judge: Jamie L. Anderson |
 
-# PLAINTIFFS' PROPOSED RULE 26.06 DISCOVERY PLAN
 
-The parties conferred on August 28, 2026 under Minn. R. Civ. P. 26.06 and were unable to agree on a joint discovery plan. Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, therefore submit this plan under Minn. R. Civ. P. 26.06(b), stating the parties' views and proposals on the subjects listed in Rule 26.06(c). The paragraph numbering below follows Defendant's draft so that the Court may compare the parties' positions directly. Plaintiffs remain willing to confer further and will promptly join a revised joint plan if agreement can be reached.
 
----
 
-**1. What changes should be made in the timing, form, or requirement for disclosures under Rule 26.01, including a statement of when initial disclosures were made or will be made.**
+# PLAINTIFFS' PROPOSED DISCOVERY PLAN
 
-No changes are necessary. The parties agree that initial disclosures under Rule 26.01(a) shall be made on or before **September 25, 2026**.
+Pursuant to the Court's direction of September 1, 2026 that the parties may submit individual proposed discovery plans, Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, submit the following. The parties conferred on August 28, 2026 as required by Minn. R. Civ. P. 26.06 but did not reach agreement. The numbering below follows the order of the subjects listed in Rule 26.06(c).
 
----
+**Scope of the parties' disagreement.** Defendant's letter to the Court of August 28, 2026 describes the parties as having had “significantly different positions on proposed dates for the Scheduling Order.” Plaintiffs respectfully note that the disagreement is not confined to dates. The parties agree on the matter stated in paragraph 1, and substantially agree on paragraph 5. Before and during the conference, Plaintiffs also proposed substantive terms governing the form of production for electronically stored information (paragraph 3), the procedure for claims of privilege (paragraph 4), and a protective order (paragraph 6) — subjects on which Defendant's August 27, 2026 draft is silent or states only that the Rules will be followed. Plaintiffs set out those proposed terms below so that they may be addressed in the Court's Scheduling Order.
 
-**2. The subjects on which discovery may be needed, when discovery should be completed, and whether discovery should be conducted in phases or be limited to or focused on particular issues.**
+**1.  Changes to the timing, form, or requirement for Rule 26.01 initial disclosures.** No changes are necessary. The parties agree that initial disclosures under Rule 26.01(a) shall be made on or before September 25, 2026.
 
-Discovery will be needed on Plaintiffs' claims and Defendant's defenses. The subjects include:
+**2.  Subjects on which discovery may be needed; when discovery should be completed; whether discovery should be in phases.** Discovery will be needed on Plaintiffs' claims and Defendant's defenses. The subjects include:
 
 - the cause, extent, and location of the July 13, 2024 hail damage to the windows and other exterior components of the Property, including components the appraisal panel did not evaluate;
+
 - the three inspections of the Property — by Hancock Claims Consultants (August 29, 2024), by Defendant's adjuster Nicholas Brau (September 6, 2024), and by Prieve Engineering (File #241008) — including their scope and methodology and the decision to limit the Prieve engagement to windows;
+
 - Defendant's handling of the claim, its denials of September 3 and November 4, 2024, and its stated requirement that evidence be provided by an engineer;
+
 - the 2020 claim and file, including the Xactimate estimate and photograph log, and Defendant's prior-payment position;
+
 - the September 12, 2025 appraisal award, its scope and itemization, and the files of the appraisers and the umpire;
+
 - Defendant's internal communications and recorded calls concerning the claim and its handling;
+
 - Defendant's claims-handling policies, training, and procedures in effect since July 13, 2024, including its practice for reviewing and adopting third-party inspection and engineering reports;
+
 - Defendant's retention and oversight of its inspection and engineering vendors;
+
 - Defendant's claim-file audit trail and record-retention practices, including the existence or loss of the records of the September 6, 2024 inspection; and
+
 - Defendant's response to Plaintiffs' November 19, 2024 complaint to the Minnesota Department of Commerce (Complaint ID 93547).
 
 Discovery should not be conducted in phases or limited to particular issues. Fact discovery should precede expert discovery, on the schedule set out in paragraph 7.
 
-**Basis for the proposed fact-discovery period.** Plaintiffs propose a fact-discovery period longer than Defendant's because of specific work this case requires. The claim file contains unresolved factual gaps: Defendant has not identified the damage locations from the 2020 claim on which its prior-payment position depends; Defendant has given two irreconcilable accounts of the September 6, 2024 inspection by its own adjuster, stating on October 10, 2025 that "[t]he file does not contain a report on the requested date" and on October 29, 2025 that "[a]ll the information we can release has already been sent to you"; and Defendant has not consistently identified which windows the September 12, 2025 award covers, an award that designates them only by the undefined codes "F 1.7" and "B 1.2." Resolving each requires written discovery, a documented custodial search, and — as to the missing inspection record — an organizational deposition under Rule 30.02(f) that cannot be scheduled until that search is complete. The case additionally involves non-party discovery from two outside inspection firms and from the members of the appraisal panel, and a multi-year claim file spanning two claims.
+**Basis for the proposed fact-discovery period.** This is a document-intensive first-party insurance case: a multi-year claim file spanning two claims, three separate inspections by two outside firms, non-party discovery from those firms and from the members of the appraisal panel, and competing expert causation testimony. The claim file also contains unresolved factual gaps. Defendant has not identified the damage locations from the 2020 claim on which its prior-payment position depends. Defendant has given two irreconcilable accounts of the September 6, 2024 inspection conducted by its own adjuster, stating on October 10, 2025 that “[t]he file does not contain a report on the requested date” and on October 29, 2025 that “[a]ll the information we can release has already been sent to you.” And Defendant has not consistently identified which windows the September 12, 2025 appraisal award covers — an award that designates them only by the undefined codes “F 1.7” and “B 1.2.” Resolving each of these requires written discovery, a documented custodial search, and, as to the missing inspection record, an organizational deposition under Rule 30.02(f) that cannot be scheduled until that search is complete.
 
----
+**3.  Issues about disclosure or discovery of electronically stored information (ESI).** The parties shall preserve all documents and ESI that may be relevant and discoverable. ESI shall be produced in its native format with metadata intact, or in another reasonably usable form as the parties agree; the searchability and metadata of ESI shall not be degraded, and responsive ESI shall not be printed to image or flattened. This applies in particular to photographic image files — including the photographs generated at each of the three inspections of the Property — which shall be produced with their original metadata. The parties will confer on custodians and data sources as the need arises.
 
-**3. Any issues about disclosure or discovery of electronically stored information, including the form or forms in which it should be produced.**
+**4.  Issues about claims of privilege or protection as trial-preparation materials.** The parties will follow Minn. R. Civ. P. 26 with respect to claims of privilege and protection of trial-preparation materials, including service of a privilege log under Rule 26.02(f). Plaintiffs propose that the parties enter a non-waiver and claw-back agreement providing that inadvertent production does not waive privilege, and that the Court enter that agreement as an order so that its protections bind non-parties.
 
-The parties shall preserve all documents and electronically stored information that may be relevant and discoverable. ESI shall be produced in its native format with metadata intact, or in another reasonably usable form as the parties agree; the searchability and metadata of ESI shall not be degraded, and responsive ESI shall not be printed to image or flattened. This applies in particular to photographic image files — including the photographs generated at each of the three inspections of the Property — which shall be produced with their original metadata. The parties will confer on custodians and data sources as the need arises.
+**5.  Changes to the limitations on discovery.** Plaintiffs do not propose limitations on discovery beyond those set forth in the Minnesota Rules of Civil Procedure, and reserve the right to confer on adjustments the case may require, including additional deposition hours for organizational depositions under Rule 30.02(f).
 
----
+**6.  Confidentiality and protective order.** Plaintiffs anticipate that Defendant may seek to designate portions of its claim file or business records as confidential. Plaintiffs will agree to a reasonable single-tier protective order under which material may be designated CONFIDENTIAL, subject to the following:
 
-**4. Any issues about claims of privilege or of protection as trial-preparation materials, including whether to ask the court to include the parties' agreement in an order.**
+(a)  Plaintiffs will not agree to an “attorneys' eyes only” or other counsel-only tier. Plaintiffs appear pro se and have no counsel of record; such a tier would operate as a complete bar on their access to the evidence in their own case.
 
-The parties will follow Minn. R. Civ. P. 26 with respect to claims of privilege and protection of trial-preparation materials, including service of a privilege log under Rule 26.02(f). The parties will enter a non-waiver and claw-back agreement providing that inadvertent production does not waive privilege, and will ask the Court to enter that agreement as an order so that its protections bind non-parties.
+(b)  Designations must be limited to genuine trade-secret, proprietary business, or private personal or financial information. Material may not be designated confidential merely because it was produced from a claim file.
 
----
-
-**5. What changes should be made in the limitations on discovery imposed under these rules or by local rule, and what other limitations should be imposed.**
-
-The parties do not propose limitations on discovery beyond those set forth in the Minnesota Rules of Civil Procedure. Plaintiffs reserve the right to confer on adjustments the case may require, including additional deposition hours for organizational depositions under Rule 30.02(f).
-
----
-
-**6. Confidentiality and protective order.**
-
-Plaintiffs anticipate that Defendant may seek to designate portions of its claim file or business records as confidential. Plaintiffs will agree to a reasonable single-tier protective order under which material may be designated CONFIDENTIAL, subject to the following:
-
-(a) Plaintiffs will not agree to an "attorneys' eyes only" or other counsel-only tier. Plaintiffs appear pro se and have no counsel of record; such a tier would operate as a complete bar on their access to the evidence in their own case.
-
-(b) Designations must be limited to genuine trade-secret, proprietary business, or private personal or financial information. Material may not be designated confidential merely because it was produced from a claim file.
-
-(c) Material designated CONFIDENTIAL may be disclosed to: the parties; the Court and its personnel; court reporters and videographers; any person retained by a party as an expert or consultant in this action; Jeffrey Hu, who assists Plaintiffs in preparing this litigation; deposition and trial witnesses to the extent reasonably necessary for their examination; and, as to Defendant, its counsel of record, counsel's staff, and its employees and representatives with a need to know. Each such person, other than the parties, the Court and its personnel, and counsel of record and counsel's staff, shall first sign a written undertaking agreeing to be bound by the order and submitting to the jurisdiction of this Court for its enforcement.
+(c)  Material designated CONFIDENTIAL may be disclosed to: the parties; the Court and its personnel; court reporters and videographers; any person retained by a party as an expert or consultant in this action; Jeffrey Hu, who assists Plaintiffs in preparing this litigation and whose access the parties discussed at the conference; deposition and trial witnesses to the extent reasonably necessary for their examination; and, as to Defendant, its counsel of record, counsel's staff, and its employees and representatives with a need to know. Each such person, other than the parties, the Court and its personnel, and counsel of record and counsel's staff, shall first sign a written undertaking agreeing to be bound by the order and submitting to the jurisdiction of this Court for its enforcement.
 
 The remaining operational terms are matters for a stipulated order. As the party seeking to protect its own records, Defendant is expected to propose the form of order, and Plaintiffs will respond promptly. If the parties cannot agree, Plaintiffs request that the Court resolve any disputed terms.
 
----
-
-**7. Any order that the Court should issue under Rule 16.02.**
-
-Plaintiffs propose the following pretrial deadlines for the Court's Scheduling Order:
+**7.  Order that the Court should issue under Rule 16.02.** Plaintiffs propose the following pretrial deadlines for the Court's Scheduling Order:
 
 | Event | Proposed Deadline |
 |---|---|
 | Rule 26.01(a) initial disclosures | September 25, 2026 |
 | Substantial completion of document production | February 26, 2027 |
 | Deadline to join parties / amend pleadings | March 31, 2027 |
-| Close of fact discovery | August 31, 2027 |
+| Close of fact discovery | June 30, 2027 |
+| Non-dispositive motions heard by | August 13, 2027 |
 | ADR completed (Rule 114) | September 30, 2027 |
-| Plaintiffs' expert disclosures and reports | October 15, 2027 |
-| Non-dispositive motions heard by | October 29, 2027 |
-| Deadline for Minn. Stat. § 604.18 motion to amend | November 30, 2027 |
-| Defendant's expert disclosures and reports | November 30, 2027 |
-| Rebuttal expert disclosures and reports | December 22, 2027 |
-| Close of expert discovery | January 31, 2028 |
-| Dispositive motions heard by | March 15, 2028 |
-| Trial-ready date | April 2028 |
+| Plaintiffs' expert disclosures and reports | October 29, 2027 |
+| Defendant's expert disclosures and reports | December 10, 2027 |
+| Deadline to file Minn. Stat. § 604.18 motion to amend | December 17, 2027 |
+| Rebuttal expert disclosures and reports | January 21, 2028 |
+| Close of expert discovery | March 3, 2028 |
+| Dispositive motions heard by | April 21, 2028 |
+| Trial-ready date | July 10, 2028, or 60 days after determination of any timely dispositive motion, whichever is later |
 
-**Note on substantial completion of document production.** Plaintiffs propose a date certain by which the parties' document productions are substantially complete, so that depositions and non-party discovery may be scheduled against a settled record rather than a rolling production. Defendant's draft contains no such milestone.
 
-**Note on the deadline to join parties and amend pleadings.** Plaintiffs propose that this deadline fall approximately thirty days after substantial completion of document production, rather than before it. Defendant's first affirmative defense alleges a lack of jurisdiction over Defendant itself, and the documents bearing on the identity and capacity of the contracting entity — including the underwriting file and the attorney-in-fact documentation — are within Defendant's production. Plaintiffs should not be required to correct or add parties before the documents bearing on that question have been produced. Defendant's draft proposes no amendment deadline at all.
+**Note on substantial completion of document production.** Plaintiffs propose a date certain by which the parties' document productions are substantially complete, so that depositions and non-party discovery may be scheduled against a settled record rather than against a rolling production.
 
-**Note on the Minn. Stat. § 604.18 deadline.** Minn. Stat. § 604.18, subd. 4 bars pleading a first-party bad-faith claim in the original complaint; the claim may be added only by a later motion to amend supported by affidavits making a prima facie showing. The statute sets no deadline for that motion, so the Scheduling Order controls. Because the required showing depends on the fact-discovery record, Plaintiffs propose a separate, later deadline for the § 604.18 motion rather than folding it into the general pleading-amendment deadline. If the claim is added, the award of § 604.18 taxable costs would be determined by the Court after the fact-finder's verdict under Minn. Gen. R. Prac. 119.
+**Note on the deadline to join parties and amend pleadings.** Plaintiffs propose that this deadline fall approximately thirty days after substantial completion of document production, rather than before it. Defendant's first affirmative defense alleges a lack of jurisdiction over Defendant, and the documents bearing on the identity and capacity of the contracting entity — including the underwriting file and the attorney-in-fact documentation — are within Defendant's production. Plaintiffs should not be required to correct or add parties before the documents bearing on that question have been produced.
 
-**Note on sequencing.** Plaintiffs propose that ADR be completed after the close of fact discovery but before expert disclosures, so that the parties may evaluate settlement on a complete factual record without first incurring the cost of expert reports; and that dispositive motions be heard after the close of expert discovery, so that neither party is required to brief summary judgment before the expert record is complete.
+**Note on the Minn. Stat. § 604.18 deadline.** Minn. Stat. § 604.18, subd. 4 bars pleading a first-party bad-faith claim in the original complaint; the claim may be added only by a later motion to amend supported by affidavits making a prima facie showing. The statute sets no deadline for that motion, so the Scheduling Order controls. Because the required showing depends on the fact-discovery record, Plaintiffs propose a separate, later deadline for filing the § 604.18 motion rather than folding it into the general pleading-amendment deadline. If the claim is added, the award of § 604.18 taxable costs would be determined by the Court after the fact-finder's verdict under Minn. Gen. R. Prac. 119.
 
----
+**Note on the deadline for non-dispositive motions.** Plaintiffs propose that this deadline fall approximately six weeks after the close of fact discovery and before expert disclosures. The deadline governs motions to compel, and a motion arising at the end of fact discovery must be capable of being heard, and any resulting production made, while the expert record is still open. A production compelled after expert reports have been served is of little use to the party that sought it. Under Minn. Gen. R. Prac. 115.04 the moving party must file 21 days before the hearing, which the proposed interval accommodates.
 
-**8. Additional information for the Court's scheduling order.**
+**Note on sequencing.** The proposed order reflects the dependencies among these events. Discovery disputes are resolved first; ADR follows their resolution but precedes expert disclosures, so that the parties may evaluate settlement on a complete factual record without first incurring the cost of expert reports; and dispositive motions are heard after the close of expert discovery, so that neither party is required to brief summary judgment before the expert record is complete. Under Minn. Gen. R. Prac. 115.03 dispositive motions must be filed 28 days before the hearing, and the proposed interval between the close of expert discovery and the dispositive-motion hearing accommodates that requirement.
+
+**Note on the trial-ready date.** Under Minn. Stat. § 546.27, subd. 1, a matter submitted to the Court must be decided within 90 days. Plaintiffs therefore propose a trial-ready date expressed so that it accounts for the determination of any timely dispositive motion, rather than one that could fall before such a motion is decided.
+
+**8.  Additional information for the Court's scheduling order.**
 
 **Jury or court trial:** Jury trial. Both parties have demanded a jury.
 
@@ -111,18 +100,24 @@ Plaintiffs propose the following pretrial deadlines for the Court's Scheduling O
 
 **Special needs:** None known at this time.
 
----
+**Request.** Plaintiffs respectfully request that the Court's Scheduling Order incorporate the deadlines proposed in paragraph 7 and the terms proposed in paragraphs 3, 4, and 6.
 
-Dated: ______________, 2026
+Dated: September 4, 2026
 
 Respectfully submitted,
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Yibiao Lu, Plaintiff pro se
-17756 George Moran Dr., Eden Prairie, MN 55347
-(763) 843-2859 &emsp; bill_y_lu@yahoo.com
+____________________________________
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Jie Hu, Plaintiff pro se
+Yibiao Lu, Plaintiff pro se
+
 17756 George Moran Dr., Eden Prairie, MN 55347
-(763) 843-2860 &emsp; jie_h_hu@yahoo.com
+
+(763) 843-2859   ·   bill_y_lu@yahoo.com
+
+____________________________________
+
+Jie Hu, Plaintiff pro se
+
+17756 George Moran Dr., Eden Prairie, MN 55347
+
+(763) 843-2860   ·   jie_h_hu@yahoo.com
