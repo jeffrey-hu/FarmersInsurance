@@ -1,19 +1,25 @@
 | | |
 |---|---|
-| STATE OF MINNESOTA<br>COUNTY OF HENNEPIN<br><br>Yibiao Lu and Jie Hu,<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Plaintiffs,<br><br>vs.<br><br>Fire Insurance Exchange, by and through its attorney-in-fact Fire Underwriters Association, doing business as Farmers Insurance,<br><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Defendant. | DISTRICT COURT<br>FOURTH JUDICIAL DISTRICT<br><br>Case Type: Contract<br><br>Court File No. 27-CV-26-11606<br><br>Judge: Jamie L. Anderson |
+| **STATE OF MINNESOTA**<br>**COUNTY OF HENNEPIN** | **DISTRICT COURT**<br>**FOURTH JUDICIAL DISTRICT**<br>Case Type: Contract |
+
+---
+
+| | |
+|---|---|
+| Yibiao Lu and Jie Hu,<br><br>&emsp;&emsp;&emsp;&emsp;Plaintiffs,<br><br>v.<br><br>Fire Insurance Exchange, by and through<br>its attorney-in-fact, Fire Underwriters<br>Association (d/b/a Farmers Insurance),<br><br>&emsp;&emsp;&emsp;&emsp;Defendant. | Court File No.: 27-CV-26-11606<br><br>Judge: Jamie L. Anderson<br><br>**PLAINTIFFS' PROPOSED**<br>**DISCOVERY PLAN** |
+
+---
 
 
 
-
-# PLAINTIFFS' PROPOSED DISCOVERY PLAN
 
 Pursuant to the Court's direction of September 1, 2026 that the parties may submit individual proposed discovery plans, Plaintiffs Yibiao Lu and Jie Hu, appearing pro se, submit the following. The parties conferred on August 28, 2026 as required by Minn. R. Civ. P. 26.06 but did not reach agreement. The numbering below follows the order of the subjects listed in Rule 26.06(c).
 
 **Scope of the parties' disagreement.** Defendant's letter to the Court of August 28, 2026 describes the parties as having had “significantly different positions on proposed dates for the Scheduling Order.” Plaintiffs respectfully note that the disagreement is not confined to dates. The parties agree on the matter stated in paragraph 1, and substantially agree on paragraph 5. Before and during the conference, Plaintiffs also proposed substantive terms governing the form of production for electronically stored information (paragraph 3), the procedure for claims of privilege (paragraph 4), and a protective order (paragraph 6) — subjects on which Defendant's August 27, 2026 draft is silent or states only that the Rules will be followed. Plaintiffs set out those proposed terms below so that they may be addressed in the Court's Scheduling Order.
 
-**1.  Changes to the timing, form, or requirement for Rule 26.01 initial disclosures.** No changes are necessary. The parties agree that initial disclosures under Rule 26.01(a) shall be made on or before September 25, 2026.
+**1.Changes to the timing, form, or requirement for Rule 26.01 initial disclosures.** No changes are necessary. The parties agree that initial disclosures under Rule 26.01(a) shall be made on or before September 25, 2026.
 
-**2.  Subjects on which discovery may be needed; when discovery should be completed; whether discovery should be in phases.** Discovery will be needed on Plaintiffs' claims and Defendant's defenses. Discovery should not be conducted in phases or limited to particular issues, and fact discovery should precede expert discovery on the schedule set out in paragraph 7. The subjects include:
+**2.Subjects on which discovery may be needed; when discovery should be completed; whether discovery should be in phases.** Discovery will be needed on Plaintiffs' claims and Defendant's defenses. Discovery should not be conducted in phases or limited to particular issues, and fact discovery should precede expert discovery on the schedule set out in paragraph 7. The subjects include:
 
 - The cause, extent, and location of the July 13, 2024 hail damage to the windows and other exterior components of the Property, including components the appraisal panel did not evaluate;
 
@@ -37,13 +43,13 @@ Pursuant to the Court's direction of September 1, 2026 that the parties may subm
 
 **Basis for the proposed fact-discovery period.** This is a document-intensive first-party insurance case: a multi-year claim file spanning two claims, three separate inspections by two outside firms, non-party discovery from those firms and from the members of the appraisal panel, and competing expert causation testimony. The claim file also contains unresolved factual gaps. Defendant has not identified the damage locations from the 2020 claim on which its prior-payment position depends. Defendant has given two irreconcilable accounts of the September 6, 2024 inspection conducted by its own adjuster, stating on October 10, 2025 that “[t]he file does not contain a report on the requested date” and on October 29, 2025 that “[a]ll the information we can release has already been sent to you.” And Defendant has not consistently identified which windows the September 12, 2025 appraisal award covers — an award that designates them only by the undefined codes “F 1.7” and “B 1.2.” Resolving each of these requires written discovery, a documented custodial search, and, as to the missing inspection record, an organizational deposition under Rule 30.02(f) that cannot be scheduled until that search is complete.
 
-**3.  Issues about disclosure or discovery of electronically stored information (ESI).** The parties shall preserve all documents and ESI that may be relevant and discoverable. ESI shall be produced in its native format with metadata intact, or in another reasonably usable form as the parties agree; the searchability and metadata of ESI shall not be degraded, and responsive ESI shall not be printed to image or flattened. This applies in particular to photographic image files — including the photographs generated at each of the three inspections of the Property — which shall be produced with their original metadata. The parties will confer on custodians and data sources as the need arises.
+**3.Issues about disclosure or discovery of electronically stored information (ESI).** The parties shall preserve all documents and ESI that may be relevant and discoverable. ESI shall be produced in its native format with metadata intact, or in another reasonably usable form as the parties agree; the searchability and metadata of ESI shall not be degraded, and responsive ESI shall not be printed to image or flattened. This applies in particular to photographic image files — including the photographs generated at each of the three inspections of the Property — which shall be produced with their original metadata. The parties will confer on custodians and data sources as the need arises.
 
-**4.  Issues about claims of privilege or protection as trial-preparation materials.** The parties will follow Minn. R. Civ. P. 26 with respect to claims of privilege and protection of trial-preparation materials, including service of a privilege log under Rule 26.02(f). Plaintiffs propose that the parties enter a non-waiver and claw-back agreement providing that inadvertent production does not waive privilege, and that the Court enter that agreement as an order so that its protections bind non-parties.
+**4.Issues about claims of privilege or protection as trial-preparation materials.** The parties will follow Minn. R. Civ. P. 26 with respect to claims of privilege and protection of trial-preparation materials, including service of a privilege log under Rule 26.02(f). Plaintiffs propose that the parties enter a non-waiver and claw-back agreement providing that inadvertent production does not waive privilege, and that the Court enter that agreement as an order so that its protections bind non-parties.
 
-**5.  Changes to the limitations on discovery.** Plaintiffs do not propose limitations on discovery beyond those set forth in the Minnesota Rules of Civil Procedure, and reserve the right to confer on adjustments the case may require, including additional deposition hours for organizational depositions under Rule 30.02(f).
+**5.Changes to the limitations on discovery.** Plaintiffs do not propose limitations on discovery beyond those set forth in the Minnesota Rules of Civil Procedure, and reserve the right to confer on adjustments the case may require, including additional deposition hours for organizational depositions under Rule 30.02(f).
 
-**6.  Confidentiality and protective order.** Plaintiffs anticipate that Defendant may seek to designate portions of its claim file or business records as confidential. Plaintiffs will agree to a reasonable single-tier protective order under which material may be designated CONFIDENTIAL, subject to the following:
+**6.Confidentiality and protective order.** Plaintiffs anticipate that Defendant may seek to designate portions of its claim file or business records as confidential. Plaintiffs will agree to a reasonable single-tier protective order under which material may be designated CONFIDENTIAL, subject to the following:
 
 (a)  Plaintiffs will not agree to an “attorneys' eyes only” or other counsel-only tier. Plaintiffs appear pro se and have no counsel of record; such a tier would operate as a complete bar on their access to the evidence in their own case.
 
@@ -53,7 +59,7 @@ Pursuant to the Court's direction of September 1, 2026 that the parties may subm
 
 The remaining operational terms are matters for a stipulated order. As the party seeking to protect its own records, Defendant is expected to propose the form of order, and Plaintiffs will respond promptly. If the parties cannot agree, Plaintiffs request that the Court resolve any disputed terms.
 
-**7.  Order that the Court should issue under Rule 16.02.** Plaintiffs propose the following pretrial deadlines for the Court's Scheduling Order:
+**7.Order that the Court should issue under Rule 16.02.** Plaintiffs propose the following pretrial deadlines for the Court's Scheduling Order:
 
 | Event | Proposed Deadline |
 |---|---|
@@ -84,11 +90,11 @@ The remaining operational terms are matters for a stipulated order. As the party
 
 **Note on the trial-ready date.** Under Minn. Stat. § 546.27, subd. 1, a matter submitted to the Court must be decided within 90 days. Plaintiffs therefore propose a trial-ready date expressed so that it accounts for the determination of any timely dispositive motion, rather than one that could fall before such a motion is decided.
 
-**8.  Additional information for the Court's scheduling order.**
+**8.Additional information for the Court's scheduling order.**
 
 **Jury or court trial:** Jury trial. Both parties have demanded a jury.
 
-**Alternative dispute resolution (Rule 114):** Plaintiffs propose non-binding mediation, the neutral to be selected by agreement or, failing agreement, appointed by the Court.
+**Alternative dispute resolution (Rule 114):** Plaintiffs propose non-binding mediation under Minn. Gen. R. Prac. 114.02(c)(1), to be completed by the deadline in paragraph 7. Plaintiffs request that the neutral have experience in insurance coverage or construction-defect disputes. The parties will confer on the selection of a neutral under Rule 114.04(a) within 30 days after entry of the Scheduling Order and will notify the court administrator of the selection as Rule 114.04(d) requires; if the parties are unable to agree, Plaintiffs request that the Court select a qualified neutral under Rule 114.04(b).
 
 **Expert witnesses:** Plaintiffs anticipate calling one or more retained experts on hail causation and damage (forensic engineering and/or meteorology), together with valuation testimony.
 
