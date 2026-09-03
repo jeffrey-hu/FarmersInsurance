@@ -110,20 +110,26 @@ The remaining operational terms are matters for a stipulated order. As the party
 
 Dated: September 4, 2026
 
-Respectfully submitted,
-
 ____________________________________
 
 Yibiao Lu, Plaintiff pro se
 
-17756 George Moran Dr., Eden Prairie, MN 55347
+17756 George Moran Dr.
 
-(763) 843-2859   ·   bill_y_lu@yahoo.com
+Eden Prairie, MN 55347
+
+Telephone: 763-843-2859
+
+Email: bill_y_lu@yahoo.com
 
 ____________________________________
 
 Jie Hu, Plaintiff pro se
 
-17756 George Moran Dr., Eden Prairie, MN 55347
+17756 George Moran Dr.
 
-(763) 843-2860   ·   jie_h_hu@yahoo.com
+Eden Prairie, MN 55347
+
+Telephone: 763-843-2860
+
+Email: jie_h_hu@yahoo.com
