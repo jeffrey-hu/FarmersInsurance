@@ -78,7 +78,7 @@ The remaining operational terms are matters for a stipulated order. As the party
 | Trial-ready date | May 15, 2028 |
 
 
-**Note on the trial-ready date proposed here.** At the Rule 26.06 conference on August 28, 2026, Plaintiffs proposed a trial-ready date in June 2028. The schedule proposed above advances that date to May 15, 2028. Plaintiffs have shortened their own proposal by removing intervals that the work of this case does not require — principally by scheduling alternative dispute resolution after the exchange of expert reports rather than ahead of them, and by shortening each expert disclosure round to approximately one month. Plaintiffs have accordingly moved toward Defendant's position, and respectfully submit that the schedule above is the shortest one consistent with completing the discovery this case requires.
+**Note on Plaintiffs' shortening of their proposed schedule.** At the Rule 26.06 conference on August 28, 2026, Plaintiffs proposed a trial-ready date in June 2028. The schedule proposed above advances that date to May 15, 2028. Plaintiffs have shortened their own proposal by removing intervals that the work of this case does not require — principally by scheduling alternative dispute resolution after the exchange of expert reports rather than ahead of them, and by shortening each expert disclosure round to approximately one month. Plaintiffs have accordingly moved toward Defendant's position, and respectfully submit that the schedule above is the shortest one consistent with completing the discovery this case requires.
 
 **Note on substantial completion of document production.** Plaintiffs propose a date certain by which the parties' document productions are substantially complete, so that depositions and non-party discovery may be scheduled against a settled record rather than against a rolling production.
 
@@ -90,7 +90,7 @@ The remaining operational terms are matters for a stipulated order. As the party
 
 **Note on sequencing.** The proposed order reflects the dependencies among these events. Discovery disputes are resolved first; ADR follows the exchange of expert reports but precedes expert depositions and dispositive briefing, so that the parties may evaluate settlement with each side's causation opinion in hand and before the largest remaining costs of the case are incurred; and dispositive motions are heard after the close of expert discovery, so that neither party is required to brief summary judgment before the expert record is complete. Under Minn. Gen. R. Prac. 115.03 dispositive motions must be filed 28 days before the hearing, and the proposed interval between the close of expert discovery and the dispositive-motion hearing accommodates that requirement.
 
-**Note on the trial-ready date.** Plaintiffs propose a fixed trial-ready date rather than one expressed by reference to the determination of a dispositive motion. If a dispositive motion remains under advisement as the trial-ready date approaches, the parties will address the trial setting with the Court.
+**Note on the form of the trial-ready date.** Plaintiffs propose a fixed trial-ready date rather than one expressed by reference to the determination of a dispositive motion. If a dispositive motion remains under advisement as the trial-ready date approaches, the parties will address the trial setting with the Court.
 
 **8.Additional information for the Court's scheduling order.**
 
