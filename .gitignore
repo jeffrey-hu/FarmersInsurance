@@ -1,5 +1,6 @@
 .DS_Store
 EventDocuments/.DS_Store
+**/.DS_Store
 
 # FUSE mount leftovers (orphaned file copies created when files are rewritten while open)
 .fuse_hidden*
