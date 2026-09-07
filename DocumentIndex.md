@@ -262,7 +262,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 *Claim timeline included (adds detail beyond the Dept. of Commerce complaint):*
 - 8/19/2024: Family called Farmers for status update; Farmers confirmed Hancock Claims Consultants would inspect
-- 8/20/2024: Family called Hancock and provided Legacy contractor contact to schedule inspection
+- 8/20/2024: Family called Hancock and provided Legacy Restoration contact to schedule inspection
 - 11/7/2024: Agent Peter Pietila provided family with the Prieve report and photo appendix *(new detail — not in Dept. of Commerce complaint)*
 - 11/19/2024: Filed complaint with Commerce Department *(note: letter mistakenly says "11/19/2025" — clearly a typo)*
 
@@ -491,7 +491,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 **Phase-by-phase summary of facts captured:**
 
 1. **Phase 1 — Background & Prior Claims (2014–2023):** 4 facts establishing continuous policy since 2014, 2020 claim scope limited to exactly 2 casement windows, post-9/13/2021 gutter replacement as objective evidence of post-2020 storm activity, and 2023 renewal confirming policy in force on loss date.
-2. **Phase 2 — The Storm & Claim Filing (July–Aug 2024):** 4 facts establishing NWS-documented 7/13–14/2024 storm with Eden Prairie ASOS 48 MPH wind gust, damage first identified by third-party Legacy contractor (not homeowner), prompt/cooperative claim filing, and Farmers' unilateral choice of Hancock Claims Consultants for the first inspection.
+2. **Phase 2 — The Storm & Claim Filing (July–Aug 2024):** 4 facts establishing NWS-documented 7/13–14/2024 storm with Eden Prairie ASOS 48 MPH wind gust, damage first identified by third-party Legacy Restoration (not homeowner), prompt/cooperative claim filing, and Farmers' unilateral choice of Hancock Claims Consultants for the first inspection.
 3. **Phase 3 — First Denial & Second Inspection (Sept 2024):** 4 facts establishing that the 9/3/2024 denial was issued before any engineering analysis, that the 9/3 letter affirmatively stated "no other damages observed" (a baseline later contradicted by every subsequent Farmers position), that the family was cooperative throughout the reopened process, and that the 9/6/2024 Nic Brau inspection generated no produced written record.
 4. **Phase 4 — Prieve Inspection & Second Denial (Oct–Nov 2024):** 8 facts establishing that the 9/3 and 11/4 denials rest on incompatible theories, that Prieve's own narrative documents dents across most of the home, that Prieve confirms the 2020 scope was exactly 2 windows, that Prieve affirmatively claimed no hail in Eden Prairie after 2020 (contradicted by NWS/stormersite/permits/appraisal award), that Prieve's east-siding dismissal depends on a hail-from-west generalization, that Prieve is a paid Farmers expert, that Brau refused to meet on 11/11/2024, and that the family was caught in a Pete/Prieve/Brau circular refusal.
 5. **Phase 5 — Administrative Complaints & Appeals (Nov 2024 – Feb 2025):** 7 facts establishing the 11/19/2024 MN Dept of Commerce complaint, the 1/31/2025 detailed appeal with stormersite data, City of Eden Prairie permit records (including EP187829 and EP190835 on George Moran Dr), the 14-of-19 neighbor canvass, Farmers' refusal to engage with new evidence, Bradlee Monson's "engineer's report only" gatekeeping rule corroborated by Brau's 2/10 voicemail, and Commerce's lack of authority to compel reversal.

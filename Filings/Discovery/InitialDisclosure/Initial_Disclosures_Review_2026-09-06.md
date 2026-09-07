@@ -36,13 +36,13 @@ And the provision that defeats most "we'll supplement later" entries — **Rule 
 
 Rule 26.01(a)(1)(A) requires the address and phone "if known." The draft substitutes a blanket sentence: individuals "may be contacted through Plaintiffs."
 
-That is not the rule's standard, and for third parties it is not accurate — Plaintiffs cannot accept contact on behalf of John Foster or the Department of Commerce. At least one contact is sitting in the file: **`DocumentIndex.md` records Foster's number and email as 715-417-2307 / jjlmds@gmail.com**, taken from the Appraisal Demand. Pure Construction's and Legacy Contracting's business addresses are in the communication logs. Katherine Toomajian's office address is public.
+That is not the rule's standard, and for third parties it is not accurate — Plaintiffs cannot accept contact on behalf of John Foster or the Department of Commerce. At least one contact is sitting in the file: **`DocumentIndex.md` records Foster's number and email as 715-417-2307 / jjlmds@gmail.com**, taken from the Appraisal Demand. Pure Construction's and Legacy Restoration LLC's business addresses are in the communication logs. Katherine Toomajian's office address is public.
 
 **Fix:** supply address and phone for every individual where known; keep the "contact through Plaintiffs" sentence only for Plaintiffs themselves.
 
-### C-2. "Mary, Legacy Contracting" / "Jack" / "Pat" — first names only
+### C-2. "Mary" and "Jack" — first names only (Pat resolved: Patrick Flaten)
 
-If the last names are genuinely unknown, the disclosure should say so expressly and give Legacy Contracting's business address. A bare first name invites a motion and looks like inattention rather than a good-faith limit on knowledge.
+If the last names are genuinely unknown, the disclosure should say so expressly and give Legacy Restoration LLC's business address. A bare first name invites a motion and looks like inattention rather than a good-faith limit on knowledge.
 
 ### C-3. Five adverse witnesses share one row and one generic subject line
 

@@ -82,7 +82,7 @@ Under Minn. R. Civ. P. 26.01(a), within 60 days after the original answer due da
 
 | Category | Family's Position |
 |---|---|
-| Individuals likely to have discoverable information | Yibiao Lu; Jie Hu; Peter Pietila (Farmers agent); Bradlee Monson; Nicholas Brau; Christian Dudley; Zorphion Miller; Twonda Miller; Jed Jones; Greg Tomes; John Foster; Wade Roos; Nathan Prieve; Jayden Grimm (Hancock); Mary, Jack, Pat (Legacy); Dan Traxler, Zach Sexe, Jade (Pure Construction); Katherine Toomajian (MN Dept of Commerce); 14 named neighboring homeowners from the canvass; the 19 contacted neighbors; building-permit holders at EP187829 (17490 George Moran Dr) and EP190835 (17708 George Moran Dr) |
+| Individuals likely to have discoverable information | Yibiao Lu; Jie Hu; Peter Pietila (Farmers agent); Bradlee Monson; Nicholas Brau; Christian Dudley; Zorphion Miller; Twonda Miller; Jed Jones; Greg Tomes; John Foster; Wade Roos; Nathan Prieve; Jayden Grimm (Hancock); Mary, Jack, Patrick Flaten (Legacy Restoration LLC); Dan Traxler, Zach Sexe, Jade (Pure Construction); Katherine Toomajian (MN Dept of Commerce); 14 named neighboring homeowners from the canvass; the 19 contacted neighbors; building-permit holders at EP187829 (17490 George Moran Dr) and EP190835 (17708 George Moran Dr) |
 | Supporting documents | Every document already in the project record (`HomePolicy/`, `EventDocuments/`, `Evidence/`, `HailShapes/`, `CaseContext/`); the family's photo binder; contractor text messages dated 9/13/2021; any item still being procured per `bowl.md` |
 | Damages computation | Replacement cost on a window-by-window basis; matching theory damages; consequential water-intrusion damages; prejudgment interest from 8/13/2024 under § 549.09; § 604.18 Subd. 3 taxable costs if granted; § 549.20 punitive damages if granted; reasonable attorney's fees under § 8.31 Subd. 3a and/or § 325F.70 if granted |
 | Insurance policy | Already on the record (`HomePolicy/`) |
@@ -520,7 +520,7 @@ Subpoenas to non-parties under Minn. R. Civ. P. 45 are the second-highest-levera
 | **Minnesota Attorney General's Office** | File on Consumer Assistance Request ID 6260735278129023664 | Confirms the family's administrative exhaustion | 4 |
 | **National Weather Service / NOAA Twin Cities/Chanhassen office** | Complete record on the 7/13–7/14/2024 storms in east-central Minnesota and Eden Prairie; the methodology and data sources for the storm event database | Authenticates the NWS record; defeats Prieve's "no hail after 2020" premise | 1, 5 |
 | **Stormersite, Interactive Hail Maps, and any other commercial weather-data subscription** | Records of hail reports in or near Eden Prairie for 7/13/2024 and the period 2020–present | Authenticates the family's submitted weather evidence | 1, 5 |
-| **Legacy Contractor (Mary, Jack, Pat)** | Records of the 8/9–8/13/2024 contact with the family; observations of damage; photos; communications with Farmers and the family | Establishes the prompt notice and damage-discovery sequence | 1, 4 |
+| **Legacy Restoration LLC (Mary, Jack, Patrick Flaten)** | Records of the 8/9–8/13/2024 contact with the family; observations of damage; photos; communications with Farmers and the family | Establishes the prompt notice and damage-discovery sequence | 1, 4 |
 | **Pella, Marvin, and other replacement-window manufacturers** | Current-production-spec equivalents for the Senco/Semco windows; matching product availability; pricing | Develops the replacement-cost record; supports A1 damages and E2 J6944 declaratory | 2 |
 | **The 14 neighbors who confirmed hail damage** (each separately, if needed) | Documentation of their hail-damage repairs in 2023 and 2024 — permits, insurance correspondence, contractor invoices | Authenticates the neighbor canvass; defeats Prieve's premise | 1, 4, 5 |
 | **FOX9 Eden Prairie** | Records of any weather reports or storm coverage for 7/13–7/14/2024 affecting Eden Prairie | Independent media corroboration | 1 |
@@ -1009,7 +1009,7 @@ Approximately **~13 noticed depositions** plus ~2–3 defense-expert depositions
 | Family's claims-handling expert | Rule 26.01(b)(2) | Same |
 | Possibly Zach Sexe (Pure Construction) | Rule 45 | $20 + mileage + court reporter |
 | Possibly Dan Traxler | Rule 45 | Same |
-| Possibly Mary / Jack / Pat (Legacy contractor) | Rule 45 | Same |
+| Possibly Mary / Jack / Patrick Flaten (Legacy Restoration LLC) | Rule 45 | Same |
 | Possibly neighbors from Eden Prairie canvass | Rule 45 / by affidavit | Same |
 
 Approximately **~5–8 noticed depositions on Farmers' tab**. The family pays only copy-transcript and copy-video for these if it wants them.

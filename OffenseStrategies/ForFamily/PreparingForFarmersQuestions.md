@@ -95,7 +95,7 @@ These are the questions Farmers will likely send. For each, the entry tells you 
 
 **Q11. State when you first observed any damage to the property attributable to the 7/13/2024 storm.**
 - **Trap alert.** The 5-week delay between 7/13 and 8/9/2024 (when Mary from Legacy first contacted you) is the obvious vulnerability. Farmers will use this to argue the damage might not be from the 7/13 storm, or that you were dilatory.
-- **Best answer:** truthful. Hail damage to windows is **not visible without close inspection**. The family does not climb ladders to look at upper-story window wraps routinely. A professional (Legacy contractor) proactively reached out to check for recent-storm damage, and the leaking windows were found during that contact (`OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 2 Item 2).
+- **Best answer:** truthful. Hail damage to windows is **not visible without close inspection**. The family does not climb ladders to look at upper-story window wraps routinely. A professional (Legacy Restoration LLC) proactively reached out to check for recent-storm damage, and the leaking windows were found during that contact (`OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` Phase 2 Item 2).
 - **Document support:** Mary's 8/9 contact and Jack's 8/13 visit. Use these as anchors.
 
 **Q12. Identify every window at the property that you contend was damaged by hail on 7/13/2024.**
@@ -432,7 +432,7 @@ This is the heart of the document. Each numbered trap is a specific tactic Farme
 
 **Why Farmers wants this:** To suggest (i) the damage might not be from the 7/13 storm, or (ii) you were dilatory in violation of the policy's notice provisions.
 
-**Right response:** Hail damage to window wraps and upper-story window glass is **not visible from the ground or from inside the home**. The family is not a professional roofer or window inspector. The damage was identified by a Legacy contractor after Mary proactively reached out to check for recent-storm damage and the leaking windows were found during that contact (Mary's 8/9 contact; Jack's 8/13 inspection). The family promptly opened the claim on 8/13/2024 — the same day the damage was identified to them by a professional. There was no delay between *identification of damage* and *notice to Farmers*.
+**Right response:** Hail damage to window wraps and upper-story window glass is **not visible from the ground or from inside the home**. The family is not a professional roofer or window inspector. The damage was identified by Legacy Restoration LLC after Mary proactively reached out to check for recent-storm damage and the leaking windows were found during that contact (Mary's 8/9 contact; Jack's 8/13 inspection). The family promptly opened the claim on 8/13/2024 — the same day the damage was identified to them by a professional. There was no delay between *identification of damage* and *notice to Farmers*.
 
 Be calm. Do not be defensive about the 5 weeks. Many homeowners never identify hail damage at all without a professional inspection.
 

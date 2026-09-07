@@ -135,7 +135,7 @@ Damages must be quantified before filing — at least in approximate terms — s
   - Peter Pietila (Farmers' agent) — corroboration of 5/28/2025 NWS upload and 7/11/2025 confirmation.
   - Katherine Toomajian (MN Department of Commerce) — corroboration of complaint escalation.
   - Zach Sexe (Pure Construction) — corroboration of appraisal-prep sequence.
-  - Mary, Jack, Pat (Legacy contractor employees) — corroboration of the 8/9 and 8/13/2024 damage observations.
+  - Mary, Jack, Patrick Flaten (Legacy Restoration LLC employees) — corroboration of the 8/9 and 8/13/2024 damage observations.
   - Nicholas Brau, Bradlee Monson, Christian Dudley, Zorphion Miller, Twonda Miller, Jed Jones (Farmers personnel) — discovery targets.
 
 - [ ] **🟡 [Counsel]** **Obtain Foster's professional history.** Plaintiffs' account states Foster has prior insurance-industry employment. Verify and document, including any roles, dates, and whether disclosed to Plaintiffs on or before 8/3/2025. *(A3 § 6 Item 3; B1 § 3.)*

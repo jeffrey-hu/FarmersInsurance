@@ -152,7 +152,7 @@
 
 **06/18/2025 — Family meets with John (volunteer lawyer) at Self Help Center.**
 
-**06/18/2025 — Legacy contractor Pat helps file Consumer Assistance Request** with the Attorney General's Office (ID: 6260735278129023664).
+**06/18/2025 — Patrick Flaten of Legacy Restoration LLC helps file Consumer Assistance Request** with the Attorney General's Office (ID: 6260735278129023664).
 ⚠️ *No AG office response is documented in the logs.*
 
 **06/21/2025 — Zach emails the appraisal documents.**

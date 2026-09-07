@@ -36,7 +36,7 @@ On July 13–14, 2024, a series of severe thunderstorms moved across Minnesota. 
 
 ### B. The Initial Claim and First Denial
 
-On August 13, 2024, after a Legacy Contracting professional identified hail damage to the home's windows during a leak inspection, Plaintiffs reported the loss to Defendant Farmers Insurance. *(Ex. 12, Plaintiffs' Communication Log.)*
+On August 13, 2024, after a Legacy Restoration LLC professional identified hail damage to the home's windows during a leak inspection, Plaintiffs reported the loss to Defendant Farmers Insurance. *(Ex. 12, Plaintiffs' Communication Log.)*
 
 On August 29, 2024, Defendant's vendor, Hancock Claims Consultants, conducted a photographic inspection through inspector Jayden Grimm. Hancock tagged every window wrap "Damaged – No" without close-up examination or measurement. *(Ex. 13, Hancock Photo Set.)*
 

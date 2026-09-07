@@ -10,7 +10,7 @@
 >
 > **Who this is for.** Bill and Jie (the plaintiffs / case-managers), plus any retained or limited-scope counsel who handles witness-prep and direct examination.
 >
-> **What this covers.** Every offensive witness the family will rely on: the Legacy Contracting witnesses (Mary, Jack, Pat); the family's three retained experts (forensic hail-damage, window-matching, claims-handling); the Minnesota Department of Commerce (Katherine Toomajian); the 14 neighbors from the Eden Prairie canvass; the records-custodian witnesses (City permit office, NWS / NOAA); and the strategically-contested Pure Construction witnesses (Zach Sexe, Dan Traxler).
+> **What this covers.** Every offensive witness the family will rely on: the Legacy Restoration LLC witnesses (Mary, Jack, Patrick Flaten); the family's three retained experts (forensic hail-damage, window-matching, claims-handling); the Minnesota Department of Commerce (Katherine Toomajian); the 14 neighbors from the Eden Prairie canvass; the records-custodian witnesses (City permit office, NWS / NOAA); and the strategically-contested Pure Construction witnesses (Zach Sexe, Dan Traxler).
 >
 > **Strategic premise.** Bill and Jie are the primary plaintiff witnesses. Every offensive witness in this document is **supporting** — corroborating, expanding, or expert-anchoring the family's core narrative. The trick is to (i) line up the right witnesses for the right counts, (ii) prepare them without contaminating their testimony, (iii) deploy them at the right stage (discovery deposition, summary-judgment affidavit, or trial), and (iv) anticipate Farmers' cross-examination of each.
 >
@@ -26,7 +26,7 @@
 
 | Type | Examples | Role | Compensation |
 |---|---|---|---|
-| **Lay fact witness** | Mary, Jack, Pat (Legacy); Katherine Toomajian (Commerce); the 14 neighbors | Testify to what they personally observed, said, or did. Cannot offer opinions outside personal knowledge. | Rule 45 witness fee ($20 + mileage) at service if subpoenaed |
+| **Lay fact witness** | Mary, Jack, Patrick Flaten (Legacy Restoration LLC); Katherine Toomajian (Commerce); the 14 neighbors | Testify to what they personally observed, said, or did. Cannot offer opinions outside personal knowledge. | Rule 45 witness fee ($20 + mileage) at service if subpoenaed |
 | **Expert witness** | Forensic hail-damage engineer; window-matching expert; claims-handling expert | Offer opinions on technical matters under Minn. R. Evid. 702 / Rule 26.01(b)(2). Subject to Daubert-style attacks. | Engagement fee + Rule 26.02(b)(2) hourly rate when deposed by Farmers |
 | **Records-custodian witness** | City of Eden Prairie permit office; NWS / NOAA records custodian | Authenticate official records under Minn. R. Evid. 803(8) and 902. Limited testimony scope. | Standard witness fee if subpoenaed; often a custodian affidavit is sufficient |
 | **Contested / strategic witness** | Zach Sexe; Dan Traxler (Pure Construction) | Mixed loyalty — friendly on some facts, adverse on others. Approach carefully. | Rule 45 witness fee at service |
@@ -35,8 +35,8 @@
 
 | Count | Critical offensive witnesses |
 |---|---|
-| **A1 Breach of Contract** | Bill, Jie (plaintiffs); forensic hail-damage expert; window-matching expert; Legacy contractors (damage discovery); the appraisal panel (per Foster/Roos/Tomes depo plans) |
-| **A2 Declaratory Judgment (coverage)** | Forensic hail-damage expert; window-matching expert; Legacy contractors |
+| **A1 Breach of Contract** | Bill, Jie (plaintiffs); forensic hail-damage expert; window-matching expert; Legacy Restoration (damage discovery); the appraisal panel (per Foster/Roos/Tomes depo plans) |
+| **A2 Declaratory Judgment (coverage)** | Forensic hail-damage expert; window-matching expert; Legacy Restoration |
 | **A3 Vacate/Modify/Remand Appraisal** | Foster, Roos, Tomes (per their depo plans — third-party subpoena witnesses); Zach Sexe (Pure Construction); the family's own expert on appraisal-process irregularities |
 | **B1 Bad Faith (§ 604.18)** | Claims-handling expert; Katherine Toomajian; the 14 neighbors (for the post-2020 hail pattern Farmers refused to engage with); records-custodian witnesses |
 | **B2 Fraud / Misrepresentation** | Forensic hail-damage expert (to disprove Prieve's premise); records-custodian witnesses (NWS, City permits); the neighbors (to disprove Prieve's premise) |
@@ -62,9 +62,9 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 
 ## 2. Tier 1 — Critical Offensive Witnesses
 
-### 2.1 Mary (Legacy Contracting)
+### 2.1 Mary (Legacy Restoration LLC)
 
-**Who:** Field contact / dispatcher / first-line professional at Legacy Contracting. First contacted the family on **8/9/2024** to check whether recent storms had caused damage to the property; the family then found multiple leaking windows — leading to the 8/13 visit by Jack and the family's same-day claim opening.
+**Who:** Field contact / dispatcher / first-line professional at Legacy Restoration LLC. First contacted the family on **8/9/2024** to check whether recent storms had caused damage to the property; the family then found multiple leaking windows — leading to the 8/13 visit by Jack and the family's same-day claim opening.
 
 **Why she matters:** Mary is the **damage-discovery anchor witness**. Her testimony establishes that an independent professional proactively reached out to check for recent-storm damage and that the leaks surfaced in that process — not that a homeowner went looking to generate a claim. This is the answer to Farmers' "5-week delay" attack (see `PreparingForFarmersQuestions.md` § 5.1).
 
@@ -94,7 +94,7 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 
 **Risk assessment:** Low risk. Mary's testimony is short, fact-bounded, and corroborated by the contemporaneous communication log. Even hostile cross-examination cannot undermine the basic fact that Legacy was contacted and identified damage.
 
-### 2.2 Jack (Legacy Contracting)
+### 2.2 Jack (Legacy Restoration LLC)
 
 **Who:** Legacy inspector / technician who visited the property on **8/13/2024**, observed dents on windows, and helped the family open the Farmers claim same day.
 
@@ -130,11 +130,13 @@ The family preparing offensive witnesses must observe **strict ethical and proce
 
 **Risk assessment:** Low to moderate. Jack is the most important Legacy witness because he observed and documented damage. Counsel should prepare him to stay within his professional knowledge and not opine on engineering causation.
 
-### 2.3 Pat (Legacy Contracting)
+### 2.3 Patrick Flaten (Legacy Restoration LLC)
 
-**Who:** Legacy team member who helped the family file the **Consumer Assistance Request with the Minnesota Attorney General's Office on 6/18/2025** (AG ID 6260735278129023664).
+**Who:** Patrick Flaten, Legacy Restoration LLC. Helped the family file the **Consumer Assistance Request with the Minnesota Attorney General's Office on 6/18/2025** (AG ID 6260735278129023664).
 
-**Why he matters:** Pat documents the family's good-faith pursuit of every available administrative channel before turning to litigation. Bolsters the family's reasonableness narrative and the bad-faith narrative (Farmers' refusal to engage despite the family's repeated good-faith attempts).
+**Contact:** 608-633-8110 · pflaten@legacyrestorationllc.com · c/o Legacy Restoration LLC, 15350 25th Ave N, Unit 114, Plymouth, MN 55447, (763) 290-6966. *(See `LegalReferences/CaseContacts.md`.)*
+
+**Why he matters:** Flaten documents the family's good-faith pursuit of every available administrative channel before turning to litigation. Bolsters the family's reasonableness narrative and the bad-faith narrative (Farmers' refusal to engage despite the family's repeated good-faith attempts).
 
 **Key facts to establish:**
 - The 6/18/2025 visit / call.
@@ -663,7 +665,7 @@ Trials are short; juries get tired. The family's trial-witness list should be le
 | Forensic hail-damage expert | Centerpiece — causation, damages, Daubert critique of Prieve | 2–3 hours direct + 1–2 hours cross |
 | Window-matching expert | Replacement cost, J6944 matching | 1–2 hours direct + 30–60 min cross |
 | Claims-handling expert | Bad faith, § 72A.201 violations, punitive damages | 2–3 hours direct + 1–2 hours cross |
-| Jack (Legacy Contractor) | First independent damage observation 8/13/2024 | 30–45 min direct + 15–30 min cross |
+| Jack (Legacy Restoration) | First independent damage observation 8/13/2024 | 30–45 min direct + 15–30 min cross |
 | Katherine Toomajian (Commerce) | Administrative exhaustion; family's good-faith efforts | 30 min direct + 15–30 min cross |
 | 3–6 representative neighbors | Defeat Prieve's "no hail after 2020" | 10–20 min each |
 | Records custodians (NWS, City) | Authentication of records | By affidavit / certification |
@@ -671,7 +673,7 @@ Trials are short; juries get tired. The family's trial-witness list should be le
 
 **Witnesses NOT called at trial (typically):**
 - Mary (Legacy) — Jack covers the Legacy story.
-- Pat (Legacy) — handles AG filing; declaration sufficient.
+- Patrick Flaten (Legacy Restoration LLC) — handles AG filing; declaration sufficient.
 - Dan Traxler (Pure Construction) — declaration only.
 - Self Help Center volunteer "John" — not called.
 - Zach Sexe (Pure Construction) — deposition only; not trial.
@@ -728,7 +730,7 @@ Counter: Reasonable professional fees; standard engagement; opinion does not cha
 
 ### 10.2 "You Have an Interest in the Outcome"
 
-Targets: Legacy contractors; Pure Construction witnesses.
+Targets: Legacy Restoration; Pure Construction witnesses.
 Counter: Legacy (Mary) proactively reached out to check for recent-storm damage and the leaks were found during that contact (not a pitch to generate a claim); Pure Construction's interest does not invalidate the documentary record.
 
 ### 10.3 "You Did Not Personally Inspect on July 13, 2024"
@@ -780,7 +782,7 @@ Out-of-state expert witnesses may need travel expenses paid in advance. Local wi
 
 ## 12. Pre-Trial Checklist
 
-- [ ] Legacy contractor witnesses contacted; cooperation confirmed; declarations signed (Mary, Jack, Pat).
+- [ ] Legacy Restoration witnesses contacted; cooperation confirmed; declarations signed (Mary, Jack, Patrick Flaten).
 - [ ] All three experts retained, reports drafted, and disclosed under Rule 26.01(b)(2).
 - [ ] Katherine Toomajian contacted; Commerce file subpoenaed; cooperation confirmed.
 - [ ] All 14 neighbors re-contacted; declarations signed; 3–6 selected for trial.
