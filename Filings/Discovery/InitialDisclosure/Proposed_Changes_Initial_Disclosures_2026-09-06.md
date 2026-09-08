@@ -29,10 +29,12 @@ Anything in `[SQUARE BRACKETS]` is a blank only you can fill. **Section VI at th
 | # | Change | Priority | Needs input from you |
 |---|---|---|---|
 | P-1 | Section A intro — contact-information sentence | High | No |
-| P-2 | Section A — replace the witness table (13 → 27 rows); **neighbors and Tim Conyard omitted** | **Critical** | Yes |
+| P-2 | Section A — replace the witness table (13 → 24 rows); **neighbors, Conyard, and the Hancock / City / NOAA custodians omitted** | **Critical** | Yes |
 | P-2A | Section A — correct contractor name to **Legacy Restoration LLC** | High | Last names only |
 | P-3 | Section B — add 8 document categories | High | Yes |
 | P-3A | Section B — reframe item 9 (the canvass) | **Critical** | No |
+| P-3B | Section B — sharpen item 10 (permit records) | Medium | No |
+| P-3C | Section B — public sources (URL + capture date) and one literature category | High | Capture dates |
 | P-4 | Section B — clarify the policy item | Low | No |
 | P-5 | **Section C — replace the entire section** | **Critical** | Yes |
 | P-6 | Section C — deductible and credit paragraph | **Critical** | No |
@@ -124,7 +126,6 @@ Anything in `[SQUARE BRACKETS]` is a blank only you can fill. **Section VI at th
 |---|---|---|
 | **Nathan E. Prieve, P.E.**, Prieve Engineering LLC | 4937 Columbus Ave, Minneapolis, MN 55417; 612-203-2745; nathan@prieve-engineering.com (MN P.E. Lic. No. 46203) | The October 9, 2024 inspection; the scope of his engagement; and report File #241008 and its Photo Appendix A. |
 | **NEW** — **Jayden Grimm**, Hancock Claims Consultants | 507-327-2595; c/o 6875 Shiloh Road East, Alpharetta, GA 30005, (770) 569-1669 | The August 29, 2024 inspection; the photograph set produced; and the "Damaged – No" designations applied to each window wrap. |
-| **NEW** — Records custodian, Hancock Claims Consultants | 6875 Shiloh Road East, Alpharetta, GA 30005; (770) 569-1669 | The complete workproduct of the August 29, 2024 inspection. |
 | **Peter Pietila**, Farmers agent | 3701 Shoreline Dr, Ste 104A, Wayzata, MN 55391-9543; 612-220-0342 (office) | Agency communications with Plaintiffs; transmission of Plaintiffs' May 28, 2025 submission; and the July 10, 2025 deadline inquiry. |
 
 ### Regulators and records custodians
@@ -132,8 +133,6 @@ Anything in `[SQUARE BRACKETS]` is a blank only you can fill. **Section VI at th
 | Individual | Contact | Subjects |
 |---|---|---|
 | **Katherine Toomajian**, Minnesota Department of Commerce | 85 7th Place East, Suite 280, St. Paul, MN 55101; 800-657-3602 | Plaintiffs' regulatory complaint (ID 93547) and Defendant's handling of it. |
-| Records custodian, City of Eden Prairie building/permit office | 8080 Mitchell Road, Eden Prairie, MN 55344 [verify] | Building-permit records for the Property and the neighborhood. |
-| Records custodian, National Weather Service / NOAA | [ADDRESS] | Weather records for the July 13–14, 2024 storm. |
 | Plaintiffs' retained forensic engineering and/or meteorology expert(s) — to be identified and disclosed under Minn. R. Civ. P. 26.01(b) on the schedule set by the Court's Scheduling Order | — | Hail causation, the scope of damage, and rebuttal of the Prieve Engineering report. |
 
 **Why.** Rule 37.03(a): a witness not disclosed "is not allowed to use that information or witness to supply evidence on a motion, at a hearing, or at a trial, unless the failure was substantially justified or is harmless." You have prepared deposition outlines for Roos, Tomes, Grimm, Zorphion Miller, Twonda Miller, and Jed Jones — none of them are in the current draft. Splitting the adverse row also gives each witness an individual subject line, which the rule requires and which lays groundwork for the deposition notices.
@@ -191,7 +190,9 @@ Add the post-September 13, 2021 downspout dents — a dent on a component that d
 
 **Recommended handling: omit, and say nothing about it.** Rule 26.01 does not require a party to account for witnesses it is not calling, and a sentence such as "Plaintiffs do not presently intend to use neighbor testimony" only hands Defendant a quotable line. Silence preserves the Rule 26.05 path without conceding anything.
 
-### Considered and rejected — Tim Conyard (Pella)
+### Considered and rejected — three witnesses
+
+#### Tim Conyard (Pella)
 
 While filling in the contact blanks, page 1 of Pella quote #19678463 surfaced **Tim Conyard**, the Pella sales representative who generated that quote. An earlier version of this proposal added him as a witness. **He is not being listed** (decision of September 6, 2026).
 
@@ -208,6 +209,51 @@ That also matches what the document actually is. The **$303,820.78** is the Pure
 **The consideration on the other side, for the record.** Zach Sexe is a strategically contested witness in Plaintiffs' own assessment — he selected John Foster, he instructed Plaintiffs on September 12, 2025 not to speak with the appraisers, and Pure Construction had a financial interest in the outcome. The largest damages figure in the case therefore rests on a witness with credibility exposure. Rule 703 expert reliance is the better answer to that than a second fact witness, but the exposure should be understood rather than assumed away.
 
 **Contact details retained** in `LegalReferences/CaseContacts.md` in case the position changes.
+
+#### Records custodian, Hancock Claims Consultants
+
+An earlier version of this proposal listed Hancock's records custodian. **Not being listed** (decision of September 6, 2026).
+
+**The practical reason.** Hancock is headquartered in Alpharetta, Georgia. A Minnesota subpoena has no force there; reaching its custodian would require domesticating a subpoena under Georgia's Uniform Interstate Depositions and Discovery Act and taking the deposition in Georgia. Listing a witness Plaintiffs have no realistic intention of reaching is noise in a disclosure.
+
+**The substantive reason — the August 29, 2024 workproduct is coming from Defendant, not from Hancock.** Defendant retained Hancock, received its inspection product, and holds it in the claim file. It is requested from Defendant under Rule 34. Documents produced by Defendant are reachable as statements of a party-opponent under **Minn. R. Evid. 801(d)(2)**, and Defendant's own adjusters and its Rule 30.02(f) designee — all listed above — can lay the foundation for records Defendant received, reviewed, and acted on.
+
+**A Minnesota trap worth recording.** Minnesota **did not adopt Federal Rule of Evidence 902(11)**; the Advisory Committee "considered Rule 902(11) and recommend[ed] against adopting it." Minn. R. Evid. 902 stops at ten subsections, so there is **no certified-business-record shortcut in Minnesota state court**. Under **Minn. R. Evid. 803(6)** the foundation must come from "the custodian **or other qualified witness**." Anyone accustomed to federal practice — or reading federal-oriented materials — will expect a 902(11) certification that is not available here.
+
+**That rule is why the omission still works.** The "or other qualified witness" language is satisfied by **Jayden Grimm**, who is already listed, is a Minnesota resident reachable on an ordinary Rule 45 subpoena, and personally performed the August 29, 2024 inspection and created the photograph set. He can lay the foundation for his own work. A separate corporate custodian adds nothing he cannot supply.
+
+**The contingency (Hancock).** If Defendant's production of the Hancock workproduct proves incomplete, revisit — the Rule 34 answer will show what is missing, and Rule 26.05 supplementation remains available through the close of fact discovery.
+
+#### Records custodian, City of Eden Prairie building/permit office
+
+Listed in the current draft. **Not being carried forward** (decision of September 6, 2026).
+
+**The relevance reason, which is the real one.** The permits do not evidence hail or damage. Plaintiffs' own sourced summary says so expressly: the permits "record only the work type, address, contractor, and dates — they do **not** state a cause," and the "Hail Damage: Yes" column is Plaintiffs' canvass annotation, not a City field. The hail attribution came from the neighbor canvass. With the canvass dropped as substantive proof (see above), the permits are left showing only that two neighbors replaced windows — which proves nothing about the July 13, 2024 storm.
+
+**The permits were never Plaintiffs' causation evidence anyway.** Complaint ¶ 20 lists four disproofs of the "no hail in Eden Prairie after 2020" premise — NWS/NOAA documentation, stormersite data, the canvass, and Defendant's own appraisal award. **The permits are not among them.** They appear at ¶ 26(b), in the paragraph alleging that Defendant refused to review Plaintiffs' February 10, 2025 submission. That is a refused-review role, not a causation role, and it needs the records and the transmittal — not a City witness.
+
+**No authentication gap.** Unlike the Hancock situation, nothing here depends on a live foundation witness: certified copies of public records are self-authenticating under **Minn. R. Evid. 902(4)**. A certified copy from the City requires no custodian testimony at all.
+
+**What stays.** Section B item 10 keeps the permit records — see **P-3B** — because Count IV and the eventual § 604.18 motion turn on what Plaintiffs submitted and what Defendant did with it.
+
+#### Records custodian, National Weather Service / NOAA
+
+Listed in the current draft. **Not being carried forward** (decision of September 6, 2026).
+
+**This one is not a judgment call — the witness is effectively unavailable.** NOAA's published guidance for litigants states that NOAA prohibits National Weather Service employees from testifying in private litigation, that the U.S. Attorney's office will move to quash any such subpoena, and that those motions are "routinely granted" on the principle that "[f]ederal employees are beyond the reach of civil subpoenas issued by state courts." Demands for testimony from Department of Commerce employees run through the agency's *Touhy* regulations at **15 C.F.R. Part 15, Subpart B**. Listing a witness Plaintiffs cannot compel, and whom the agency will not produce, states an intention the disclosure cannot deliver on.
+
+**NOAA's own alternative is better than the witness would have been.** The **National Centers for Environmental Information** in Asheville, North Carolina is the official custodian of the weather records and **issues certified copies without a subpoena**. A certified copy of a public record is self-authenticating under **Minn. R. Evid. 902(4)**, and the underlying records fall within the public-records hearsay exception, **Minn. R. Evid. 803(8)**. No custodian testimony is required at any point.
+
+**And the interpretation comes from the expert Plaintiffs have already reserved.** NOAA's guidance directs litigants needing analysis to retain a private certified meteorologist rather than seeking NWS testimony — which is exactly the "forensic engineering and/or meteorology expert(s)" placeholder already in Section A. The expert may rely on NWS and NOAA data under Minn. R. Evid. 703.
+
+**The risk of omitting is low.** Defendant's Answer to Complaint ¶ 12 denies that the July 13–14, 2024 storm damaged *the Property*, but pleads only that it is "without sufficient information or knowledge" as to the storm facts themselves. And Defendant's own engineer relied on the NOAA Storm Events Database in the Prieve report — an awkward position from which to attack the reliability of NOAA data.
+
+> **Action item, not needed by September 25:** order **certified copies** of the July 13–14, 2024 records from NCEI. They cost little, require no subpoena, and upgrade the evidence from a printed public webpage to a self-authenticating certified public record. Once obtained, supplement Section B item 5 to identify them.
+
+#### And what is *not* being dropped, for contrast
+
+- **Katherine Toomajian (Minnesota Department of Commerce)** stays. She is a **state** employee, reachable on an ordinary Minnesota subpoena, and her testimony concerns Defendant's handling of complaint ID 93547 — substantive to Count IV, not authentication. None of the federal-employee analysis above touches her.
+- **Records custodian, Pure Construction** stays. A Minnesota non-party holding the scope-development and appraisal-submission file, which Defendant does not have.
 
 ### One other judgment call in this change
 
@@ -285,6 +331,73 @@ For that use the canvass is not offered to prove that hail struck any neighbor's
 Retaining item 9 while omitting the neighbors from Section A is therefore coherent rather than inconsistent: Plaintiffs may use the document, and do not intend to call the people.
 
 **Also unaffected:** Section B item 10 (City of Eden Prairie permit records) and the City records custodian in Section A both stay. The permits are objective public evidence that post-2020 window replacement occurred on the same street. What was dropped is homeowner testimony about *cause*, not the public record of the *work*.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## P-3B. Sharpen Section B item 10 — the permit records stay
+
+**Current item 10:**
+
+> **10.** City of Eden Prairie building-permit records obtained by Plaintiffs.
+
+**Proposed:**
+
+> **10.** City of Eden Prairie building-permit records obtained by Plaintiffs, including permits EP187829 (17490 George Moran Dr.) and EP190835 (17708 George Moran Dr.), as submitted to Defendant on February 10, 2025.
+
+**Why the records stay even though the custodian goes.** Their role is the same as the canvass document's under P-3A: they are part of what Plaintiffs put in front of Defendant on February 10, 2025 and what Defendant declined to review under the "engineer's report only" rule. Defendant **denied the remainder of ¶ 26**, so that use is contested and live. Offered for that purpose the permits are not hearsay — they are not offered to prove that hail struck any neighbor's house.
+
+**Why identify the permit numbers.** Rule 26.01(a)(1)(B) asks for a description "by category and location." Naming the two permits is more useful than a generic reference and costs nothing.
+
+**Note on purpose statements.** The proposed language describes the documents; it does not state what Plaintiffs will use them for. Disclosures identify categories, not theories — keep the reasoning in this memo, out of the served document.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## P-3C. Public sources and scientific literature — how to describe them
+
+**Two additions to Section B, and one thing deliberately *not* added.**
+
+### (a) Give public web sources a URL and a capture date
+
+Rule 26.01(a)(1)(B) reaches documents "that the disclosing party **has in its possession, custody, or control**." A live web page is in no one's possession; **the saved copy is**. Describe the saved copy and identify the source. Proposed revision to item 5:
+
+> **5.** Weather documentation for July 13–14, 2024, including: National Weather Service, Twin Cities/Chanhassen Weather Forecast Office, "Significant Wind and Hail in Minnesota July 13-14," https://www.weather.gov/mpx/2024-07-13-SignificantWindandHail, as captured by Plaintiffs on April 4, 2026 (3 pages); Eden Prairie ASOS data; stormersite data; and Interactive Hail Maps data. Copies of each are in Plaintiffs' possession and available for inspection and copying.
+
+**The values above are taken from the capture already in the file** — `Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf`. Nothing needs to be re-captured.
+
+**Why the capture date matters.** Web pages change and disappear. The copy captured on a date certain is the evidence; the live page is not.
+
+**Plaintiffs' existing capture already meets the standard.** `Evidence/Significant Wind and Hail in Minnesota July 13-14.pdf` carries the full URL in the footer of all three pages, the capture timestamp in the header of each page, and sequential page numbering (1/3, 2/3, 3/3). That is what a defensible print-to-PDF capture looks like. Use the same method for the stormersite and Interactive Hail Maps captures.
+
+**Two small things to be aware of, neither urgent:**
+
+1. **A timestamp mismatch.** The printed header reads "4/4/26, 3:41 PM" while the PDF metadata records a creation time of 22:41:45 UTC. On April 4, 2026 Minnesota was on Central Daylight Time (UTC−5), which would put the local time at 5:41 PM; the header reflects a UTC−7 setting. The explanation is almost certainly the capturing device's timezone setting, and nothing turns on it — but if the authenticity of the capture is ever questioned, know the answer before the question.
+2. **The page is expressly preliminary.** Its Overview opens: "**Preliminary information as of July 14, 2024.**" Defendant can point to that to argue the page is a provisional storm summary rather than finalized data. This is a further reason to order **certified records from NCEI** — the official archived data, self-authenticating under Minn. R. Evid. 902(4) — and to treat the web capture as corroboration rather than as the primary weather proof. See `LegalReferences/CaseContacts.md`, "Open action item — certified weather records."
+
+**Where else this URL will appear.** Section B is where it goes now. The same citation is reused later in: the exhibit list; the expert's report and reliance materials under Rule 26.01(b); any request for judicial notice under Minn. R. Evid. 201(d), where Plaintiffs must supply "the necessary information," meaning the URL and the capture; and any discovery response identifying weather evidence. Fixing the citation once, in the form above, means it stays consistent everywhere.
+
+### (b) Add one category for the scientific literature — item 21
+
+> **21.** Published scientific and technical literature concerning hail formation, hailstone morphology, hail fall dynamics, and impact damage to building components, in Plaintiffs' possession.
+
+### (c) Do **not** itemize the individual papers
+
+**The governing rule is Minn. R. Evid. 803(18)**, which admits a learned treatise only "[t]o the extent called to the attention of an expert witness upon cross-examination or relied upon by the expert witness in direct examination," and provides that "the statements may be read into evidence but **may not be received as exhibits**."
+
+Three consequences shape the disclosure:
+
+1. **A scientific paper reaches the factfinder only through an expert.** There is no route by which Plaintiffs use one directly.
+2. **Literature an expert relies on is disclosed with the expert under Minn. R. Civ. P. 26.01(b)** — on the Scheduling Order date, which Plaintiffs proposed as September 24, 2027 — not in the September 25, 2026 initial disclosures.
+3. Itemizing fifteen papers now would telegraph the expert's theory a year before the expert is retained, and the expert will select their own authorities regardless.
+
+The single category in (b) preserves the option at essentially no cost, and "a description by category" is precisely what the rule permits. Rule 37.03(a) exposure is minimal because the independent use does not exist: without an expert the literature is inadmissible anyway.
+
+> **The strategic point behind all of this.** Complaint ¶ 22(i) — that hailstones are commonly irregular and lobed and that wind-driven hail strikes at oblique angles, contradicting Prieve's "smooth or rounded dents only" diagnostic — rests **entirely** on peer-reviewed literature that Rule 803(18) will not admit without an expert. A folder of excellent papers proves nothing standing alone. This is the strongest practical argument for retaining the forensic engineering and meteorology experts on schedule.
+
+Full analysis, including the separate treatment of government publications (Minn. R. Evid. 902(5), 803(8), and judicial notice under Rule 201) and commercial data sites (Minn. R. Evid. 803(17) — with the point that Prieve himself relied on stormersite), is in `LegalReferences/Using_Public_Sources_and_Scientific_Literature.md`.
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 

@@ -106,7 +106,7 @@
 | **Peter Pietila** ✅ | Farmers agent — *likely independent agency; confirm the agency relationship in discovery* | 3701 Shoreline Dr, Ste 104A, Wayzata, MN 55391-9543 · 612-220-0342 (office) |
 | **Prieve Engineering LLC — Nathan E. Prieve, P.E.** ✅ | October 9, 2024 inspection; report File #241008 and Photo Appendix A | 4937 Columbus Avenue, Minneapolis, MN 55417 · 612-203-2745 (call or text) · nathan@prieve-engineering.com · **MN P.E. License No. 46203** |
 | Hancock Claims Consultants — **Jayden Grimm** ✅ | August 29, 2024 inspection; "Damaged – No" photograph set | **507-327-2595 (direct)** · c/o Hancock Claims Consultants, 6875 Shiloh Road East, Alpharetta, GA 30005 · (770) 569-1669 |
-| Hancock Claims Consultants — **records custodian** ✅ | Complete inspection workproduct | 6875 Shiloh Road East, Alpharetta, GA 30005 · (770) 569-1669 · fax (678) 343-9608 |
+| Hancock Claims Consultants — records custodian | Complete inspection workproduct | 6875 Shiloh Road East, Alpharetta, GA 30005 · (770) 569-1669 · fax (678) 343-9608 — **reference only; not disclosed as a witness**, see below |
 
 ---
 
@@ -115,8 +115,8 @@
 | Entity / individual | Role | Contact |
 |---|---|---|
 | **Katherine Toomajian, Minnesota Department of Commerce** ✅ | Plaintiffs' complaint ID 93547 | 85 7th Place East, Suite 280, St. Paul, MN 55101 · 800-657-3602 (toll free) · direct line ❓ |
-| City of Eden Prairie — building/permit records custodian | Permit records for the Property and the neighborhood, including EP187829 (17490 George Moran Dr.) and EP190835 (17708 George Moran Dr.) | Verify: 8080 Mitchell Road, Eden Prairie, MN 55344 |
-| National Weather Service / NOAA — records custodian | Weather records for July 13–14, 2024 | ❓ |
+| City of Eden Prairie — building/permit records custodian | Permit records including EP187829 (17490 George Moran Dr.) and EP190835 (17708 George Moran Dr.) | 8080 Mitchell Road, Eden Prairie, MN 55344 [verify] — **reference only; not disclosed as a witness**, see below |
+| National Weather Service / NOAA — records custodian | Weather records for July 13–14, 2024 | **Not disclosed as a witness** — see below. For certified records: **National Centers for Environmental Information (NCEI)**, Asheville, NC — issues certified copies without a subpoena |
 
 ---
 
@@ -124,8 +124,44 @@
 
 | Group | Decision |
 |---|---|
+| Records custodian, National Weather Service / NOAA | **Omitted from the Rule 26.01(a) disclosures** by decision of September 6, 2026. NOAA prohibits NWS employees from testifying in private litigation, will have the U.S. Attorney move to quash, and reports that such motions are "routinely granted" because federal employees are beyond the reach of state-court civil subpoenas; demands run through Commerce's *Touhy* regulations, 15 C.F.R. Part 15, Subpart B. NOAA's own alternative is better: NCEI issues **certified copies without a subpoena**, self-authenticating under Minn. R. Evid. 902(4) and within the public-records exception, Minn. R. Evid. 803(8). Interpretation comes from the reserved meteorology expert (Minn. R. Evid. 703). |
+| Records custodian, City of Eden Prairie building/permit office | **Omitted from the Rule 26.01(a) disclosures** by decision of September 6, 2026. The permits do not evidence hail or damage — they record only work type, address, contractor and dates, and state no cause. The hail attribution came from the neighbor canvass, now dropped as substantive proof. The permits are not among the four disproofs pleaded at Complaint ¶ 20; they appear at ¶ 26(b), in the refused-review allegation, which needs the records and the transmittal rather than a City witness. No authentication gap: certified copies of public records are self-authenticating under Minn. R. Evid. 902(4). The permit records themselves stay in Section B. |
+| Records custodian, Hancock Claims Consultants | **Omitted from the Rule 26.01(a) disclosures** by decision of September 6, 2026. Hancock is in Georgia and beyond an ordinary Minnesota subpoena; the August 29, 2024 workproduct is being requested from Defendant under Rule 34 instead, where it is reachable under Minn. R. Evid. 801(d)(2) as a party-opponent's records. Minnesota did **not** adopt Fed. R. Evid. 902(11), so business records need a live foundation under Minn. R. Evid. 803(6) — but that rule accepts "the custodian **or other qualified witness**," and **Jayden Grimm**, who is listed and is a Minnesota resident, performed the inspection and created the photographs. Revisit if Defendant's production is incomplete; Rule 26.05 remains available. |
 | Tim Conyard (Pella sales representative, quote #19678463) | **Omitted from the Rule 26.01(a) disclosures** by decision of September 6, 2026. Plaintiffs never dealt with him; Zach Sexe obtained the quote and compiled the estimate and is the sponsoring witness. A damages expert may rely on the quote under Minn. R. Evid. 703. Rule 26.05 supplementation remains available. |
 | The 14 neighboring homeowners from the February 4–7, 2025 canvass, and the homeowners at 17490 and 17708 George Moran Dr. | **Omitted from the Rule 26.01(a) disclosures** by decision of September 6, 2026. Rule 26.01(a)(1)(A) reaches only witnesses a party may use affirmatively; hail causation is carried by the September 12, 2025 appraisal award, the NWS/NOAA records, the stormersite data, and the post-September 13, 2021 downspout dents. The canvass **document** is retained for the refused-review purpose only. Rule 26.05 supplementation remains available. See `Filings/Discovery/InitialDisclosure/Proposed_Changes_Initial_Disclosures_2026-09-06.md` P-2, P-3A, D-4. |
+
+---
+
+## Closing the remaining contact gaps — practical routes
+
+> Reviewed September 6, 2026. Rule citations verified; confirm independently before acting.
+
+**First principle: a missing address does not delay the disclosures.** Minn. R. Civ. P. 26.01(a)(1)(A) requires the name and, "**if known**," the address and telephone number. Where a value is genuinely unknown, state the name, give what is known, and supplement under Rule 26.05. Do not let any gap below hold up service on September 25, 2026.
+
+### Jayden Grimm — a Minnesota resident working for a Georgia company
+
+His 507 area code (southern Minnesota) and Hancock's Alpharetta, Georgia headquarters point to a **local field inspector**, not corporate staff. That split is an advantage, and it should shape how the Hancock evidence is pursued.
+
+**Grimm personally — easy.** Under **Minn. R. Civ. P. 45.03(c)(1)(B)**, a subpoena must be quashed or modified if it "requires a person who is not a party or an officer of a party to travel to a place outside the county where that person resides, is employed or regularly transacts business in person" — but such a person "may in order to attend trial be commanded to travel from any such place within the state of Minnesota." A Minnesota-resident non-party can therefore be **deposed in his home county and compelled to trial anywhere in Minnesota** on an ordinary Rule 45 subpoena.
+
+**Hancock's corporate records — hard, and probably unnecessary.** A Minnesota subpoena has no force in Georgia. Reaching Hancock's corporate custodian would mean domesticating a subpoena under Georgia's version of the Uniform Interstate Depositions and Discovery Act and taking the deposition there. (Minn. R. Civ. P. 45.06 is Minnesota's UIDDA provision — it governs foreign subpoenas coming *into* Minnesota, not Minnesota subpoenas going out.) That is slow and expensive for pro se parties.
+
+**Better route: get the Hancock material from Defendant under Rule 34.** Defendant retained Hancock, and Hancock delivered the August 29, 2024 inspection product to Defendant, where it sits in the claim file — squarely within Defendant's "possession, custody, or control." Request the complete workproduct and the vendor agreement. If Defendant answers that it does not have the material, that answer is itself useful: it either establishes a control argument from the vendor contract or narrows a later subpoena to exactly what is missing. `FIE_Answer_Analysis_and_Next_Steps.md` already flags that "[t]he Hancock workproduct beyond the photo set has not been produced."
+
+**Four ways to get Grimm's address, cheapest first:**
+
+1. **Wait for Defendant's own initial disclosures.** They are due the same day — September 25, 2026. If Defendant lists Grimm or Hancock as witnesses it may use, Rule 26.01(a)(1)(A) obliges Defendant to state the address and telephone "if known." This may arrive free.
+2. **Interrogatory to Defendant.** Routine and proper: *"Identify each person who inspected the Property on Your behalf, stating for each the person's full name, employer, last known business and residential address, and telephone number."* Defendant holds the vendor assignment record. Expect a possible privacy objection to a non-employee's **home** address; the usual compromise is a business address plus an agreement that counsel or Hancock will accept service or produce the witness.
+3. **Ask Hancock directly.** Grimm is a non-party vendor, not a represented constituent of Defendant. A plain request for an address at which a subpoena may be served often succeeds — and his direct line is already known.
+4. **Engage a process server.** With a name, a phone number, and a county, a server or skip-trace locates a residential address inexpensively — usually faster than a discovery fight. Note that Rule 45 service requires delivery to the person or leaving a copy at the usual place of abode, so a physical location is eventually needed regardless.
+
+### Wade Roos and Greg Tomes
+
+Neither appears on the award form, which carries no contact information for any panel member. Same sequence: watch Defendant's September 25 disclosures first (Defendant appointed Tomes and will likely list him), then an interrogatory identifying every appraisal-panel participant with contact information, then Pure Construction's file — Pure Construction engaged Foster and corresponded about the appraisal, so it may hold contact details for the panel.
+
+### Allen Banning
+
+The question is **employment status, not address.** Comment [7] to Minn. R. Prof. Conduct 4.2 provides that consent of the organization's lawyer "is not required for communication with a **former** constituent." If Banning has left Defendant, he is contactable directly and is a Rule 45 witness rather than a witness shielded by counsel. Establish this early with an interrogatory asking whether each identified individual remains employed by Defendant.
 
 ---
 
@@ -165,3 +201,22 @@ The correct name is **Legacy Restoration LLC**. Earlier case documents use "Lega
 | Dept. of Commerce address | Farmers' November 4, 2024 denial letter, § 72A.201 notice paragraph |
 | Hancock Claims Consultants (corporate) | [Hancock Claims Consultants contact page](https://hancockclaims.com/contact/) |
 | Jayden Grimm direct line; Peter Pietila agency | Client-provided, September 6, 2026 |
+
+---
+
+## Evidence-rule note — no Rule 902(11) in Minnesota
+
+Minnesota **did not adopt Federal Rule of Evidence 902(11)**. The Advisory Committee "considered Rule 902(11) and recommends against adopting it," and [Minn. R. Evid. 902](https://www.revisor.mn.gov/court_rules/ev/id/902/) contains only ten subsections. There is therefore **no certified-business-record shortcut in Minnesota state court**: under Minn. R. Evid. 803(6) the foundation for a business record must come from "the custodian **or other qualified witness**."
+
+Two consequences for this case:
+
+1. **Plan for a live foundation witness for every business record** Plaintiffs intend to offer — contractor estimates, inspection records, claim-file documents. A written certification will not do the work it does in federal court.
+2. **"Or other qualified witness" is the workaround.** The person who made or kept the record qualifies; a corporate custodian is not required. That is why Jayden Grimm covers the Hancock inspection materials and why Zach Sexe covers the Pure Construction estimate.
+
+Public records are the exception: certified copies and official publications remain self-authenticating under Minn. R. Evid. 902(4) and 902(5), which covers the City of Eden Prairie permit records and the NWS/NOAA weather records. That is why neither needs a custodian **for authentication** — and why the City custodian could be dropped on relevance grounds without creating an evidentiary gap. The NWS/NOAA custodian is retained because the weather records go to causation, not because authentication requires it.
+
+---
+
+## Open action item — certified weather records
+
+Order **certified copies** of the July 13–14, 2024 records from the National Centers for Environmental Information (NCEI), Asheville, NC. **No subpoena is required.** Certified copies of public records are self-authenticating under Minn. R. Evid. 902(4), which upgrades the evidence from a printed public webpage to a certified public record and removes any foundation argument. Not needed by the September 25, 2026 disclosure deadline; supplement Section B item 5 once in hand.
