@@ -41,8 +41,8 @@ Anything in `[SQUARE BRACKETS]` is a blank only you can fill. **Section VI at th
 | P-7 | Section C — proof-of-loss reconciliation paragraph | High | No |
 | P-8 | Section D — shorten | Low | No |
 | P-9 | Reservation paragraph — add the RCV basis | High | No |
-| P-10 | Signature block — fill telephone and email | High | No |
-| P-11 | Rule 5.04 citation → 5.04(b) | Low | No |
+| P-10 | Signature block — fill telephone and email | High | No | **✅ applied Sept 10** |
+| P-11 | Rule 5.04 citation → 5.04(b) | Low | No | **✅ applied Sept 10** |
 | P-12 | Certificate of service — penalty-of-perjury form | Low | No |
 | P-13 | Both Plaintiffs sign the certificate | Low | No |
 | P-14 | "Semco" spelling note | Low | No |
@@ -511,7 +511,7 @@ Full analysis, including the separate treatment of government publications (Minn
 
 ---
 
-## P-10. Fill the signature block
+## P-10. Fill the signature block  ✅
 
 **Current:** `Telephone: ______________ Email: ______________`
 
@@ -522,18 +522,18 @@ Full analysis, including the separate treatment of government publications (Minn
 
 **Why.** Rule 26.07 requires the signer's contact information. These are the values from the Complaint's signature block. **[CONFIRM both are still current.]**
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_Initial_Disclosures.docx` and `.md`.
 
 ---
 
-## P-11. Refine the Rule 5.04 citation
+## P-11. Refine the Rule 5.04 citation  ✅
 
 **Current:** "in accordance with Minn. R. Civ. P. 5.04"
 **Proposed:** "in accordance with Minn. R. Civ. P. 5.04(b)"
 
 **Why.** Your citation is correct — 5.04(b) is the subpart providing that "disclosures under Rule 26… shall not be filed unless authorized by court order or rule." Precision only.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_Initial_Disclosures.docx` and `.md`.
 
 ---
 
