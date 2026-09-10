@@ -5,7 +5,7 @@
 **Companion:** `RFP_First_Set_Review_2026-09-08.md`
 
 > ### ✅ PARTIALLY APPLIED — September 10, 2026
-> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-21, P-22 to P-30, and **P-37**, plus the `OffenseStrategies` half of **P-38**. **31 of 42 items, and part of a 32nd.**
+> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-21, P-22 to P-30, **P-37**, and **P-40**, plus the `OffenseStrategies` half of **P-38** and the telephone/email half of **P-10**. **32 of 43 items, plus parts of two more.**
 >
 > **Still under your review — nothing applied:** P-6, P-10, P-16, P-31, P-32, P-33 through P-36, **P-38** (the correction pass across the case file, now partially applied), and **P-39** (Request 25). The target documents are unchanged as to every one of those items.
 >
@@ -17,7 +17,7 @@
 
 ## How to use this
 
-Each change is numbered **P-1** through **P-39**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
+Each change is numbered **P-1** through **P-40**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
 
 - `APPROVE` — apply as written
 - `APPROVE AS EDITED` — apply with your changes written in
@@ -68,6 +68,7 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-21 | **Request 33 removed** from the First Set and moved to the second-set draft; remaining requests renumbered to a clean 1–40 |
 | P-30 | **NEW Request 41** — water intrusion from July 13, 2024 forward; the wear/tear and Conclusion 3 findings; mitigation |
 | P-10 *(part)* | **Signature block** — each Plaintiff's telephone and email filled in; block restructured per Minn. R. Civ. P. 26.07 |
+| P-40 | **Certificate of service replaced** in all four served documents — U.S. Mail, Kennedy Law Firm as recipient, § 358.116 declaration, Hennepin County dateline, single signer (Yibiao Lu) |
 | P-38 *(part)* | **`OffenseStrategies/Discovery/DiscoveryPlan.md`** lines 164, 270, 443, 447 and **`OffenseStrategies/Deposition/2.1Prieve_Nathan.md`** line 167 — "page 7" corrected to "page 4 of 7" |
 
 **Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The set runs 1–41 with no gap. The bracketed drafting note is gone.
@@ -150,6 +151,8 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 | P-38 | Correction pass — the same mis-cite in 8 places across 7 files; plus the filed Complaint | High | **Yes** | **◑ partial** |
 | **V-B. Request 25 (added September 10, 2026)** | | | | |
 | P-39 | Request 25 — cover FIE's handling of the permit data Plaintiffs submitted, not only its own search | Medium | No | pending |
+| **V-C. Certificate of service (added September 10, 2026)** | | | | |
+| P-40 | Replace the certificate of service in all four served documents — U.S. Mail, Kennedy as recipient, § 358.116 form, single signer | **Critical** | **Yes** | **✅ applied** |
 
 **The four that matter most, if you only read four:** P-22 (there is no valuation discovery in this set), P-4 with P-11 through P-14 (four requests ask FIE for other people's files), P-9 (a drafting note is currently in the document you would serve), and P-27 (the § 604.18, subd. 4(c) appraisal bar is FIE's cleanest defense to the bad-faith claim and nothing in the set attacks it).
 
@@ -958,6 +961,108 @@ So "did You receive permit records concerning The Claim?" has a known answer: ye
 **If you would rather not expand it.** Request 25 as currently written is still worth serving — it is among the cheapest requests in the set and the "we never asked" answer is affirmatively useful. The case for P-39 is that subpart (b) reaches the more damaging fact, and there is no cheaper place in the set to ask for it.
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT — KEEP AS WRITTEN ☐   HOLD ☐`  — *pending your review; nothing applied*
+
+
+---
+
+# V-C. Certificate of service
+
+*Added September 10, 2026, after re-researching the required form. Pending your review; nothing applied.*
+
+## The finding
+
+The certificate now embedded in the discovery documents is a bare certification. It is missing the form Minn. R. Civ. P. 5.04(b) describes, and it names the wrong party to be served.
+
+**What the rule requires.** Rule 5.04(b): a certificate "specifying the details of how and when service was accomplished and **signed under oath or penalty of perjury by the person effecting service**." Minn. Stat. § 358.116 supplies the declaration — signing beneath "I declare under penalty of perjury that everything I have stated in this document is true and correct" is verification upon oath, and "the date of signing and the **county and state** where the document was signed shall be noted on the document."
+
+**You already have a correct one.** `Filings/SummonsAndComplaint/Court/NonComplianceNotice/AffidavitOfService/Certificate_of_Service_Corrected_Filing_Lu_Hu_FINAL.docx`, used with the court on July 20, 2026, contains every element: declarant over 18 and how service was made; the Rule 5.02 basis with "complete upon mailing"; the date; an itemized list of documents served; manner of service; the name and address served; the § 358.116 declaration; "Dated: July 20, 2026, at Eden Prairie, Hennepin County, Minnesota"; and **one** signature line — "Signature of person who served the documents." P-40 below adapts that form for discovery.
+
+## Three substantive problems with the current text
+
+**1. It points at the wrong recipient.** The certificate reads: served "upon Defendant, through its attorney of record **(or upon Defendant directly if no attorney has appeared)**." Kennedy Law Firm appeared **July 28, 2026**, and Rule 5.02(a) is mandatory — "service shall be made upon the attorney unless service upon the party is ordered by the court." The parenthetical is obsolete and invites improper service on FIE's registered agent. Counsel's Notice of Appearance expressly directs "all notices, pleadings, motions, applications, orders, and all papers otherwise served or filed in this case" to its office.
+
+**2. It is not in penalty-of-perjury form**, and it carries no county-and-state dateline.
+
+**3. It contemplates e-service you cannot perform.** The bracketed menu offers "e-service through the Minnesota eFS system." Plaintiffs are not registered eFS users. Service will be by **U.S. Mail**. The menu should go and the manner should be stated as fact.
+
+## ⚠️ Service by mail adds three days to Defendant's response time
+
+Minn. R. Civ. P. 6.01(e): "Whenever a party … is required to do some act … within a prescribed period after the service of a notice or other document upon the party, and the notice or document is served upon the party by **United States Mail, 3 days shall be added** to the prescribed period." The advisory committee notes that courier services do not qualify.
+
+So the Rule 34.02 thirty-day response period becomes **33 days from the date of mailing** — and Rule 6.01(a) excludes the day of mailing, counts intervening weekends and holidays, and rolls a deadline that lands on a weekend or holiday to the next business day. Calendar the real date on the day you mail; do not calendar thirty days.
+
+Two consequences worth weighing:
+
+- **Same-day mailing matters.** Service by mail is complete upon mailing (Rule 5.02), so the clock starts the day the envelope goes out — not when Kennedy receives it.
+- **Email service by agreement would save the three days**, and Rule 5.02 permits electronic service "where authorized." Since discovery is not filed, this is a matter for a short written stipulation with Kennedy rather than eFS registration. Worth one email asking whether they will accept service by email; if they agree, the certificate's manner clause changes accordingly.
+
+---
+
+## P-40. Replace the certificate of service across the served package  ✅
+
+**Applies to:** the Requests for Production, the Interrogatories, the Requests for Admission, and the Initial Disclosures.
+
+**Current (in each document):**
+
+> The undersigned certifies that on ______________, 2026, a true and correct copy of *[document]* was served upon Defendant, through its attorney of record (or upon Defendant directly if no attorney has appeared), by ______________ [e-service through the Minnesota eFS system / email / U.S. Mail], at ______________, in accordance with Minn. R. Civ. P. 5. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+
+**Proposed:**
+
+> **CERTIFICATE OF SERVICE**
+>
+> I, Yibiao Lu, state and declare as follows:
+>
+> 1. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by United States mail. Service of documents after the original summons may be made by a party by mail under Minn. R. Civ. P. 5.02, and such service by mail is complete upon mailing.
+>
+> 2. On ______________, 2026, I served a true and correct copy of *[title of the document]* upon Defendant's counsel of record by depositing it in the United States mail at Eden Prairie, Minnesota, in a sealed envelope with postage prepaid, addressed as follows:
+>
+> > Kevin J. Kennedy (#193872)
+> > Mary J. Baskfield (#0314572)
+> > KENNEDY LAW FIRM P.C.
+> > 7616 Currell Blvd., Suite 270
+> > Woodbury, MN 55125
+> > *Counsel for Defendant Fire Insurance Exchange*
+>
+> 3. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+>
+> I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
+>
+> Dated: ______________, 2026, at Eden Prairie, Hennepin County, Minnesota.
+>
+> ____________________________________
+> Signature of person who served the documents
+>
+> Yibiao Lu
+> Printed name
+
+*(For the Initial Disclosures, paragraph 3 reads: "These disclosures are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).")*
+
+**What changed and why.**
+
+| Change | Reason |
+|---|---|
+| Names Kennedy Law Firm as the recipient; drops the "or upon Defendant directly" alternative | Rule 5.02(a) — counsel appeared July 28, 2026 |
+| States U.S. Mail as fact; removes the eFS/email menu | You are not an eFS registrant; a certificate should record what happened, not offer options |
+| Adds the § 358.116 declaration and the county-and-state dateline | Rule 5.04(b) form; matches your July 20 certificate |
+| **Single signer — Yibiao Lu** | Rule 5.04(b) requires the signature of "the person effecting service." You are mailing it. Both Plaintiffs still sign the document's own signature block. |
+| Adds "over 18," "personally made the service," and the Rule 5.02 "complete upon mailing" recital | Establishes competence, personal knowledge, and the legal effect of the mailing date — all present in your July form |
+
+**Two operational notes.**
+
+- **Yibiao must be the person who actually mails it.** The certificate is signed under penalty of perjury by the person who effected service. If Jie ends up at the post office, the certificate has to be re-signed in her name.
+- **Keep a signed original of each certificate in your file, and do not file them.** Rule 5.04(b) bars filing discovery. You will need these as exhibits if you bring a motion to compel, and a certificate signed the day of mailing carries far more weight than one reconstructed later. Consider paying for a Certificate of Mailing (USPS Form 3817) as independent corroboration of the mailing date — it is inexpensive and it is the date the whole response clock turns on.
+
+**One open question for counsel.** Rule 5.02 does not say who may perform service of post-summons papers — unlike Rule 4.02 for a summons, it imposes no non-party requirement, and your July 20 certificate asserted that a party may serve by mail and was accepted by the court. That is persuasive practice, not a holding. Worth confirming with a Minnesota attorney before relying on it again.
+
+### Decision: where should the certificate live?
+
+**Option A — embedded in each document (recommended).** Keep a full certificate at the end of each of the four documents. Each document then carries its own dated proof of service, which is what you want when a single request set becomes an exhibit to a motion to compel. Cost: four signatures.
+
+**Option B — one standalone certificate for the package.** A single certificate listing all documents served, matching the structure of your July 20 form, with the embedded certificates removed. Cleaner, one signature, and it is the form you have already used successfully. Cost: FIE's copy of any individual document carries no service date on its face.
+
+**✅ APPROVED AND APPLIED — September 10, 2026 (OPTION A).** The new certificate is embedded in all four documents: `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE`, `Plaintiffs_First_Set_of_Interrogatories_to_FIE`, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE`, and `Plaintiffs_Initial_Disclosures` (`.docx`, plus `.md` where one exists). **Option A was applied because it was the recommendation and no option was specified — Option B remains available and is a small edit if you prefer it.**
+
+**Still blank in each certificate:** the service date (paragraph 2) and the dateline date. Both are the day you mail. **Remember to calendar 33 days from that date, not 30** (Rule 6.01(e)).
 
 
 ---

@@ -177,8 +177,34 @@ Email: jie\_h\_hu@yahoo.com
 
 **CERTIFICATE OF SERVICE**
 
-The undersigned certifies that on \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* was served upon Defendant, through its attorney of record (or upon Defendant directly if no attorney has appeared), by \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \[e-service through the Minnesota eFS system / email / U.S. Mail\], at \_\_\_\_\_\_\_\_\_\_\_\_\_\_, in accordance with Minn. R. Civ. P. 5. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+I, Yibiao Lu, state and declare as follows:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by United States mail. Service of documents after the original summons may be made by a party by mail under Minn. R. Civ. P. 5.02, and such service by mail is complete upon mailing.
 
-Yibiao Lu, Plaintiff *pro se*
+2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by depositing it in the United States mail at Eden Prairie, Minnesota, in a sealed envelope with postage prepaid, addressed as follows:
+
+> Kevin J. Kennedy (\#193872)
+> 
+> Mary J. Baskfield (\#0314572)
+> 
+> KENNEDY LAW FIRM P.C.
+> 
+> 7616 Currell Blvd., Suite 270
+> 
+> Woodbury, MN 55125
+> 
+> *Counsel for Defendant Fire Insurance Exchange*
+
+3\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+
+I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
+
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at Eden Prairie, Hennepin County, Minnesota.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Signature of person who served the documents*
+
+Yibiao Lu
+
+*Printed name*

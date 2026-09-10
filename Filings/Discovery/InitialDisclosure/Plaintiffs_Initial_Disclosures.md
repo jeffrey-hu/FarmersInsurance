@@ -33,29 +33,29 @@ The following individuals are likely to have discoverable information that Plain
 
 Plaintiffs describe by category the documents, electronically stored information, and tangible things in their possession, custody, or control that they may use to support their claims. All are located at Plaintiffs’ residence and in electronic form; copies or inspection are available upon reasonable request.
 
-> **1.** The homeowner’s Policy 98055-49-65, including the Declarations and all endorsements.
-> 
-> **2.** The Farmers claim-file correspondence for claim 7007986837-1-1, including the September 3, 2024 and November 4, 2024 denial letters and related communications.
-> 
-> **3.** The Prieve Engineering report (File \#241008) and its Photo Appendix A.
-> 
-> **4.** The September 12, 2025 appraisal award, the August 3, 2025 appraisal demand, and Plaintiffs’ sworn statement in proof of loss.
-> 
-> **5.** Weather documentation for July 13–14, 2024, including National Weather Service / NOAA materials, Eden Prairie ASOS data, stormersite data, and Interactive Hail Maps data.
-> 
-> **6.** Photographs of the damage to the Property.
-> 
-> **7.** The 2020 claim-file materials (claim 3013539499-1), including the Xactimate estimate, building-loss worksheet, and settlement notice, to the extent in Plaintiffs’ possession.
-> 
-> **8.** Contractor estimates, including the Pure Construction / Pella Reserve window-replacement estimate (Quote \#19678463) and siding estimates.
-> 
-> **9.** Plaintiffs’ canvass of neighboring homeowners.
-> 
-> **10.** City of Eden Prairie building-permit records obtained by Plaintiffs.
-> 
-> **11.** Correspondence with Farmers’ agent (Peter Pietila), the Minnesota Department of Commerce (Complaint ID 93547), and the Minnesota Attorney General’s Office.
-> 
-> **12.** Plaintiffs’ communication logs.
+**1.** The homeowner’s Policy 98055-49-65, including the Declarations and all endorsements.
+
+**2.** The Farmers claim-file correspondence for claim 7007986837-1-1, including the September 3, 2024 and November 4, 2024 denial letters and related communications.
+
+**3.** The Prieve Engineering report (File \#241008) and its Photo Appendix A.
+
+**4.** The September 12, 2025 appraisal award, the August 3, 2025 appraisal demand, and Plaintiffs’ sworn statement in proof of loss.
+
+**5.** Weather documentation for July 13–14, 2024, including National Weather Service / NOAA materials, Eden Prairie ASOS data, stormersite data, and Interactive Hail Maps data.
+
+**6.** Photographs of the damage to the Property.
+
+**7.** The 2020 claim-file materials (claim 3013539499-1), including the Xactimate estimate, building-loss worksheet, and settlement notice, to the extent in Plaintiffs’ possession.
+
+**8.** Contractor estimates, including the Pure Construction / Pella Reserve window-replacement estimate (Quote \#19678463) and siding estimates.
+
+**9.** Plaintiffs’ canvass of neighboring homeowners.
+
+**10.** City of Eden Prairie building-permit records obtained by Plaintiffs.
+
+**11.** Correspondence with Farmers’ agent (Peter Pietila), the Minnesota Department of Commerce (Complaint ID 93547), and the Minnesota Attorney General’s Office.
+
+**12.** Plaintiffs’ communication logs.
 
 **C. Computation of damages — Rule 26.01(a)(1)(C)**
 
@@ -107,8 +107,34 @@ Email: jie\_h\_hu@yahoo.com
 
 **CERTIFICATE OF SERVICE**
 
-The undersigned certifies that on \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, a true and correct copy of Plaintiffs’ Initial Disclosures was served upon Defendant, through its attorneys of record, by \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \[e-service through the Minnesota eFS system / email / U.S. Mail\], in accordance with Minn. R. Civ. P. 5. These disclosures are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+I, Yibiao Lu, state and declare as follows:
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by United States mail. Service of documents after the original summons may be made by a party by mail under Minn. R. Civ. P. 5.02, and such service by mail is complete upon mailing.
 
-Yibiao Lu, Plaintiff pro se
+2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, I served a true and correct copy of *Plaintiffs’ Initial Disclosures* upon Defendant's counsel of record by depositing it in the United States mail at Eden Prairie, Minnesota, in a sealed envelope with postage prepaid, addressed as follows:
+
+> Kevin J. Kennedy (\#193872)
+> 
+> Mary J. Baskfield (\#0314572)
+> 
+> KENNEDY LAW FIRM P.C.
+> 
+> 7616 Currell Blvd., Suite 270
+> 
+> Woodbury, MN 55125
+> 
+> *Counsel for Defendant Fire Insurance Exchange*
+
+3\. These disclosures are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+
+I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
+
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at Eden Prairie, Hennepin County, Minnesota.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Signature of person who served the documents*
+
+Yibiao Lu
+
+*Printed name*

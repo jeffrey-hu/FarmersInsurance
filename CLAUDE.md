@@ -18,6 +18,12 @@ This project supports a lawsuit the Lu/Hu family is preparing against Farmers In
 - **HailShapes/** — Academic papers and analysis on hail shapes/speeds and damage signatures, plus rebuttal material countering Farmers' damage-causation arguments.
 - **HomePolicy/** — Original Farmers policy documents: 2014 application and policy notice, and the 2023 renewal.
 - **LegalReferences/** — Legal strategy materials: case law research, argument-strength assessment, litigation bridge document, and appraisal-process research.
+- **Filings/** — Documents filed with the court or served on Defendant, plus `Document_Formatting_Standard.md`, the formatting rules every such document must follow.
+
+## Document Formatting
+
+- **Before creating or editing any `.docx` that will be filed with the court or served on Defendant, read `Filings/Document_Formatting_Standard.md` and follow it.** It fixes page setup, list indentation (left 0.5", hanging −0.5", 8 pt after), signature blocks, the certificate-of-service form, caption blocks, numbering discipline, and how to keep a document's Markdown twin in sync. The reference document is `Filings/Discovery/discoveryPlanAndInformationalStatement/Plaintiffs_Rule_26.06_Discovery_Plan_V5.docx`.
+- Two rules from that standard are easy to get wrong and expensive to fix: service goes to **counsel of record** (Kennedy Law Firm, appeared 7/28/2026), not to Defendant or its registered agent; and service by U.S. Mail **adds 3 days** to any response period under Minn. R. Civ. P. 6.01(e).
 
 ## Working Notes
 
