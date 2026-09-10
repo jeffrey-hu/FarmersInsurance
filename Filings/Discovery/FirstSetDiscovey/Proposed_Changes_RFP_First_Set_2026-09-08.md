@@ -5,9 +5,9 @@
 **Companion:** `RFP_First_Set_Review_2026-09-08.md`
 
 > ### ✅ PARTIALLY APPLIED — September 10, 2026
-> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-22 to P-29, and **P-37**, plus the `OffenseStrategies` half of **P-38**. **29 of 41 items, and part of a 30th.**
+> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-21, P-22 to P-29, and **P-37**, plus the `OffenseStrategies` half of **P-38**. **30 of 42 items, and part of a 31st.**
 >
-> **Still under your review — nothing applied:** P-6, P-10, P-16, P-21, P-30, P-31, P-32, P-33 through P-36, and **P-38** (the correction pass across the case file). The target documents are unchanged as to every one of those items.
+> **Still under your review — nothing applied:** P-6, P-10, P-16, P-30, P-31, P-32, P-33 through P-36, **P-38** (the correction pass across the case file, now partially applied), and **P-39** (Request 25). The target documents are unchanged as to every one of those items.
 >
 > A backup of the pre-edit `.docx` is kept for this session. See the change log in Section 0 below.
 
@@ -17,7 +17,7 @@
 
 ## How to use this
 
-Each change is numbered **P-1** through **P-38**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
+Each change is numbered **P-1** through **P-39**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
 
 - `APPROVE` — apply as written
 - `APPROVE AS EDITED` — apply with your changes written in
@@ -65,31 +65,34 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-28 | **NEW Request 40** — the F 1.7 / B 1.2 decoding documents |
 | P-29 | **NEW Request 41** — J6944 and *Cedar Bluff* matching guidance |
 | P-37 | **Request 23** — Prieve citation corrected to page 2 of 7 and page 4 of 7, with the language quoted |
+| P-21 | **Request 33 removed** from the First Set and moved to the second-set draft; remaining requests renumbered to a clean 1–40 |
 | P-38 *(part)* | **`OffenseStrategies/Discovery/DiscoveryPlan.md`** lines 164, 270, 443, 447 and **`OffenseStrategies/Deposition/2.1Prieve_Nathan.md`** line 167 — "page 7" corrected to "page 4 of 7" |
 
 **Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The bracketed drafting note is gone.
 
-**⚠️ Numbering note — the new requests are 34 through 41, not 33 through 40.** Section III of this file and the renumbering map in Section V both assumed P-21 would be approved and the old Request 33 (vendor management) would leave the set. **P-21 is still pending**, so old Request 33 stayed in place and the eight new requests were appended after it:
+**⚠️ Numbering note — the First Set now runs 1 through 40, with no gap.**
 
-| Proposal item | Section III said | **Actual number in the served set** |
+The eight new requests were first appended as Nos. 34–41, because old Request 33 (vendor management) was still in the set. On September 10, 2026 **P-21 was approved**: Request 33 was removed and moved to `../SecondSetDiscovery/Plaintiffs_Second_Set_of_Requests_for_Production_to_FIE_DRAFT.md`, and — **because the set had not been served** — the remaining requests were renumbered down by one. The result matches the map in Section V exactly:
+
+| Proposal item | Subject | **Final number in the First Set** |
 |---|---|---|
-| P-22 valuation and estimating | 33 | **34** |
-| P-23 underwriting file | 34 | **35** |
-| P-24 declarations page | 35 | **36** |
-| P-25 recorded calls | 36 | **37** |
-| P-26 defenses and denials | 37 | **38** |
-| P-27 award resolved The Claim | 38 | **39** |
-| P-28 F 1.7 / B 1.2 decoding | 39 | **40** |
-| P-29 J6944 matching guidance | 40 | **41** |
+| P-22 | Valuation, estimates, depreciation, the $6,400 ACV | **33** |
+| P-23 | Underwriting file and attorney-in-fact documentation | **34** |
+| P-24 | Declarations page, policy as delivered, deductible | **35** |
+| P-25 | Recorded calls, voicemails, telephone logs | **36** |
+| P-26 | Documents behind the defenses and denials | **37** |
+| P-27 | Documents showing the award resolved The Claim | **38** |
+| P-28 | F 1.7 / B 1.2 decoding | **39** |
+| P-29 | J6944 and *Cedar Bluff* matching guidance | **40** |
 
-If you later approve P-21 and remove old Request 33, **do not renumber** — a served set keeps its numbers, and FIE's responses will cite them. Withdraw Request 33 by letter instead and leave the gap.
+**Renumbering was safe only because nothing has been served.** Once this set goes out, its numbers are fixed: Defendant's responses and any motion to compel will cite them. From that point, withdraw a request by letter and leave the gap — never renumber.
 
 **Two things to know about what was applied:**
 
-1. **The P-2 date-range dependency is now resolved.** Instruction 1 extends the period back to October 22, 2014 for The Policy, the underwriting file, and prior claims. When P-2 was applied, the underwriting-file request (P-23) was still pending and the reference was orphaned. P-23 is now applied as **Request 35**, so Instruction 1 and Request 35 line up: the underwriting file is requested from application forward, and the instruction sets the period that reaches it. Requests 22 (2014 and 2015 claims) and 24 (endorsement drafting history) rely on the same extension.
+1. **The P-2 date-range dependency is now resolved.** Instruction 1 extends the period back to October 22, 2014 for The Policy, the underwriting file, and prior claims. When P-2 was applied, the underwriting-file request (P-23) was still pending and the reference was orphaned. P-23 is now applied as **Request 34**, so Instruction 1 and Request 35 line up: the underwriting file is requested from application forward, and the instruction sets the period that reaches it. Requests 22 (2014 and 2015 claims) and 24 (endorsement drafting history) rely on the same extension.
 2. **A correction to what I first said about P-11 through P-14.** I described those four as having "given up ground" on non-party files. On a closer side-by-side that was overstated: the applied text is broader in scope than the original ("constituting, reflecting, or relating to" vs. "the complete file"), Instruction 10 already defines control to include practical ability to obtain, and the applied text adds a duty to identify who holds anything FIE does not. What was genuinely lost is narrower — the phrase "in Your possession, custody, or control" lets FIE self-assess in silence rather than state an objection you can move against. **P-11A, P-12A, and P-14A** — added and applied September 10, 2026 — close that gap without reverting anything. Separately, and regardless of those three: **P-35, the Rule 45 subpoenas, remains the primary route to non-party material and is still undecided.**
 
-**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-21 (remove old Request 33), P-30 (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), and **P-38** (the correction pass across the other seven files, plus the decision on the Complaint source `.docx`).
+**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-30 (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), **P-38** (the remaining five files in the correction pass, plus the decision on the Complaint source `.docx`), and **P-39** (Request 25 — permit-records handling).
 
 ---
 
@@ -122,7 +125,7 @@ If you later approve P-21 and remove old Request 33, **do not renumber** — a s
 | P-18 | RFP 14 (litigation hold) — narrow to date, recipients, categories; reserve the notice | High | No | **✅ applied** |
 | P-19 | RFP 21 (audit trail) — add the audit-logging capability clause | High | No | **✅ applied** |
 | P-20 | RFP 28 (Hancock engagements) — same narrowing as P-15 | High | No | **✅ applied** |
-| P-21 | **RFP 33 (vendor management) — remove from this set, hold for a second set** | High | **Yes** | pending |
+| P-21 | **RFP 33 (vendor management) — remove from this set, hold for a second set** | High | **Yes** | **✅ applied** |
 | **III. New requests (become Nos. 33–41)** | | | | |
 | P-22 | NEW 33 — estimates, price lists, depreciation, and the $6,400 ACV derivation | **Critical** | No | **✅ applied** |
 | P-23 | NEW 34 — the underwriting file and attorney-in-fact documentation | **Critical** | No | **✅ applied** |
@@ -143,6 +146,8 @@ If you later approve P-21 and remove old Request 33, **do not renumber** — a s
 | **V-A. Citation correction (added September 10, 2026)** | | | | |
 | P-37 | Request 23 — correct the Prieve page cite (page 4 of 7, not 7) and quote the language | High | No | **✅ applied** |
 | P-38 | Correction pass — the same mis-cite in 8 places across 7 files; plus the filed Complaint | High | **Yes** | **◑ partial** |
+| **V-B. Request 25 (added September 10, 2026)** | | | | |
+| P-39 | Request 25 — cover FIE's handling of the permit data Plaintiffs submitted, not only its own search | Medium | No | pending |
 
 **The four that matter most, if you only read four:** P-22 (there is no valuation discovery in this set), P-4 with P-11 through P-14 (four requests ask FIE for other people's files), P-9 (a drafting note is currently in the document you would serve), and P-27 (the § 604.18, subd. 4(c) appraisal bar is FIE's cleanest defense to the bad-faith claim and nothing in the set attacks it).
 
@@ -504,7 +509,7 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 ---
 
-## P-21. Request 33 — remove from this set ⚠️ *needs your decision*
+## P-21. Request 33 — remove from this set  ✅
 
 **Current:** "All vendor-management, selection, oversight, performance-evaluation, and service-agreement documents concerning Hancock Claims Consultants and Prieve Engineering, LLC from January 1, 2020 forward, including documents reflecting the volume of assignments to, and payments made to, each."
 
@@ -514,7 +519,9 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 If you would rather serve it now, the narrowed form would be: *Documents sufficient to show the vendor-selection criteria, performance metrics, and service agreements applicable to Hancock Claims Consultants and Prieve Engineering, LLC for Minnesota property claims from January 1, 2020 forward, together with the annual volume of assignments to and payments made to each.*
 
-`REMOVE AND HOLD ☐   SERVE NARROWED NOW ☐   KEEP AS IS ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026 (REMOVE AND HOLD).** Request 33 was removed from the First Set and moved to `../SecondSetDiscovery/Plaintiffs_Second_Set_of_Requests_for_Production_to_FIE_DRAFT.md`, where its text is preserved verbatim and unedited. The narrowed alternative offered above was **not** applied; it is recorded in the second-set draft as Option B, to be decided at service time.
+
+**Because the set had not been served, the remaining requests were renumbered** — the First Set now runs **1 through 40** with no gap. See the numbering note in Section 0.
 
 ---
 
@@ -862,6 +869,55 @@ What I would do:
 `APPLY THE 4 COMPLAINT DRAFTS ☐   APPLY Argument_Strength_Assessment.md ☐   APPLY BOTH ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
 
 **On the Complaint source `.docx` specifically:** `CORRECT IT ☐   LEAVE IT MATCHING THE FILING ☐`
+
+---
+
+# V-B. Request 25 — the building-permit request
+
+*Added September 10, 2026, in response to the question whether Request 25 earns its place. Pending your review; nothing applied.*
+
+## Short answer: keep it, but it is aimed at half the target
+
+**What Request 25 is for.** It implements item **A.21** of `OffenseStrategies/Discovery/DiscoveryPlan.md`: *"The City of Eden Prairie building-permit responses to Farmers (if Farmers ever requested permit records on the family's claim). Objective 4 (refused-to-engage record)."*
+
+It is a request built to produce the answer **"no such documents exist,"** and that negative is its value. The Prieve Report's Activities list at page 2 of 7 names the 2020 Minnesota Residential Code, four Farmers photo logs and estimates, a building loss worksheet, Farmers correspondence, a homeowner window-condition summary, and weather records — **no permit records**. If FIE also never requested them, then neither the carrier nor its retained engineer ever consulted the one objectively verifiable public record bearing on post-2020 exterior work in the neighborhood. That supports Complaint ¶69(a) (the September 3, 2024 "no other damages observed" representation of an adequate assessment) and ¶69(b) (the "most recent hail in Eden Prairie reported in 2020" premise).
+
+Cost of keeping it is near zero: narrow, cheap to answer, no plausible objection.
+
+**What it misses — and this is the larger fact.** Plaintiffs already gave Farmers the permits. The February 10, 2025 second response (`EventDocuments/2025-02-10-SecondResponseToFinalReport.pdf`) transmitted a permit table with columns for Permit #, Address, Work Type, Contractor, Issued Date, Final Date, and Hail Damage — including **EP187829** (17490 George Moran Dr, window replacement, issued 11/15/2023) and **EP190835** (17708 George Moran Dr).
+
+So "did You receive permit records concerning The Claim?" has a known answer: yes, from Plaintiffs. The live question is what FIE **did** with them — whether the February 10 submission was logged into the claim file at all, whether anyone evaluated it, and whether it was ever forwarded to Prieve. `OffenseStrategies/Deposition/2.1Prieve_Nathan.md` records that Prieve never supplemented or amended his report after that submission. That is Complaint ¶69(c) — the "engineer's report only" gate — in its most concrete form: evidence set aside because of who produced it rather than what it showed.
+
+**Current coverage of that gap is partial.** Request 1 (entire claim file) would capture the February 10 submission *if it is in the file*; Request 5 (all communications between Prieve and You) would capture a forward *if one happened*. Neither asks the routing question directly, and "it is not in the file" is precisely the answer worth pinning down.
+
+---
+
+## P-39. Request 25 — cover the handling of the permit data, not only the search for it  ⚠️ *pending*
+
+**Current:**
+
+> **REQUEST FOR PRODUCTION NO. 25:** All documents reflecting any request by You for, or receipt by You of, City of Eden Prairie building-permit records concerning The Claim.
+
+**Proposed:**
+
+> **REQUEST FOR PRODUCTION NO. 25:** (a) All documents reflecting any request for, or receipt of, building-permit or other municipal records concerning The Property, George Moran Drive, or the surrounding neighborhood, made or received by You, by Prieve Engineering, LLC, by Hancock Claims Consultants, or by any person acting on Your behalf, at any time in connection with The Claim or The 2020 Claim; and (b) all documents reflecting Your receipt, logging, routing, review, evaluation, or disposition of the building-permit information Plaintiffs submitted to You on or about January 31, 2025 and February 10, 2025 — including City of Eden Prairie permits EP187829 and EP190835 — together with all communications transmitting or referring to that information, including any transmission of it to Prieve Engineering, LLC or Hancock Claims Consultants. If You made no request for building-permit or municipal records at any time in connection with The Claim, state that expressly in Your response.
+
+**What the four changes do.**
+
+1. **Adds the vendors.** The request now reaches whether **Prieve or Hancock** consulted permit records, not only whether FIE did. This is the version that pairs with Interrogatory INT.3 in your discovery plan, which asks Prieve's methodology to state whether he consulted "the City of Eden Prairie building-permit records for hail-related repairs from 2020 forward." A "no" from both the carrier and its engineer is a stronger fact than a "no" from the carrier alone.
+2. **Adds the handling half.** Subpart (b) is the new substance: what FIE did with the permit data Plaintiffs handed it. Whether it was logged, who reviewed it, and whether it reached Prieve.
+3. **Widens the limiter.** "Concerning The Claim" could be read to exclude the 2020 claim and any neighborhood-wide search. The request now covers both claims and the neighborhood.
+4. **Forces the negative onto the record.** The closing sentence mirrors the structure you approved for Request 16 (P-13): if the answer is "we never asked," FIE has to write that down rather than stay silent. A negative you can quote is worth more than an absence you have to infer.
+
+**Two cautions.**
+
+- **The permits carry no cause field.** As `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` already notes, a permit records work type, address, contractor, and dates — nothing about hail. The permits establish post-2020 window-replacement work on the street; the 14-of-19 neighbor canvass is what supplies causation. Frame them that way in any brief, and expect FIE to make the point if you do not make it first.
+- **This does not replace the City subpoena.** Your discovery plan's non-party table already contemplates a Rule 45 subpoena to the City of Eden Prairie Building Permit Office for permits issued from January 1, 2020 forward on The Property, on George Moran Drive, and in the immediate neighborhood. Request 25 is about **FIE's conduct**; the subpoena is how you get **the permits themselves**. Keep both.
+
+**If you would rather not expand it.** Request 25 as currently written is still worth serving — it is among the cheapest requests in the set and the "we never asked" answer is affirmatively useful. The case for P-39 is that subpart (b) reaches the more damaging fact, and there is no cheaper place in the set to ask for it.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT — KEEP AS WRITTEN ☐   HOLD ☐`  — *pending your review; nothing applied*
+
 
 ---
 

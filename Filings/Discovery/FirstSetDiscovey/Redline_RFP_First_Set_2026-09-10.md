@@ -1,12 +1,12 @@
 # Redline — First Set of Requests for Production
 
-**Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-20, P-22 to P-29, and P-37.
-**Baseline:** the set as it stood before any of these edits (33 requests, 7 instructions).
-**Now:** 41 requests, 11 instructions.
+**Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-22, P-23 to P-29, P-21, and P-37.
+**Baseline:** the set as it stood before any of these edits — 33 requests, 7 instructions.
+**Now:** **40 requests, 11 instructions.** Old Request 33 (vendor management) was removed to the second-set draft and the remainder renumbered to a clean 1–40 (safe only because nothing has been served).
 **Source of truth:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx`
-**Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md` (Section 0 change log; Section V-A on the Prieve citation)
+**Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md` (Section 0 change log and numbering note)
 
-**REMOVED** is the text as it stood before these edits; **ADDED** is the operative text now. The caption block and the signature block are unchanged and are omitted.
+**REMOVED** is the text as it stood before these edits; **ADDED** is the operative text now. The caption block and the signature block are unchanged and are omitted. Note that renumbering makes several blocks look like rewrites when only the number changed.
 
 ---
 
@@ -114,29 +114,27 @@
 
 **REMOVED —** *\[ Optional — delete this note before serving. The following request seeks vendor-pattern discovery and may draw an overbreadth objection; serve it only if you choose to pursue vendor-bias discovery, or narrow it to Minnesota hail claims. \]*
 
+**REMOVED —** **REQUEST FOR PRODUCTION NO. 33:** All vendor-management, selection, oversight, performance-evaluation, and service-agreement documents concerning Hancock Claims Consultants and Prieve Engineering, LLC from January 1, 2020 forward, including documents reflecting the volume of assignments to, and payments made to, each.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 33:** All estimates prepared, received, or reviewed by You in connection with The Claim or The 2020 Claim, produced in native format with the estimate identifier, price-list version, and revision history intact; all documents stating or reflecting Your methodology for calculating actual cash value and depreciation on losses to windows, siding, and exterior components, including depreciation schedules, useful-life tables, and any condition or age adjustment applied; all documents showing the derivation of the $6,400 Actual Cash Value stated in The Appraisal Award, including any worksheet, calculation, or communication allocating that figure between the awarded windows; and the Xactimate or other estimating-platform price lists for Hennepin County, Minnesota in effect from July 2024 through the present.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 34:** The complete underwriting file for Policy 98055-49-65 from application through the October 22, 2023 renewal, including the application and all supporting materials; all underwriting, renewal, or loss-control inspections of The Property and all photographs taken in connection with them; all underwriting guidelines applied to The Property; all documents reflecting the condition of The Property as recorded by You at any time before July 13, 2024; and all documents evidencing the attorney-in-fact relationship between Fire Insurance Exchange and Fire Underwriters Association, including the subscription agreement and power of attorney applicable to Policy 98055-49-65.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 35:** The Declarations page for Policy 98055-49-65 in force on July 13, 2024; the complete policy, including all forms and endorsements, as delivered to Plaintiffs at the October 22, 2023 renewal; all documents evidencing delivery of the policy and of any endorsement to Plaintiffs; and all documents showing the Coverage A limit in force on July 13, 2024, the calculation of the $17,720 windstorm and hail deductible, and the manner in which that deductible applies to a loss under The Policy.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 36:** All audio recordings, voicemail messages, transcripts, call notes, and telephone logs relating to The Claim or The 2020 Claim, including the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu and the February 10, 2025 voicemail from Nicholas Brau, together with all documents stating Your retention policy for call recordings, voicemail messages, and telephone logs.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 37:** All documents You contend support (a) each affirmative defense asserted in Your Answer; (b) each denial of an allegation of the Complaint; and (c) any contention that hail did not cause damage to any window or exterior component of The Property beyond the windows designated "F 1.7" and "B 1.2" in The Appraisal Award. This request also seeks all documents described in, or responsive to, Your disclosures under Minn. R. Civ. P. 26.01(a).
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 38:** All documents You contend establish that The Appraisal Award resolved The Claim, in whole or in part, including all documents identifying each window, sash, or exterior component that the appraisal panel evaluated and each that it did not evaluate; all documents reflecting the scope of the matters submitted to the panel; and all documents supporting Your Second Affirmative Defense.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 39:** All documents identifying, keying, indexing, or cross-referencing the window designations "F 1.7" and "B 1.2" used in The Appraisal Award, including any window inventory, code key, schedule, worksheet, photograph index, or estimate line-item list prepared or used by You, by Greg Tomes, by John Foster, by Wade Roos, by Pure Construction, or by any person acting on Your behalf, and all communications in which either designation appears.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 40:** All documents stating or reflecting Your interpretation, guidance, training, or claims-handling practice concerning Endorsement J6944 (Limited Matching of Undamaged Property) and concerning the matching obligation addressed in *Cedar Bluff Townhome Condominium Ass'n v. American Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014), as applied to Minnesota property claims, including any guidance concerning claims in which the original manufacturer of the damaged property has ceased production or the original product is no longer available.
+
 ---
 
 ### Change 13
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 34:** All estimates prepared, received, or reviewed by You in connection with The Claim or The 2020 Claim, produced in native format with the estimate identifier, price-list version, and revision history intact; all documents stating or reflecting Your methodology for calculating actual cash value and depreciation on losses to windows, siding, and exterior components, including depreciation schedules, useful-life tables, and any condition or age adjustment applied; all documents showing the derivation of the $6,400 Actual Cash Value stated in The Appraisal Award, including any worksheet, calculation, or communication allocating that figure between the awarded windows; and the Xactimate or other estimating-platform price lists for Hennepin County, Minnesota in effect from July 2024 through the present.
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 35:** The complete underwriting file for Policy 98055-49-65 from application through the October 22, 2023 renewal, including the application and all supporting materials; all underwriting, renewal, or loss-control inspections of The Property and all photographs taken in connection with them; all underwriting guidelines applied to The Property; all documents reflecting the condition of The Property as recorded by You at any time before July 13, 2024; and all documents evidencing the attorney-in-fact relationship between Fire Insurance Exchange and Fire Underwriters Association, including the subscription agreement and power of attorney applicable to Policy 98055-49-65.
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 36:** The Declarations page for Policy 98055-49-65 in force on July 13, 2024; the complete policy, including all forms and endorsements, as delivered to Plaintiffs at the October 22, 2023 renewal; all documents evidencing delivery of the policy and of any endorsement to Plaintiffs; and all documents showing the Coverage A limit in force on July 13, 2024, the calculation of the $17,720 windstorm and hail deductible, and the manner in which that deductible applies to a loss under The Policy.
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 37:** All audio recordings, voicemail messages, transcripts, call notes, and telephone logs relating to The Claim or The 2020 Claim, including the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu and the February 10, 2025 voicemail from Nicholas Brau, together with all documents stating Your retention policy for call recordings, voicemail messages, and telephone logs.
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 38:** All documents You contend support (a) each affirmative defense asserted in Your Answer; (b) each denial of an allegation of the Complaint; and (c) any contention that hail did not cause damage to any window or exterior component of The Property beyond the windows designated "F 1.7" and "B 1.2" in The Appraisal Award. This request also seeks all documents described in, or responsive to, Your disclosures under Minn. R. Civ. P. 26.01(a).
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 39:** All documents You contend establish that The Appraisal Award resolved The Claim, in whole or in part, including all documents identifying each window, sash, or exterior component that the appraisal panel evaluated and each that it did not evaluate; all documents reflecting the scope of the matters submitted to the panel; and all documents supporting Your Second Affirmative Defense.
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 40:** All documents identifying, keying, indexing, or cross-referencing the window designations "F 1.7" and "B 1.2" used in The Appraisal Award, including any window inventory, code key, schedule, worksheet, photograph index, or estimate line-item list prepared or used by You, by Greg Tomes, by John Foster, by Wade Roos, by Pure Construction, or by any person acting on Your behalf, and all communications in which either designation appears.
-
-**ADDED —** **REQUEST FOR PRODUCTION NO. 41:** All documents stating or reflecting Your interpretation, guidance, training, or claims-handling practice concerning Endorsement J6944 (Limited Matching of Undamaged Property) and concerning the matching obligation addressed in *Cedar Bluff Townhome Condominium Ass'n v. American Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014), as applied to Minnesota property claims, including any guidance concerning claims in which the original manufacturer of the damaged property has ceased production or the original product is no longer available.
-
----
-
-### Change 14
 
 **REMOVED —** The undersigned certifies that on \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* was served upon Defendant, through its attorney of record (or upon Defendant directly if no attorney has appeared), by \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \[e-service through the Minnesota eFS system / email / U.S. Mail\], at \_\_\_\_\_\_\_\_\_\_\_\_\_\_, in accordance with Minn. R. Civ. P. 5. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04.
 
@@ -144,4 +142,4 @@
 
 ---
 
-**14 change blocks.** Requests: 41 (was 33). Instructions: 11 (was 7).
+**13 change blocks.** Requests: 40 (was 33). Instructions: 11 (was 7).
