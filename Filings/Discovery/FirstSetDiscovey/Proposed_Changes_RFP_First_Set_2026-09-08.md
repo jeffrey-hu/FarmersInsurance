@@ -67,6 +67,7 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-37 | **Request 23** — Prieve citation corrected to page 2 of 7 and page 4 of 7, with the language quoted |
 | P-21 | **Request 33 removed** from the First Set and moved to the second-set draft; remaining requests renumbered to a clean 1–40 |
 | P-30 | **NEW Request 41** — water intrusion from July 13, 2024 forward; the wear/tear and Conclusion 3 findings; mitigation |
+| P-10 *(part)* | **Signature block** — each Plaintiff's telephone and email filled in; block restructured per Minn. R. Civ. P. 26.07 |
 | P-38 *(part)* | **`OffenseStrategies/Discovery/DiscoveryPlan.md`** lines 164, 270, 443, 447 and **`OffenseStrategies/Deposition/2.1Prieve_Nathan.md`** line 167 — "page 7" corrected to "page 4 of 7" |
 
 **Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The set runs 1–41 with no gap. The bracketed drafting note is gone.
@@ -93,7 +94,7 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 1. **The P-2 date-range dependency is now resolved.** Instruction 1 extends the period back to October 22, 2014 for The Policy, the underwriting file, and prior claims. When P-2 was applied, the underwriting-file request (P-23) was still pending and the reference was orphaned. P-23 is now applied as **Request 34**, so Instruction 1 and Request 35 line up: the underwriting file is requested from application forward, and the instruction sets the period that reaches it. Requests 22 (2014 and 2015 claims) and 24 (endorsement drafting history) rely on the same extension.
 2. **A correction to what I first said about P-11 through P-14.** I described those four as having "given up ground" on non-party files. On a closer side-by-side that was overstated: the applied text is broader in scope than the original ("constituting, reflecting, or relating to" vs. "the complete file"), Instruction 10 already defines control to include practical ability to obtain, and the applied text adds a duty to identify who holds anything FIE does not. What was genuinely lost is narrower — the phrase "in Your possession, custody, or control" lets FIE self-assess in silence rather than state an objection you can move against. **P-11A, P-12A, and P-14A** — added and applied September 10, 2026 — close that gap without reverting anything. Separately, and regardless of those three: **P-35, the Rule 45 subpoenas, remains the primary route to non-party material and is still undecided.**
 
-**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search) (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), **P-38** (the remaining five files in the correction pass, plus the decision on the Complaint source `.docx`), and **P-39** (Request 25 — permit-records handling).
+**Not applied — awaiting your decision:** P-6 (place of production), P-10 (the service-date and certificate-of-service blanks only — telephone and email are done), P-16 (Request 11 phrase search) (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), **P-38** (the remaining five files in the correction pass, plus the decision on the Complaint source `.docx`), and **P-39** (Request 25 — permit-records handling).
 
 ---
 
@@ -111,7 +112,7 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 | P-7 | Instruction 5 — add the Rule 34.02 fallback if the ESI paragraph is not ordered | Medium | No | **✅ applied** |
 | P-8 | Certificate of service — cite Rule 5.04**(b)**, not 5.04 | Low | No | **✅ applied** |
 | P-9 | **Delete the bracketed "Optional — delete this note" paragraph** | **Critical** | No | **✅ applied** |
-| P-10 | Fill the Dated, telephone, and email blanks | High | Yes | pending |
+| P-10 | Fill the Dated, telephone, and email blanks | High | Yes | **◑ partial** |
 | **II. Changes to existing requests** | | | | |
 | P-11 | RFP 4 (Hancock) — reframe for possession, custody, or control | **Critical** | No | **✅ applied** |
 | P-11A | Request 4 — assert control; demand the Hancock engagement documents | High | No | **✅ applied** |
@@ -279,11 +280,32 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 
 ---
 
-## P-10. Fill the blanks
+## P-10. Fill the blanks  ◑ *partially applied*
 
-Dated line, telephone, email, and the certificate-of-service blanks. See Section VI.
+**✅ Applied September 10, 2026 — telephone and email.** The signature block now carries each Plaintiff's own contact information, taken from the filed Complaint and the September 4, 2026 Discovery Plan V5 and cross-checked against `LegalReferences/CaseContacts.md` (all three agree):
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+| | Telephone | Email |
+|---|---|---|
+| Yibiao Lu | 763-843-2859 | bill_y_lu@yahoo.com |
+| Jie Hu | 763-843-2860 | jie_h_hu@yahoo.com |
+
+The block was also **restructured to match the filed Complaint**: a single shared "Telephone: ___ Email: ___" line could not carry two Plaintiffs' details, so each Plaintiff now has his or her own address, city, telephone, and email beneath the signature line. This also satisfies **Minn. R. Civ. P. 26.07**, which requires a self-represented party who signs a discovery request to give address, email address, and telephone number.
+
+**✅ Also applied September 10, 2026 — the rest of the served package.** The same restructured signature block was applied to `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` (and its `.md`) and to `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`, so all three documents that will be served together now carry identical contact information. The bare `Minn. R. Civ. P. 5.04` cite in those two was corrected to **5.04(b)** at the same time, matching P-8.
+
+**Not yet done:** `Plaintiffs_Initial_Disclosures.docx` / `.md` still carries the old shared `Telephone: ______ Email: ______` line. That document is due **September 25, 2026** and is served, not filed, so it should get the same treatment before it goes out.
+
+**Still blank — these cannot be filled until service:**
+
+| Blank | Needs |
+|---|---|
+| `Dated: ______, 2026.` | The date you actually serve |
+| Certificate of service — date | Same date |
+| Certificate of service — method | Choose from the bracketed options; confirm whether Kennedy Law Firm accepts e-service through the Minnesota eFS system |
+| Certificate of service — address | Kennedy Law Firm's address from its Notice of Appearance |
+| Certificate of service — signature | Consider having both Plaintiffs sign, as with the initial disclosures |
+
+`REMAINING BLANKS — APPROVE ☐   APPROVE AS EDITED ☐   HOLD ☐`  — *pending; nothing applied*
 
 ---
 

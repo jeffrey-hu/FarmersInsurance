@@ -155,6 +155,14 @@ Respectfully submitted,
 
 Yibiao Lu, Plaintiff *pro se*
 
+17756 George Moran Dr.
+
+Eden Prairie, MN 55347
+
+Telephone: 763-843-2859
+
+Email: bill\_y\_lu@yahoo.com
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Jie Hu, Plaintiff *pro se*
@@ -163,7 +171,9 @@ Jie Hu, Plaintiff *pro se*
 
 Eden Prairie, MN 55347
 
-Telephone: \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Telephone: 763-843-2860
+
+Email: jie\_h\_hu@yahoo.com
 
 **CERTIFICATE OF SERVICE**
 
