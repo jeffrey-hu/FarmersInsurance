@@ -5,9 +5,9 @@
 **Companion:** `RFP_First_Set_Review_2026-09-08.md`
 
 > ### ✅ PARTIALLY APPLIED — September 10, 2026
-> **Approved and applied to both the `.docx` and the `.md`:** P-1, P-2, P-3, P-4, P-5, P-7, P-8, P-9, P-11, P-12, P-13, P-14, P-15.
+> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, and P-22 to P-29. **28 of 39 items.**
 >
-> **Still under your review — nothing applied:** P-6, P-10, and P-16 through P-36. The target documents are unchanged as to every one of those items.
+> **Still under your review — nothing applied:** P-6, P-10, P-16, P-21, P-30, P-31, P-32, and P-33 through P-36. The target documents are unchanged as to every one of those items.
 >
 > A backup of the pre-edit `.docx` is kept for this session. See the change log in Section 0 below.
 
@@ -17,7 +17,7 @@
 
 ## How to use this
 
-Each change is numbered **P-1** through **P-36**, with the current text, the proposed text, and the reason. Mark each one:
+Each change is numbered **P-1** through **P-36**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
 
 - `APPROVE` — apply as written
 - `APPROVE AS EDITED` — apply with your changes written in
@@ -49,15 +49,45 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-13 | **Request 16** (umpire Roos) rewritten, with the express "if You possess no report" clause |
 | P-14 | **Request 17** (Tomes) rewritten, with the scope-of-appraisal communications clause added |
 | P-15 | **Request 9** (Prieve engagements) narrowed to Minnesota residential hail claims |
+| P-11A | **Request 4** — control sentence added; Hancock engagement documents demanded |
+| P-12A | **Request 5** — control sentence added; Prieve engagement documents demanded |
+| P-14A | **Request 17** — control sentence added; Tomes appointment documents demanded |
+| P-17 | **Request 12** narrowed; the unbounded "if no such log exists" fallback deleted |
+| P-18 | **Request 14** narrowed to the date, recipients, and categories of the litigation hold |
+| P-19 | **Request 21** — audit-logging capability and log-retention clause added |
+| P-20 | **Request 28** (Hancock engagements) narrowed to Minnesota residential hail claims |
+| P-22 | **NEW Request 34** — estimates, price lists, depreciation, and the $6,400 ACV derivation |
+| P-23 | **NEW Request 35** — the underwriting file and attorney-in-fact documentation |
+| P-24 | **NEW Request 36** — declarations page, policy as delivered, deductible calculation |
+| P-25 | **NEW Request 37** — recorded calls, voicemails, telephone logs, retention policy |
+| P-26 | **NEW Request 38** — documents behind the defenses, the denials, and the disclosures |
+| P-27 | **NEW Request 39** — documents FIE contends show the award resolved The Claim |
+| P-28 | **NEW Request 40** — the F 1.7 / B 1.2 decoding documents |
+| P-29 | **NEW Request 41** — J6944 and *Cedar Bluff* matching guidance |
 
-**Document state after these edits:** 33 requests (unchanged in number), 11 instructions (was 7), 13 definitions (unchanged). The bracketed drafting note is gone. Request numbering is unchanged, so the renumbering map in Section V does not apply yet — it takes effect only if P-21 through P-30 are approved.
+**Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The bracketed drafting note is gone.
+
+**⚠️ Numbering note — the new requests are 34 through 41, not 33 through 40.** Section III of this file and the renumbering map in Section V both assumed P-21 would be approved and the old Request 33 (vendor management) would leave the set. **P-21 is still pending**, so old Request 33 stayed in place and the eight new requests were appended after it:
+
+| Proposal item | Section III said | **Actual number in the served set** |
+|---|---|---|
+| P-22 valuation and estimating | 33 | **34** |
+| P-23 underwriting file | 34 | **35** |
+| P-24 declarations page | 35 | **36** |
+| P-25 recorded calls | 36 | **37** |
+| P-26 defenses and denials | 37 | **38** |
+| P-27 award resolved The Claim | 38 | **39** |
+| P-28 F 1.7 / B 1.2 decoding | 39 | **40** |
+| P-29 J6944 matching guidance | 40 | **41** |
+
+If you later approve P-21 and remove old Request 33, **do not renumber** — a served set keeps its numbers, and FIE's responses will cite them. Withdraw Request 33 by letter instead and leave the gap.
 
 **Two things to know about what was applied:**
 
-1. **P-2 references a request that does not exist yet.** Instruction 1 now extends the period to 2014 for "the underwriting file for The Policy," but the underwriting-file request is **P-23, still pending**. The instruction is harmless as written — it defines a period, it does not create an obligation — and it is already doing work for Requests 22 and 24. If you ultimately reject P-23, the phrase "the underwriting file for The Policy" should come out of Instruction 1.
-2. **P-11 through P-14 deliberately gave up ground that P-35 was supposed to recover.** Those four requests no longer reach Prieve's, Hancock's, Roos's, or Tomes's own files — only what FIE holds. That is the right trade **only if the Rule 45 subpoenas go out**. P-35 is still pending. Until you decide it, the set as it now stands reaches less non-party material than the version you started with.
+1. **The P-2 date-range dependency is now resolved.** Instruction 1 extends the period back to October 22, 2014 for The Policy, the underwriting file, and prior claims. When P-2 was applied, the underwriting-file request (P-23) was still pending and the reference was orphaned. P-23 is now applied as **Request 35**, so Instruction 1 and Request 35 line up: the underwriting file is requested from application forward, and the instruction sets the period that reaches it. Requests 22 (2014 and 2015 claims) and 24 (endorsement drafting history) rely on the same extension.
+2. **A correction to what I first said about P-11 through P-14.** I described those four as having "given up ground" on non-party files. On a closer side-by-side that was overstated: the applied text is broader in scope than the original ("constituting, reflecting, or relating to" vs. "the complete file"), Instruction 10 already defines control to include practical ability to obtain, and the applied text adds a duty to identify who holds anything FIE does not. What was genuinely lost is narrower — the phrase "in Your possession, custody, or control" lets FIE self-assess in silence rather than state an objection you can move against. **P-11A, P-12A, and P-14A** — added and applied September 10, 2026 — close that gap without reverting anything. Separately, and regardless of those three: **P-35, the Rule 45 subpoenas, remains the primary route to non-party material and is still undecided.**
 
-**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-17 through P-21, P-22 through P-32 (the nine new requests and the three optional ones), P-33 through P-36 (companion actions).
+**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-21 (remove old Request 33), P-30 (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), and P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**).
 
 ---
 
@@ -78,25 +108,28 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-10 | Fill the Dated, telephone, and email blanks | High | Yes | pending |
 | **II. Changes to existing requests** | | | | |
 | P-11 | RFP 4 (Hancock) — reframe for possession, custody, or control | **Critical** | No | **✅ applied** |
+| P-11A | Request 4 — assert control; demand the Hancock engagement documents | High | No | **✅ applied** |
 | P-12 | RFP 5 (Prieve) — same | **Critical** | No | **✅ applied** |
+| P-12A | Request 5 — assert control; demand the Prieve engagement documents | **Critical** | No | **✅ applied** |
 | P-13 | RFP 16 (umpire Roos) — same, and make the "we have nothing" answer useful | **Critical** | No | **✅ applied** |
 | P-14 | RFP 17 (Tomes) — same | **Critical** | No | **✅ applied** |
+| P-14A | Request 17 — assert control; demand the Tomes appointment documents | High | No | **✅ applied** |
 | P-15 | RFP 9 (Prieve engagements) — narrow to MN residential hail; "sufficient to show" | High | No | **✅ applied** |
 | P-16 | RFP 11 (phrase search) — limit to named custodians, or move to an ESI protocol | High | **Yes** | pending |
-| P-17 | RFP 12 — delete the unbounded fallback clause | Medium | No | pending |
-| P-18 | RFP 14 (litigation hold) — narrow to date, recipients, categories; reserve the notice | High | No | pending |
-| P-19 | RFP 21 (audit trail) — add the audit-logging capability clause | High | No | pending |
-| P-20 | RFP 28 (Hancock engagements) — same narrowing as P-15 | High | No | pending |
+| P-17 | RFP 12 — delete the unbounded fallback clause | Medium | No | **✅ applied** |
+| P-18 | RFP 14 (litigation hold) — narrow to date, recipients, categories; reserve the notice | High | No | **✅ applied** |
+| P-19 | RFP 21 (audit trail) — add the audit-logging capability clause | High | No | **✅ applied** |
+| P-20 | RFP 28 (Hancock engagements) — same narrowing as P-15 | High | No | **✅ applied** |
 | P-21 | **RFP 33 (vendor management) — remove from this set, hold for a second set** | High | **Yes** | pending |
 | **III. New requests (become Nos. 33–41)** | | | | |
-| P-22 | NEW 33 — estimates, price lists, depreciation, and the $6,400 ACV derivation | **Critical** | No | pending |
-| P-23 | NEW 34 — the underwriting file and attorney-in-fact documentation | **Critical** | No | pending |
-| P-24 | NEW 35 — declarations page, policy as delivered, deductible calculation | **Critical** | No | pending |
-| P-25 | NEW 36 — recorded calls, voicemails, telephone logs, retention policy | High | No | pending |
-| P-26 | NEW 37 — documents supporting the defenses, the denials, and the disclosures | High | No | pending |
-| P-27 | NEW 38 — documents FIE contends show the award resolved The Claim | **Critical** | No | pending |
-| P-28 | NEW 39 — the F1.7 / B1.2 decoding documents | High | No | pending |
-| P-29 | NEW 40 — J6944 and *Cedar Bluff* matching guidance | Medium | No | pending |
+| P-22 | NEW 33 — estimates, price lists, depreciation, and the $6,400 ACV derivation | **Critical** | No | **✅ applied** |
+| P-23 | NEW 34 — the underwriting file and attorney-in-fact documentation | **Critical** | No | **✅ applied** |
+| P-24 | NEW 35 — declarations page, policy as delivered, deductible calculation | **Critical** | No | **✅ applied** |
+| P-25 | NEW 36 — recorded calls, voicemails, telephone logs, retention policy | High | No | **✅ applied** |
+| P-26 | NEW 37 — documents supporting the defenses, the denials, and the disclosures | High | No | **✅ applied** |
+| P-27 | NEW 38 — documents FIE contends show the award resolved The Claim | **Critical** | No | **✅ applied** |
+| P-28 | NEW 39 — the F1.7 / B1.2 decoding documents | High | No | **✅ applied** |
+| P-29 | NEW 40 — J6944 and *Cedar Bluff* matching guidance | Medium | No | **✅ applied** |
 | P-30 | NEW 41 — water intrusion after October 28, 2025; mitigation instructions | Medium | No | pending |
 | P-31 | Claim-handler training and incentives — proposed, but optional | Medium | **Yes** | pending |
 | P-32 | Reserve history — **recommend holding**, not proposed | — | **Yes** | pending |
@@ -261,6 +294,36 @@ Dated line, telephone, email, and the certificate-of-service blanks. See Section
 
 **✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
+
+---
+
+## P-11A. Request 4 — assert the control theory and demand the engagement documents  ✅
+
+*Follow-on to P-11, proposed September 10, 2026. This does **not** revert P-11; it adds one sentence to the text already applied.*
+
+**Background — why this follow-on exists.** When P-11 through P-14 were applied on September 10, 2026, I described them as having "given up ground" to FIE on non-party files. On a closer side-by-side that was overstated, and the correction matters for what to do now:
+
+- The applied text is **broader in scope**, not narrower: "constituting, reflecting, or relating to" reaches more than "the complete file."
+- Instruction 10 (P-4, applied) already defines control to include "documents held by any person or entity from whom You have the practical ability to obtain them," so the control theory is preserved across the whole set.
+- The applied text adds an obligation the original never had: if FIE does not have a document, it must **identify who does** — which is a subpoena roadmap, and, if FIE can name no one, an early preservation flag.
+
+**What was genuinely lost.** The original bare demand ("The complete Prieve Engineering file …") forced FIE either to produce or to state an objection — and an objection is something you can bring to a judge. The phrase "in Your possession, custody, or control" lets a careful responder self-assess in silence: produce a thin set, never engage the control question, never file an objection you can move against. P-11A, P-12A, and P-14A close that gap without reverting anything, and were applied on September 10, 2026.
+
+**Why the retention agreement is the operative document.** "Possession, custody, or control" in Minn. R. Civ. P. 34.01 uses the same phrase as the federal rule, and courts applying it divide between a "legal right" standard and a broader "practical ability" standard. I did not find a Minnesota decision squarely resolving which applies here. That uncertainty is precisely why these additions ask for the **engagement documents** rather than argue the abstract standard: a carrier-vendor retention agreement usually specifies the carrier's right of access to the vendor's file, and once that document is in hand the question answers itself instead of being briefed.
+
+**Why there is no P-13A.** Request 16 is the umpire, Wade Roos. He is the neutral, not FIE's retained vendor. Asserting that FIE controls a neutral umpire's file is not credible, and making the claim there would weaken the same claim where it *is* credible — against Prieve, Hancock, and FIE's own appointed appraiser. Request 16 stays exactly as applied.
+
+**These do not replace the subpoenas.** P-35 (Rule 45 subpoenas to Prieve, Hancock, Roos, Tomes, Foster, and Pure Construction) remains the primary route to non-party material and is still pending your decision. P-11A, P-12A, and P-14A are the belt; P-35 is the suspenders — and only the belt is buckled.
+
+
+**Proposed — append to the end of Request 4, after the existing final sentence:**
+
+> Plaintiffs contend that documents held by Hancock Claims Consultants in connection with its engagement by You are within Your possession, custody, or control within the meaning of Minn. R. Civ. P. 34.01. If You disagree, state the basis for that position and produce the retention agreement, engagement letter, and service agreement governing Your access to those documents.
+
+**Note on overlap.** Request 4 as applied already asks for "the retention agreement, statement of work, or service agreement under which Hancock was engaged." The added sentence is not redundant: it makes production of those documents an obligation **triggered by a disagreement about control**, so FIE cannot both withhold Hancock material as beyond its control and decline to produce the document that would prove the point.
+
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
+
 ---
 
 ## P-12. Request 5 — Prieve (possession, custody, or control)  ✅
@@ -274,6 +337,28 @@ Dated line, telephone, email, and the certificate-of-service blanks. See Section
 **Why.** Same fix, and it matters more here than anywhere else in the set. The single most valuable document in this case may be a redline of a Prieve draft showing an FIE comment. That document, if it exists, is in FIE's email — squarely within its control — and you do not want the request phrased so that FIE can answer "Prieve's file is Prieve's."
 
 **Companion action:** `Shell_Subpoena_Duces_Tecum_to_Prieve.docx` is already drafted. Serve it (P-35).
+
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
+
+
+---
+
+## P-12A. Request 5 — assert the control theory and demand the engagement documents  ✅
+
+*Follow-on to P-12, proposed September 10, 2026. This does **not** revert P-12; it adds one sentence to the text already applied.*
+
+**Proposed — append to the end of Request 5, after the existing final sentence:**
+
+> Plaintiffs contend that documents held by Prieve Engineering, LLC in connection with its engagement by You are within Your possession, custody, or control within the meaning of Minn. R. Civ. P. 34.01. If You disagree, state the basis for that position and produce the retention agreement, engagement letter, and service agreement governing Your access to those documents.
+
+**This is the one where it matters most — and there is a second, stronger argument to keep in reserve.**
+
+Request 5 asks for **every draft** of the Prieve report and for any FIE **comment on, or instruction to revise,** a draft. Two features of Minnesota practice make those unusually reachable, and they are worth knowing before the meet-and-confer:
+
+1. **Minnesota never adopted the federal expert-discovery protections.** Minn. R. Civ. P. 26.02(e) retains the pre-2010 structure — identify the testifying expert by interrogatory, subject matter, substance of facts and opinions, and grounds; further discovery by court order. It contains **no** counterpart to federal Rule 26(b)(4)(B) (drafts of expert reports) or 26(b)(4)(C) (attorney-expert communications). What would be presumptively protected in federal court is not presumptively protected here.
+2. **Rule 26.02(e) may not apply to Prieve at all.** By its terms it governs facts and opinions "acquired or developed **in anticipation of litigation or for trial**." Prieve was retained in October 2024, during claim handling, roughly 21 months before suit was commenced in July 2026, and its report was the stated basis of the November 4, 2024 denial. That makes the file ordinary-course claim material — the *City Pages* line discussed in § 5 of the review — rather than trial-preparation material.
+
+**Practical advice: lead with argument 2, hold argument 1.** If FIE resists the drafts, the first response is that the Prieve file is claim-handling material, not expert material, and Rule 26.02(e) is not in play. Argument 1 is the fallback if the court disagrees. Do not open with the expert-rule point, because framing Prieve as an "expert" is FIE's preferred framing, not yours.
 
 **✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
@@ -302,6 +387,23 @@ Dated line, telephone, email, and the certificate-of-service blanks. See Section
 > **REQUEST FOR PRODUCTION NO. 17:** All documents in Your possession, custody, or control constituting or relating to the appraiser file of Greg Tomes, including his notes, photographs, measurements, methodology, drafts, invoices, and billing records; all communications between You and Mr. Tomes concerning The Claim or the appraisal, including all communications concerning the scope of the appraisal and the items to be evaluated; the agreement or engagement under which he was appointed; and all documents reflecting his reasons for not signing The Appraisal Award. If You contend any responsive document is not within Your possession, custody, or control, identify it and identify the person who has it.
 
 **Why.** Tomes was FIE's own appointed appraiser, so control is a live argument rather than a lost one — but the request should not depend on winning it. The added clause is the important one: **communications between FIE and its own appraiser about the scope of the appraisal**. Those go directly to Count III (whether the panel was steered to two windows) and to the *Mork* misfeasance theory, and they sit in FIE's files regardless of who controls Tomes's own working papers.
+
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
+
+
+---
+
+## P-14A. Request 17 — assert the control theory and demand the engagement documents  ✅
+
+*Follow-on to P-14, proposed September 10, 2026. This does **not** revert P-14; it adds one sentence to the text already applied.*
+
+**Proposed — append to the end of Request 17, after the existing final sentence:**
+
+> Plaintiffs contend that documents held by Greg Tomes in connection with his appointment as Your appraiser are within Your possession, custody, or control within the meaning of Minn. R. Civ. P. 34.01. If You disagree, state the basis for that position and produce the retention agreement, engagement letter, appointment documents, and any service or fee agreement governing Your access to those documents.
+
+**Why this one is the strongest control argument of the three.** Tomes was not an independent vendor engaged for an investigation — he was **FIE's own appointed appraiser**, selected by FIE to act for FIE in the appraisal. That is an agency relationship on its face, which is the cleanest version of the control argument in the set.
+
+There is a tension FIE will have to navigate, and it is worth surfacing deliberately: an appraiser is conventionally described as an independent participant in the appraisal, and FIE may want that characterization for other reasons. If FIE responds that it has no control over Tomes because he acted independently, that answer is useful to you on **Count III** — it is difficult to describe an appraiser as beyond the appointing party's reach for discovery purposes while also relying on the award that appraiser declined to sign. Either answer advances something.
 
 **✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
@@ -341,7 +443,7 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 ---
 
-## P-17. Request 12 — delete the fallback clause
+## P-17. Request 12 — delete the fallback clause  ✅
 
 **Current:** "Any log or record reflecting the acceptance or rejection of non-engineer evidence on hail claims; if no such log exists, all communications evidencing that practice."
 
@@ -351,11 +453,11 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 **Why.** The "if no such log exists, all communications evidencing that practice" clause is unbounded and duplicates P-16 anyway. Interrogatory 9 already asks FIE to identify every communication imposing the engineer-only rule, which is the right vehicle for the narrative half.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-18. Request 14 — the litigation hold
+## P-18. Request 14 — the litigation hold  ✅
 
 **Current:** "Your litigation-hold notice for this matter, including the date of issuance, the recipients, the categories of material preserved, and all updates."
 
@@ -365,11 +467,11 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 **Why.** A hold notice from counsel is the paradigm case for the protected tier of Minnesota work product — it is a lawyer's judgment about what matters. Demanding the document itself now is a fight you will probably lose, and losing it early costs you credibility on the requests you should win. The discoverable substance is the date, the recipients, and the scope, and Interrogatory 16 already asks for exactly that. Meanwhile the express reservation sets up the real motion: if Brau's September 6, 2024 notes turn out to be gone, you seek the notice then, on a spoliation record, from a much stronger position.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-19. Request 21 — close the "our system can't do that" escape hatch
+## P-19. Request 21 — close the "our system can't do that" escape hatch  ✅
 
 **Current:** "The complete audit trail for The Claim file, including every entry, edit, deletion, or supplementation, with the timestamp and user for each."
 
@@ -379,11 +481,11 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 **Why.** This is the request that would catch a late edit or a deleted entry around the September 3 and November 4, 2024 denials and around Brau's September 6, 2024 inspection. Without the added clause, "our claim system does not produce that report" ends the inquiry and you have no way to test it. With it, FIE has to document the system's capabilities — and if the answer really is that the system cannot log edits, that fact is itself useful against a carrier asserting the completeness of its own file.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-20. Request 28 — narrow the Hancock pattern request
+## P-20. Request 28 — narrow the Hancock pattern request  ✅
 
 **Current:** "All documents identifying Hancock Claims Consultants' Minnesota engagements from January 1, 2020 forward, including retention agreements and file lists, and documents sufficient to identify the outcome of each such engagement."
 
@@ -393,7 +495,7 @@ This is an ESI search-term protocol dressed as a document request, and it is the
 
 **Why.** Same structure as P-15. There is a specific reason this one is worth keeping in some form: Complaint ¶53 alleges the Hancock report marked **every** inspected component — windows, siding, garage, downspouts — as "Damaged - No," including downspouts later photographed as dented. If Hancock's Minnesota hail inspections return "no damage" at a notable rate, that is not a fishing expedition, it is the pattern your ¶72 public-benefit allegation describes.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
@@ -415,7 +517,7 @@ If you would rather serve it now, the narrowed form would be: *Documents suffici
 
 These become Nos. 33–41 if P-21 is approved (Request 33 leaves the set). If you keep the current Request 33, everything below shifts by one.
 
-## P-22. NEW Request 33 — the valuation file ⚠️ *the biggest gap in the set*
+## P-22. NEW Request 33 — the valuation file ⚠️ *the biggest gap in the set*  ✅
 
 **Proposed:**
 
@@ -425,11 +527,11 @@ These become Nos. 33–41 if P-21 is approved (Request 33 leaves the set). If yo
 
 Right now you have served nothing that would let you test the $6,400 figure, nothing that would let your own expert build a competing ACV, and nothing on the depreciation method that produces the number. Note also that the award states a **lump sum** for two windows; the allocation clause above is aimed at whether any per-window allocation exists behind it, which is simultaneously a Count III itemization point under Minn. Stat. § 65A.01, subd. 3.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-23. NEW Request 34 — the underwriting file
+## P-23. NEW Request 34 — the underwriting file  ✅
 
 **Proposed:**
 
@@ -443,11 +545,11 @@ Second, the jurisdiction defense. FIE's first affirmative defense alleges lack o
 
 *(This request is why P-2 extends the time period back to 2014.)*
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-24. NEW Request 35 — the declarations page and the policy as delivered
+## P-24. NEW Request 35 — the declarations page and the policy as delivered  ✅
 
 **Proposed:**
 
@@ -457,11 +559,11 @@ Second, the jurisdiction defense. FIE's first affirmative defense alleges lack o
 
 The delivery clause is a separate small point: if FIE cannot show it delivered Endorsement J6944 (Limited Matching of Undamaged Property) at the 2023 renewal, that bears on whether FIE can rely on it against your Complaint ¶51 matching claim.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-25. NEW Request 36 — recorded calls and voicemails
+## P-25. NEW Request 36 — recorded calls and voicemails  ✅
 
 **Proposed:**
 
@@ -469,11 +571,11 @@ The delivery clause is a separate small point: if FIE cannot show it delivered E
 
 **Why.** Request 1 says "audio file," which arguably covers this — but paragraph 2 of your Discovery Plan V5 lists "recorded calls" as its own discovery subject, and the February 3, 2025 call is where a supervisor stated the engineer-only rule that Complaint ¶69(c) pleads as a Consumer Fraud Act violation. Ask for it by name. The retention-policy clause is deliberate: if the answer is that recordings are purged after 90 days, that answer should arrive with the policy attached, dated, so it can be tested against the litigation-hold timeline.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-26. NEW Request 37 — the documents behind the defenses and the denials
+## P-26. NEW Request 37 — the documents behind the defenses and the denials  ✅
 
 **Proposed:**
 
@@ -481,11 +583,11 @@ The delivery clause is a separate small point: if FIE cannot show it delivered E
 
 **Why.** Interrogatory 15 asks for the factual basis of the affirmative defenses; this is its document companion, and the two work together — a narrative answer with no documents behind it is exactly what you want on the record before a summary-judgment motion. The Rule 26.01(a) clause matters because initial disclosures are due **September 25, 2026**: FIE must describe its supporting documents by category then, and this request converts that description into an obligation to produce.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-27. NEW Request 38 — the § 604.18, subd. 4(c) target
+## P-27. NEW Request 38 — the § 604.18, subd. 4(c) target  ✅
 
 **Proposed:**
 
@@ -497,11 +599,11 @@ Merits: FIE's whole theory is that a binding award resolved everything and the l
 
 Bad faith: Minn. Stat. § 604.18, subd. 4(c) provides that taxable costs are "not available in any claim that is resolved or confirmed by arbitration or appraisal." That is the cleanest defense FIE has to the § 604.18 claim you have reserved — and your proposed Scheduling Order sets the motion-to-amend deadline at **November 1, 2027**, so the record has to be built well before then. Interrogatory 13 already asks the question; this makes FIE put paper behind the answer, or state that there is none.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-28. NEW Request 39 — decoding F 1.7 and B 1.2
+## P-28. NEW Request 39 — decoding F 1.7 and B 1.2  ✅
 
 **Proposed:**
 
@@ -509,11 +611,11 @@ Bad faith: Minn. Stat. § 604.18, subd. 4(c) provides that taxable costs are "no
 
 **Why.** `05_AppraisalSpecific_Discovery_Deposition.md` makes decoding F1.7 and B1.2 Count III discovery target #1, and RFA 8 already asks FIE to admit the award identifies the windows only by those codes. Requests 15–17 reach the appraisal correspondence generally, but nothing asks directly for the key. It is a small, concrete request, and either answer helps: a key tells you which windows were evaluated, and no key supports the non-itemization argument under Minn. Stat. § 65A.01, subd. 3 that Count III is built on.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
-## P-29. NEW Request 40 — matching and J6944
+## P-29. NEW Request 40 — matching and J6944  ✅
 
 **Proposed:**
 
@@ -521,7 +623,7 @@ Bad faith: Minn. Stat. § 604.18, subd. 4(c) provides that taxable costs are "no
 
 **Why.** Complaint ¶51 pleads that J6944 does not relieve FIE of the *Cedar Bluff* matching obligation where Semco ceased operations on December 31, 2019, and Interrogatory 8 asks FIE's contention item by item. Nothing asks for the documents behind the contention. If FIE's own guidance says matching is owed where a product is discontinued, that is a party admission on a pleaded element. Request 24's drafting-history clause is aimed at the endorsement's text; this is aimed at how FIE actually applies it.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
 
 ---
 
