@@ -5,9 +5,9 @@
 **Companion:** `RFP_First_Set_Review_2026-09-08.md`
 
 > ### ✅ PARTIALLY APPLIED — September 10, 2026
-> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, and P-22 to P-29. **28 of 39 items.**
+> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-22 to P-29, and **P-37**, plus the `OffenseStrategies` half of **P-38**. **29 of 41 items, and part of a 30th.**
 >
-> **Still under your review — nothing applied:** P-6, P-10, P-16, P-21, P-30, P-31, P-32, and P-33 through P-36. The target documents are unchanged as to every one of those items.
+> **Still under your review — nothing applied:** P-6, P-10, P-16, P-21, P-30, P-31, P-32, P-33 through P-36, and **P-38** (the correction pass across the case file). The target documents are unchanged as to every one of those items.
 >
 > A backup of the pre-edit `.docx` is kept for this session. See the change log in Section 0 below.
 
@@ -17,7 +17,7 @@
 
 ## How to use this
 
-Each change is numbered **P-1** through **P-36**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
+Each change is numbered **P-1** through **P-38**, plus the three follow-on items **P-11A**, **P-12A**, and **P-14A** added September 10, 2026, with the current text, the proposed text, and the reason. Mark each one:
 
 - `APPROVE` — apply as written
 - `APPROVE AS EDITED` — apply with your changes written in
@@ -64,6 +64,8 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-27 | **NEW Request 39** — documents FIE contends show the award resolved The Claim |
 | P-28 | **NEW Request 40** — the F 1.7 / B 1.2 decoding documents |
 | P-29 | **NEW Request 41** — J6944 and *Cedar Bluff* matching guidance |
+| P-37 | **Request 23** — Prieve citation corrected to page 2 of 7 and page 4 of 7, with the language quoted |
+| P-38 *(part)* | **`OffenseStrategies/Discovery/DiscoveryPlan.md`** lines 164, 270, 443, 447 and **`OffenseStrategies/Deposition/2.1Prieve_Nathan.md`** line 167 — "page 7" corrected to "page 4 of 7" |
 
 **Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The bracketed drafting note is gone.
 
@@ -87,7 +89,7 @@ If you later approve P-21 and remove old Request 33, **do not renumber** — a s
 1. **The P-2 date-range dependency is now resolved.** Instruction 1 extends the period back to October 22, 2014 for The Policy, the underwriting file, and prior claims. When P-2 was applied, the underwriting-file request (P-23) was still pending and the reference was orphaned. P-23 is now applied as **Request 35**, so Instruction 1 and Request 35 line up: the underwriting file is requested from application forward, and the instruction sets the period that reaches it. Requests 22 (2014 and 2015 claims) and 24 (endorsement drafting history) rely on the same extension.
 2. **A correction to what I first said about P-11 through P-14.** I described those four as having "given up ground" on non-party files. On a closer side-by-side that was overstated: the applied text is broader in scope than the original ("constituting, reflecting, or relating to" vs. "the complete file"), Instruction 10 already defines control to include practical ability to obtain, and the applied text adds a duty to identify who holds anything FIE does not. What was genuinely lost is narrower — the phrase "in Your possession, custody, or control" lets FIE self-assess in silence rather than state an objection you can move against. **P-11A, P-12A, and P-14A** — added and applied September 10, 2026 — close that gap without reverting anything. Separately, and regardless of those three: **P-35, the Rule 45 subpoenas, remains the primary route to non-party material and is still undecided.**
 
-**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-21 (remove old Request 33), P-30 (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), and P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**).
+**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-21 (remove old Request 33), P-30 (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), and **P-38** (the correction pass across the other seven files, plus the decision on the Complaint source `.docx`).
 
 ---
 
@@ -138,6 +140,9 @@ If you later approve P-21 and remove old Request 33, **do not renumber** — a s
 | P-34 | Cover letter with the set: ESI protocol, protective order, Count IV relevance | High | No | pending |
 | P-35 | Serve the Rule 45 subpoenas the same week | High | No | pending |
 | P-36 | Correct the § 72A.201 framing in two strategy files | Medium | No | pending |
+| **V-A. Citation correction (added September 10, 2026)** | | | | |
+| P-37 | Request 23 — correct the Prieve page cite (page 4 of 7, not 7) and quote the language | High | No | **✅ applied** |
+| P-38 | Correction pass — the same mis-cite in 8 places across 7 files; plus the filed Complaint | High | **Yes** | **◑ partial** |
 
 **The four that matter most, if you only read four:** P-22 (there is no valuation discovery in this set), P-4 with P-11 through P-14 (four requests ask FIE for other people's files), P-9 (a drafting note is currently in the document you would serve), and P-27 (the § 604.18, subd. 4(c) appraisal bar is FIE's cleanest defense to the bad-faith claim and nothing in the set attacks it).
 
@@ -760,6 +765,103 @@ If P-21 is approved (Request 33 removed) and P-22 through P-30 are added:
 | — | **41** | NEW — water intrusion and mitigation (P-30) |
 
 Instructions go from 7 to 11 (P-1, P-3, P-4, P-5).
+
+---
+
+# V-A. Citation correction — the Prieve report "page 7" problem
+
+*Added September 10, 2026, after a check of the underlying PDF. **P-37 was applied on September 10, 2026.** **P-38 is partially applied:** the five `OffenseStrategies` entries were corrected on September 10, 2026; the four `LegalStrategies` complaint drafts, `LegalReferences/Argument_Strength_Assessment.md`, and the decision on the Complaint source `.docx` remain pending.*
+
+## The finding
+
+Request 23 **as originally drafted** cited the October 13, 2020 Farmers photograph log as "referenced at page 7 of the Prieve Report" (corrected by P-37 on September 10, 2026). **The quoted statement is real and verbatim, but it is on page 4 of the report, not page 7.**
+
+The Prieve report carries its own running header — `FILE NUMBER 241008 · PRIEVE ENGINEERING LLC · Page X of 7` — and it begins on PDF page 4 of the eleven-page November 4, 2024 denial package (`EventDocuments/FarmersDenyLetter-11-4.pdf`; the copies at `Filings/Discovery/Expert/Expert_Record_Packet/04_...pdf` and `HailShapes/FarmersDocs/...` are byte-identical). The "7" everywhere in the case file is the **combined-PDF** page number:
+
+| | |
+|---|---|
+| PDF page of the denial package | **7** |
+| Prieve report's own page number | **4 of 7** |
+
+**Why this is not cosmetic.** Prieve's actual page 7 is the *Conclusions and Recommendations* page. It contains no reference to the October 13, 2020 photo log. A responding party that turns to page 7 of the report finds nothing matching the description, and can object that Request 23 references a statement that does not appear where the request says it does. The same exposure attaches to `INT.3.4` and `RFA.62` in `OffenseStrategies/Discovery/DiscoveryPlan.md`, which are drafted around the same cite and have not been served yet.
+
+## What the report actually says, and where
+
+Verified line by line against the PDF text:
+
+| Statement | Prieve's own page | PDF page |
+|---|---|---|
+| Activities list: "Inspection Photos dated October 13, 2020" | **2 of 7** | 5 |
+| A-38 triple window: "Rounded dents were observed at sashes of this window unit" | **4 of 7** | 7 |
+| A-38 triple window: "prior claim information and photo logs indicate dents were previously noted at this window unit" | **4 of 7** | 7 |
+| **A-53 trim chip: "We note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020"** | **4 of 7** | **7** |
+| North porch casement: dents "generally smooth" | **5 of 7** | 8 |
+| Garage window: "No smooth or rounded dents were observed in the frame or sashes" | **6 of 7** | 9 |
+| NOAA summary: "most recent hail in Eden Prairie reported in 2020" | **6 of 7** | 9 |
+| Conclusion 1: "no recent hail damage has occurred" | **7 of 7** | 10 |
+
+**Good news on scope.** I checked every Prieve page citation I could find in the case file, not just this one. The A-53 / 2020-photo-log cite is the **only** error. The "rounded dents" (page 4), "generally smooth" (page 5), garage-window (page 6), NOAA (page 6), and Conclusion 1 (page 7) citations in `Draft_Complaint_v3_Comprehensive.md` are all correct. This is a single mis-citation that propagated, not a systematic pagination problem.
+
+---
+
+## P-37. Request 23 — correct the citation and make it pagination-independent  ✅
+
+**Current (Request 23, as it stands in the document):**
+
+> **REQUEST FOR PRODUCTION NO. 23:** The complete October 13, 2020 Farmers Insurance photograph log for The Property referenced at page 7 of the Prieve Report, with file names and metadata, together with any captions or inspector notes identifying each observation in that log and any internal worksheet showing which observations were translated into 2020 Xactimate line items and which were not.
+
+**Proposed:**
+
+> **REQUEST FOR PRODUCTION NO. 23:** The complete October 13, 2020 Farmers Insurance photograph log for The Property — identified in the Prieve Report at page 2 of 7 among the documents reviewed ("Inspection Photos dated October 13, 2020") and relied upon at page 4 of 7 ("We note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020") — with file names and metadata, together with any captions or inspector notes identifying each observation in that log and any internal worksheet showing which observations were translated into 2020 Xactimate line items and which were not.
+
+**Why phrase it this way.** Three deliberate choices:
+
+1. **Two anchors instead of one.** Page 2 establishes that the log exists and was in Prieve's hands as a reviewed document; page 4 establishes that he relied on it substantively. If FIE quarrels with one, the other stands.
+2. **Quote the language, not just the page.** A verbatim quotation cannot be defeated by a pagination dispute — FIE has to locate the sentence, and the sentence is unmistakable.
+3. **"Page 2 of 7" and "page 4 of 7," not bare page numbers.** Using the report's own "X of 7" form makes clear you are citing the report's internal pagination rather than the denial package's, which is the ambiguity that produced the error in the first place.
+
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md`. The "Proposed" text above is now the operative text of the document.
+
+---
+
+## P-38. Correction pass across the case file  ◑ *partially applied*
+
+The same mis-cite appears in eight places across seven files. None has been served or filed except the Complaint (see below). Proposed: change each to **page 4 of the Prieve report**, and, where the sentence has room, add the parenthetical **(page 7 of the combined denial-letter PDF)** so the "7" that everyone has been working from is preserved rather than orphaned.
+
+| File | Line | Current phrase | Proposed | Status |
+|---|---|---|---|---|
+| `OffenseStrategies/Discovery/DiscoveryPlan.md` | 164 | A.19.1 — "referenced at page 7 of the Prieve report" | "referenced at page 4 of 7 of the Prieve report (page 7 of the combined denial-letter PDF)" | **✅ applied Sept 10** |
+| `OffenseStrategies/Discovery/DiscoveryPlan.md` | 270 | INT.3.4 — "the statement at page 7 of the Prieve report" | "the statement at page 4 of 7 of the Prieve report" | **✅ applied Sept 10** |
+| `OffenseStrategies/Discovery/DiscoveryPlan.md` | 443 | RFA.62 — "The Prieve report states on page 7:" | "The Prieve report states on page 4 of 7:" | **✅ applied Sept 10** |
+| `OffenseStrategies/Discovery/DiscoveryPlan.md` | 447 | RFA.64 — "referenced in the Prieve report at page 7 / photograph A-53" | "referenced in the Prieve report at page 4 of 7 / photograph A-53" | **✅ applied Sept 10** |
+| `OffenseStrategies/Deposition/2.1Prieve_Nathan.md` | 167 | "The report at page 7 says the chip at A-53…" | "The report at page 4 of 7 says the chip at A-53…" | **✅ applied Sept 10** |
+| `LegalStrategies/Draft_Complaint_v1_Streamlined.md` | 111 | "at page 7 of the report Prieve himself acknowledges…" | "at page 4 of 7 of the report Prieve himself acknowledges…" | pending |
+| `LegalStrategies/Draft_Complaint_v2_Balanced.md` | 139 | "at page 7 of the Prieve report the engineer acknowledges…" | "at page 4 of 7 of the Prieve report the engineer acknowledges…" | pending |
+| `LegalStrategies/Draft_Complaint_v3_Comprehensive.md` | 67 | "the report's own acknowledgment at page 7 that a chip in trim board at photograph A-53…" | "…at page 4 of 7 that a chip in trim board at photograph A-53…" | pending |
+| `LegalStrategies/Draft_Complaint_V4.md` | 157 | "At page 7 of the Prieve report the engineer acknowledges…" | "At page 4 of 7 of the Prieve report the engineer acknowledges…" | pending |
+| `LegalReferences/Argument_Strength_Assessment.md` | 129 | "acknowledges at page 7 that the chip at trim board photograph A-53…" | "acknowledges at page 4 of 7 that the chip…" | pending |
+
+**No change needed:** `OffenseStrategies/EngineerReportRebuttal/EngineerReportRebuttal.md` line 291 already reads "Page 4 of the Prieve report (page 7 of the combined PDF)." That is the model the others should follow — it is the one place in the case file that got this right.
+
+**Priority within the pass.** `DiscoveryPlan.md` first. `INT.3.4` and `RFA.62` are drafted to be served on FIE and would carry the error into a discovery request FIE could object to on its face. The complaint drafts and the strength assessment are internal working documents; fixing them prevents the error from being copied forward again, but nothing turns on them today.
+
+### The filed Complaint — read this before deciding
+
+The Complaint **as filed with the court on July 20, 2026** contains the mis-cite. It appears in `Filings/SummonsAndComplaint/Complaint_Lu_Hu_v_Fire_Insurance_Exchange_FINAL.docx`, in the signed PDF, and in the court's filed copy at `OfficialCourtDocuments/07_20_2026_MCRO_..._Complaint-Civil_....pdf`.
+
+**Nothing can or should be done about the filed version now.** A filed pleading is not corrected by editing the file on your computer, and this does not warrant a motion. Three reasons it is low-risk: the sentence quotes Prieve's language **verbatim**, so what you attributed to him is exactly what he wrote; the report is a five-page exhibit that anyone can page through; and the point the paragraph makes does not depend on which page the sentence sits on.
+
+What I would do:
+
+1. **Correct the source `.docx`** so that if you ever amend, the amended pleading is right. That is a change to `Complaint_Lu_Hu_v_Fire_Insurance_Exchange_FINAL.docx` — I have not touched it, and I would not without a separate instruction, because it is the source of a filed document and you may want it to match the filing exactly. **Tell me which you prefer.**
+2. **Do not raise it with FIE.** It is not an admission of anything and volunteering it invites a distraction.
+3. **If it comes up** — most plausibly in a Prieve deposition — the answer is one sentence: the quotation is verbatim and appears at page 4 of 7 of the report, page 7 of the denial package as produced.
+
+**◑ PARTIALLY APPLIED — September 10, 2026.** The five `OffenseStrategies` entries (DiscoveryPlan.md lines 164, 270, 443, 447 and 2.1Prieve_Nathan.md line 167) were corrected. Remaining:
+
+`APPLY THE 4 COMPLAINT DRAFTS ☐   APPLY Argument_Strength_Assessment.md ☐   APPLY BOTH ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+
+**On the Complaint source `.docx` specifically:** `CORRECT IT ☐   LEAVE IT MATCHING THE FILING ☐`
 
 ---
 

@@ -161,7 +161,7 @@ The objective is to capture the entire foundational record on the claim itself. 
 
 **A.19 The 2014, 2015, and 2020 prior-claim inspection records** for the property at 17756 George Moran Dr, including the 2014 claim from the previous owner. Objectives 1, 2, 3 — relates to the "no dents in 2015" baseline.
 
-**A.19.1 The complete October 13, 2020 Farmers Insurance photo log** referenced at page 7 of the Prieve report ("we note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020"). Every photograph taken at the property on or about that date, with file names and metadata. Needed to (a) confirm the trim-chip identification Prieve relies on at A-53 and (b) identify which observations in the 2020 photo log were excluded from the 2020 Xactimate scope (which approved only 2 casement windows). Objectives 1, 2, 3, 4.
+**A.19.1 The complete October 13, 2020 Farmers Insurance photo log** referenced at page 4 of 7 of the Prieve report (page 7 of the combined denial-letter PDF) ("we note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020"). Every photograph taken at the property on or about that date, with file names and metadata. Needed to (a) confirm the trim-chip identification Prieve relies on at A-53 and (b) identify which observations in the 2020 photo log were excluded from the 2020 Xactimate scope (which approved only 2 casement windows). Objectives 1, 2, 3, 4.
 
 **A.19.2 The 2020 Farmers Insurance photo log captions or inspector notes** identifying each observation in the 2020 photo log by location, condition, and inspector recommendation, together with any internal Farmers worksheet showing which observations were translated into Xactimate line items and which were not. Objectives 1, 2, 3, 4.
 
@@ -267,7 +267,7 @@ Minnesota Rule 33.01 sets a default limit of 50 interrogatories per party (count
 
 **INT.3.3** Identify every Prieve report observation that, in the report's Photo Appendix A captions, documents damage to a non-window component (downspouts, flashing, siding, trim board, door windows, screens) at 17756 George Moran Dr, and for each such observation state (a) whether the observation is addressed in the report's narrative; (b) whether the observation is addressed in the report's Conclusions; (c) the basis for any omission; and (d) Farmers' position on whether the observed damage is hail-caused.
 
-**INT.3.4** State the basis for the statement at page 7 of the Prieve report that the trim-board chip photographed at A-53 "is visible in prior photo logs from Farmers Insurance dated October 13, 2020." Identify (a) which 2020 Farmers photograph shows the chip; (b) whether the chip was identified for repair in the 2020 Xactimate; (c) if not identified for repair, the reason; and (d) Farmers' position on whether the 2020 trim observation should have been included in the 2020 estimate.
+**INT.3.4** State the basis for the statement at page 4 of 7 of the Prieve report that the trim-board chip photographed at A-53 "is visible in prior photo logs from Farmers Insurance dated October 13, 2020." Identify (a) which 2020 Farmers photograph shows the chip; (b) whether the chip was identified for repair in the 2020 Xactimate; (c) if not identified for repair, the reason; and (d) Farmers' position on whether the 2020 trim observation should have been included in the 2020 estimate.
 
 **INT.3.5** State the methodology Nathan Prieve uses to distinguish hail-caused dents from dents caused by other mechanisms in extruded aluminum or aluminum-clad wood window frames and sashes. Without limitation, address (a) whether "smooth or rounded" dent geometry — referenced at page 6 of the Prieve report in the rear/east garage window discussion ("No smooth or rounded dents were observed in the frame or sashes") — is treated as a diagnostic indicator of hail causation; (b) the peer-reviewed engineering or meteorological literature that supports the use of "smooth or rounded" dent geometry as a hail-vs.-non-hail diagnostic; (c) the peer-reviewed literature that supports treating "scrape marks inside dents" as ruling out hail causation; (d) the hail-impact mechanics under which a smooth or rounded dent forms versus a dent with internal scrape marks, including the role of hailstone shape irregularity, wind-driven oblique-angle impacts, and post-impact debris contact; and (e) Prieve's basis for attributing the "rounded dents" he documents at the front/west triple window (page 4) and the "generally smooth" dents he documents at the north porch four-unit window (page 5) to the 2020 storm rather than the 7/13–7/14/2024 storm, given that the 7/13–7/14/2024 storm produced larger hail across the region per National Weather Service documentation.
 
@@ -440,11 +440,11 @@ Admit or deny each of the following:
 
 **RFA.61.** The Prieve report's Activities section does not list as inputs the family's photographic submissions of September 5, 8, and 10, 2024.
 
-**RFA.62.** The Prieve report states on page 7: "we note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020."
+**RFA.62.** The Prieve report states on page 4 of 7: "we note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020."
 
 **RFA.63.** The October 13, 2020 Farmers Insurance photo log was created in connection with claim 3013539499-1 (the 2020 hail claim).
 
-**RFA.64.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 did not include a line item for the trim-board chip referenced in the Prieve report at page 7 / photograph A-53.
+**RFA.64.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 did not include a line item for the trim-board chip referenced in the Prieve report at page 4 of 7 / photograph A-53.
 
 **RFA.65.** The 2020 Farmers Insurance Xactimate for claim 3013539499-1 approved exactly two casement window replacements (line items 1–4).
 

@@ -1,10 +1,10 @@
 # Redline — First Set of Requests for Production
 
-**Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-20, and P-22 to P-29.
+**Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-20, P-22 to P-29, and P-37.
 **Baseline:** the set as it stood before any of these edits (33 requests, 7 instructions).
 **Now:** 41 requests, 11 instructions.
 **Source of truth:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx`
-**Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md` (Section 0 change log, including the numbering note)
+**Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md` (Section 0 change log; Section V-A on the Prieve citation)
 
 **REMOVED** is the text as it stood before these edits; **ADDED** is the operative text now. The caption block and the signature block are unchanged and are omitted.
 
@@ -96,19 +96,27 @@
 
 ### Change 10
 
+**REMOVED —** **REQUEST FOR PRODUCTION NO. 23:** The complete October 13, 2020 Farmers Insurance photograph log for The Property referenced at page 7 of the Prieve Report, with file names and metadata, together with any captions or inspector notes identifying each observation in that log and any internal worksheet showing which observations were translated into 2020 Xactimate line items and which were not.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 23:** The complete October 13, 2020 Farmers Insurance photograph log for The Property — identified in the Prieve Report at page 2 of 7 among the documents reviewed ("Inspection Photos dated October 13, 2020") and relied upon at page 4 of 7 ("We note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020") — with file names and metadata, together with any captions or inspector notes identifying each observation in that log and any internal worksheet showing which observations were translated into 2020 Xactimate line items and which were not.
+
+---
+
+### Change 11
+
 **REMOVED —** **REQUEST FOR PRODUCTION NO. 28:** All documents identifying Hancock Claims Consultants’ Minnesota engagements from January 1, 2020 forward, including retention agreements and file lists, and documents sufficient to identify the outcome of each such engagement.
 
 **ADDED —** **REQUEST FOR PRODUCTION NO. 28:** Documents sufficient to show, for each Minnesota residential property claim involving hail on which You or any Farmers affiliate engaged Hancock Claims Consultants from January 1, 2020 through the present: the date of the engagement, the scope of work assigned, the amount paid, and whether the inspection reported damage. This request does not seek the underlying claim files, and Plaintiffs will agree that any production be made subject to a protective order and with the names and addresses of other insureds redacted.
 
 ---
 
-### Change 11
+### Change 12
 
 **REMOVED —** *\[ Optional — delete this note before serving. The following request seeks vendor-pattern discovery and may draw an overbreadth objection; serve it only if you choose to pursue vendor-bias discovery, or narrow it to Minnesota hail claims. \]*
 
 ---
 
-### Change 12
+### Change 13
 
 **ADDED —** **REQUEST FOR PRODUCTION NO. 34:** All estimates prepared, received, or reviewed by You in connection with The Claim or The 2020 Claim, produced in native format with the estimate identifier, price-list version, and revision history intact; all documents stating or reflecting Your methodology for calculating actual cash value and depreciation on losses to windows, siding, and exterior components, including depreciation schedules, useful-life tables, and any condition or age adjustment applied; all documents showing the derivation of the $6,400 Actual Cash Value stated in The Appraisal Award, including any worksheet, calculation, or communication allocating that figure between the awarded windows; and the Xactimate or other estimating-platform price lists for Hennepin County, Minnesota in effect from July 2024 through the present.
 
@@ -128,7 +136,7 @@
 
 ---
 
-### Change 13
+### Change 14
 
 **REMOVED —** The undersigned certifies that on \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* was served upon Defendant, through its attorney of record (or upon Defendant directly if no attorney has appeared), by \_\_\_\_\_\_\_\_\_\_\_\_\_\_ \[e-service through the Minnesota eFS system / email / U.S. Mail\], at \_\_\_\_\_\_\_\_\_\_\_\_\_\_, in accordance with Minn. R. Civ. P. 5. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04.
 
@@ -136,4 +144,4 @@
 
 ---
 
-**13 change blocks.** Requests: 41 (was 33). Instructions: 11 (was 7).
+**14 change blocks.** Requests: 41 (was 33). Instructions: 11 (was 7).

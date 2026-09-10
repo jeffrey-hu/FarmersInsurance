@@ -109,7 +109,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **REQUEST FOR PRODUCTION NO. 22:** All prior-claim inspection records for The Property, including the inspection records for the 2014, 2015, and 2020 claims.
 
-**REQUEST FOR PRODUCTION NO. 23:** The complete October 13, 2020 Farmers Insurance photograph log for The Property referenced at page 7 of the Prieve Report, with file names and metadata, together with any captions or inspector notes identifying each observation in that log and any internal worksheet showing which observations were translated into 2020 Xactimate line items and which were not.
+**REQUEST FOR PRODUCTION NO. 23:** The complete October 13, 2020 Farmers Insurance photograph log for The Property — identified in the Prieve Report at page 2 of 7 among the documents reviewed ("Inspection Photos dated October 13, 2020") and relied upon at page 4 of 7 ("We note this chip is visible in prior photo logs from Farmers Insurance dated October 13, 2020") — with file names and metadata, together with any captions or inspector notes identifying each observation in that log and any internal worksheet showing which observations were translated into 2020 Xactimate line items and which were not.
 
 **REQUEST FOR PRODUCTION NO. 24:** The Farmers homeowners’ policy form and endorsements J6898, J6944, MN079, and MN080 applicable to The Policy on the loss date, together with all available drafting history and any underwriting or explanatory bulletins concerning endorsement J6944.
 
