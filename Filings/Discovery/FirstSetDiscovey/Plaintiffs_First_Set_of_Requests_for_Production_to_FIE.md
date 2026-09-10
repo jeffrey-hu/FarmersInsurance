@@ -145,6 +145,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **REQUEST FOR PRODUCTION NO. 40:** All documents stating or reflecting Your interpretation, guidance, training, or claims-handling practice concerning Endorsement J6944 (Limited Matching of Undamaged Property) and concerning the matching obligation addressed in *Cedar Bluff Townhome Condominium Ass'n v. American Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014), as applied to Minnesota property claims, including any guidance concerning claims in which the original manufacturer of the damaged property has ceased production or the original product is no longer available.
 
+**REQUEST FOR PRODUCTION NO. 41:** All documents concerning water intrusion, water entry, window leaks, staining, mold, or resulting damage at The Property from July 13, 2024 through the present, including claim entries, communications, inspections, evaluations, photographs, and vendor or engineering observations. This request also seeks all documents supporting (a) Your November 4, 2024 statement that "\[o\]ur investigation found the condition of the window and components to be from wear/tear," and (b) Conclusion 3 of the Prieve Report (page 7 of 7), that "reported water leakage and water entry at windows is unrelated to hail or any other catastrophic causation"; and all instructions or communications given to Plaintiffs concerning mitigation, repair, or protection of The Property from further damage.
+
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
 Respectfully submitted,

@@ -1,12 +1,11 @@
 # Redline — First Set of Requests for Production
 
-**Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-22, P-23 to P-29, P-21, and P-37.
-**Baseline:** the set as it stood before any of these edits — 33 requests, 7 instructions.
-**Now:** **40 requests, 11 instructions.** Old Request 33 (vendor management) was removed to the second-set draft and the remainder renumbered to a clean 1–40 (safe only because nothing has been served).
+**Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-30, and P-37.
+**Baseline:** 33 requests, 7 instructions.  **Now:** 41 requests, 11 instructions, numbered 1–41 with no gap.
 **Source of truth:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx`
-**Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md` (Section 0 change log and numbering note)
+**Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md`
 
-**REMOVED** is the text as it stood before these edits; **ADDED** is the operative text now. The caption block and the signature block are unchanged and are omitted. Note that renumbering makes several blocks look like rewrites when only the number changed.
+**REMOVED** is the prior text; **ADDED** is the operative text now. Caption and signature blocks unchanged and omitted. Renumbering makes some blocks look like rewrites when only the number moved.
 
 ---
 
@@ -132,6 +131,8 @@
 
 **ADDED —** **REQUEST FOR PRODUCTION NO. 40:** All documents stating or reflecting Your interpretation, guidance, training, or claims-handling practice concerning Endorsement J6944 (Limited Matching of Undamaged Property) and concerning the matching obligation addressed in *Cedar Bluff Townhome Condominium Ass'n v. American Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014), as applied to Minnesota property claims, including any guidance concerning claims in which the original manufacturer of the damaged property has ceased production or the original product is no longer available.
 
+**ADDED —** **REQUEST FOR PRODUCTION NO. 41:** All documents concerning water intrusion, water entry, window leaks, staining, mold, or resulting damage at The Property from July 13, 2024 through the present, including claim entries, communications, inspections, evaluations, photographs, and vendor or engineering observations. This request also seeks all documents supporting (a) Your November 4, 2024 statement that "\[o\]ur investigation found the condition of the window and components to be from wear/tear," and (b) Conclusion 3 of the Prieve Report (page 7 of 7), that "reported water leakage and water entry at windows is unrelated to hail or any other catastrophic causation"; and all instructions or communications given to Plaintiffs concerning mitigation, repair, or protection of The Property from further damage.
+
 ---
 
 ### Change 13
@@ -142,4 +143,4 @@
 
 ---
 
-**13 change blocks.** Requests: 40 (was 33). Instructions: 11 (was 7).
+**13 change blocks.** Requests: 41 (was 33). Instructions: 11 (was 7).

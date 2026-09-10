@@ -5,9 +5,9 @@
 **Companion:** `RFP_First_Set_Review_2026-09-08.md`
 
 > ### ✅ PARTIALLY APPLIED — September 10, 2026
-> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-21, P-22 to P-29, and **P-37**, plus the `OffenseStrategies` half of **P-38**. **30 of 42 items, and part of a 31st.**
+> **Approved and applied to both the `.docx` and the `.md`** (all September 10, 2026): P-1 to P-5, P-7 to P-9, P-11 to P-15, the follow-on items **P-11A, P-12A, P-14A**, P-17 to P-20, P-21, P-22 to P-30, and **P-37**, plus the `OffenseStrategies` half of **P-38**. **31 of 42 items, and part of a 32nd.**
 >
-> **Still under your review — nothing applied:** P-6, P-10, P-16, P-30, P-31, P-32, P-33 through P-36, **P-38** (the correction pass across the case file, now partially applied), and **P-39** (Request 25). The target documents are unchanged as to every one of those items.
+> **Still under your review — nothing applied:** P-6, P-10, P-16, P-31, P-32, P-33 through P-36, **P-38** (the correction pass across the case file, now partially applied), and **P-39** (Request 25). The target documents are unchanged as to every one of those items.
 >
 > A backup of the pre-edit `.docx` is kept for this session. See the change log in Section 0 below.
 
@@ -66,9 +66,10 @@ If you approve everything, the set goes from **33 requests to 41**, and roughly 
 | P-29 | **NEW Request 41** — J6944 and *Cedar Bluff* matching guidance |
 | P-37 | **Request 23** — Prieve citation corrected to page 2 of 7 and page 4 of 7, with the language quoted |
 | P-21 | **Request 33 removed** from the First Set and moved to the second-set draft; remaining requests renumbered to a clean 1–40 |
+| P-30 | **NEW Request 41** — water intrusion from July 13, 2024 forward; the wear/tear and Conclusion 3 findings; mitigation |
 | P-38 *(part)* | **`OffenseStrategies/Discovery/DiscoveryPlan.md`** lines 164, 270, 443, 447 and **`OffenseStrategies/Deposition/2.1Prieve_Nathan.md`** line 167 — "page 7" corrected to "page 4 of 7" |
 
-**Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The bracketed drafting note is gone.
+**Document state after these edits:** **41 requests** (was 33), **11 instructions** (was 7), 13 definitions (unchanged). The set runs 1–41 with no gap. The bracketed drafting note is gone.
 
 **⚠️ Numbering note — the First Set now runs 1 through 40, with no gap.**
 
@@ -92,7 +93,7 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 1. **The P-2 date-range dependency is now resolved.** Instruction 1 extends the period back to October 22, 2014 for The Policy, the underwriting file, and prior claims. When P-2 was applied, the underwriting-file request (P-23) was still pending and the reference was orphaned. P-23 is now applied as **Request 34**, so Instruction 1 and Request 35 line up: the underwriting file is requested from application forward, and the instruction sets the period that reaches it. Requests 22 (2014 and 2015 claims) and 24 (endorsement drafting history) rely on the same extension.
 2. **A correction to what I first said about P-11 through P-14.** I described those four as having "given up ground" on non-party files. On a closer side-by-side that was overstated: the applied text is broader in scope than the original ("constituting, reflecting, or relating to" vs. "the complete file"), Instruction 10 already defines control to include practical ability to obtain, and the applied text adds a duty to identify who holds anything FIE does not. What was genuinely lost is narrower — the phrase "in Your possession, custody, or control" lets FIE self-assess in silence rather than state an objection you can move against. **P-11A, P-12A, and P-14A** — added and applied September 10, 2026 — close that gap without reverting anything. Separately, and regardless of those three: **P-35, the Rule 45 subpoenas, remains the primary route to non-party material and is still undecided.**
 
-**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search), P-30 (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), **P-38** (the remaining five files in the correction pass, plus the decision on the Complaint source `.docx`), and **P-39** (Request 25 — permit-records handling).
+**Not applied — awaiting your decision:** P-6 (place of production), P-10 (fill the blanks), P-16 (Request 11 phrase search) (water intrusion — the ninth new request), P-31 (claim-handler training), P-32 (reserves), P-33 through P-36 (the companion actions, including **P-35, the Rule 45 subpoenas**), **P-38** (the remaining five files in the correction pass, plus the decision on the Complaint source `.docx`), and **P-39** (Request 25 — permit-records handling).
 
 ---
 
@@ -135,7 +136,7 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 | P-27 | NEW 38 — documents FIE contends show the award resolved The Claim | **Critical** | No | **✅ applied** |
 | P-28 | NEW 39 — the F1.7 / B1.2 decoding documents | High | No | **✅ applied** |
 | P-29 | NEW 40 — J6944 and *Cedar Bluff* matching guidance | Medium | No | **✅ applied** |
-| P-30 | NEW 41 — water intrusion after October 28, 2025; mitigation instructions | Medium | No | pending |
+| P-30 | NEW 41 — water intrusion from July 13, 2024 forward; the wear/tear and Conclusion 3 findings; mitigation | Medium | No | **✅ applied** |
 | P-31 | Claim-handler training and incentives — proposed, but optional | Medium | **Yes** | pending |
 | P-32 | Reserve history — **recommend holding**, not proposed | — | **Yes** | pending |
 | **IV. Companion actions (not edits to this document)** | | | | |
@@ -639,15 +640,33 @@ Bad faith: Minn. Stat. § 604.18, subd. 4(c) provides that taxable costs are "no
 
 ---
 
-## P-30. NEW Request 41 — water intrusion and mitigation
+## P-30. NEW Request 41 — water intrusion and mitigation  ✅
+
+> **Revision history.** v1 limited the request to intrusion reported "on or after October 28, 2025" — a floor that excluded most of the record. v2 opened it to "at any time," which was unbounded. **v3 below** anchors it to the loss date and cuts the length by half.
 
 **Proposed:**
 
-> **REQUEST FOR PRODUCTION NO. 41:** All documents concerning the water intrusion, window leaks, or resulting damage at The Property reported to You on or after October 28, 2025, including all claim entries, communications, inspections, and evaluations; and all instructions, notices, or communications given to Plaintiffs at any time concerning mitigation, repair, or protection of The Property from further damage.
+> **REQUEST FOR PRODUCTION NO. 41:** All documents concerning water intrusion, water entry, window leaks, staining, mold, or resulting damage at The Property from July 13, 2024 through the present, including claim entries, communications, inspections, evaluations, photographs, and vendor or engineering observations. This request also seeks all documents supporting (a) Your November 4, 2024 statement that "[o]ur investigation found the condition of the window and components to be from wear/tear," and (b) Conclusion 3 of the Prieve Report (page 7 of 7), that "reported water leakage and water entry at windows is unrelated to hail or any other catastrophic causation"; and all instructions or communications given to Plaintiffs concerning mitigation, repair, or protection of The Property from further damage.
 
-**Why.** Complaint ¶52 and Count IV ¶71(c) both plead consequential water-intrusion and mold damage accruing during the period of delay. FIE did not plead failure to mitigate — but your `FIE_Defense_Strategy` file flags a motion to amend the Answer as likely, and failure to mitigate is on the list of defenses it might add. The second clause is the one that matters defensively: if FIE never gave you mitigation instructions, that is worth establishing now, in FIE's own documents, rather than after the defense is pleaded.
+**Why "from July 13, 2024," and not "arising from the July 13, 2024 hail."** Tying the request to the loss **date** anchors relevance without letting Defendant define the scope. A causation-based limiter — "water intrusion arising from the July 13, 2024 hail" — would be answered "none, because we contend none arose from hail," which is Defendant's pleaded position and the exact conclusion the request exists to test. Date bounds; causation does not.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+July 13, 2024 captures the whole relevant record:
+
+| Date | Event |
+|---|---|
+| Aug. 9, 2024 | Legacy contacts Plaintiffs; multiple leaking windows found — this is what started the claim |
+| Oct. 9, 2024 | Prieve observes "areas of reported water entry around windows" (report p. 3 of 7) |
+| Nov. 4, 2024 | Denial letter, p. 1: "You reported hail to the window and water inside. Our investigation found the condition of the window and components to be from wear/tear" |
+| Nov. 4, 2024 | Prieve Conclusion 3 (p. 7 of 7): leakage "unrelated to hail"; wall stains "consistent with condensation and/or leakage through windows" |
+| Oct. 28, 2025 | Plaintiffs report active leaks to Twonda Miller, Zorphion Miller, and Jed Jones. No response documented. |
+
+**Pre-loss records are already covered** — by Requests 2 and 22 (prior claim files) and Request 34 (the underwriting file). No separate clause needed here.
+
+**What it does.** Three things: supports the consequential water-intrusion and mold damages pleaded at Complaint ¶52 and ¶71(c); puts Defendant to its proof on the wear/tear finding and Conclusion 3, which rest on no moisture testing or thermal imaging apparent in the report; and forecloses a failure-to-mitigate defense — unpleaded, but flagged as likely in `FIE_Defense_Strategy_and_Anticipated_Motions.md` — by establishing now whether Defendant ever gave mitigation instructions.
+
+**Sourcing note.** October 28, 2025 is solid: Plaintiffs' own email, reproduced in `EventDocuments/2025-09-18-PostAppraisalEmailChain.md`, corroborated in `ClaimTimeline.md` line 233, `Copy of ComunicationLogs.docx.md`, and `DocumentIndex.md`, and pleaded at Complaint ¶40 and ¶71(c). Note that the date carries a **second, unrelated** event — the email to Nicholas Brau requesting his September 6, 2024 inspection notes, which drew his October 29 "All the information we can release has already been sent to you." That belongs to Interrogatory 11 and Request 3. Keep them separate in any meet-and-confer.
+
+**✅ APPROVED AND APPLIED — September 10, 2026.** Applied to both `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` and `.md` as **Request No. 41**. The "Proposed" text above is now the operative text of the document.
 
 ---
 
