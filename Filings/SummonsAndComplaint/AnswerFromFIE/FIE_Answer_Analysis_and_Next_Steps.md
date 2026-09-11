@@ -7,6 +7,10 @@
 
 > **Important:** I am not a lawyer and this is not legal advice. This is an organized analysis of the Answer plus general legal research to help you think through your options and prepare questions for a Minnesota-licensed attorney. Litigation deadlines are strict and case-specific — confirm every date and procedural step against the Minnesota Rules of Civil Procedure, the Hennepin County local rules, and any scheduling order in your case before you rely on it.
 
+
+> ### ⚠️ CORRECTION — September 11, 2026
+> **The ¶5 admission described in item 2 of "The strategic reads that matter most" was overstated.** FIE did **not** admit that it maintains a registered agent in Minnesota, and it did not concede personal jurisdiction. The Answer admits one clause of Complaint ¶5 and treats the rest as legal conclusions requiring no response. The corrected analysis is inline at item 2 below. Nothing else in this memo is affected.
+
 ---
 
 ## Bottom line up front
@@ -30,6 +34,12 @@ Your path to recovery has not changed and the Answer largely confirms it: becaus
 - The umpire's report/estimate issue: FIE admits it confirmed in writing that the umpire did not provide FIE a report or estimate (¶34).
 - Net payment to date is $0 because the award's ACV is under the deductible (¶35).
 
+> **Verification note — September 11, 2026.** Every admission in the list above was re-checked against the text of the Answer. All are accurately stated. One clarification on the ¶34 entry, which is correct but carries a distinction worth using:
+>
+> FIE's answer to ¶34 does **two** things. It pleads that FIE "is without sufficient information or knowledge to form an opinion on the truth of the statement that the umpire produced no report or estimate" — which under Minn. R. Civ. P. 8.02 has the effect of a denial — and then it admits "that it confirmed that the umpire did not provide FIE with a report or estimate and referred Plaintiff Lu to his appraiser for any additional details he may have in his file."
+>
+> So what is locked in is that **FIE has nothing from the umpire**, not that the umpire never produced anything. For Count III that is the fact that matters: an award FIE calls binding, with no methodology in FIE's possession behind it. The posture is also worth pressing on its own — FIE claims not to know what its own appraisal umpire produced, which is information within its control. RFAs 6 and 7 target this, and Request for Production 16 (as amended) requires FIE to state expressly if it holds no report, estimate, worksheet, calculation, or methodology document from Mr. Roos.
+
 **What FIE denies / contests:**
 
 - That hail caused any damage on July 13–14, 2024 (it "denies" causation generally while admitting the panel found hail on the two awarded windows — an internal tension you should exploit).
@@ -52,7 +62,21 @@ FIE also **demanded a jury trial** and signed a Rule 11 / § 549.211 sanctions a
 
 **1. No limitations defense was pleaded — likely waived.** Your Complaint (¶¶28–29, 57(g)) worked hard to defeat a suit-limitation defense (waiver/estoppel; two-year period under § 65A.01 rather than a one-year § 65A.26 hail period). FIE's Answer raises **no** limitations defense at all. Under Minn. R. Civ. P. 8.03, statute of limitations is an affirmative defense that must be affirmatively pleaded, and defenses omitted from the answer are generally waived. **Watch for FIE to try to amend** its answer to add it; if it does, be ready to oppose on waiver, prejudice, and the merits (your waiver/estoppel facts). Do not raise it for them — just preserve your objection.
 
-**2. Their jurisdiction defense is essentially self-defeating.** FIE admits it is a reciprocal insurer licensed in Minnesota that maintains a registered agent for service here (¶5). That concedes personal jurisdiction. This defense is boilerplate and unlikely to go anywhere; don't spend energy chasing it, but note the admission.
+**2. The jurisdiction defense is weak — but it has not been conceded away.** *(Corrected September 11, 2026. The original text of this item said FIE admitted maintaining a registered agent and had thereby conceded personal jurisdiction. That was wrong.)*
+
+Complaint ¶5 alleged six things: that Defendant is a reciprocal insurance exchange; organized under California law; authorized to transact insurance in Minnesota; **acting by and through its attorney-in-fact, Fire Underwriters Association**; operating under the trade name Farmers Insurance and licensed by the Department of Commerce; and that it **maintains a registered agent for service of process in Minnesota**.
+
+FIE's answer to ¶5, in full:
+
+> "Admit that Defendant is a reciprocal insurance exchange licensed to conduct business in Minnesota. The remainder of paragraph 5 includes statements and conclusions of law to which no response is required in this Answer."
+
+So FIE admitted **only** that it is a reciprocal exchange licensed in Minnesota. It did not admit the California organization, the attorney-in-fact relationship with Fire Underwriters Association, the Farmers trade name, or the registered agent. And on Complaint ¶7 (personal jurisdiction under Minn. Stat. § 543.19) it answered only that the paragraph "contains of a statement or conclusion of law which requires no response."
+
+**What the defense actually is.** Affirmative Defense 1 bundles two defenses with opposite characters under Minn. R. Civ. P. 12.08. *Lack of jurisdiction over the person* is waived unless raised by motion or in the responsive pleading — so pleading it was necessary to preserve it, and that is the work the sentence is doing. *Failure to state a claim* cannot be waived by omission; it "may be made in any pleading permitted or ordered pursuant to Rule 7.01, or by motion for judgment on the pleadings, or at the trial on the merits." Pleading that half was unnecessary.
+
+**Assessment.** A genuine personal-jurisdiction challenge is very unlikely to succeed: FIE is a licensed insurer that issued a policy on Minnesota property to Minnesota residents and handled the claim here, which is squarely within Minn. Stat. § 543.19. The more plausible reading is that the defense is a placeholder for a **capacity or proper-party** argument — that a reciprocal exchange is an unincorporated association that must be sued in a particular form, or that the entity named is not the contracting entity. Note the posture: FIE says there may be no jurisdiction over it while declining to say which entity is the right one.
+
+**Why this now has a deadline.** The September 8, 2026 Scheduling Order sets **joinder of additional parties at November 16, 2026**, and the Court did not adopt Plaintiffs' request to place the amendment deadline after substantial completion of document production. If there is a proper-party problem, it must surface before that date. Do not chase the defense — make FIE define it. Interrogatory 15 asks the factual basis of each affirmative defense; the targeted follow-up is the entity-identity interrogatory proposed as item **I-13** in `Filings/Discovery/FirstSetDiscovey/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`, which asks FIE to state under oath which entity issued the policy, employed the adjusters, made the denial decisions, retained the vendors, and holds the claim file.
 
 **3. *Quade* is doing a lot of work — for you.** *Quade v. Secura Insurance*, 814 N.W.2d 703 (Minn. 2012), holds that determining the "amount of loss" necessarily includes determining **cause**, so the appraisal panel's causation finding is within its authority and binds the insurer for what it decided. FIE admits the panel found **hail** caused the two awarded windows, so FIE **cannot re-litigate** that those windows were wear-and-tear, marring, corrosion, etc. But *Quade* cuts the other way on scope: the panel's authority reaches **only the items it actually evaluated**. For the windows and components the panel never looked at, causation and amount of loss remain **open questions for the court** — which is your Count I lane.
 
