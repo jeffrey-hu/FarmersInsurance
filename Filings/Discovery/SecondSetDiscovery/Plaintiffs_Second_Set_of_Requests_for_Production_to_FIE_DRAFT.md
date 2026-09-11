@@ -3,7 +3,7 @@
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Court File No. 27-CV-26-11606
 **Court:** Hennepin County District Court, Fourth Judicial District (Judge Jamie L. Anderson)
 **Created:** September 10, 2026
-**Origin:** Request No. 33 of the First Set, removed from that set before service under item **P-21** of `../FirstSetDiscovey/Proposed_Changes_RFP_First_Set_2026-09-08.md`.
+**Origin:** Request No. 33 of the First Set, removed from that set before service under item **P-21** of `../FirstSetDiscovey/Request For Production/Proposed_Changes_RFP_First_Set_2026-09-08.md`.
 
 > ### ⚠️ DRAFT — NOT FOR SERVICE
 > This set is **held deliberately**. It should not be served until the trigger conditions below are met. Serving it early is the specific harm P-21 was written to avoid.
@@ -58,7 +58,7 @@ If either option is served, add the protective-order and third-party-redaction o
 
 ## Other candidates for this set
 
-Neither is approved; both are pending decisions in `../FirstSetDiscovey/Proposed_Changes_RFP_First_Set_2026-09-08.md`. Listed here so they are not lost.
+Neither is approved; both are pending decisions in `../FirstSetDiscovey/Request For Production/Proposed_Changes_RFP_First_Set_2026-09-08.md`. Listed here so they are not lost.
 
 | Source item | Subject | Status | Note |
 |---|---|---|---|

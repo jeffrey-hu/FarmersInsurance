@@ -123,10 +123,13 @@ pandoc -f docx -t gfm --wrap=none INPUT.docx -o /tmp/t.md
 
 Markdown carries no indentation, so §2 changes are invisible in the `.md`. Regenerate the twin after any `.docx` edit so the two do not drift.
 
+**Watch the filename.** Regenerate to the twin's **actual** path, not to the `.docx` basename. As of the September 11, 2026 reorganization the RFP twin is named `[Current] Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.md`; regenerating under the plain name would create a second, competing copy. When a document has more than one Markdown file, the `.docx` is authoritative and the others are dated baselines — label them so (`[Original 2026-09-08] …`) and never regenerate over them.
+
 ---
 
 ## Change log
 
 | Date | Change |
 |---|---|
+| 2026-09-11 | Noted the `FirstSetDiscovey/` split into `Interrogatories/` and `Request For Production/`, and the filename caution in §8. |
 | 2026-09-10 | Adopted. Indentation aligned to V5 across the Requests for Production, Interrogatories, Requests for Admission, and Initial Disclosures (165 list items). Signature blocks rebuilt per Rule 26.07. Certificates of service replaced per Rule 5.04(b) and § 358.116. |

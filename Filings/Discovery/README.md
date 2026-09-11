@@ -2,11 +2,44 @@
 
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Hennepin County District Court, Court File No. 27-CV-26-11606 (Judge Jamie Anderson)
 **Folder purpose:** Plaintiffs' discovery and early-motion-practice work product.
-**Last updated:** September 6, 2026
+**Last updated:** September 11, 2026
 
 > **Not legal advice.** These are working drafts prepared to help a pro se plaintiff organize the case and to discuss with a Minnesota-licensed attorney. Confirm every rule, deadline, claim/policy number, and citation before serving or filing anything.
 
-**Subfolders:** `_NoMoreNeeded/` (superseded drafts, kept for reference — not for filing) · `CommunicationLogs/` (dated archive of everything sent to and received from opposing counsel — see Section B2) · `FirstSetDiscovey/` (First Set Interrogatories + Requests for Production) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `PotentialMotions/` (the § 604.18 motion-to-amend and Rule 56.04 continuance shells) · `RequestForAdmission/FirstSet/` (the First Set Requests for Admission + its A–C exhibit packet) · `discoveryPlanAndInformationalStatement/` (the V5 plan as filed September 4, 2026, and the protective-order materials). The Prieve subpoena shell and everything else remain at the top level.
+**Subfolders:** `_NoMoreNeeded/` (superseded drafts, kept for reference — not for filing) · `CommunicationLogs/` (dated archive of everything sent to and received from opposing counsel — see Section B2) · `FirstSetDiscovey/` — now split into **`FirstSetDiscovey/Interrogatories/`** and **`FirstSetDiscovey/Request For Production/`** (see the reorganization note below) · `SecondSetDiscovery/` (the held vendor-management request) · `Expert/` (expert-witness shortlist, intro email, and the record packet) · `InitialDisclosure/` (the Rule 26.01(a) disclosures) · `PotentialMotions/` (the § 604.18 motion-to-amend and Rule 56.04 continuance shells) · `RequestForAdmission/FirstSet/` (the First Set Requests for Admission + its A–C exhibit packet) · `discoveryPlanAndInformationalStatement/` (the V5 plan as filed September 4, 2026, and the protective-order materials). The Prieve subpoena shell and everything else remain at the top level.
+
+
+---
+
+## ⚠️ Reorganization note — September 11, 2026
+
+`FirstSetDiscovey/` was split into two subfolders. Current layout:
+
+```
+FirstSetDiscovey/
+  Interrogatories/
+    Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx   ← operative
+    Plaintiffs_First_Set_of_Interrogatories_to_FIE.md
+    Interrogatories_First_Set_Review_2026-09-11.md
+    Proposed_Changes_Interrogatories_First_Set_2026-09-11.md
+  Request For Production/
+    Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx   ← operative
+    [Current] Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.md
+    [Oirignal] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md   ← see note 2
+    RFP_First_Set_Review_2026-09-08.md
+    Proposed_Changes_RFP_First_Set_2026-09-08.md
+    Redline_RFP_First_Set_2026-09-10.md
+SecondSetDiscovery/
+    Plaintiffs_Second_Set_of_Requests_for_Production_to_FIE_DRAFT.md
+```
+
+Cross-references in `FIE_Answer_Analysis_and_Next_Steps.md` and in the second-set draft were updated to the new paths on September 11, 2026.
+
+**Three things to fix when convenient:**
+
+1. **The RFP Markdown twin was renamed** to `[Current] Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.md`. The `.docx` remains the operative document and the `.md` is regenerated from it (see `Filings/Document_Formatting_Standard.md` § 8). The bracketed prefix means a regeneration under the plain filename would silently create a **third** copy. Either keep the bracketed name and regenerate to that exact path, or rename it back to match the `.docx`.
+2. **`[Oirignal] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` is in the `Request For Production/` folder.** Its contents are genuinely the **interrogatories** — 17 interrogatories, 7 instructions, no Rule 5.04(b) cite, no § 358.116 certificate, no contact details — i.e. a pre-September-10 snapshot. It is correctly labelled but filed in the wrong folder, and "Oirignal" is a typo for "Original". Suggest moving it to `Interrogatories/` and renaming to `[Original 2026-09-08] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` so it is unmistakably a baseline and not the version to serve.
+3. **This README's Section A is out of date** — see the status note there.
 
 ---
 
@@ -25,8 +58,8 @@
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `FirstSetDiscovey/Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** interrogatories (trimmed from 24 — removed items now covered by RFPs or redirected to Prieve; renumbered; count certification updated). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Caption shows the file no. and judge. | **READY — SERVE.** Fill phone/email + date. Tally discrete subparts vs. the 50 cap before serving. |
-| `FirstSetDiscovey/Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **32** document requests + **1 optional (No. 33)** behind a delete-before-serving note (claim file, Prieve native file, 2020 file/Xactimate, Brau notes, umpire/appraiser files, audit trail, third-party-report review policies; optional No. 33 = vendor-management/volume). | **READY — SERVE.** Fill phone/email + date; decide whether to keep, narrow, or cut optional No. 33. |
+| `FirstSetDiscovey/Interrogatories/Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** numbered interrogatories — **23 counting subdivisions of separate questions** under Minn. R. Civ. P. 33.01(a). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Signature block and § 358.116 certificate of service applied September 10, 2026. | **NOT YET READY.** See `Interrogatories_First_Set_Review_2026-09-11.md` and `Proposed_Changes_Interrogatories_First_Set_2026-09-11.md` — two citation errors (Instruction 5; Interrogatory 13) and a budget review recommending six removals are pending decision. |
+| `FirstSetDiscovey/Request For Production/Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **41** document requests, numbered 1–41 with no gap, and **11** instructions. Adds the valuation/estimating file, the underwriting file and attorney-in-fact documentation, the declarations page, recorded calls, the documents behind the defenses, the § 604.18 subd. 4(c) target, F 1.7 / B 1.2 decoding, J6944 matching guidance, and water intrusion. The old optional No. 33 (vendor management) was removed before service and moved to `SecondSetDiscovery/`. | **NEARLY READY — SERVE.** Fill the service date only. 31 of 43 proposal items applied; P-6, P-16, P-33–P-36, P-38 (part) and P-39 still pending. |
 | `RequestForAdmission/FirstSet/Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
 | `RequestForAdmission/FirstSet/Plaintiffs_RFA_Exhibits_A-C.pdf` | Exhibit packet for the RFAs: **A** = Sept 3, 2024 letter; **B** = Nov 4, 2024 denial; **C** = Sept 12, 2025 appraisal award. Each behind a labeled cover sheet. | **SERVE WITH THE RFAs.** (Note: Exhibit C is a phone photo of the award — a cleaner copy is preferable if available.) |
 
