@@ -2,7 +2,7 @@
 
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Court File No. 27-CV-26-11606
 **Prepared:** September 12, 2026
-**Why this exists:** a check of the record behind Interrogatories 9, 10 and 11 found that several of the communications the case relies on most heavily exist in the project **only as a family-prepared summary**, not as original emails.
+**Why this exists:** a check of the record behind Interrogatories 6, 7 and 8 — **numbered 9, 10 and 11 before the September 12, 2026 renumbering of the First Set** — found that several of the communications the case relies on most heavily exist in the project **only as a family-prepared summary**, not as original emails.
 
 > **Not legal advice.** Confirm anything here before relying on it.
 
@@ -23,13 +23,13 @@ Compare the July 2025 exchange, which was preserved correctly as three PDFs. The
 | Sept. 12, 2025 appraisal award | RFA 34 (Exhibit C) | ⚠️ Two phone photographs only — `Appraisal_Result_Front.png` / `_Back.png`. A clean copy is preferable; the Discovery README already flags this. |
 | Jan. 31, 2025 appeal package | Complaint, CFA count | ✅ Three PDFs |
 | **Feb. 10, 2025 second response** (permits, canvass) | Complaint ¶69, permit theory | ✅ `2025-02-10-SecondResponseToFinalReport.pdf` |
-| **Feb. 10, 2025, 11:06 a.m. voicemail** — Brau | **Interrogatory 9**, RFA 26, Complaint ¶25 | ❌ **No audio, no transcript file.** One screenshot exists (`2025-02-10-TheyDon_tLookAtAnyNewFactsEvidence1.PNG`) — confirm what it shows. |
-| **Feb. 3, 2025 Monson call** | **Interrogatory 9**, RFA 26, Complaint ¶24 | ❌ No recording. Contemporaneous note in `Copy of ComunicationLogs.docx.md` only. |
+| **Feb. 10, 2025, 11:06 a.m. voicemail** — Brau | **Interrogatory 6**, RFA 26, Complaint ¶25 | ❌ **No audio, no transcript file.** One screenshot exists (`2025-02-10-TheyDon_tLookAtAnyNewFactsEvidence1.PNG`) — confirm what it shows. |
+| **Feb. 3, 2025 Monson call** | **Interrogatory 6**, RFA 26, Complaint ¶24 | ❌ No recording. Contemporaneous note in `Copy of ComunicationLogs.docx.md` only. |
 | July 10–11, 2025 deadline inquiry | Timeline | ✅ Three PDFs — *this is the model to follow* |
 | Sept. 19, 2025 Farmers response | Complaint ¶69(d) | ✅ `Appraisal Documents/2025-09-19-ResponseFromFarmers.pdf` |
 | Sept. 18, 23, 24, 28; Oct. 1, 7, 13, 14, 21, 28, 2025 | Complaint ¶69(d)–(f), Count III | ❌ Compilation only |
-| **Oct. 10, 2025 — "the file does not contain a report on the requested date"** | **Interrogatory 10**, RFA 27, spoliation | ❌ **Compilation only, and summarized rather than reproduced** |
-| **Oct. 29, 2025 — "all the information we can release has already been sent to you"** | **Interrogatory 11**, spoliation | ❌ **Compilation only** |
+| **Oct. 10, 2025 — "the file does not contain a report on the requested date"** | **Interrogatory 7**, RFA 27, spoliation | ❌ **Compilation only, and summarized rather than reproduced** |
+| **Oct. 29, 2025 — "all the information we can release has already been sent to you"** | **Interrogatory 8**, spoliation | ❌ **Compilation only** |
 
 ## 3. What to do, in order
 

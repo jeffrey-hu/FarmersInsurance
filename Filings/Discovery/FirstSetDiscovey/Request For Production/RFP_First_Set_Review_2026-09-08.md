@@ -1,5 +1,8 @@
 # Review of Plaintiffs' First Set of Requests for Production to FIE
 
+> ⚠️ **Interrogatory numbers in this file are PRE-RENUMBERING.** The First Set was renumbered to a contiguous **1–14** on September 12, 2026. Every bare "Interrogatory N" below refers to the set as it stood before that, unless it says "(formerly M)". Translate with `../Interrogatories/Interrogatory_Renumbering_Map_2026-09-12.md`.
+
+
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Court File No. 27-CV-26-11606
 **Court:** Hennepin County District Court, Fourth Judicial District (Judge Jamie L. Anderson)
 **Document reviewed:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.md` (33 requests, 13 definitions, 7 instructions)

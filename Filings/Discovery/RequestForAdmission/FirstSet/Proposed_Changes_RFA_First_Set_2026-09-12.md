@@ -96,7 +96,7 @@ Items are numbered **A-1** onward, to stay distinct from the **P-** items (Reque
 
 > **REQUEST FOR ADMISSION NO. [40]:** Admit that no document You have produced or released to Plaintiffs records Mr. Brau's observations from the September 6, 2024 inspection of The Property.
 
-**Why.** If admitted, the adverse-inference argument is largely made without any interrogatory answer. If denied, FIE must identify the document it says exists — which is exactly what Interrogatory 11 asks for, now with a denial to test it against. Either way the answer is useful, and it costs nothing against the interrogatory cap.
+**Why.** If admitted, the adverse-inference argument is largely made without any interrogatory answer. If denied, FIE must identify the document it says exists — which is exactly what Interrogatory 8 (formerly 11) asks for, now with a denial to test it against. Either way the answer is useful, and it costs nothing against the interrogatory cap.
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
@@ -379,6 +379,57 @@ They bracket the period in which the records at the centre of the case went miss
 
 ---
 
+## A-13. Appendix A damage-existence admissions — implements interrogatory item I-26
+
+*Added September 12, 2026. Item **I-26** narrowed Interrogatory 4 by striking part (i) — "whether You contend the damage exists" — and moving the existence question here. Interrogatory 4 now asks only for attributed cause and claimed exclusions, which are contentions and proper interrogatory work. Whether a dent appears in a photograph is a classic admission, and under Rule 36.02 an admission is conclusively established, where an interrogatory answer is merely evidence.*
+
+### ⚠️ Read this before approving — I-26's photo list did not survive verification
+
+I-26 proposed extending RFAs 18 and 19 using the photo identifiers "A-42, A-91–93, A-98, A-99 for downspouts; A-103, A-128, A-129 for flashing; A-136, A-141 for the sliding-door screen; A-54, A-90, A-148 for trim." Checked caption by caption against `../../../../OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md`, **four of those identifiers do not support the assertion**:
+
+| ID | Actual Appendix A caption | Problem |
+|---|---|---|
+| **A-54** | "VIEW OF FLASHING ALONG BOTTOM OF BUMP-OUT" | Not trim — it is a flashing **context** shot. The trim chip at the bump-out is **A-53**, "CHIP IN TRIM ALONG LEFT SIDE OF BUMP-OUT." I-26 cited the wrong number by one. |
+| **A-136** | "WINDOW AND SLIDING DOOR, EAST SIDE AT DECK" | A context shot. It documents no damage. |
+| **A-128** | "VIEW OF FLASHING AT DECK ALONG BASE OF WALL" | The catalog's detail row marks it **context**, "likely dents per A-129 adjacency" — an inference, not a caption. |
+| **A-129** | "ADJACENT AREA SHOWING FLASHING ALONG DECK AT EAST WALL" | Also context / adjacency. |
+
+**The catalog is internally inconsistent on the last two.** Its summary table reads "Flashing — dents: A-103, A-128, A-129 = 3 observations," but only **A-103** carries a dent caption ("VIEW OF DENTS IN FLASHING AT BASE OF WALL ALONG DECK"). The same pattern affects **A-148**, listed in the summary among "3 chipped trim observations" though its caption reads only "VIEW OF TRIM ADJACENT TO WINDOW CORNER."
+
+**Why this matters more than a citation tidy-up.** A request for admission that says a photograph depicts a dent, when the caption does not, hands FIE a truthful denial and makes the neighbouring requests look careless. Every request below is drafted only from captions that say what the request says.
+
+### ⚠️ A defect in RFA 18, which is already in the served-ready document
+
+> **REQUEST FOR ADMISSION NO. 18** *(current):* "Admit that the Prieve Report's Photo Appendix A includes photographs depicting **dented downspouts** at The Property (including photographs A-42, **A-91 through A-93**, A-98, and A-99)."
+
+**A-91 reads "DOWNSPOUT EXTENSION AT SOUTH SIDE OF HOME" — a location shot with no dent.** The five dent captions are A-42, A-92, A-93, A-98 and A-99. As drafted, FIE can deny No. 18 truthfully because one photograph in the list does not depict what the request asserts.
+
+**Proposed correction to RFA 18** — change "A-91 through A-93" to "**A-92, A-93**".
+
+### Proposed new requests
+
+> **REQUEST FOR ADMISSION NO. [69]:** Admit that the Prieve Report's Photo Appendix A includes at least one photograph depicting a chip in the trim board at The Property (including photographs A-53 and A-90).
+>
+> **REQUEST FOR ADMISSION NO. [70]:** Admit that the Prieve Report's Photo Appendix A includes at least one photograph depicting a dent in the screen of an exterior door at The Property (including photograph A-141).
+>
+> **REQUEST FOR ADMISSION NO. [71]:** Admit that You do not contend that the components depicted in Requests for Admission Nos. 18, 19, 69 and 70 are undamaged.
+
+**No. 69 rests on two verbatim captions** — A-53, "CHIP IN TRIM ALONG LEFT SIDE OF BUMP-OUT," and A-90, "AREA OF CHIPPED FINISHES AT TRIM BOARD." A-148 is deliberately omitted; its caption supports no assertion about chips.
+
+**No. 70 rests on A-141**, "DENT IN SCREEN AT DOOR WINDOW SCRAPE MARK PRESENT." A-136 is omitted as a context shot.
+
+**No. 71 is the request that does the work I-26 was after.** Nos. 18, 19, 69 and 70 establish what Prieve's own photographs depict; No. 71 closes the gap between "the photograph shows a dent" and "FIE does not dispute the damage exists," in the "absence of a contention" form used at A-6 and A-9. That is the proposition Interrogatory 4 part (i) was asking for, now conclusive under Rule 36.02 rather than merely answered.
+
+**No request is proposed for flashing beyond RFA 19**, which already cites A-103 — the only flashing photograph with a dent caption.
+
+### Follow-up worth doing, separately
+
+The Appendix A summary table and its detail rows disagree on A-128, A-129 and A-148. The captions are the evidence; the summary is the family's tabulation. Someone should reconcile the catalog against the PDF, because the headline counts — "3 dented-flashing observations," "3 chipped trim observations" — appear in the gap analysis and would be quoted in a Tier 1 remand motion. **On the captions as catalogued, those counts are 1 and 2.**
+
+`APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
 ## Related conversions pending elsewhere
 
 These would add to this set, but each is a decision in the interrogatory proposal file. Listed so the RFA set can be assembled once, rather than amended repeatedly.
@@ -386,7 +437,7 @@ These would add to this set, but each is a decision in the interrogatory proposa
 | Source item | What moves here | Approx. new RFAs |
 |---|---|---|
 | ~~**I-21**~~ | ~~Interrogatory 7's four replacement-cost subparts, plus a catch-all~~ — **done, now item A-10** | *(counted below)* |
-| **I-26** | Interrogatory 4's damage-existence questions, keyed to Appendix A photographs | ~12 |
+| ~~**I-26**~~ | ~~Interrogatory 4's damage-existence questions, keyed to Appendix A photographs~~ — **done, now item A-13** (3 requests, not ~12 — see the verification note there) | *(counted below)* |
 | **I-31** | The Brau-observations negative | 1 *(this is A-4)* |
 | **A-1 to A-3** | Exhibits D and E, and the voicemail content | 5 |
 | **A-6** | The defense-universe lock, moved from Interrogatory 15 | 7 |
@@ -396,7 +447,8 @@ These would add to this set, but each is a decision in the interrogatory proposa
 | **A-10** | Scope of replacement cost, replacing removed Interrogatory 7 | 5 |
 | **A-11** | The *Quade* lock, replacing removed Interrogatory 14 | 1 |
 | **A-12** | When the litigation hold issued, replacing removed Interrogatory 16 | 2 |
-| | **Total if all approved** | **~45–46**, taking the set from 34 to roughly 80 |
+| **A-13** | Appendix A damage-existence admissions, implementing I-26 (plus a correction to RFA 18) | 3 |
+| | **Total if all approved** | **~36–37**, taking the set from 34 to roughly 71 |
 
 There is no numeric limit on requests for admission, and Rule 36.02 makes each admission conclusive — but a set of 68 should be organized under headings so it reads as structured rather than scattershot. Say the word and I will draft the additions as a single consolidated amendment once the upstream decisions are made.
 

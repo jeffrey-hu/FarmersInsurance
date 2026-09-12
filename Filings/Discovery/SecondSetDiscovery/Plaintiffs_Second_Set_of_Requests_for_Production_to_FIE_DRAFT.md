@@ -22,7 +22,7 @@ Served second, after Defendant has answered whether it performed any independent
 
 ## Trigger conditions — serve only after all three
 
-1. **Interrogatory 17** (First Set) is answered: Defendant's policies and practice for retaining, reviewing, evaluating, and accepting or rejecting third-party inspection and engineering reports, including who reviews them and what independent analysis is performed.
+1. **Interrogatory 11** (First Set — **numbered 17 before the September 12, 2026 renumbering**) is answered: Defendant's policies and practice for retaining, reviewing, evaluating, and accepting or rejecting third-party inspection and engineering reports, including who reviews them and what independent analysis is performed.
 2. **Request 32** (First Set) is responded to: documents reflecting Defendant's review, evaluation, approval, or adoption of the Hancock and Prieve reports.
 3. **Requests 9 and 28** (First Set) are responded to: the narrowed Minnesota residential hail engagement histories for Prieve and Hancock.
 

@@ -3,7 +3,7 @@
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Court File No. 27-CV-26-11606
 **Court:** Hennepin County District Court, Fourth Judicial District (Judge Jamie L. Anderson)
 **Created:** September 12, 2026
-**Origin:** Interrogatory No. 8 of the First Set, removed from that set before service under item **I-25** of `../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`.
+**Origin:** Interrogatory No. 8 of the First Set, removed from that set before service under item **I-25** of `../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. *The First Set was renumbered to a contiguous 1–14 on September 12, 2026; **No. 8 is a retired number** and does not correspond to anything in the served set — see `../FirstSetDiscovey/Interrogatories/Interrogatory_Renumbering_Map_2026-09-12.md`.*
 
 > ### ⚠️ DRAFT — NOT FOR SERVICE
 > This set is **held deliberately**. It should not be served until the trigger conditions below are met. Serving it early is the specific harm I-25 was written to avoid.
@@ -16,7 +16,7 @@
 
 Minn. R. Civ. P. 33.01(a) caps interrogatories at **a total of 50 per party, cumulative across every set**, counting "each subdivision of separate questions" as one. This set draws from the same 50 as the First Set.
 
-**Check the running tally in `../README.md` (Section A) before serving anything here.** As of September 12, 2026 the First Set stands at a careful count of **28**, leaving roughly **22**. Several of those are already earmarked; the tally lists them.
+**Check the running tally in `../README.md` (Section A) before serving anything here.** As of September 12, 2026 the First Set stands at a careful count of **27**, leaving roughly **23**. Several of those are already earmarked; the tally lists them.
 
 ---
 

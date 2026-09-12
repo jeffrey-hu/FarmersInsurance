@@ -1,5 +1,8 @@
 # Proposed Changes — Plaintiffs' First Set of Interrogatories to FIE
 
+> ⚠️ **Interrogatory numbers in this file are PRE-RENUMBERING.** The First Set was renumbered to a contiguous **1–14** on September 12, 2026. Every bare "Interrogatory N" below refers to the set as it stood before that, unless it says "(formerly M)". Translate with `Interrogatory_Renumbering_Map_2026-09-12.md`.
+
+
 **Target document:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` / `.md`
 **Prepared:** September 11, 2026 · **Not yet served**
 **Companion:** `Interrogatories_First_Set_Review_2026-09-11.md`
@@ -26,7 +29,7 @@ Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct 
 
 ## Summary
 
-> **Applied September 12, 2026 — items I-1 through I-10.** All ten are live in `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` and its `.md` twin; I-9 was applied across all four served documents. Two carry caveats worth re-reading before service: **I-4** (the count was filled provisionally at “fewer than thirty (30)” and drops the Rule 26.06 enlargement clause) and **I-6** (applied although its stated condition, approval of I-13, is not yet met). **I-13 and I-14 were applied the same day** as Interrogatories 18 and 19, and the certification ceiling was raised from thirty (30) to forty (40) to stay truthful. **I-16 and I-20 followed** — Interrogatory 20 and the README budget tally. The live careful count is now **35** against the certification's “fewer than forty (40)” ceiling. **I-19's letter is drafted**, and on September 12 **I-21 was applied** (Interrogatory 7 removed, converted to RFA item A-10) and **I-11 rejected**. The live set is now numbered **1–6, 8–20 — a gap at 7 that must be closed by a single renumbering pass before service.** **I-12 was decided (drop) and I-22 applied** — Interrogatory 14 removed, its *Quade* lock moved to RFA item A-11. **I-23 followed** — Interrogatory 16 removed, with a caveat recorded about RFP 14's counsel-communication carve-out; its value moves to RFA item A-12. **I-25 followed** — Interrogatory 8 deferred to a new second-set interrogatory draft. **I-27 followed** — Interrogatory 1 removed and re-issued as **Instruction 10** — and **I-29 and I-30 applied** (the anti-"see our production" clause in Interrogatory 5 and the Rule 33.03 factual premise in Interrogatory 6 — both count-neutral). The live set is numbered **2–6, 9–13, 15, 17–20**; careful count **27** — ⚠️ **28 if FIE counts I-31's reconciliation clause as a separate question**, which is arguable. **I-32 applied in full** — Interrogatory 9 sharpened and the Dates instruction added as Instruction 11. **I-33 applied** — Interrogatory 15 dropped. The live set is numbered **2–6, 9–13, 17–20**; careful count **26**. Items **I-24, I-26 and I-28 remain pending**.
+> **Applied September 12, 2026 — items I-1 through I-10.** All ten are live in `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` and its `.md` twin; I-9 was applied across all four served documents. Two carry caveats worth re-reading before service: **I-4** (the count was filled provisionally at “fewer than thirty (30)” and drops the Rule 26.06 enlargement clause) and **I-6** (applied although its stated condition, approval of I-13, is not yet met). **I-13 and I-14 were applied the same day** as Interrogatories 18 and 19, and the certification ceiling was raised from thirty (30) to forty (40) to stay truthful. **I-16 and I-20 followed** — Interrogatory 20 and the README budget tally. The live careful count is now **35** against the certification's “fewer than forty (40)” ceiling. **I-19's letter is drafted**, and on September 12 **I-21 was applied** (Interrogatory 7 removed, converted to RFA item A-10) and **I-11 rejected**. The live set is now numbered **1–6, 8–20 — a gap at 7 that must be closed by a single renumbering pass before service.** **I-12 was decided (drop) and I-22 applied** — Interrogatory 14 removed, its *Quade* lock moved to RFA item A-11. **I-23 followed** — Interrogatory 16 removed, with a caveat recorded about RFP 14's counsel-communication carve-out; its value moves to RFA item A-12. **I-25 followed** — Interrogatory 8 deferred to a new second-set interrogatory draft. **I-27 followed** — Interrogatory 1 removed and re-issued as **Instruction 10** — and **I-29 and I-30 applied** (the anti-"see our production" clause in Interrogatory 5 and the Rule 33.03 factual premise in Interrogatory 6 — both count-neutral). The live set is numbered **2–6, 9–13, 15, 17–20**; careful count **27** — ⚠️ **28 if FIE counts I-31's reconciliation clause as a separate question**, which is arguable. **I-32 applied in full** — Interrogatory 9 sharpened and the Dates instruction added as Instruction 11. **I-33 applied** — Interrogatory 15 dropped. The live set is numbered **2–6, 9–13, 17–20**; careful count **26**. **I-28 applied on Option A** (Interrogatory 2 rewritten and scoped to windows; No. 4 kept separate; **+1**, careful count now **27**). **I-24 is the only item still open**, and it is a trim, not a removal — **the renumbering pass is unblocked.**
 >
 > ⚠️ **Correction, September 12, 2026.** An earlier version of this note called I-24 "the last removal" and said the renumbering pass was blocked until it was decided. **Both statements were wrong.** I-24 *trims* Interrogatory 17 from four lettered subparts to two — Interrogatory 17 itself stays, so I-24 changes the **count** (−2) but not the **numbering**. The same is true of I-26, which narrows Interrogatory 4. **Every item that creates a numbering gap is already applied** (Interrogatories 1, 7, 8, 14, 15 and 16), so the renumbering pass is **unblocked now** — with one exception: **I-28 Option B** would merge Interrogatory 2 into Interrogatory 4 and delete No. 2, creating a further gap. **I-28 is therefore the only open item that can still move the numbering**, and only if Option B is chosen over Option A.
 
@@ -64,9 +67,9 @@ Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct 
 | I-23 | **Remove Interrogatory 16** (litigation hold) | ✅ **Applied** — ⚠️ see caveat; value moves to RFA A-12 | — |
 | I-24 | **Trim Interrogatory 17** to subparts (a) and (d) | High | **Yes** |
 | I-25 | **Defer Interrogatory 8** (J6944 not yet in issue) | ✅ **Applied** — held in the second-set draft | — |
-| I-26 | **Narrow Interrogatory 4** — existence questions to RFAs | Medium | **Yes** |
+| I-26 | **Narrow Interrogatory 4** — existence questions to RFAs | ✅ **Applied** — companions are RFA item A-13 | — |
 | I-27 | **Remove Interrogatory 1**, convert to an instruction | ✅ **Applied** — now Instruction 10 | — |
-| I-28 | **Rewrite Interrogatory 2** — it can be answered "we make no contention"; merge with No. 4? | **Critical** | **Yes** |
+| I-28 | **Rewrite Interrogatory 2** — it can be answered "we make no contention" | ✅ **Applied — Option A** | — |
 | I-29 | **Keep Interrogatory 5**; add the anti-"see our production" clause; record the deliberate pairing with RFP 7 | ✅ **Applied** | — |
 | I-30 | **Keep Interrogatory 6** in the First Set; add the Rule 33.03 carve-out; earmark 2 for a follow-up | ✅ **Applied** | — |
 | I-31 | **Keep Interrogatories 10 and 11**; add the reconciliation clause to No. 11; companion RFA is A-4 | ✅ **Applied** | — |
@@ -719,9 +722,9 @@ I have not counted these aggressively in the tables below — but assume a reser
 
 ---
 
-## I-24. TRIM Interrogatory 17 — keep (a) and (d), drop (b) and (c)
+## I-24. TRIM Interrogatory 11 (formerly 17) — keep (a) and (d), drop (b) and (c)
 
-> ℹ️ **This is a trim, not a removal.** Interrogatory 17 stays in the set; only subparts (b) and (c) come out. It changes the Rule 33.01(a) count by −2 and does **not** create a numbering gap or affect the renumbering pass.
+> ℹ️ **This is a trim, not a removal.** Interrogatory 11 — **numbered 17 before the September 12 renumbering** — stays in the set; only subparts (b) and (c) come out. It changes the Rule 33.01(a) count by −2 and does **not** create a numbering gap or affect the renumbering pass.
 
 **Current:** four subparts — (a) who reviews vendor reports; (b) what independent review Farmers performs; (c) whether an adjuster or supervisor may accept, modify or reject a vendor's conclusions; (d) the review actually performed of the Hancock and Prieve reports in The Claim.
 
@@ -761,7 +764,13 @@ If the documents show no independent-review process, that is better evidence tha
 
 ---
 
-## I-26. NARROW Interrogatory 4 — move the existence question to RFAs
+## I-26. NARROW Interrogatory 4 — move the existence question to RFAs — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Part (i) is struck. Interrogatory 4 now asks only for the cause attributed and any exclusion claimed — both contentions, which is proper interrogatory work. **Saving: 0 nominal**, but it removes the largest counting argument FIE had, since the interrogatory no longer repeats three questions across an open-ended component list.
+>
+> ⚠️ **The companion RFAs are fewer than this item assumed, because its photo list did not survive checking.** I-26 proposed extending RFAs 18 and 19 with roughly a dozen requests keyed to Appendix A photographs. Checked caption by caption against the damage catalog, **four of the cited identifiers do not support the assertion**: **A-54** is a flashing context shot, not trim — the bump-out trim chip is **A-53**; **A-136** is a context shot; and **A-128 / A-129** are catalogued as context and adjacency rather than dent captions. The verified requests are drafted as **RFA item A-13** — three of them, not twelve.
+>
+> ⚠️ **Two problems found while verifying, both outside this item's scope and both recorded at A-13.** First, **RFA 18 in the served-ready document is defective**: it asserts that photographs "A-42, A-91 through A-93, A-98, and A-99" depict *dented* downspouts, but **A-91** reads "DOWNSPOUT EXTENSION AT SOUTH SIDE OF HOME" — a location shot with no dent — so FIE can deny it truthfully. A correction is proposed. Second, the **damage catalog is internally inconsistent**: its summary table counts 3 dented-flashing and 3 chipped-trim observations, but on the captions those counts are **1 and 2**. Those headline figures feed the gap analysis and would be quoted in a Tier 1 remand motion.
 
 **Current:** identify each non-window component Appendix A documents as damaged, and **for each** state (i) whether FIE contends the damage exists, (ii) the cause attributed, and (iii) whether any exclusion or limitation applies.
 
@@ -773,7 +782,7 @@ This both shrinks the count exposure and produces better evidence: an admission 
 
 **Saving: 0 nominal, but removes the largest counting argument FIE has.**
 
-`NARROW ☐   KEEP AS IS ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -818,7 +827,21 @@ The only unique content in Interrogatory 1 is the mapping of person → interrog
 
 ---
 
-## I-28. REWRITE Interrogatory 2 — it can be answered with "we make no contention" ⚠️ *needs your decision*
+## I-28. REWRITE Interrogatory 2 — **APPLIED, Option A**
+
+> ✅ **APPLIED September 12, 2026 — Option A.** Interrogatory 2 is rewritten in place; Interrogatory 4 stays separate. No merge, so **no further numbering gap** — the set still runs 2–6, 9–13, 17–20.
+>
+> **As served, Interrogatory 2 now reads:**
+>
+> > **INTERROGATORY NO. 2:** Separately for each **window** of The Property that the Prieve Report's Photo Appendix A depicts as dented, marked, or otherwise damaged, other than the windows designated "F1.7" and "B1.2" in The Appraisal Award, state the cause You attribute to that condition and the facts supporting that attribution, state whether You contend any policy exclusion or limitation applies to that window and, if so, which, and, if You contend The Appraisal Award determined the question for that window, identify the portion of the award You rely on.
+>
+> ⚠️ **I changed the scope from the reviewed text, and you should decide whether to keep the change.** The rewrite as drafted below opens "for each window **and exterior component**," which is the scope of the *old* Interrogatory 2. Under Option A, Interrogatory 4 survives and covers "each **non-window** component." Applied literally, the rewritten No. 2 would have swallowed No. 4 whole and asked the same two questions over the same items — recreating, in a worse form, the exact duplication that Option B existed to solve. **I scoped the rewritten No. 2 to windows only**, leaving non-window components to No. 4. The two are now complementary rather than overlapping. Say the word and the literal text goes in instead.
+>
+> **Two conforming edits, neither substantive.** The reviewed draft wrote the designations as "F 1.7" and "B 1.2"; the live document and most of the project use the closed form, so **F1.7 / B1.2** was used. And the reviewed draft dropped the anchor "in The Appraisal Award" after the designations; it was **restored**, since without it the designations have no stated source.
+>
+> ⚠️ **Count: this item costs +1.** Interrogatory 2 was 1. The rewrite asks cause-and-exclusion (1, as Interrogatory 4 is counted) **plus award-reliance**, which is a separate inquiry by the standard that makes Interrogatory 6 count as 2. Careful count moves **26 → 27**; reserve 24 → 23. The award-reliance clause is worth it: it is the clause that converts FIE's likely dodge — "the appraisal resolved it" — into a demand to point at where, in a two-window lump-sum award, that determination appears. It cannot, and the answer is evidence for the *Quade* scope argument in Count I and the § 65A.01 subd. 3 non-itemization argument in Count III.
+>
+> **The award-reliance clause was not added to Interrogatory 4.** It could be — FIE might claim the award reached non-window items too — but that would cost another 1, and the award covered windows and $0 siding, so the question is sharpest where it now sits.
 
 **Current:**
 
@@ -865,9 +888,51 @@ Rewritten this way, Interrogatories 2 and 4 become the same question applied to 
 
 **Option B — merge them into a single per-item interrogatory** covering every window and exterior component in Appendix A. ⚠️ *This is the only open item that would change the set's numbering: merging deletes Interrogatory 2 and creates a further gap. Option A does not.* **Saves 1**, removes the duplication objection, and produces one consolidated answer rather than two that may not line up. The cost is a single larger question carrying more "for each" multiplication exposure.
 
-**My recommendation: Option B**, merged and anchored expressly to Appendix A so the set of items is closed rather than open-ended. If **I-26** is also approved (moving the damage-existence questions to Requests for Admission), the merged interrogatory gets smaller still — it would ask only for attributed cause, claimed exclusions, and any award reliance, with existence handled by admissions.
+~~**My recommendation: Option B**, merged and anchored expressly to Appendix A so the set of items is closed rather than open-ended. If **I-26** is also approved (moving the damage-existence questions to Requests for Admission), the merged interrogatory gets smaller still — it would ask only for attributed cause, claimed exclusions, and any award reliance, with existence handled by admissions.~~
 
-`OPTION A — REWRITE ONLY ☐   OPTION B — REWRITE AND MERGE WITH NO. 4 ☐   REJECT — KEEP AS IS ☐   HOLD ☐`
+---
+
+### ⚠️ Revised September 12, 2026 — Option B drafted, and the recommendation reversed
+
+You asked what the merged interrogatory would actually look like. Drafting it exposed an arithmetic error in the Option B case above.
+
+**Option B as it would read — unlettered form (the one to serve, for the reason below):**
+
+> **INTERROGATORY NO. 4:** Separately for each window and each non-window exterior component of The Property — including without limitation window sashes, window frames, downspouts, flashing, siding, trim board, doors, and screens — that the Prieve Report's Photo Appendix A depicts as dented, chipped, marked, or otherwise damaged, other than the windows designated "F1.7" and "B1.2" in The Appraisal Award, state the cause You attribute to that condition and the facts supporting that attribution, whether You contend any policy exclusion or limitation applies to that item and if so which, and, if You contend The Appraisal Award determined the question for that item, the portion of the award You rely on.
+
+**Lettered form — more readable, and that is the problem:**
+
+> …other than the windows designated "F1.7" and "B1.2" in The Appraisal Award, state: (a) the cause You attribute to that condition and the facts supporting it; (b) whether You contend any policy exclusion or limitation applies and, if so, which; and (c) if You contend The Appraisal Award determined the question for that item, the portion of the award You rely on.
+
+Interrogatory 2 would then be deleted, leaving a further numbering gap.
+
+**"F1.7" / "B1.2" spelling.** The live Interrogatory 2 and most of the project use the closed form `F1.7` / `B1.2`; a few files (and the earlier draft of this item) use `F 1.7` / `B 1.2`. Whichever is adopted should be made consistent across all three sets before service.
+
+#### The claimed saving of 1 does not hold
+
+| | Count, on this set's own convention |
+|---|---|
+| Interrogatory 2 today | **1** |
+| Interrogatory 4 today (as narrowed by I-26 — cause **and** exclusion, counted as one inquiry) | **1** |
+| **Today, combined** | **2** |
+| Merged, unlettered — cause + exclusion (1, as Interrogatory 4 is counted now) + award-reliance (a genuinely separate inquiry, by the same standard that makes Interrogatory 6 count as 2) | **2** |
+| Merged, lettered (a)(b)(c) — on a hostile lettered count | **3** |
+
+**So Option B saves 0, not 1 — and in the lettered form it costs 1.** If Option B is chosen, it must be served unlettered.
+
+#### What Option B actually buys, and what it costs
+
+**Buys:** removal of the duplication objection — with I-26 applied, Interrogatories 2 and 4 genuinely are the same question aimed at two halves of the same house; one consolidated answer instead of two that may not line up; and a closed item list anchored to FIE's own engineer's photographs.
+
+**Costs:** concentration. Every "for each" multiplication argument FIE has would live in a single question, and one successful objection would knock out both topics at once. Two narrower questions are separately defensible; one sprawling question is a single point of failure.
+
+#### Revised recommendation: **Option A**
+
+Rewrite Interrogatory 2 as drafted above and keep Interrogatory 4 separate. The count is the same either way, no further numbering gap is created, and the counting risk stays split across two questions rather than pooled in one. The duplication Option B was written to solve is smaller than it was, because **I-26 has since narrowed Interrogatory 4** by striking the damage-existence question — the two interrogatories now overlap less than they did on September 11.
+
+**Numbering consequence, restated.** Option A leaves the numbering alone. Option B deletes Interrogatory 2 and is **the only open item that would create a further gap** — so if Option B is chosen, choose it before the renumbering pass.
+
+`✅ OPTION A APPLIED 2026-09-12 — rewritten, scoped to windows, No. 4 kept separate`
 
 ---
 
@@ -916,9 +981,9 @@ The same logic applies to two other deliberate pairings in these sets:
 
 | Interrogatory | Paired request | What only the interrogatory gets |
 |---|---|---|
-| **5** — Prieve scope decision | RFP 7 | The reason; whether Plaintiffs were told; whether Prieve was refused |
-| **10** — the search for Brau's records | RFP 3 | What search was actually performed, by whom, and when |
-| **12** — supervisory review of the denials | RFP 30 | What the review consisted of, where no memo exists |
+| **4** *(formerly 5)* — Prieve scope decision | RFP 7 | The reason; whether Plaintiffs were told; whether Prieve was refused |
+| **7** *(formerly 10)* — the search for Brau's records | RFP 3 | What search was actually performed, by whom, and when |
+| **9** *(formerly 12)* — supervisory review of the denials | RFP 30 | What the review consisted of, where no memo exists |
 
 **Contrast with the items removed in Section VII**, where the overlap was *not* purposeful: Interrogatory 16 (litigation hold) duplicates RFP 14 with no unique sworn content, and Interrogatory 17(b)–(c) duplicate RFPs 31 and 32. Those were cut precisely because the document version gives you everything.
 
@@ -1159,7 +1224,7 @@ So the lock belongs in the RFA set, where the rule forecloses the dodge — and 
 | I-24 — trim Interrogatory 17 to two subparts | −2 | 15 |
 | I-25 — defer Interrogatory 8 (J6944) ✅ *applied 9/12* | −1 | 14 |
 | I-27 — remove Interrogatory 1, convert to an instruction ✅ *applied 9/12* | −1 | **13** |
-| I-28 — merge Interrogatory 2 into Interrogatory 4 *(Option B only)* | −1 | **12** |
+| ~~I-28 — merge Interrogatory 2 into Interrogatory 4 *(Option B only)*~~ — **corrected 9/12: the merge saves 0, not 1** | ~~−1~~ | — |
 | I-33 — drop Interrogatory 15; lock moves to RFA item A-6 ✅ *applied 9/12* | −1 | **11** |
 | I-10 — Interrogatory 3, add decision-maker | +1 | 12 |
 | I-13 — entity identity (6 subparts) ✅ *applied — Interrogatory 18* | +6 | 18 |
@@ -1181,7 +1246,7 @@ Of the remaining budget, part is already spoken for:
 
 | Earmark | Count | Trigger |
 |---|---|---|
-| Follow-up to Interrogatory 6, keyed to specific 2020 line items or photographs (**I-30**) | 2 | Production of RFP 23's photo log and translation worksheet |
+| Follow-up to Interrogatory 5 (formerly 6), keyed to specific 2020 line items or photographs (**I-30**) | 2 | Production of RFP 23's photo log and translation worksheet |
 | Post-production gap follow-up, keyed to specific absences in the production (**I-16**) | 2 | Review of FIE's document production |
 | Expert interrogatory under Rule 26.02(e)(1)(A) | 1–2 | FIE's expert designation, due April 17, 2027 |
 | Interrogatory 16 (litigation hold), restated (**I-23**) | 1 | FIE's RFP 14 response producing nothing, or invoking the counsel-communication carve-out |
@@ -1198,7 +1263,7 @@ Of the remaining budget, part is already spoken for:
 | Moved from | To | Count |
 |---|---|---|
 | Interrogatory 7 (I-21) | Requests for Admission | +5 RFAs |
-| Interrogatory 4, part (i) (I-26) | Requests for Admission | ~+12 RFAs |
+| Interrogatory 4, part (i) (I-26) ✅ *applied 9/12* | Requests for Admission (A-13) | **+3 RFAs** — not ~12; see the caption verification at A-13 |
 | Interrogatory 17 (b), (c) (I-24) | Already covered by RFPs 31 and 32 | +0 |
 | Interrogatory 16 (I-23) | Already covered by RFP 14 | +0 |
 | Interrogatory 8 (I-25) | Already covered by RFPs 24 and 40; interrogatory deferred | +0 |
