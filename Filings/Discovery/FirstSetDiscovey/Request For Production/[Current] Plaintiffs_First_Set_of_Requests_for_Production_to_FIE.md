@@ -149,8 +149,6 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
-Respectfully submitted,
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Yibiao Lu, Plaintiff *pro se*

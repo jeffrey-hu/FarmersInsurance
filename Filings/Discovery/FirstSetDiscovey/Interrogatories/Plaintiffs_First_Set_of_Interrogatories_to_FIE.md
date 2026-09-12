@@ -35,25 +35,29 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"Person"** means any natural person or any business, legal, or governmental entity.
 
-**"Identify"** when used with respect to a person, means to state the person’s full name, last known title or role, employer, and last known business address, telephone number, and email address; when used with respect to a document, means to state its type, date, author(s), recipient(s), general subject matter, and present custodian, and to produce it.
+**"Identify"** when used with respect to a person, means to state the person’s full name, last known title or role, employer, and last known business address, telephone number, and email address; when used with respect to a document, means to state its type, date, author(s), recipient(s), general subject matter, and present custodian.
 
 **"Relating to," "concerning," and "regarding"** mean referring to, describing, evidencing, constituting, reflecting, or in any way logically or factually connected with the subject matter of the request.
 
 **Instructions**
 
-**1.** Time period. Unless a particular request specifies otherwise, each request covers the period January 1, 2020 through the present.
+**1.** Time period. Unless a particular interrogatory specifies otherwise, each interrogatory covers the period January 1, 2020 through the present, except that as to The Policy, its issuance and underwriting, and all claims made at The Property before The Claim, each interrogatory covers the period October 22, 2014 through the present.
 
-**2.** Manner of answer. Each interrogatory must be answered separately, fully, in writing, and under oath, and the answers must be signed by the person making them, pursuant to Minn. R. Civ. P. 33.01.
+**2.** Manner of answer. Each interrogatory must be answered separately, fully, in writing, and under oath, and the answers must be signed by the person making them, pursuant to Minn. R. Civ. P. 33.01(d).
 
 **3.** Continuing duty. These interrogatories are continuing. You must seasonably supplement or correct Your answers pursuant to Minn. R. Civ. P. 26.05.
 
 **4.** Privilege. If You withhold any information on a claim of privilege or protection, expressly state the claim and provide a privilege log describing the nature of the withheld material in a manner sufficient to enable Plaintiffs to assess the claim, pursuant to Minn. R. Civ. P. 26.02(f).
 
-**5.** Option to produce records. If You elect to answer any interrogatory by producing business records under Minn. R. Civ. P. 33.01(d), specify the records to be produced in sufficient detail to permit Plaintiffs to locate and identify them as readily as You could.
+**5.** Option to produce records. If You elect to answer any interrogatory by producing business records under Minn. R. Civ. P. 33.03, specify the records to be produced in sufficient detail to permit Plaintiffs to locate and identify them as readily as You could.
 
 **6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, identify it, describe its disposition, and identify each person with knowledge.
 
 **7.** Construction. The words "and" and "or" are both conjunctive and disjunctive; "each" includes "every"; and the singular includes the plural and vice versa, as necessary to bring within the scope of each interrogatory all answers that might otherwise be construed to be outside its scope.
+
+**8.** Attorney-client communications and litigation counsel. No interrogatory seeks information protected by the attorney-client privilege or by Minn. R. Civ. P. 26.02(d). Communications solely between You and Your counsel of record in this action, dated on or after July 8, 2026, need not be described or logged. This paragraph does not excuse the identification or logging of any communication created before that date, including communications created in the handling, investigation, evaluation, or denial of The Claim.
+
+**9.** Partial objections. If You object to any part of an interrogatory, answer the remainder. Each objection must state whether any responsive information is being withheld on the basis of that objection.
 
 **Interrogatories**
 
@@ -61,7 +65,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 2:** State each fact on which You base any contention that hail did not cause damage to any window or exterior component of The Property beyond the windows designated "F1.7" and "B1.2" in The Appraisal Award, and identify the documents and witnesses that support that contention.
 
-**INTERROGATORY NO. 3:** For each of the six policy exclusions cited in the November 4, 2024 denial letter, state the specific factual basis on which You contend that exclusion applies to The Claim, and identify the documents and witnesses on which You rely to support the application of that exclusion.
+**INTERROGATORY NO. 3:** For each of the six policy exclusions cited in the November 4, 2024 denial letter, state the specific factual basis on which You contend that exclusion applies to The Claim, and identify the documents and witnesses on which You rely to support the application of that exclusion; and identify each person who decided to include that exclusion in the letter.
 
 **INTERROGATORY NO. 4:** Identify each non-window component of The Property (including without limitation downspouts, flashing, siding, trim board, doors, and screens) that the Prieve Report’s Photo Appendix A documents as dented, marked, or otherwise damaged, and for each such component state whether You contend the damage exists, the cause You attribute to the damage, and whether You contend that any policy exclusion or limitation applies.
 
@@ -81,7 +85,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 12:** For each of the September 3, 2024 and November 4, 2024 denial letters, describe the supervisory review performed before the letter was issued, identifying the reviewer(s), the steps taken, the date of the review, and any documents created during the review.
 
-**INTERROGATORY NO. 13:** State each fact on which You base any contention that The Appraisal Award resolved The Claim within the meaning of Minn. Stat. § 604.18, subd. 4(b), and identify every window that the award is intended to cover and every window it is intended to exclude, with the document or communication supporting each identification.
+**INTERROGATORY NO. 13:** State each fact on which You base any contention that The Appraisal Award resolved The Claim within the meaning of Minn. Stat. § 604.18, subd. 4(c), and identify every window that the award is intended to cover and every window it is intended to exclude, with the document or communication supporting each identification.
 
 **INTERROGATORY NO. 14:** State Your position, and the complete basis for it, on whether The Appraisal Award is binding on You as to causation under Quade v. Secura Insurance, 814 N.W.2d 703 (Minn. 2012).
 
@@ -91,11 +95,15 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 17:** Describe Your policies, procedures, and practices for retaining, reviewing, evaluating, and accepting or rejecting third-party inspection reports and engineering reports on property claims, including the Hancock Claims Consultants and Prieve Engineering reports in The Claim, stating: (a) who within Farmers reviews such reports; (b) what independent review or analysis, if any, Farmers performs of a vendor’s findings and conclusions before relying on them; (c) whether and how an adjuster or supervisor may accept, modify, or reject a vendor’s conclusions; and (d) the review actually performed of the Hancock and Prieve reports in The Claim, identifying each person involved and each document created.
 
-Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories number seventeen (17) and, including all discrete subparts, do not exceed the fifty (50) interrogatories permitted without leave of court. Plaintiffs reserve the right to serve additional interrogatories by stipulation or upon leave of court, including any enlargement agreed at the Rule 26.06 conference.
+**INTERROGATORY NO. 18:** Identify, for each of the following, the specific legal entity that performed the act, and state that entity’s form and state of organization: (a) the entity that issued and underwrote The Policy; (b) the entity that employed or engaged Nicholas Brau, Bradlee Monson, Christian Dudley, and Peter Pietila at the time of their involvement in The Claim; (c) the entity that made the coverage decisions communicated in the September 3, 2024 and November 4, 2024 letters; (d) the entity that retained Hancock Claims Consultants and Prieve Engineering, LLC; (e) the entity that maintains the claim file for The Claim and The 2020 Claim; and (f) the entity that appointed Greg Tomes as appraiser. For each, state the basis of the relationship between that entity and Fire Insurance Exchange, and identify the subscription agreement, power of attorney, or other instrument governing the attorney-in-fact relationship between Fire Insurance Exchange and Fire Underwriters Association.
+
+**INTERROGATORY NO. 19:** Identify each person known to You to have knowledge of any fact at issue in this action, including without limitation facts relating to The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or the denial decisions, and state the subject matter of each person’s knowledge.
+
+**INTERROGATORY NO. 20:** For each document or item of information responsive to any discovery request in Plaintiffs’ First Sets that You contend no longer exists or cannot be located, identify the document or information by type, date, author, and subject matter; state the date and manner of its destruction or loss; identify the person who authorized or caused it and the retention policy or schedule under which it occurred; and identify each person who had custody of it.
+
+Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories, counting each subdivision of separate questions as an interrogatory, number fewer than forty (40) and do not exceed the fifty (50) interrogatories permitted without leave of court. Plaintiffs reserve the right to serve additional interrogatories by stipulation or upon leave of court.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
-
-Respectfully submitted,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

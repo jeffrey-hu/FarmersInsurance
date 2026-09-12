@@ -83,8 +83,6 @@ Pursuant to Minn. R. Civ. P. 26.07, the undersigned certify that, to the best of
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
-Respectfully submitted,
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Yibiao Lu, Plaintiff pro se

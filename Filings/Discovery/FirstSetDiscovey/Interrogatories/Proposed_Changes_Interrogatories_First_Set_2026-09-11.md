@@ -26,33 +26,36 @@ Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct 
 
 ## Summary
 
+> **Applied September 12, 2026 — items I-1 through I-10.** All ten are live in `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` and its `.md` twin; I-9 was applied across all four served documents. Two carry caveats worth re-reading before service: **I-4** (the count was filled provisionally at “fewer than thirty (30)” and drops the Rule 26.06 enlargement clause) and **I-6** (applied although its stated condition, approval of I-13, is not yet met). **I-13 and I-14 were applied the same day** as Interrogatories 18 and 19, and the certification ceiling was raised from thirty (30) to forty (40) to stay truthful. **I-16 and I-20 followed** — Interrogatory 20 and the README budget tally. The live careful count is now **35** against the certification's “fewer than forty (40)” ceiling. Items **I-11, I-12, I-19 and I-21 onward remain pending**.
+
+
 | # | Change | Priority | Needs input |
 |---|---|---|---|
 | **I. Compliance and citations** | | | |
-| I-1 | Instruction 5 — business-records cite `33.01(d)` → **`33.03`** | **Critical** | No |
-| I-2 | Instruction 2 — manner-of-answer cite `33.01` → **`33.01(d)`** | Low | No |
-| I-3 | Interrogatory 13 — § 604.18 cite **`subd. 4(b)` → `subd. 4(c)`** | **Critical** | No |
-| I-4 | Closing certification — Minnesota's counting language and an accurate number | High | No |
-| I-5 | "Identify" definition — delete the "and to produce it" clause | Medium | No |
-| I-6 | Instruction 1 — extend the period to October 22, 2014 (only if I-13 is approved) | Medium | No |
-| I-7 | New Instruction 8 — attorney-client / litigation-counsel carve-out | **Critical** | No |
-| I-8 | New Instruction 9 — partial objections must state what is withheld | High | No |
-| I-9 | "Respectfully submitted," — same open question as the RFPs | Low | **Yes** |
+| I-1 | Instruction 5 — business-records cite `33.01(d)` → **`33.03`** | ✅ **Applied** | — |
+| I-2 | Instruction 2 — manner-of-answer cite `33.01` → **`33.01(d)`** | ✅ **Applied** | — |
+| I-3 | Interrogatory 13 — § 604.18 cite **`subd. 4(b)` → `subd. 4(c)`** | ✅ **Applied** | — |
+| I-4 | Closing certification — Minnesota's counting language and an accurate number | ✅ **Applied** | — |
+| I-5 | "Identify" definition — delete the "and to produce it" clause | ✅ **Applied** | — |
+| I-6 | Instruction 1 — extend the period to October 22, 2014 (only if I-13 is approved) | ✅ **Applied** | — |
+| I-7 | New Instruction 8 — attorney-client / litigation-counsel carve-out | ✅ **Applied** | — |
+| I-8 | New Instruction 9 — partial objections must state what is withheld | ✅ **Applied** | — |
+| I-9 | "Respectfully submitted," — same open question as the RFPs | ✅ **Applied** | — |
 | **II. Amendments to existing interrogatories** | | | |
-| I-10 | Interrogatory 3 — add "who decided to include that exclusion" | High | No |
+| I-10 | Interrogatory 3 — add "who decided to include that exclusion" | ✅ **Applied** | — |
 | I-11 | Interrogatory 7 — add catch-all subpart (e) | Medium | No |
 | I-12 | Interrogatory 14 — keep, but do not spend the meet-and-confer on it | Low | **Yes** |
 | **III. New interrogatories** | | | |
-| I-13 | **Entity identity and capacity** — joinder closes November 16, 2026 | **Critical** | No |
-| I-14 | Persons with knowledge | High | No |
+| I-13 | **Entity identity and capacity** — joinder closes November 16, 2026 | ✅ **Applied** — Interrogatory 18 | — |
+| I-14 | Persons with knowledge | ✅ **Applied** — Interrogatory 19 | — |
 | I-15 | ~~The $6,400 ACV and depreciation calculation~~ — **WITHDRAWN**, see A-7 | — | No |
-| I-16 | Destroyed or unlocatable information — **count corrected to 1**; gap follow-up earmarked | High | No |
+| I-16 | Destroyed or unlocatable information — count corrected to 1; gap follow-up earmarked | ✅ **Applied** — Interrogatory 20 | — |
 | I-17 | ~~What FIE contends is owed, and what it has paid~~ — **WITHDRAWN**, see A-8 | — | No |
 | I-18 | ~~Prieve's status — expert opinion or claim handling?~~ — **WITHDRAWN**, see A-9 | — | No |
 | — | *General expert identification — **not proposed**, see the note below* | — | — |
 | **IV. Companion actions** | | | |
-| I-19 | **Expert-discovery stipulation with Kennedy** — time-critical | **Critical** | **Yes** |
-| I-20 | Keep a running interrogatory-budget tally | Medium | No |
+| I-19 | **Expert-discovery stipulation with Kennedy** — time-critical | ✅ **Letter drafted** | **Yes** — send standalone or fold in? |
+| I-20 | Keep a running interrogatory-budget tally | ✅ **Applied** — `README.md` §A | — |
 | **VII. Budget review — removals (added September 11)** | | | |
 | I-21 | **Remove Interrogatory 7**, convert to 5 RFAs | **Critical** | **Yes** |
 | I-22 | **Remove Interrogatory 14** (*Quade*) | High | **Yes** |
@@ -80,6 +83,8 @@ One correction to the reasoning, though, because it matters for planning: the **
 
 ## I-1. Instruction 5 — wrong rule for the business-records option
 
+> ✅ **APPLIED September 12, 2026.** Instruction 5 now cites **Minn. R. Civ. P. 33.03**.
+
 **Current:**
 
 > **5.** Option to produce records. If You elect to answer any interrogatory by producing business records under **Minn. R. Civ. P. 33.01(d)**, specify the records to be produced in sufficient detail to permit Plaintiffs to locate and identify them as readily as You could.
@@ -88,22 +93,26 @@ One correction to the reasoning, though, because it matters for planning: the **
 
 **Why.** Rule 33.03 is the option-to-produce-business-records provision. Rule 33.01(d) is a different thing entirely — it requires that answers "be stated fully in writing and … signed under oath or penalty of perjury." As written the instruction invites FIE to invoke a rule that does not say what the instruction says it says.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-2. Instruction 2 — imprecise cite
+
+> ✅ **APPLIED September 12, 2026.** Instruction 2 now cites **Minn. R. Civ. P. 33.01(d)**.
 
 **Current:** "…pursuant to **Minn. R. Civ. P. 33.01**."
 **Proposed:** "…pursuant to **Minn. R. Civ. P. 33.01(d)**."
 
 **Why.** The under-oath signature requirement is in 33.01(d) specifically. Same looseness that produced I-1.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-3. Interrogatory 13 — wrong subdivision of § 604.18
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 13 now cites **Minn. Stat. § 604.18, subd. 4(c)**.
 
 **Current:**
 
@@ -123,11 +132,13 @@ The appraisal bar is **4(c)** — the defense this interrogatory exists to attac
 
 This is the same class of error as the "page 7 of the Prieve Report" mis-citation corrected in the RFP set. Worth a standing habit: pull the subdivision before citing it.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-4. The closing certification — wrong wording, understated number
+
+> ✅ **APPLIED September 12, 2026.** Certification rewritten with Minnesota's “each subdivision of separate questions” language. ⚠️ **`[NN]` was filled provisionally as “fewer than thirty (30).”** That is defensible today (careful count 26, plus 1 for I-10 = 27), but it must be re-verified against the Section VII budget before service. **Updated the same day to “fewer than forty (40)”** when I-13 (+6) and I-14 (+1) were applied, taking the careful count to 34; it must come back down if the Section VII removals are approved. Note also that the replacement text as reviewed **drops the former closing clause** “including any enlargement agreed at the Rule 26.06 conference” — say the word and I will restore it.
 
 **Current:**
 
@@ -141,11 +152,13 @@ This is the same class of error as the "page 7 of the Prieve Report" mis-citatio
 
 Fill `[NN]` from the budget table in Section V once you have decided which additions to make.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-5. The "Identify" definition demands production
+
+> ✅ **APPLIED September 12, 2026.** “and to produce it” deleted from the “Identify” definition in this document only; the RFP set keeps it.
 
 **Current, final clause:** "…when used with respect to a document, means to state its type, date, author(s), recipient(s), general subject matter, and present custodian, **and to produce it**."
 
@@ -153,11 +166,13 @@ Fill `[NN]` from the budget table in Section V once you have decided which addit
 
 **Why.** Production is Rule 34. An interrogatory cannot compel it, and the clause hands FIE a free, correct objection that costs you nothing to avoid. Every document you want is already sought by the 41 requests in the companion set.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-6. Instruction 1 — time period
+
+> ✅ **APPLIED September 12, 2026.** Instruction 1 extended to **October 22, 2014** for The Policy, its issuance and underwriting, and pre-Claim claims at The Property. ⚠️ **The stated condition (approval of I-13) is not yet met.** Applied anyway because it mirrors Instruction 1 as already applied to the RFP set (item P-2) and is inert unless an interrogatory reaches pre-2020 matter. Reversible in one edit if I-13 is ultimately rejected.
 
 **Current:** "…each request covers the period January 1, 2020 through the present."
 
@@ -167,11 +182,13 @@ Fill `[NN]` from the budget table in Section V once you have decided which addit
 
 **Why.** Matches item P-2 as applied to the RFPs. The entity-identity interrogatory (I-13) reaches the issuance of a policy written in 2014; a 2020 floor would let FIE answer only as to the recent period.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-7. New Instruction 8 — attorney-client carve-out
+
+> ✅ **APPLIED September 12, 2026.** Added as **Instruction 8**, with the V5 indentation (left 0.5″, hanging −0.5″, 8 pt after).
 
 **Proposed — add:**
 
@@ -179,11 +196,13 @@ Fill `[NN]` from the budget table in Section V once you have decided which addit
 
 **Why.** The definition of "You" includes "attorneys," so this set literally reaches FIE's communications with Kennedy Law Firm. The RFPs were amended to close exactly this opening (item P-1); leaving it open here means FIE can lead its response with your overreach instead of answering. Costs nothing — you were never getting those communications.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-8. New Instruction 9 — partial objections
+
+> ✅ **APPLIED September 12, 2026.** Added as **Instruction 9**, same formatting.
 
 **Proposed — add:**
 
@@ -191,15 +210,17 @@ Fill `[NN]` from the budget table in Section V once you have decided which addit
 
 **Why.** Rule 34.02 contains that sentence for document requests; **Rule 33 has no express counterpart**, which makes saying it yourself more valuable here, not less. Without it, "objection; subject to and without waiving" tells you nothing about whether an answer is complete — and you will not know what to raise in the ¶4 letter.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 ## I-9. "Respectfully submitted," ⚠️ *needs your decision*
 
+> ✅ **APPLIED September 12, 2026.** “Respectfully submitted,” **removed from all four served documents** — the Interrogatories, the Requests for Production, the Requests for Admission, and the Initial Disclosures. This was a ⚠️ decision item; applied on my standing recommendation (discovery is served, not submitted to a tribunal, and is expressly not filed under Rule 5.04(b)). Reversible in one edit across all four.
+
 Same open question as the RFPs. It is a closing addressed to a tribunal; discovery is served on FIE and expressly not filed under Rule 5.04(b). Your filed Complaint and Discovery Plan V5 both omit it; all four served discovery documents include it.
 
-`REMOVE FROM ALL FOUR ☐   KEEP AS IS ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -207,13 +228,15 @@ Same open question as the RFPs. It is a closing addressed to a tribunal; discove
 
 ## I-10. Interrogatory 3 — add the decision-maker
 
+> ✅ **APPLIED September 12, 2026.** Interrogatory 3 now ends “… to support the application of that exclusion; **and identify each person who decided to include that exclusion in the letter.**” Budget +1.
+
 **Proposed — append:** "…and identify each person who decided to include that exclusion in the letter."
 
 **Why.** Interrogatory 12 asks about the *supervisory review* of the denial letters. Nothing in the set asks **who decided** to invoke each of the six exclusions. That is the person you depose, and it is the question that separates a considered coverage decision from boilerplate pasted into a template.
 
 **Counts as:** +1.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -243,7 +266,9 @@ This is a pure legal-contention question. Of the five contention interrogatories
 
 # III. New interrogatories
 
-## I-13. Entity identity and capacity ⚠️ *joinder closes November 16, 2026*
+## I-13. Entity identity and capacity — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Served as **INTERROGATORY NO. 18**, verbatim as proposed, with the V5 indentation. Budget **+6**. The November 16, 2026 joinder deadline is now the live constraint: served by mail, answers fall due 33 days later, so this set should go out in mid-September to leave room to act.
 
 **Proposed:**
 
@@ -257,11 +282,13 @@ RFP 34 (the underwriting file and attorney-in-fact documentation, as amended) se
 
 **Counts as:** +6 (six lettered subparts).
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## I-14. Persons with knowledge
+## I-14. Persons with knowledge — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Served as **INTERROGATORY NO. 19**, in the September 12 revised wording (“any fact at issue in this action, including without limitation …”), which is what holds the count at **+1**. Interrogatory 1 was **not** removed — item **I-27**, which conditions that removal on this approval, is still pending.
 
 **Proposed:**
 
@@ -280,7 +307,7 @@ RFP 34 (the underwriting file and attorney-in-fact documentation, as amended) se
 
 The fix is to convert the enumeration from a list of inquiries into an illustration of one inquiry: ask about "any fact at issue in this action," then add the topics behind **"including without limitation."** That is the same construction Interrogatory 4 already uses, and it makes the count defensible at 1 rather than merely arguable.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -326,7 +353,9 @@ So loss is settled at replacement cost, and actual cash value operates as a rest
 
 ---
 
-## I-16. Destroyed or unlocatable information — **keep, at a corrected count of 1**
+## I-16. Destroyed or unlocatable information — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Served as **INTERROGATORY NO. 20** (not [21] — I-15 and I-17 were withdrawn, so the numbering closed up), verbatim as proposed, with the V5 indentation. Counted at **1**. This also **supersedes RFP item P-33**, which proposed the same question; P-33 is now marked superseded in the RFP proposal file. The post-production follow-up remains earmarked at 2.
 
 *(Previously proposed as RFP item P-33; still pending there. It belongs here — it calls for a narrative answer, which Rule 34 cannot compel. Reviewed again September 12, 2026; count corrected and scope clarified.)*
 
@@ -390,7 +419,7 @@ A self-reported gap requires FIE's candour; an observed gap requires only its ex
 
 **Reserve 2 for that follow-up.** See the earmark table below the Revised budget.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -495,7 +524,15 @@ That is the master key to **every** work-product objection FIE will make across 
 
 # IV. Companion actions
 
-## I-19. Negotiate an expert-discovery stipulation with Kennedy ⚠️ *time-critical, and not obvious*
+## I-19. Negotiate an expert-discovery stipulation with Kennedy — **DRAFTED**
+
+> ✅ **LETTER DRAFTED September 12, 2026.** `../../Expert_Discovery_Stipulation_Letter_to_Kennedy_2026-09-12.md` (and `.docx`, 6 pages — a 3-page letter plus **Attachment A**, a signature-ready *Stipulation Regarding Expert Discovery* with a proposed-order block). Not yet sent; the date and response-date blanks are open.
+>
+> **One addition to the reasoning below.** **Minn. R. Civ. P. 29** is the authority that makes a stipulation the right instrument rather than a motion: the parties may by stipulation “(1) provide that depositions may be taken … at any time or place, upon any notice,” and “(2) modify other procedures governing or **limitations placed upon discovery**,” with an exception confined to extensions of response time under Rules 33, 34 and 36. The Rule 26.02(e)(1)(B) motion requirement is a limitation on discovery, so clause (2) reaches it. The letter nonetheless asks that the stipulation be entered as an order, because the dates live in a scheduling order and Minn. Gen. R. Prac. 111.04 allows amendment “upon motion for good cause shown” and requires that it be sought “before the expiration of the deadline.”
+>
+> **A fourth term was added** beyond the three proposed here: Scheduling Order ¶3(a) sweeps Plaintiffs' *expert interrogatories* into the March 15, 2027 date, a month before FIE designates — a reading that would foreclose the one form of expert discovery Rule 26.02(e)(1)(A) gives as of right. The stipulation confirms it does not.
+>
+> ⚠️ **Do not send this as a separate letter without checking first.** The unsent `Meet_and_Confer_Letter_Scheduling_Order_2026-09-11.md` already raises the ¶2/¶3 conflict at its §1.1 and proposes the same July 16, 2027 expert-discovery close. If that letter has not gone out, fold this in as a replacement §1.1 and enclose Attachment A, rather than sending two overlapping letters to the same counsel.
 
 **This is not an edit to the document. It may be the most consequential item in this file.**
 
@@ -521,17 +558,19 @@ FIE names its expert **a month after discovery closes**. To depose that expert y
 
 The stipulation is mutual — FIE needs to depose **your** engineer just as much, and your expert disclosure comes **first** (March 15). That symmetry is the reason Kennedy should say yes. If Kennedy refuses, you have a documented good-faith attempt supporting a Rule 16.02 motion to amend the schedule — which is a much harder motion after the Court's opening observation that your proposed deadlines ran "more than one year beyond the timeline for similar cases."
 
-`APPROVE — DRAFT THE LETTER ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ DRAFTED 2026-09-12 — review, then decide standalone vs. folded into the 9/11 letter`
 
 ---
 
-## I-20. Track the interrogatory budget
+## I-20. Track the interrogatory budget — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** A running tally now lives in `../../README.md` under Section A, as **“Interrogatory budget — Rule 33.01(a) running tally.”** It records both counts (32 lettered / **35 careful**), shows how the 35 is built, names the pending removals that would cut it to roughly 25, and lists the reserve earmarks. Update it whenever an interrogatory is added, removed, or served.
 
 **Proposed:** keep a running tally in `Filings/Discovery/README.md` of interrogatories served on FIE, counted the way Rule 33.01(a) counts them.
 
 **Why.** Rule 33.01(a) caps "a **total** of 50 interrogatories upon any other party" — **cumulative across every set**, not 50 per set. A later expert set, a follow-up set after FIE's answers, and anything arising from the § 604.18 motion all draw from the same 50. Losing track is how a party ends up needing leave of court for a question it should have had room for.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -544,10 +583,10 @@ Rule 33.01(a): 50 total per party, counting **each subdivision of separate quest
 | Current set as drafted (17 numbered; Interrogatories 7 and 17 carry 4 subparts each) | **23** | 23 |
 | I-10 — Interrogatory 3, decision-maker | +1 | 24 |
 | I-11 — Interrogatory 7, catch-all subpart | +1 | 25 |
-| I-13 — entity identity (6 subparts) | +6 | 31 |
-| I-14 — persons with knowledge | +1 | 32 |
+| I-13 — entity identity (6 subparts) ✅ *applied — Interrogatory 18* | +6 | 31 |
+| I-14 — persons with knowledge ✅ *applied — Interrogatory 19* | +1 | 32 |
 | ~~I-15 — ACV and depreciation~~ *(withdrawn 9/12)* | ~~+2~~ | — |
-| I-16 — destroyed information *(count corrected to 1)* | +1 | **33** |
+| I-16 — destroyed information *(count corrected to 1)* ✅ *applied — Interrogatory 20* | +1 | **33** |
 | ~~I-17 — amount owed and paid~~ *(withdrawn 9/12 — see A-8)* | ~~+2~~ | — |
 | ~~I-18 — Prieve's status~~ *(withdrawn 9/12 — see A-9)* | ~~+1~~ | — |
 | **Remaining for all future sets** | | **17** |
@@ -1039,9 +1078,9 @@ So the lock belongs in the RFA set, where the rule forecloses the dodge — and 
 | I-28 — merge Interrogatory 2 into Interrogatory 4 *(Option B only)* | −1 | **12** |
 | I-33 — drop Interrogatory 15; lock moves to RFA item A-6 | −1 | **11** |
 | I-10 — Interrogatory 3, add decision-maker | +1 | 12 |
-| I-13 — entity identity (6 subparts) | +6 | 18 |
-| I-14 — persons with knowledge *(revised wording — counts as 1)* | +1 | 19 |
-| I-16 — destroyed information *(count corrected to 1)* | +1 | 20 |
+| I-13 — entity identity (6 subparts) ✅ *applied — Interrogatory 18* | +6 | 18 |
+| I-14 — persons with knowledge *(revised wording — counts as 1)* ✅ *applied — Interrogatory 19* | +1 | 19 |
+| I-16 — destroyed information *(count corrected to 1)* ✅ *applied — Interrogatory 20* | +1 | 20 |
 | ~~I-17 — amount owed and paid~~ *(withdrawn 9/12 — see A-8)* | ~~+2~~ | — |
 | ~~I-18 — Prieve's status~~ *(withdrawn 9/12 — see A-9)* | ~~+1~~ | — |
 | **Remaining of 50** | | **30** |

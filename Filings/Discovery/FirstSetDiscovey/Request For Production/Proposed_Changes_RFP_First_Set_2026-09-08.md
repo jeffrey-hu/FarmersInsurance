@@ -723,7 +723,9 @@ Flagging it so the omission is a decision rather than an oversight.
 
 These do not change the RFP document, but they are part of the same service package.
 
-## P-33. Add one interrogatory on destroyed documents
+## P-33. ~~Add one interrogatory on destroyed documents~~ — **SUPERSEDED**
+
+> ⏭️ **Superseded September 12, 2026.** Adopted instead through the interrogatory set as item **I-16**, and served as **INTERROGATORY NO. 20** — broadened to reach anything responsive to *any* of Plaintiffs' First Sets, not only the Requests for Production. No action needed here. See `../Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`, item I-16.
 
 Instruction 6 currently asks FIE, for missing documents, to "identify it, describe its disposition (including the date, manner, and authorization of any destruction), and identify each person who has had custody of it." That is a narrative answer, which Rule 34 does not compel — Rule 33 does. Keep the instruction, and add to the interrogatory set:
 
@@ -731,7 +733,7 @@ Instruction 6 currently asks FIE, for missing documents, to "identify it, descri
 
 **Capacity check.** Minn. R. Civ. P. 33.01 caps interrogatories at 50 and counts "each subdivision of separate questions" as one. Your set is numbered 1–17, but Interrogatories 7 and 17 each carry four lettered subparts and several others are compound, so a strict count is closer to **23**. Adding this one is comfortably within the cap — but track the count, because the subpart rule is how a set of "35" becomes an objection.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+`⏭️ SUPERSEDED BY I-16 — 2026-09-12`
 
 ---
 

@@ -58,10 +58,26 @@ Cross-references in `FIE_Answer_Analysis_and_Next_Steps.md` and in the second-se
 
 | Document | What it is | Status / next action |
 |---|---|---|
-| `FirstSetDiscovey/Interrogatories/Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **17** numbered interrogatories — **23 counting subdivisions of separate questions** under Minn. R. Civ. P. 33.01(a). Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, and FIE's third-party-report review process. Signature block and § 358.116 certificate of service applied September 10, 2026. | **NOT YET READY.** See `Interrogatories_First_Set_Review_2026-09-11.md` and `Proposed_Changes_Interrogatories_First_Set_2026-09-11.md` — two citation errors (Instruction 5; Interrogatory 13) and a budget review recommending six removals are pending decision. |
+| `FirstSetDiscovey/Interrogatories/Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` | **20** numbered interrogatories — **35 counting subdivisions of separate questions** under Minn. R. Civ. P. 33.01(a); see the budget tally below. Covers scope, causation-vs-coverage basis, the denials, the engineer rule, the 2020 file, FIE's third-party-report review process, entity identity and capacity, persons with knowledge, and destroyed or unlocatable information. Signature block and § 358.116 certificate applied September 10, 2026; proposal items I-1 to I-10, I-13, I-14 and I-16 applied September 12, 2026. | **NOT YET READY.** Both citation errors are fixed. Still open in `Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`: I-11, I-12, and the Section VII removals (I-21 to I-33). **Before service:** re-verify the certification ceiling and fill the service date. |
 | `FirstSetDiscovey/Request For Production/Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` | **41** document requests, numbered 1–41 with no gap, and **11** instructions. Adds the valuation/estimating file, the underwriting file and attorney-in-fact documentation, the declarations page, recorded calls, the documents behind the defenses, the § 604.18 subd. 4(c) target, F 1.7 / B 1.2 decoding, J6944 matching guidance, and water intrusion. The old optional No. 33 (vendor management) was removed before service and moved to `SecondSetDiscovery/`. | **NEARLY READY — SERVE.** Fill the service date only. 31 of 43 proposal items applied; P-6, P-16, P-33–P-36, P-38 (part) and P-39 still pending. |
 | `RequestForAdmission/FirstSet/Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | 34 requests to admit — locks in the concessions and inconsistencies. References Exhibits A–C. | **READY — SERVE** with the exhibit packet. Fill phone/email + date. |
 | `RequestForAdmission/FirstSet/Plaintiffs_RFA_Exhibits_A-C.pdf` | Exhibit packet for the RFAs: **A** = Sept 3, 2024 letter; **B** = Nov 4, 2024 denial; **C** = Sept 12, 2025 appraisal award. Each behind a labeled cover sheet. | **SERVE WITH THE RFAs.** (Note: Exhibit C is a phone photo of the award — a cleaner copy is preferable if available.) |
+
+### Interrogatory budget — Rule 33.01(a) running tally
+
+> **Minn. R. Civ. P. 33.01(a) caps interrogatories at a *total* of 50 per party, cumulative across every set** — not 50 per set — and "[i]n computing the total number of interrogatories **each subdivision of separate questions** shall be counted as an interrogatory." Update this table whenever an interrogatory is added, removed, or served. *(Established as proposal item I-20, September 12, 2026.)*
+
+| Set | Status | Numbered | Lettered-subpart count | Careful count | Running total (careful) | Remaining of 50 |
+|---|---|---|---|---|---|---|
+| First Set to FIE | **not yet served** | 20 | 32 | **35** | 35 | **15** |
+
+**How the 35 is built:** 26 for the set as originally drafted (Interrogatories 6, 10 and 13 each pose two separate questions; 7 and 17 carry four lettered subparts each) · +1 Interrogatory 3's decision-maker clause (I-10) · +6 Interrogatory 18, entity identity (I-13) · +1 Interrogatory 19, persons with knowledge (I-14) · +1 Interrogatory 20, destroyed information (I-16).
+
+**Two counts, deliberately.** The lettered-subpart figure (32) is what a generous reading gives; the careful figure (35) is what Plaintiffs should plan against. On an aggressive reading of the "for each" constructions in Interrogatories 3, 4 and 12, an adversary could press toward the low 40s — which is why the served certification states a ceiling ("fewer than forty (40)") rather than an exact number.
+
+**Pending removals would cut this sharply.** If the Section VII items in `FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md` are approved — I-21 (−4), I-22 (−1), I-23 (−1), I-24 (−2), I-25 (−1), I-27 (−1) — the careful count drops to roughly **25**, leaving about 25 in reserve. **Re-verify the certification ceiling before service.**
+
+**Already spoken for out of the reserve:** a follow-up to Interrogatory 6 keyed to specific 2020 line items (2) · a post-production gap follow-up (2) · the expert interrogatory once FIE designates on April 17, 2027 (1–2) · the litigation-hold question if RFP 14's response is evasive (1) · the J6944 question once FIE asserts the endorsement (1) · the anticipation-of-litigation date if FIE claims work product (1) · roughly 5 held against the counting risk.
 
 ## A2. Mandatory initial disclosures (separate exchange — Rule 26.01(a))
 
@@ -74,6 +90,7 @@ Cross-references in `FIE_Answer_Analysis_and_Next_Steps.md` and in the second-se
 | Document | What it is | Status / next action |
 |---|---|---|
 | `Preservation_Litigation_Hold_Letter_to_FIE.docx` | Demand to preserve the claim file, Brau notes, Prieve native photos, the 2020 file, and the audit trail; asks for written confirmation in 14 days. | **READY — SEND** now. Fill contact info + date. Keep proof of sending. |
+| `Expert_Discovery_Stipulation_Letter_to_Kennedy_2026-09-12.docx` / `.md` | Proposes a stipulation letting each side depose the other's testifying experts **without the motion Minn. R. Civ. P. 26.02(e)(1)(B) requires**, in a window running past the March 15, 2027 discovery close to **July 16, 2027**. Encloses **Attachment A**, a signature-ready stipulation with a proposed-order block. Grounded in Minn. R. Civ. P. 29 and Minn. Gen. R. Prac. 111.04. | **DRAFTED — DECIDE HOW TO SEND.** The unsent 9/11 scheduling-order letter already covers part of this at its §1.1; fold this in as a replacement §1.1 rather than sending two overlapping letters. Fill the date and response-date blanks. **Time-critical:** the window it protects cannot be created retroactively in April 2027. |
 | `Meet_and_Confer_Letter_to_Kennedy_Law_Firm.docx` | Rule 26.06 discovery-conference letter with a 7-item agenda; also usable as an email body. | **USED / SUPERSEDED.** Its purpose — scheduling the Rule 26.06 conference — was served; the conference was held Aug. 28, 2026. Keep as the template for the next meet-and-confer letter, which will be the Rule 37 predecessor if FIE's discovery responses are deficient. |
 
 ## B2. Communication log — correspondence with opposing counsel (`CommunicationLogs/`)
