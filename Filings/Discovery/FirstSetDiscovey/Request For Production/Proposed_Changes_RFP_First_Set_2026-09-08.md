@@ -1110,7 +1110,7 @@ I would also suggest one thing before service that is not on this list: a Minnes
 
 ---
 
-## P-41. Requests 42 and 43 — the documents Prieve reviewed, and the 2021–2024 gap  ✅ *applied 2026-09-12*
+## P-41. Requests 44 and 45 — the documents Prieve reviewed, and the 2021–2024 gap  ✅ *applied 2026-09-12*
 
 *Originates from item **Q-9** of `../Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-12.md`.*
 
@@ -1143,8 +1143,52 @@ The Prieve Report's **ACTIVITIES** section (p. 4 of 7) lists the documents the e
 
 **No interrogatory was spent.** Q-9 offered one and it was deliberately held: the documents should explain themselves, and the question is better aimed after production. It sits in the candidate table of `../../SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md`.
 
-**The set now runs 1–43 with no gap.**
+**The set now runs 1–45 with no gap.**
 
 `✅ APPLIED 2026-09-12`
+
+---
+
+## Addendum — changes made September 12, 2026 (outside the P-series)
+
+After the Answer was reviewed against the set, three further edits were applied to both the `.md` and the `.docx`. They are recorded as Changes 14–16 in `Redline_RFP_First_Set_2026-09-10.md`. The First Set now runs **1 through 43**.
+
+| Item | Change | Why |
+|---|---|---|
+| Request 33 | Xactimate / estimating-platform price-list clause removed; the rest of the request (native estimates, ACV and depreciation methodology, derivation of the $6,400 ACV) is unchanged. | The price lists are Verisk's licensed data, not FIE's documents; the clause would draw a third-party confidentiality objection and jeopardize the valuation material that matters. Plaintiffs' contractor or expert can obtain the price lists directly, and the native estimates will show the price-list version used. |
+| Request 42 (new) | Documents supporting the Answer ¶14 allegation that Plaintiffs "adamantly" limited the Hancock inspection to interior leaking windows, with a "state so expressly" clause if none exists. | ¶14 is FIE's explanation for the September 3, 2024 "no other damages observed" denial and its likely answer to Request 7 on the "windows only" scope. Either a contemporaneous record exists (and must be prepared for) or the response shows the allegation has no document behind it. |
+| Request 43 (new) | Documents governing the "peer review" process referenced in Answer ¶24, and all records of any review of the January 31, February 10, and May 28, 2025 submissions, with a "state so expressly as to each" clause. | ¶24 reframes the February 3, 2025 call as an offer of a review process rather than a gatekeeping rule. The request tests whether that process exists and whether it, or any review, was ever applied to what Plaintiffs actually sent. |
+
+Still pending from the P-series: **P-16** (Request 11 custodians / ESI protocol), P-6, P-10 (service-date blanks), P-31, P-32, P-34, P-35, P-36, P-38, P-39.
+
+---
+
+## P-42. Your manual additions of September 12, 2026 — carried into the `.docx`  ✅ *applied*
+
+*You edited the `.md` twin directly. The `.docx` was **not** regenerated from it — that would have destroyed the V5 indentation, the page setup, the signature block and the certificate of service. Instead the `.md` was diffed against the `.docx`, and the three changes were applied to the `.docx` surgically. The two now match exactly: a fresh export of the `.docx` differs from your `.md` by zero lines.*
+
+### What changed
+
+| # | Change |
+|---|---|
+| **Request 33** | Final clause struck — *"and the Xactimate or other estimating-platform price lists for Hennepin County, Minnesota in effect from July 2024 through the present"* — and the preceding semicolon changed to "; and". |
+| **New Request 42** | The Answer ¶14 allegation that Plaintiffs "attempted to direct the claim-handling process" by telling Hancock only the interior windows needed inspection — the Hancock engagement instructions, the August 20, 2024 communications, every field note recording such a statement, and who first recorded it. Closes with: *"If no document records any such statement by Plaintiffs, state so expressly."* |
+| **New Request 43** | The "peer review" process referred to at Answer ¶24 — its governing policy, who performs it, the criteria applied — and FIE's receipt, review and disposition of the January 31, 2025 appeal, the February 10, 2025 second response, and the May 28, 2025 submission through agent Peter Pietila. Closes with: *"If no document reflects any review of any of those submissions, state so expressly as to each."* |
+| **Renumbering** | The two requests added earlier that day under **P-41** moved from 42–43 to **44–45**. The set now runs **1–45 with no gap**. |
+
+### Both quotations verified against the Answer
+
+Checked against `../../../SummonsAndComplaint/AnswerFromFIE/2026-08-10--Def's Answer.pdf`:
+
+- **¶14**, verbatim: *"FIE denies that Plaintiffs cooperated with Defendant's claim-handling process to the extent Plaintiffs attempted to direct the claim-handling process by **adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking**."*
+- **¶24**, verbatim: *"FIE admits that during that call, Mr. Monson informed Plaintiff Lu, in part, that Plaintiff could send in his own engineer's report that **would be peer reviewed**."*
+
+**Both requests are well aimed.** Each targets an affirmative assertion FIE made in its own pleading, so FIE cannot answer with a denial — and each closes with a "state so expressly" clause, which converts an empty production into a usable admission. Request 43 is the stronger of the two: FIE volunteered the peer-review representation, and if no document shows any of the three submissions was ever reviewed, that is § 72A.201 material.
+
+### ⚠️ One precision point, not changed
+
+Both requests say *"paragraph 14 of Your Answer"* and *"paragraph 24 of Your Answer."* The Answer's response blocks are keyed to the **Complaint's** paragraph numbers — its own text reads "the remainder of paragraph 14" — so the reference is understandable, but the unambiguous form is **"Your answer to paragraph 14 of the Complaint."** Left as you wrote it; say the word if you want it tightened.
+
+`✅ APPLIED 2026-09-12 — .docx brought into line with your .md edits`
 
 ---

@@ -84,4 +84,4 @@ Neither is approved; both are pending decisions in `../FirstSetDiscovey/Request 
 
 - Carry over the First Set's Definitions and Instructions (11 instructions as applied, including the attorney-client carve-out, the possession-custody-or-control instruction, and the Rule 34.02 partial-objection instruction).
 - Number this set's requests **starting at 1**, as a separate set — do not continue the First Set's numbering.
-- Confirm the First Set's numbering is not disturbed: the First Set now runs **1 through 40** with no gap, because this request was removed **before service**.
+- Confirm the First Set's numbering is not disturbed: the First Set now runs **1 through 43** with no gap (Requests 41–43 were added on September 10 and 12, 2026), because this request was removed **before service**.
