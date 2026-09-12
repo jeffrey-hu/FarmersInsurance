@@ -1105,3 +1105,17 @@ Two consequences worth weighing:
 Mark this file up however is easiest — checkboxes, comments in the margin, or just tell me the P-numbers. I will apply only what you approve, to both the `.docx` and the `.md`, and produce a clean redline of what changed so you can confirm before anything is served.
 
 I would also suggest one thing before service that is not on this list: a Minnesota-licensed attorney should look at the set as served. The strategic judgment here is yours and the file work is solid, but the requests that matter most — P-22, P-23, and P-27 — are the ones where a lawyer's read is worth the most.
+
+---
+
+## Addendum — changes made September 12, 2026 (outside the P-series)
+
+After the Answer was reviewed against the set, three further edits were applied to both the `.md` and the `.docx`. They are recorded as Changes 14–16 in `Redline_RFP_First_Set_2026-09-10.md`. The First Set now runs **1 through 43**.
+
+| Item | Change | Why |
+|---|---|---|
+| Request 33 | Xactimate / estimating-platform price-list clause removed; the rest of the request (native estimates, ACV and depreciation methodology, derivation of the $6,400 ACV) is unchanged. | The price lists are Verisk's licensed data, not FIE's documents; the clause would draw a third-party confidentiality objection and jeopardize the valuation material that matters. Plaintiffs' contractor or expert can obtain the price lists directly, and the native estimates will show the price-list version used. |
+| Request 42 (new) | Documents supporting the Answer ¶14 allegation that Plaintiffs "adamantly" limited the Hancock inspection to interior leaking windows, with a "state so expressly" clause if none exists. | ¶14 is FIE's explanation for the September 3, 2024 "no other damages observed" denial and its likely answer to Request 7 on the "windows only" scope. Either a contemporaneous record exists (and must be prepared for) or the response shows the allegation has no document behind it. |
+| Request 43 (new) | Documents governing the "peer review" process referenced in Answer ¶24, and all records of any review of the January 31, February 10, and May 28, 2025 submissions, with a "state so expressly as to each" clause. | ¶24 reframes the February 3, 2025 call as an offer of a review process rather than a gatekeeping rule. The request tests whether that process exists and whether it, or any review, was ever applied to what Plaintiffs actually sent. |
+
+Still pending from the P-series: **P-16** (Request 11 custodians / ESI protocol), P-6, P-10 (service-date blanks), P-31, P-32, P-34, P-35, P-36, P-38, P-39.

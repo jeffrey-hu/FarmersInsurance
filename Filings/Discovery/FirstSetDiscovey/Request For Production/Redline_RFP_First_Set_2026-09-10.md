@@ -1,7 +1,7 @@
 # Redline — First Set of Requests for Production
 
 **Applied September 10, 2026:** P-1 to P-5, P-7 to P-9, P-11 to P-15, P-11A, P-12A, P-14A, P-17 to P-30, and P-37.
-**Baseline:** 33 requests, 7 instructions.  **Now:** 41 requests, 11 instructions, numbered 1–41 with no gap.
+**Baseline:** 33 requests, 7 instructions.  **Now:** 43 requests, 11 instructions, numbered 1–43 with no gap.
 **Source of truth:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx`
 **Companion:** `Proposed_Changes_RFP_First_Set_2026-09-08.md`
 
@@ -144,3 +144,31 @@
 ---
 
 **13 change blocks.** Requests: 41 (was 33). Instructions: 11 (was 7).
+
+---
+
+## Applied September 12, 2026
+
+Three further changes, made after the September 8 Answer review. None affects Instructions or numbering of Requests 1–41. Request 11 (P-16) remains as it was, pending decision.
+
+### Change 14 — Request 33 trimmed (Xactimate price-list clause removed)
+
+**REMOVED —** **REQUEST FOR PRODUCTION NO. 33:** All estimates prepared, received, or reviewed by You in connection with The Claim or The 2020 Claim, produced in native format with the estimate identifier, price-list version, and revision history intact; all documents stating or reflecting Your methodology for calculating actual cash value and depreciation on losses to windows, siding, and exterior components, including depreciation schedules, useful-life tables, and any condition or age adjustment applied; all documents showing the derivation of the $6,400 Actual Cash Value stated in The Appraisal Award, including any worksheet, calculation, or communication allocating that figure between the awarded windows; and the Xactimate or other estimating-platform price lists for Hennepin County, Minnesota in effect from July 2024 through the present.
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 33:** All estimates prepared, received, or reviewed by You in connection with The Claim or The 2020 Claim, produced in native format with the estimate identifier, price-list version, and revision history intact; all documents stating or reflecting Your methodology for calculating actual cash value and depreciation on losses to windows, siding, and exterior components, including depreciation schedules, useful-life tables, and any condition or age adjustment applied; and all documents showing the derivation of the $6,400 Actual Cash Value stated in The Appraisal Award, including any worksheet, calculation, or communication allocating that figure between the awarded windows.
+
+---
+
+### Change 15 — Request 42 added (Answer ¶14 — Hancock inspection-scope contention)
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 42:** All documents supporting, reflecting, or relating to the allegation in paragraph 14 of Your Answer that Plaintiffs "attempted to direct the claim-handling process by adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking," including the assignment, work order, or instructions under which Hancock Claims Consultants was engaged for the August 29, 2024 inspection; every record of any communication between Plaintiffs and Hancock Claims Consultants or You on or about August 20, 2024; every field note, inspection-application entry, or report entry by Jayden Grimm or any other Hancock representative recording any statement by Plaintiffs about the scope of the inspection; and every document identifying the person who first recorded that statement and the date it was recorded. If no document records any such statement by Plaintiffs, state so expressly.
+
+---
+
+### Change 16 — Request 43 added (Answer ¶24 — "peer review" process and review of Plaintiffs' submissions)
+
+**ADDED —** **REQUEST FOR PRODUCTION NO. 43:** All documents describing, establishing, or governing the "peer review" process referred to in paragraph 24 of Your Answer, under which an engineer's report submitted by an insured "would be peer reviewed," including any policy, procedure, guideline, checklist, or training material describing that process, the persons or vendors who perform it, and the criteria applied; and all documents reflecting Your receipt, review, evaluation, peer review, or disposition of each of the following submissions by Plaintiffs: (a) the January 31, 2025 appeal package; (b) the February 10, 2025 second response; and (c) the May 28, 2025 submission delivered through agent Peter Pietila, including every claim-system note, communication, or review record identifying who reviewed each submission, on what date, and with what result. If no document reflects any review of any of those submissions, state so expressly as to each.
+
+---
+
+**16 change blocks.** Requests: 43 (was 33; 41 as of September 10). Instructions: 11 (was 7).
