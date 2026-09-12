@@ -3,6 +3,8 @@
 > ⚠️ **Interrogatory numbers in this file are PRE-RENUMBERING.** The First Set was renumbered to a contiguous **1–14** on September 12, 2026. Every bare "Interrogatory N" below refers to the set as it stood before that, unless it says "(formerly M)". Translate with `../Interrogatories/Interrogatory_Renumbering_Map_2026-09-12.md`.
 
 
+> ✅ **Applied September 12, 2026, from the interrogatory review.** A **"Photo Appendix A"** definition was added to this set after the "The Prieve Report" definition, carried over from item **Q-4** of `../Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-12.md`. It names the appendix by title, File Number 241008, site visit date October 9, 2024, and photograph range A-1 through A-217.
+
 > ✅ **Applied September 12, 2026, from the interrogatory proposal.** A **Dates** instruction was added to this set as **Instruction 12**, carried over from item **I-32** of `../Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. It provides that a date used to identify a communication, document or event is Plaintiffs' best information and approximate, and that if Defendant's records show a different date for an otherwise matching item it must respond and produce as to that item and state the date its records show. The purpose is to close a one-day-discrepancy escape across the whole set, not to change any individual request. The same instruction was added to the interrogatories (No. 11) and the Requests for Admission (No. 6).
 
 **Target document:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` / `.md`
@@ -1105,3 +1107,44 @@ Two consequences worth weighing:
 Mark this file up however is easiest — checkboxes, comments in the margin, or just tell me the P-numbers. I will apply only what you approve, to both the `.docx` and the `.md`, and produce a clean redline of what changed so you can confirm before anything is served.
 
 I would also suggest one thing before service that is not on this list: a Minnesota-licensed attorney should look at the set as served. The strategic judgment here is yours and the file work is solid, but the requests that matter most — P-22, P-23, and P-27 — are the ones where a lawyer's read is worth the most.
+
+---
+
+## P-41. Requests 42 and 43 — the documents Prieve reviewed, and the 2021–2024 gap  ✅ *applied 2026-09-12*
+
+*Originates from item **Q-9** of `../Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-12.md`.*
+
+### Where this came from
+
+The Prieve Report's **ACTIVITIES** section (p. 4 of 7) lists the documents the evaluation reviewed. Checked against all three sets, several were requested nowhere:
+
+| Document Prieve reviewed | Previously requested? |
+|---|---|
+| Farmers Insurance Photo Log dated **September 11, 2014** | Only by implication, via RFP 22 |
+| Farmers Insurance Estimate dated **September 16, 2014** | Only by implication |
+| Farmers Insurance Estimate dated **July 15, 2015** | Only by implication |
+| Inspection Photos dated **October 13, 2020** | ✅ RFP 23 |
+| **Building Loss Worksheet dated 10-7-21** | Possibly — **RFP 2** names "the building-loss worksheet" **if** it sits in the 2020 claim file |
+| **Farmers Insurance Letter and Estimate dated February 18, 2022** | ❌ **No** |
+| **Window Condition Summary (by owner)** | ❌ No |
+| **Weather Records** | ❌ Not specifically |
+
+**The February 2022 letter and estimate is the one that matters.** It falls between The 2020 Claim and The Claim, in a period neither the Complaint nor any discovery request accounts for. A Farmers *letter and estimate* implies claim or valuation activity — which bears directly on FIE's prior-payment theory and on what the 2020 claim actually covered.
+
+**The weather records matter for a different reason.** Prieve concluded that storm data does not document a July 13, 2024 event, a conclusion the family's NWS material contradicts. Which records he consulted, and who supplied them, is the first step in taking that conclusion apart — and the request asks for the "who provided it and when" documents alongside.
+
+### As applied
+
+> **REQUEST FOR PRODUCTION NO. 42:** Each document identified in the "ACTIVITIES" section of the Prieve Report as having been reviewed in connection with that evaluation, including the Farmers Insurance Photo Log dated September 11, 2014; the Farmers Insurance Estimates dated September 16, 2014 and July 15, 2015; the Building Loss Worksheet dated October 7, 2021; the Farmers Insurance Letter and Estimate dated February 18, 2022; the Window Condition Summary; and all weather records, together with all documents showing who provided each such document to Prieve Engineering, LLC and when.
+>
+> **REQUEST FOR PRODUCTION NO. 43:** All documents concerning any inspection, estimate, valuation, or claim activity at The Property between January 1, 2021 and July 12, 2024, including the Building Loss Worksheet dated October 7, 2021 and the Farmers Insurance Letter and Estimate dated February 18, 2022, and including any claim number under which such activity was recorded.
+
+**Two drafting choices worth recording.** Request 42 is anchored to **FIE's own engineer's list**, so FIE cannot call it a fishing expedition — every item is a document its retained expert says he read. Request 43 is framed by **date range rather than claim number**, and asks expressly for any claim number under which the activity was recorded; if there is a claim number nobody has seen, that is the answer worth having.
+
+**No interrogatory was spent.** Q-9 offered one and it was deliberately held: the documents should explain themselves, and the question is better aimed after production. It sits in the candidate table of `../../SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md`.
+
+**The set now runs 1–43 with no gap.**
+
+`✅ APPLIED 2026-09-12`
+
+---

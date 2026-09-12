@@ -7,7 +7,7 @@
 
 > **Numbering in this file is POST-renumbering.** "Interrogatory N" means the number in the live document today. The September 11 files use the old numbering and carry a banner saying so; translate with `Interrogatory_Renumbering_Map_2026-09-12.md`.
 
-> Nothing here is applied. Mark up however is easiest — checkboxes, margin notes, or just the Q-numbers.
+> **Q-1, Q-4 to Q-7, Q-9 and Q-11 applied September 12, 2026**; Q-2 absorbed into Q-1, Q-10 converted to RFA item A-14, Q-13 closed with no edit needed. The open items are **Q-3**, **Q-14** and **Q-15**. *(Q-12 rejected — the preamble stays as drafted.)* Mark up however is easiest — checkboxes, margin notes, or just the Q-numbers.
 
 ---
 
@@ -16,20 +16,20 @@
 | # | Change | Priority | Count effect | Needs input |
 |---|---|---|---|---|
 | **Corrections** | | | | |
-| Q-1 | **Interrogatory 2 — drop "the six," reach the attachment, and make FIE say exclusion vs. uninsured type** | **Critical** | 0 | No |
-| Q-2 | Interrogatory 2 — fix the mismatched series | Low | 0 | No |
+| Q-1 | **Interrogatory 2 — drop "the six," reach the attachment, and make FIE say exclusion vs. uninsured type** | ✅ **Applied** | 0 | — |
+| Q-2 | Interrogatory 2 — fix the mismatched series | ✅ **Absorbed by Q-1** | 0 | — |
 | Q-3 | **Interrogatory 1 ↔ Interrogatory 10 — resolve the award-reliance overlap** | High | 0 or −1 | **Yes** |
-| Q-4 | Define "Photo Appendix A" | High | 0 | No |
-| Q-5 | Policy number — one format | Low | 0 | No |
-| Q-6 | **Certification ceiling — forty (40) is too generous** | High | 0 | **Yes** |
-| Q-7 | Interrogatory 6 — "audience" → "recipient(s)" | Low | 0 | No |
+| Q-4 | Define "Photo Appendix A" | ✅ **Applied** — ⚠️ not yet extended to the RFP/RFA sets | 0 | — |
+| Q-5 | Policy number — one format | ✅ **Applied (all 3 sets)** | 0 | — |
+| Q-6 | **Certification ceiling — now "fewer than thirty (30)"** | ✅ **Applied** | 0 | — |
+| Q-7 | Interrogatory 6 — "audience" → "recipient(s)" | ✅ **Applied** | 0 | — |
 | **Gaps** | | | | |
-| Q-9 | **The documents Prieve reviewed that nobody has requested** | **Critical** | 0 or +1 | **Yes** |
-| Q-10 | The September 3, 2024 denial's factual premise | High | +1 | **Yes** |
+| Q-9 | **The documents Prieve reviewed that nobody has requested** | ✅ **Applied** — RFPs 42–43; interrogatory held | 0 | — |
+| Q-10 | The September 3, 2024 denial's factual premise | ⏭️ **Revised** — now RFA item A-14 | 0 *(was +1)* | **Yes** |
 | **Alignment** | | | | |
-| Q-11 | Instruction 6 ↔ Interrogatory 14 — same duty, same words | Medium | 0 | No |
-| Q-12 | Preamble — note the Rule 6.01(e) three days | Low | 0 | No |
-| Q-13 | "The Policy" — record the 2023-renewal-form dependency | Low | 0 | No |
+| Q-11 | Instruction 6 ↔ Interrogatory 14 — borrow the detail, do not copy it *(rewritten 9/12)* | ✅ **Applied** | 0 | — |
+| Q-12 | Preamble — note the Rule 6.01(e) three days | ❌ **Rejected** — keep as is | 0 | — |
+| Q-13 | "The Policy" — record the 2023-renewal-form dependency | ✅ **Closed** — no edit needed | 0 | — |
 | Q-14 | Interrogatory 13 — narrow the Identify burden | Medium | 0 | **Yes** |
 | **Carried** | | | | |
 | Q-8 | Interrogatory 12 — a saving if the budget ever needs it | Low | −2 if taken | **Yes** |
@@ -41,7 +41,17 @@
 
 # I. Corrections
 
-## Q-1. Interrogatory 2 — "the six policy exclusions" is wrong, and the exclusion/uninsured-type distinction is missing
+## Q-1. Interrogatory 2 — "the six policy exclusions" is wrong, and the exclusion/uninsured-type distinction is missing — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026**, verbatim as proposed below. **Count unchanged at 1** — every element is a particular about each cited provision, on the 1993 Advisory Committee pattern. Careful count stays at **27**.
+>
+> **Served text:**
+>
+> > **INTERROGATORY NO. 2:** For each policy provision cited in the November 4, 2024 denial letter and its “Coverage Outcome – Policy Provisions” attachment as a ground for denying The Claim, state: the provision by section and number; whether You contend it operates as an exclusion or as a limitation on the grant of coverage; the specific factual basis on which You contend it applies to The Claim; the documents and witnesses on which You rely to support its application; and the person who decided to include it in the letter.
+>
+> **Deliberately unlettered.** The five elements are a colon-led list, not (a)–(e). Lettering them would invite a lettered-subpart count of 5 where the substance is 1 — the same trap identified at I-28 Option B.
+>
+> **Q-2 is absorbed.** The mismatched series is gone; the rewrite re-punctuates the whole sentence.
 
 **Current:**
 
@@ -79,17 +89,19 @@ If marring and wear-and-tear are **exclusions**, FIE must prove they apply. If F
 
 **Counts as:** 1 — unchanged. All of it is particulars about each cited provision, on the 1993 Advisory Committee pattern.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## Q-2. Interrogatory 2 — the series does not parse
+## Q-2. Interrogatory 2 — the series does not parse — **ABSORBED BY Q-1**
+
+> ✅ **Resolved September 12, 2026** by the Q-1 rewrite, which re-punctuates the sentence as a colon-led list. No separate edit needed.
 
 Independent of Q-1. The current text runs "…state X, and identify Y; and identify Z" — a comma-joined pair, then a semicolon-joined third. It reads as what it is: a clause appended later (the decision-maker question added under I-10) without re-punctuating the sentence.
 
 If **Q-1 is approved this is absorbed**, because the rewrite re-punctuates as a colon-led list. If Q-1 is rejected, repunctuate as: "…state the specific factual basis on which You contend that exclusion applies to The Claim; identify the documents and witnesses on which You rely to support the application of that exclusion; and identify each person who decided to include that exclusion in the letter."
 
-`ABSORBED BY Q-1 ☐   APPLY SEPARATELY ☐   REJECT ☐`
+`✅ ABSORBED BY Q-1 — 2026-09-12`
 
 ---
 
@@ -111,7 +123,21 @@ If **Q-1 is approved this is absorbed**, because the rewrite re-punctuates as a 
 
 ---
 
-## Q-4. Define "Photo Appendix A"
+## Q-4. Define "Photo Appendix A" — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026**, immediately after the "The Prieve Report" definition, with the V5 indentation. **Counts as 0** — a definition is not an interrogatory. Careful count stays at **27**.
+>
+> **As added:**
+>
+> > **“Photo Appendix A”** means the 110-page photographic appendix to The Prieve Report, titled “PHOTO APPENDIX A” and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217, transmitted to Plaintiffs with Your November 4, 2024 letter.
+>
+> **Two identifiers added beyond the reviewed text, both verified against the PDF.** The cover page of `EventDocuments/FarmersDenyLetter-11-4-AppendixA.pdf` carries **File Number 241008** and **site visit date October 9, 2024**. Those make the definition self-identifying from the document's own face, which matters because the remaining element — that it was transmitted with the November 4 letter — is the one part FIE could contest. It almost certainly cannot: the letter states the condition was wear and tear "as referrenced in the **attached** engineer report," and **RFA item A-9, Request 57** asks FIE to admit the transmittal outright.
+>
+> **Verified, not assumed:** 110 pages, and exactly **217 distinct photograph labels, A-1 through A-217**, counted from the PDF text rather than taken from the damage catalog — whose summary table was found unreliable during the A-13 verification.
+>
+> ✅ **Extended to the other two sets the same day, at your direction.** The identical definition now sits after the "The Prieve Report" definition in the **Requests for Production** and the **Requests for Admission**. The wording is unchanged in all three — "Your" is a defined term in every set, so no register change was needed, unlike the Dates instruction. This matters most in the RFA set, where **RFAs 18 and 19** assert what particular Appendix A photographs depict.
+>
+> ⚠️ **Formatting inconsistency noticed while doing it, and not fixed.** The new definition matches its neighbours in each document — but those neighbours differ between sets. The interrogatory and RFP definition blocks carry the **V5 indentation** (left 0.5″, hanging −0.5″, 8 pt after); the **RFA definition block carries none** (no indent, 0 pt after), although that set's *instructions* do. The RFA definitions appear to have been missed when the V5 format was applied across the discovery documents on September 10. It is cosmetic, affects ten paragraphs, and is outside this item — say the word and I will bring them into line.
 
 Interrogatories 1 and 3 both turn on "the Prieve Report's Photo Appendix A." The definitions define **"The Prieve Report"** as the report of Prieve Engineering, LLC, File #241008, "together with all drafts thereof" — which does not obviously include a **separate 110-page PDF** titled "PHOTO APPENDIX A."
 
@@ -123,11 +149,15 @@ The link is defensible: the narrative cites photographs by A-number throughout �
 
 **Counts as:** 0 — a definition is not an interrogatory.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## Q-5. Policy number — pick one format
+## Q-5. Policy number — pick one format — **APPLIED (all three sets)**
+
+> ✅ **APPLIED September 12, 2026** to the Interrogatories, the Requests for Production, and the Requests for Admission. "The Policy" now reads: *"means homeowner's Policy 98055-49-65 (shown on Defendant's correspondence as 0980554965), including all endorsements, in force on July 13, 2024."* Counts as 0.
+>
+> **"Defendant" is a defined term in all three sets**, so the parenthetical needed no register change — the same sentence went into each document.
 
 The definitions say **98055-49-65**. The November 4, 2024 denial letter says **0980554965**. Same digits; the letter carries a leading zero and no hyphens. The project uses the hyphenated form 117 times and the letter's form 4 times.
 
@@ -135,11 +165,17 @@ The definitions say **98055-49-65**. The November 4, 2024 denial letter says **0
 
 Costs nothing and forecloses a pointless argument. Apply the same parenthetical in the RFP and RFA sets for consistency.
 
-`APPROVE ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12 — all three sets`
 
 ---
 
-## Q-6. The certification ceiling is thirteen higher than the truth ⚠️ *needs your decision*
+## Q-6. The certification ceiling is thirteen higher than the truth — **APPLIED, option 2**
+
+> ✅ **APPLIED September 12, 2026 — "fewer than thirty (30)".** The certification now reads: *"Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories, counting each subdivision of separate questions as an interrogatory, number fewer than thirty (30) and do not exceed the fifty (50) interrogatories permitted without leave of court."*
+>
+> **The cushion is three, and here is exactly what it has to absorb.** The careful count is **27**. The one genuinely arguable item is the reconciliation clause added to **Interrogatory 8** under I-31, which counts as 1 on the better view but which an adversary could press to 2 — taking the set to 28. Thirty still holds. It would not hold if two more compound questions were pressed the same way, so **this figure must be re-checked before service and again before any second set**, and it is listed in the README's pre-service checklist.
+>
+> ⚠️ **If I-24 is applied (Q-15), revisit this.** Trimming Interrogatory 11's subparts takes the careful count to **25**, at which point "fewer than thirty (30)" is still true but no longer tight, and the number could come down again.
 
 **Current:** *"…counting each subdivision of separate questions as an interrogatory, number **fewer than forty (40)** and do not exceed the fifty (50) interrogatories permitted without leave of court."*
 
@@ -155,23 +191,37 @@ Forty was chosen this morning when the set was mid-surgery and the count was mov
 
 **My recommendation: option 2, "fewer than thirty (30)."** It is accurate today, survives the arguable count on Interrogatory 8's reconciliation clause, and does not invite a fight about whether the number is exactly right. **Revisit after I-24.**
 
-`STATE 27 ☐   FEWER THAN 30 ☐ ← recommended   LEAVE 40 ☐   HOLD ☐`
+`✅ FEWER THAN 30 — APPLIED 2026-09-12`
 
 ---
 
-## Q-7. Interrogatory 6 — "audience" → "recipient(s)"
+## Q-7. Interrogatory 6 — "audience" → "recipient(s)" — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 6 now opens *"Identify, by date, speaker, **recipient(s)**, and medium, each communication…"* Counts as 0.
+>
+> **Why it is not merely cosmetic.** "Recipient" is the term the **Identify** definition is built around — it requires a person's name, title, employer, business address, telephone and email. "Audience" attaches to no definition, so FIE could have answered it with a category ("the insureds") rather than a person. The change ties the demand back to a defined term.
+>
+> **Swept the rest of the package:** "audience" appears nowhere else in the Interrogatories, the Requests for Production, the Requests for Admission, or the Initial Disclosures. Nothing further to change.
 
 "Identify, by date, speaker, **audience**, and medium…" — "audience" is odd for a two-party telephone call and a voicemail, and it is not the term the Identify definition uses. **"recipient(s)"** is ordinary and matches.
 
 **Counts as:** 0.
 
-`APPROVE ☐   REJECT ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
 # II. Gaps
 
-## Q-9. The documents FIE's own engineer reviewed, which nobody has asked for ⚠️ *the most substantive finding in this review*
+## Q-9. The documents FIE's own engineer reviewed, which nobody has asked for — **APPLIED (requests only)**
+
+> ✅ **APPLIED September 12, 2026 — the two requests; the interrogatory is held.** They are now **REQUEST FOR PRODUCTION NOS. 42 and 43** in the live RFP document, which runs contiguously 1–43. Recorded in the RFP proposal file as item **P-41**. **No interrogatory cost** — the careful count stays at 27.
+>
+> ⚠️ **One correction to the gap as stated below: the 2021 worksheet may already be covered.** **RFP 2** asks for "the entire claim file for The 2020 Claim … including the Xactimate estimate, the settlement notice, **the building-loss worksheet**, all line items…" If the October 7, 2021 Building Loss Worksheet belongs to the 2020 claim file, RFP 2 already reaches it. That narrows the gap but does not close it — it is only covered **if** the worksheet sits in that file, and a worksheet dated ten months after the 2020 claim may not.
+>
+> **The February 18, 2022 Farmers letter and estimate remains wholly unaccounted for**, and that is the document that should concern you. Request 43 is drafted to catch it by date range rather than by claim number, and asks expressly for "any claim number under which such activity was recorded" — because if there is a claim number nobody has seen, that is the answer worth having.
+>
+> **The interrogatory is held, as recommended.** The documents should explain themselves. If they do not, the question is better aimed afterwards and is listed in the second-set draft's candidate table.
 
 The Prieve Report's ACTIVITIES list (p. 4 of 7) states that the evaluation included review of:
 
@@ -204,11 +254,48 @@ The Prieve Report's ACTIVITIES list (p. 4 of 7) states that the evaluation inclu
 
 **My recommendation: take the two requests, hold the interrogatory.** The documents will explain themselves, and if they do not, the question is better aimed afterwards. But **do not let this sit** — it is the one thing in this review that could change the shape of the case rather than the polish of a document.
 
-`BOTH REQUESTS ☐   REQUESTS + INTERROGATORY ☐   HOLD ☐   REJECT ☐`
+`✅ BOTH REQUESTS APPLIED 2026-09-12 — interrogatory held`
 
 ---
 
-## Q-10. The September 3, 2024 denial's factual premise is not interrogated ⚠️ *needs your decision*
+## Q-10. The September 3, 2024 denial's factual premise — **REVISED: the interrogatory is no longer worth a slot**
+
+> ⚠️ **Revised September 12, 2026** on your information that the September 3, 2024 denial rests on **Hancock's inspection and report**. That changes the recommendation. Verified against the record, and it makes the item *more* valuable but **free** rather than +1.
+
+### What the record confirms
+
+| Fact | Source |
+|---|---|
+| Farmers chose **Hancock Claims Consultants**; inspector **Jayden Grimm**; inspection **August 29, 2024** | `ClaimTimeline.md`; `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` ¶4 |
+| Hancock's photo set is **pp. 5–74** of the September 3 letter package — 70 of its 74 pages | `EventDocuments/FarmersDenyLetter_09_03_2024.pdf` |
+| The letter names **no one**: "As part of our investigation **we had your home inspected**." | September 3, 2024 letter, p. 1 |
+| The denial issued **by phone and letter the same day**, by Catastrophe Claims Representative **Christian Dudley** | `ClaimTimeline.md` |
+| Brau's own inspection came **September 6 — three days after the denial** | `ClaimTimeline.md` |
+
+### Why the proposed interrogatory is now the wrong instrument
+
+The question below asks FIE to "state the factual basis … identifying each inspection, photograph, or document on which that statement rested." **You have just told me the answer, and the record confirms it.** Spending 1 of a 27-question budget to be told "the August 29, 2024 Hancock inspection" is the same defect that retired old Interrogatories 15 and 17: paying for an answer already in hand.
+
+**And the documents are already sought.** **RFP 4** asks for everything constituting or relating to Hancock's work on The Claim, "including the narrative report, all field notes, measurement sheets, inspection-application data," and **RFP 32** asks for FIE's review and adoption of the Hancock and Prieve reports. **Interrogatory 9** already asks what supervisory review preceded each denial letter, naming reviewers, steps and dates.
+
+### But the fact opens something better — and it is free
+
+Two propositions follow from Hancock being the basis, and both are yes/no:
+
+**1. FIE denied on a non-engineer's inspection, then told the insureds only an engineer would do.** Bradlee Monson's February 3, 2025 call and Nicholas Brau's February 10, 2025 voicemail articulated the engineer-report requirement — **Interrogatory 6** already makes FIE identify every communication in which it did so. Set against an admission that no engineering analysis preceded the September 3 denial, the asymmetry is established without a further interrogatory. That is § 72A.201 subd. 5 material and Consumer Fraud Act material.
+
+**2. The letter says "There were no other damages observed" while attaching 70 pages of Hancock's photographs.** Whether those photographs depict damage is a proposition for Rule 36, not a narrative question — and the photographs are already in Plaintiffs' hands.
+
+### Revised recommendation — convert to Requests for Admission, spend nothing
+
+Drafted as **RFA item A-14** (Requests 72–76) in `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`. **Count effect: 0**, down from the +1 proposed below.
+
+**Keep 1 in reserve** for a follow-up aimed at whatever the Hancock narrative report turns out to say, once RFP 4 is answered. If the report documents damage the September 3 letter denied observing, that gap is worth a sworn explanation — but it should be asked with the report in hand, not before.
+
+---
+
+*The original proposal is preserved below, superseded.*
+
 
 Interrogatory 2 reaches the **November 4** letter's provisions. Interrogatory 9 reaches supervisory review of both letters. Nothing reaches the September 3 letter's affirmative assertion that **"There were no other damages observed."**
 
@@ -224,47 +311,108 @@ That sentence is the hinge of the shifting-rationale argument. On September 3 FI
 
 **Against it:** the budget is tighter than it was this morning, and RFP 30 (drafts and internal review of both denial letters) may produce the same ground documentarily.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   HOLD FOR SECOND SET ☐   REJECT ☐`
+`⏭️ SUPERSEDED 2026-09-12 — converted to RFA item A-14; 1 held in reserve`
 
 ---
 
 # III. Alignment and small points
 
-## Q-11. Instruction 6 and Interrogatory 14 — one duty, two vocabularies
+## Q-11. Instruction 6 ↔ Interrogatory 14 — borrow the detail, do not copy it — **APPLIED**
 
-**Instruction 6:** if responsive information once existed but is no longer available, "identify it, describe its disposition, and identify each person with knowledge."
+> ✅ **APPLIED September 12, 2026**, in the rewritten form below — not the cross-reference-only version first proposed. Instruction 6 now reads: *"No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, state that in Your answer to the interrogatory concerned, identify the information, and provide as to it each particular called for by Interrogatory 14 (destroyed or unlocatable information)."* Counts as 0; careful count stays at **27**.
+>
+> **The per-interrogatory flag survives** — "state that in Your answer to the interrogatory concerned" is the clause that stops FIE answering everything with "see response to Interrogatory 14."
 
-**Interrogatory 14:** identify by type, date, author and subject matter; state the date and manner of destruction or loss; identify who authorised it and the retention schedule; identify each custodian.
+> ⚠️ **Rewritten September 12, 2026.** The first version of this item proposed replacing Instruction 6's second sentence with *"answer as provided in Interrogatory 14."* **That was wrong, and would have made the set weaker.** The reasoning is recorded below so the mistake is visible rather than quietly overwritten.
 
-FIE can answer to the narrower instruction and treat the interrogatory as satisfied. Conform Instruction 6 to the interrogatory:
+### Why the original cross-reference-only version was wrong
 
-> **6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, answer as provided in Interrogatory 14.
+**The instruction and the interrogatory are not two statements of one duty. They work at different levels.**
+
+| | Instruction 6 | Interrogatory 14 |
+|---|---|---|
+| Scope | Per-interrogatory, **this set only** | **Any discovery request in Plaintiffs' First Sets** — all three |
+| What it produces | A flag *in the answer*, at the point where the gap is | One consolidated sworn list |
+| Enforceable? | No — an instruction is not a discovery request *(I-16, I-27)* | Yes |
+
+Instruction 6's whole value is the **in-place flag**: it makes FIE say, in the answer to the particular interrogatory it cannot fully answer, that missing material is why. Telling FIE to "answer as provided in Interrogatory 14" throws that away — FIE could answer every affected interrogatory with *"see response to Interrogatory 14"* and hand back a list of missing documents with **no indication of which question each one belonged to**. That is a worse position than the vocabulary mismatch the item was written to fix.
+
+### Why simply copying Interrogatory 14's detail into Instruction 6 is also wrong
+
+That was the alternative considered. Two problems:
+
+1. **Duplicated operative text drifts, and the narrower copy wins.** This document was edited roughly twenty-five times on September 12 alone. Two passages stating the same duty will diverge, and when they do, FIE complies with whichever is narrower.
+2. **The scopes do not match.** Interrogatory 14 reaches "any discovery request in Plaintiffs' **First Sets**" — the Requests for Production and Requests for Admission included. Instruction 6 sits in the interrogatory set. Copying Interrogatory 14's particulars without its scope creates a visible mismatch; copying its scope into an instruction in this set creates a different one.
+
+**And neither version cures the real weakness.** Rule 33 obliges answers to *interrogatories*. A longer Instruction 6 is a longer unenforceable instruction. A cross-reference is actually the stronger structure, because it tells FIE that the way to satisfy the instruction is to answer a question it must answer.
+
+### Proposed — keep the flag, borrow the particulars
+
+> **6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, state that in Your answer to the interrogatory concerned, identify the information, and provide as to it each particular called for by Interrogatory 14 (destroyed or unlocatable information).
+
+**Three things this does.** It preserves the per-interrogatory flag. It adds no duplicate operative text that can drift. And it borrows enforceability from an interrogatory FIE is obliged to answer.
+
+### The parenthetical is not decoration
+
+**"(destroyed or unlocatable information)"** exists because a bare number is fragile, and this document has already proved it: the set was renumbered on September 12, and Interrogatory 14 was **numbered 20 that same morning**. If the number moves again, the description still identifies the target. Any future cross-reference in these sets should be written the same way.
 
 **Counts as:** 0.
 
-`APPROVE ☐   REJECT ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## Q-12. Preamble — the three days
+## Q-12. Preamble — the three days — **REJECTED, keep as is**
+
+> ❌ **Rejected September 12, 2026, at your direction — and you were right.** No change to the preamble. Researched and confirmed against the rule text before closing.
+
+### Your reasoning, confirmed
+
+**The preamble already tracks the rule verbatim.** Minn. R. Civ. P. **33.01(b)**: *"The party upon whom the interrogatories have been served shall serve separate written answers or objections to each interrogatory **within 30 days after service of the interrogatories**…"* The preamble says "within thirty (30) days after service." There is nothing to correct.
+
+**And the +3 is only one of four computation rules.** Adding it alone would state a quarter of the picture:
+
+| Rule | What it does |
+|---|---|
+| **6.01(a)(A)** | Exclude the day of the event that triggers the period |
+| **6.01(a)(C)** | If the last day is a Saturday, Sunday or legal holiday, the period runs to the end of the next day that is not |
+| **6.01(e), 1st sentence** | Service by U.S. Mail adds **3 days** to the prescribed period |
+| **6.01(e), 2nd sentence** | Service after **5:00 p.m.** Minnesota time by means **other than** U.S. Mail adds **1 day** |
+
+**Stating one and omitting three is worse than stating none.** It invites the reader to compute day 33 and stop — when 6.01(a)(C) may push the deadline further, because the 3 days are added to the "prescribed period" and *then* the weekend-and-holiday rule applies to the resulting last day. It also risks an expressio unius reading: naming the mail rule implies the others were not meant to apply.
+
+**And the addition is automatic.** Rule 6.01(e) says 3 days "**shall be added**." It operates by force of the rule, not by Plaintiffs' say-so, and a statement of the deadline in Plaintiffs' own document would not govern in any event. Restating a rule to represented counsel adds nothing and can only create an argument.
+
+### One point to carry into the calendar rather than the document
+
+The computation still matters — for when to expect answers, and for when a motion to compel becomes available under Scheduling Order ¶4. Do it correctly **internally**: 30 days under 33.01(b), **plus 3** if served by mail under 6.01(e), **then** roll forward under 6.01(a)(C) if the resulting day is a weekend or legal holiday.
+
+**Also noted and inapplicable:** Rule 33.01(b)'s alternative — *"a defendant may serve answers or objections within 45 days after service of summons and complaint upon that defendant"* — does not help FIE here. That window is measured from service of the summons and complaint, which long predates these sets, so the 30-day period governs.
+
 
 The preamble says answers are due "within thirty (30) days after service." Correct under Rule 33.01(b) — but the certificate of service in this same document says service is by U.S. Mail, and Rule 6.01(e) adds three days. Nothing is wrong; the two just read inconsistently.
+
+*The original proposal is preserved below, superseded.*
 
 **Proposed:** *"…within thirty (30) days after service, plus three days where service is made by United States mail pursuant to Minn. R. Civ. P. 6.01(e)."*
 
 Stating it removes a foreseeable exchange about whether the response is late, and costs a clause.
 
-`APPROVE ☐   REJECT ☐`
+`❌ REJECTED 2026-09-12 — keep the preamble as is`
 
 ---
 
-## Q-13. "The Policy" — record the dependency, change nothing
+## Q-13. "The Policy" — record the dependency, change nothing — **CLOSED, NO ACTION**
+
+> ✅ **Closed September 12, 2026.** This item never called for an edit to any document; its purpose was to make the dependency visible from the interrogatory file. It is recorded, and the two routes that actually close it are live and already served-ready: **RFP 35** (the complete policy as delivered at the October 22, 2023 renewal) and **RFA item A-7, Request 51** (admit the 2023 form carries the same "How we settle covered loss" and "Deductible clause" provisions as the 2014 form).
+>
+> ⚠️ **Closing this item does not close the underlying gap.** Every loss-settlement argument in the case — that loss is settled at replacement cost without deduction for depreciation, and that actual cash value restricts only the *timing* of payment — rests on **page 24 of 37 of the 2014 policy form**. The project holds the 2023 renewal **declarations**, not the renewal **form**. Until RFP 35 or Request 51 is answered, that reading is an assumption. It is a priority, not a formality.
 
 "The Policy" is defined as the policy "in force on July 13, 2024," which is right. But the operative **form** is whatever was delivered at the **October 22, 2023** renewal, and the project holds only the renewal declarations — the loss-settlement language relied on throughout comes from the **2014** form.
 
 No change to this document. **RFP 35** (the complete policy as delivered at the 2023 renewal) and **RFA item A-7 No. 51** are the two routes to closing it, and both should be treated as priorities rather than formalities. Recorded here so the dependency is visible from the interrogatory file.
 
-`NOTED — NO ACTION ☐`
+`✅ CLOSED — NO ACTION NEEDED, 2026-09-12`
 
 ---
 

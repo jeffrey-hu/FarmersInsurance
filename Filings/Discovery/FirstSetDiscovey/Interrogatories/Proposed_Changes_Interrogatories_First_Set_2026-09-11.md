@@ -1252,9 +1252,10 @@ Of the remaining budget, part is already spoken for:
 | Interrogatory 16 (litigation hold), restated (**I-23**) | 1 | FIE's RFP 14 response producing nothing, or invoking the counsel-communication carve-out |
 | Interrogatory 8 (J6944), held verbatim in the second-set draft (**I-25**) | 1 | FIE actually asserting J6944 or a matching limitation |
 | Basis for any denial of Requests for Admission 61–65 (**I-21 / A-10**) | 1 | FIE denying any of those requests |
+| The gap between Hancock's narrative report and the September 3, 2024 letter's "no other damages observed" (**Q-10 / A-14**) | 1 | RFP 4 producing a Hancock narrative report that documents damage |
 | Anticipation-of-litigation date and decision-makers (**I-18**) | 1 | FIE's privilege log, or any withholding statement under RFP Instruction 4 or 9 |
 | Held against the "for each" counting risk (top of this section) | ~5 | — |
-| **Total earmarked** | **~14–15** | |
+| **Total earmarked** | **~15–16** | |
 
 **What the remaining reserve has to cover:** a second set after FIE's answers land; the expert interrogatory once FIE designates on April 17, 2027; anything arising from the § 604.18 motion to amend; and the ~5 you should hold against the counting risk described at the top of this section.
 

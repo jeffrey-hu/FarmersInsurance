@@ -1,5 +1,9 @@
 # Proposed Changes — Plaintiffs' First Set of Requests for Admission to FIE
 
+> ✅ **Applied September 12, 2026, from the interrogatory review.** A **"Photo Appendix A"** definition was added to this set after the "The Prieve Report" definition, carried over from item **Q-4** of `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-12.md`. It fixes a real gap here: **RFAs 18 and 19** assert what particular Appendix A photographs depict, while "The Prieve Report" was defined only as the report "together with all drafts thereof" — which does not plainly include a separate 110-page appendix. The definition names the appendix by title, File Number 241008, site visit date, and photograph range A-1 through A-217, all verified against the PDF.
+>
+> ⚠️ **Separately: this set's definition block is not in the V5 format.** Its ten definition paragraphs carry no indentation and 0 pt spacing, while the interrogatory and RFP definition blocks use left 0.5″ / hanging −0.5″ / 8 pt, and this set's own *instructions* do. It appears to have been missed on September 10. Cosmetic, but it is the only place in the four served documents where the standard is not followed.
+
 > ✅ **Applied September 12, 2026, from the interrogatory proposal.** A **Dates** instruction was added to this set as **Instruction 6**, carried over from item **I-32** of `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. The RFA version carries an extra clause the other two do not need — *"rather than deny the request on the basis of the date alone"* — because under Rule 36 the risk of a date mismatch is a **denial**, not a non-answer, and a denial is far harder to undo than an evasive answer. It is drafted in this set's "Defendant / its" register. This instruction matters here in proportion to how many requests turn on a stated date, which is most of the statement-locking ones.
 
 **Target document:** `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` (34 requests) and `Plaintiffs_RFA_Exhibits_A-C.pdf`
@@ -430,6 +434,48 @@ The Appendix A summary table and its detail rows disagree on A-128, A-129 and A-
 
 ---
 
+## A-14. The September 3, 2024 denial rested on a non-engineer's inspection — replaces interrogatory item Q-10
+
+*Added September 12, 2026. Item **Q-10** of the interrogatory review proposed an interrogatory on the factual basis for the September 3, 2024 letter. On the information that the basis is **Hancock's inspection and report**, that question is answered before it is asked — so it converts here, at no cost against the 50-interrogatory cap.*
+
+### The two facts these requests put together
+
+**Farmers chose Hancock.** Hancock Claims Consultants, inspector Jayden Grimm, inspected on **August 29, 2024**. The photo set occupies **pp. 5–74** of the September 3 letter package — 70 of its 74 pages. The letter itself names no one: *"As part of our investigation we had your home inspected."* Christian Dudley issued the denial by phone and letter the same day. Nicholas Brau's own inspection followed on **September 6 — three days later**.
+
+**Farmers then required an engineer of the insureds.** Bradlee Monson's February 3, 2025 call and Brau's 11:06 a.m. February 10, 2025 voicemail articulated the rule that evidence on a hail claim must come from an engineer. **Interrogatory 6** already makes FIE identify every communication in which it said so.
+
+The asymmetry is the point: **FIE denied on a non-engineer's inspection and then declined to consider the insureds' evidence because it did not come from an engineer.** That is Minn. Stat. § 72A.201 subd. 5 material and Consumer Fraud Act material, and it does not need a narrative answer — it needs the two ends pinned.
+
+### Proposed requests
+
+> **REQUEST FOR ADMISSION NO. [72]:** Admit that the inspection referred to in Your September 3, 2024 letter as "we had your home inspected" was the August 29, 2024 inspection performed by Hancock Claims Consultants.
+>
+> **REQUEST FOR ADMISSION NO. [73]:** Admit that You did not obtain any engineering analysis, engineering report, or engineering opinion concerning The Property before issuing Your September 3, 2024 letter.
+>
+> **REQUEST FOR ADMISSION NO. [74]:** Admit that no licensed professional engineer inspected The Property on Your behalf before September 3, 2024.
+>
+> **REQUEST FOR ADMISSION NO. [75]:** Admit that the photographs at pages 5 through 74 of Your September 3, 2024 letter package were taken at the August 29, 2024 Hancock Claims Consultants inspection of The Property.
+>
+> **REQUEST FOR ADMISSION NO. [76]:** Admit that Nicholas Brau did not inspect The Property before Your September 3, 2024 letter was issued.
+
+### Why each earns its place
+
+**Nos. 72 and 75** identify what the letter deliberately leaves unnamed, and tie the 70-page photo set to a date and a vendor. Both are facts in FIE's own records and its own transmittal; neither can draw a reservation of rights.
+
+**Nos. 73 and 74** are the asymmetry. An admission establishes that FIE's first denial rested on no engineering input at all — five months before it told the insureds that only an engineer's evidence would be considered. **No. 74 is drafted separately from No. 73** because they fail differently: FIE might have obtained an engineering *opinion* without an engineering *inspection*, or the reverse, and a single combined request would let it deny on the half that is untrue.
+
+**No. 76** pins the sequence that makes the September 3 letter hardest to defend: FIE's own adjuster attended three days *after* the denial, and then, on the family's account, observed and measured dents.
+
+### What is deliberately not asked here
+
+Whether the Hancock photographs depict damage other than interior water damage. That proposition belongs with the Appendix A requests at **A-13**, and it should be framed against specific photographs once the Hancock **narrative report** arrives under **RFP 4** — which asks for "the narrative report, all field notes, measurement sheets, inspection-application data" — rather than against a 70-page set as a whole. A request that sweeps too broadly invites a denial that proves nothing.
+
+**One interrogatory stays earmarked in reserve** for the gap between whatever that narrative report says and the letter's assertion that "[t]here were no other damages observed." If the report documents damage the letter denied observing, that is worth a sworn explanation — asked with the report in hand.
+
+`APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
 ## Related conversions pending elsewhere
 
 These would add to this set, but each is a decision in the interrogatory proposal file. Listed so the RFA set can be assembled once, rather than amended repeatedly.
@@ -448,7 +494,8 @@ These would add to this set, but each is a decision in the interrogatory proposa
 | **A-11** | The *Quade* lock, replacing removed Interrogatory 14 | 1 |
 | **A-12** | When the litigation hold issued, replacing removed Interrogatory 16 | 2 |
 | **A-13** | Appendix A damage-existence admissions, implementing I-26 (plus a correction to RFA 18) | 3 |
-| | **Total if all approved** | **~36–37**, taking the set from 34 to roughly 71 |
+| **A-14** | The September 3, 2024 denial rested on a non-engineer's inspection, replacing item Q-10 | 5 |
+| | **Total if all approved** | **~41–42**, taking the set from 34 to roughly 76 |
 
 There is no numeric limit on requests for admission, and Rule 36.02 makes each admission conclusive — but a set of 68 should be organized under headings so it reads as structured rather than scattershot. Say the word and I will draft the additions as a single consolidated amendment once the upstream decisions are made.
 

@@ -21,11 +21,13 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
-**"The Policy"** means homeowner’s Policy 98055-49-65, including all endorsements, in force on July 13, 2024.
+**"The Policy"** means homeowner’s Policy 98055-49-65 (shown on Defendant’s correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
 
 **"The Property"** means the insured dwelling at 17756 George Moran Dr., Eden Prairie, Minnesota 55347.
 
 **"The Prieve Report"** means the report of Prieve Engineering, LLC, File \#241008, together with all drafts thereof.
+
+**“Photo Appendix A”** means the 110-page photographic appendix to The Prieve Report, titled “PHOTO APPENDIX A” and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217, transmitted to Plaintiffs with Your November 4, 2024 letter.
 
 **"The Appraisal Award"** means the appraisal award entered September 12, 2025 under Minn. Stat. § 65A.01.
 
@@ -51,7 +53,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **5.** Option to produce records. If You elect to answer any interrogatory by producing business records under Minn. R. Civ. P. 33.03, specify the records to be produced in sufficient detail to permit Plaintiffs to locate and identify them as readily as You could.
 
-**6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, identify it, describe its disposition, and identify each person with knowledge.
+**6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, state that in Your answer to the interrogatory concerned, identify the information, and provide as to it each particular called for by Interrogatory 14 (destroyed or unlocatable information).
 
 **7.** Construction. The words "and" and "or" are both conjunctive and disjunctive; "each" includes "every"; and the singular includes the plural and vice versa, as necessary to bring within the scope of each interrogatory all answers that might otherwise be construed to be outside its scope.
 
@@ -67,7 +69,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 1:** Separately for each window of The Property that the Prieve Report’s Photo Appendix A depicts as dented, marked, or otherwise damaged, other than the windows designated “F1.7” and “B1.2” in The Appraisal Award, state the cause You attribute to that condition and the facts supporting that attribution, state whether You contend any policy exclusion or limitation applies to that window and, if so, which, and, if You contend The Appraisal Award determined the question for that window, identify the portion of the award You rely on.
 
-**INTERROGATORY NO. 2:** For each of the six policy exclusions cited in the November 4, 2024 denial letter, state the specific factual basis on which You contend that exclusion applies to The Claim, and identify the documents and witnesses on which You rely to support the application of that exclusion; and identify each person who decided to include that exclusion in the letter.
+**INTERROGATORY NO. 2:** For each policy provision cited in the November 4, 2024 denial letter and its “Coverage Outcome – Policy Provisions” attachment as a ground for denying The Claim, state: the provision by section and number; whether You contend it operates as an exclusion or as a limitation on the grant of coverage; the specific factual basis on which You contend it applies to The Claim; the documents and witnesses on which You rely to support its application; and the person who decided to include it in the letter.
 
 **INTERROGATORY NO. 3:** Identify each non-window component of The Property (including without limitation downspouts, flashing, siding, trim board, doors, and screens) that the Prieve Report’s Photo Appendix A documents as dented, marked, or otherwise damaged, and for each such component state the cause You attribute to the damage and whether You contend that any policy exclusion or limitation applies.
 
@@ -75,7 +77,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 5:** For each line item in the 2020 Xactimate estimate for The 2020 Claim, identify the specific window or sash to which the line item relates by location and elevation, state whether the line item paid for replacement of an entire window unit or for one or more individual sashes, and identify each window, sash, or component that the 2020 inspection observed or photographed as damaged but did not include in a paid line item, together with the reason for its exclusion. The correspondence between a given line item and a specific window or sash is not ascertainable from the estimate itself and is known only to You and Your adjusters.
 
-**INTERROGATORY NO. 6:** Identify, by date, speaker, audience, and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer, including without limitation the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu, and the 11:06 a.m. February 10, 2025 voicemail from Nicholas Brau.
+**INTERROGATORY NO. 6:** Identify, by date, speaker, recipient(s), and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer, including without limitation the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu, and the 11:06 a.m. February 10, 2025 voicemail from Nicholas Brau.
 
 **INTERROGATORY NO. 7:** State the basis for Your October 10, 2025 statement that "the file does not contain a report on the requested date" with respect to Nicholas Brau’s September 6, 2024 inspection, and identify the search performed to locate such records, the custodians and systems searched, the date of the search, and the person who performed it.
 
@@ -93,7 +95,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 14:** For each document or item of information responsive to any discovery request in Plaintiffs’ First Sets that You contend no longer exists or cannot be located, identify the document or information by type, date, author, and subject matter; state the date and manner of its destruction or loss; identify the person who authorized or caused it and the retention policy or schedule under which it occurred; and identify each person who had custody of it.
 
-Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories, counting each subdivision of separate questions as an interrogatory, number fewer than forty (40) and do not exceed the fifty (50) interrogatories permitted without leave of court. Plaintiffs reserve the right to serve additional interrogatories by stipulation or upon leave of court.
+Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories, counting each subdivision of separate questions as an interrogatory, number fewer than thirty (30) and do not exceed the fifty (50) interrogatories permitted without leave of court. Plaintiffs reserve the right to serve additional interrogatories by stipulation or upon leave of court.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 

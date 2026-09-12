@@ -21,11 +21,13 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
-**"The Policy"** means homeowner’s Policy 98055-49-65, including all endorsements, in force on July 13, 2024.
+**"The Policy"** means homeowner’s Policy 98055-49-65 (shown on Defendant’s correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
 
 **"The Property"** means the insured dwelling at 17756 George Moran Dr., Eden Prairie, Minnesota 55347.
 
 **"The Prieve Report"** means the report of Prieve Engineering, LLC, File \#241008, together with all drafts thereof.
+
+**“Photo Appendix A”** means the 110-page photographic appendix to The Prieve Report, titled “PHOTO APPENDIX A” and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217, transmitted to Plaintiffs with Your November 4, 2024 letter.
 
 **"The Appraisal Award"** means the appraisal award entered September 12, 2025 under Minn. Stat. § 65A.01.
 
@@ -148,6 +150,10 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 **REQUEST FOR PRODUCTION NO. 40:** All documents stating or reflecting Your interpretation, guidance, training, or claims-handling practice concerning Endorsement J6944 (Limited Matching of Undamaged Property) and concerning the matching obligation addressed in *Cedar Bluff Townhome Condominium Ass'n v. American Family Mut. Ins. Co.*, 857 N.W.2d 290 (Minn. 2014), as applied to Minnesota property claims, including any guidance concerning claims in which the original manufacturer of the damaged property has ceased production or the original product is no longer available.
 
 **REQUEST FOR PRODUCTION NO. 41:** All documents concerning water intrusion, water entry, window leaks, staining, mold, or resulting damage at The Property from July 13, 2024 through the present, including claim entries, communications, inspections, evaluations, photographs, and vendor or engineering observations. This request also seeks all documents supporting (a) Your November 4, 2024 statement that "\[o\]ur investigation found the condition of the window and components to be from wear/tear," and (b) Conclusion 3 of the Prieve Report (page 7 of 7), that "reported water leakage and water entry at windows is unrelated to hail or any other catastrophic causation"; and all instructions or communications given to Plaintiffs concerning mitigation, repair, or protection of The Property from further damage.
+
+**REQUEST FOR PRODUCTION NO. 42:** Each document identified in the “ACTIVITIES” section of the Prieve Report as having been reviewed in connection with that evaluation, including the Farmers Insurance Photo Log dated September 11, 2014; the Farmers Insurance Estimates dated September 16, 2014 and July 15, 2015; the Building Loss Worksheet dated October 7, 2021; the Farmers Insurance Letter and Estimate dated February 18, 2022; the Window Condition Summary; and all weather records, together with all documents showing who provided each such document to Prieve Engineering, LLC and when.
+
+**REQUEST FOR PRODUCTION NO. 43:** All documents concerning any inspection, estimate, valuation, or claim activity at The Property between January 1, 2021 and July 12, 2024, including the Building Loss Worksheet dated October 7, 2021 and the Farmers Insurance Letter and Estimate dated February 18, 2022, and including any claim number under which such activity was recorded.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
