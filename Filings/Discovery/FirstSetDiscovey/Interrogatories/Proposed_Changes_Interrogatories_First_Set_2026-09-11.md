@@ -13,7 +13,7 @@
 
 ## How to use this
 
-Items are numbered **I-1** through **I-26** (the "I" prefix keeps them distinct from the **P-** items in `Proposed_Changes_RFP_First_Set_2026-09-08.md`). Each shows the current text, the proposed text, and the reason. Mark each:
+Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct from the **P-** items in `Proposed_Changes_RFP_First_Set_2026-09-08.md`). Each shows the current text, the proposed text, and the reason. Mark each:
 
 - `APPROVE` — apply as written
 - `APPROVE AS EDITED` — apply with your changes written in
@@ -45,10 +45,10 @@ Items are numbered **I-1** through **I-26** (the "I" prefix keeps them distinct 
 | **III. New interrogatories** | | | |
 | I-13 | **Entity identity and capacity** — joinder closes November 16, 2026 | **Critical** | No |
 | I-14 | Persons with knowledge | High | No |
-| I-15 | The $6,400 ACV and depreciation calculation | **Critical** | No |
-| I-16 | Destroyed or unlocatable information (moved from RFP item P-33) | High | No |
-| I-17 | What FIE contends is owed, and what it has paid | Medium | No |
-| I-18 | Prieve's status — expert opinion or claim handling? | Medium | **Yes** |
+| I-15 | ~~The $6,400 ACV and depreciation calculation~~ — **WITHDRAWN**, see A-7 | — | No |
+| I-16 | Destroyed or unlocatable information — **count corrected to 1**; gap follow-up earmarked | High | No |
+| I-17 | ~~What FIE contends is owed, and what it has paid~~ — **WITHDRAWN**, see A-8 | — | No |
+| I-18 | ~~Prieve's status — expert opinion or claim handling?~~ — **WITHDRAWN**, see A-9 | — | No |
 | — | *General expert identification — **not proposed**, see the note below* | — | — |
 | **IV. Companion actions** | | | |
 | I-19 | **Expert-discovery stipulation with Kennedy** — time-critical | **Critical** | **Yes** |
@@ -60,6 +60,13 @@ Items are numbered **I-1** through **I-26** (the "I" prefix keeps them distinct 
 | I-24 | **Trim Interrogatory 17** to subparts (a) and (d) | High | **Yes** |
 | I-25 | **Defer Interrogatory 8** (J6944 not yet in issue) | Medium | **Yes** |
 | I-26 | **Narrow Interrogatory 4** — existence questions to RFAs | Medium | **Yes** |
+| I-27 | **Remove Interrogatory 1**, convert to an instruction — conditional on I-14 | Medium | **Yes** |
+| I-28 | **Rewrite Interrogatory 2** — it can be answered "we make no contention"; merge with No. 4? | **Critical** | **Yes** |
+| I-29 | **Keep Interrogatory 5**; add the anti-"see our production" clause; record the deliberate pairing with RFP 7 | High | No |
+| I-30 | **Keep Interrogatory 6** in the First Set; add the Rule 33.03 carve-out; earmark 2 for a follow-up | High | No |
+| I-31 | **Keep Interrogatories 10 and 11**; add the reconciliation clause to No. 11; add a companion RFA | High | No |
+| I-32 | **Sharpen Interrogatory 9's identifiers**; add a Dates instruction (whole-set protection) | High | No |
+| I-33 | **Drop Interrogatory 15** — defense-universe lock moves to RFA item A-6 | High | **Yes** |
 
 ### Note — why there is no general expert interrogatory
 
@@ -258,77 +265,231 @@ RFP 34 (the underwriting file and attorney-in-fact documentation, as amended) se
 
 **Proposed:**
 
-> **INTERROGATORY NO. [19]:** Identify each person known to You to have knowledge of the facts relating to The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or the denial decisions, and state the subject matter of each person's knowledge.
+> **INTERROGATORY NO. [19]:** Identify each person known to You to have knowledge of any fact at issue in this action, **including without limitation** facts relating to The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or the denial decisions, and state the subject matter of each person's knowledge.
+
+*(Wording revised September 12, 2026 — see the counting note below.)*
 
 **Why.** Rule 26.01(a)(1)(A) initial disclosures reach only individuals FIE "may use to support" its defenses — a list FIE curates in its own favor. This reaches **everyone** with knowledge, including people whose knowledge hurts FIE. Given a March 15, 2027 discovery close, you need the full witness universe early enough to depose from it.
 
-**Counts as:** +1.
+**Counts as:** +1 — and the revised wording is what keeps it there.
+
+**Counting note.** Two features of this interrogatory bear on the Rule 33.01(a) tally:
+
+- **The "state the subject matter" clause is free.** It follows the 1993 Advisory Committee Note pattern for Fed. R. Civ. P. 33 — identify items of a type, then state particulars for each. The Note's own example treats "time, place, persons present, and contents" for each communication as a single interrogatory. The elaborate "Identify" definition in this set (name, title, employer, address, telephone, email) is subsumed for the same reason.
+- **The list of topics was the exposure.** As originally drafted — "the facts relating to The Claim, The 2020 Claim, any inspection …" — an adversary could argue the enumeration poses separate questions, since The Claim and The 2020 Claim are different claim numbers arising from different losses four years apart, and press for a count of 2 or even 5.
+
+The fix is to convert the enumeration from a list of inquiries into an illustration of one inquiry: ask about "any fact at issue in this action," then add the topics behind **"including without limitation."** That is the same construction Interrogatory 4 already uses, and it makes the count defensible at 1 rather than merely arguable.
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
 ---
 
-## I-15. The $6,400 ACV and depreciation calculation
+## I-15. ~~The $6,400 ACV and depreciation calculation~~ — **WITHDRAWN**
 
-**Proposed:**
+> **Withdrawn September 12, 2026.** This item was proposed, then revised twice, and should not be served. The reasoning is recorded below so it is not re-proposed.
 
-> **INTERROGATORY NO. [20]:** State how the $6,400 Actual Cash Value figure in The Appraisal Award was calculated, identifying the replacement cost figure used, the depreciation method and rate applied, and the age and condition assumptions applied to each component; state any allocation of that figure between the windows designated "F 1.7" and "B 1.2"; and state whether any deduction other than depreciation was applied and its basis.
+**What it originally asked:** how the $6,400 Actual Cash Value in The Appraisal Award was calculated — the replacement cost used, the depreciation method and rate, the age and condition assumptions, any allocation between "F 1.7" and "B 1.2," and any deduction beyond depreciation.
 
-**Why.** Your `FIE_Defense_Strategy_and_Anticipated_Motions.md` identifies valuation as the route by which FIE wins even if it loses causation — keep covered ACV under the $17,720 deductible and the case ends regardless of how many windows you prove. RFP 33 seeks the estimating files; nothing anywhere asks FIE to **explain the number under oath**. The allocation clause does double duty: no per-window allocation supports the Count III non-itemization argument under Minn. Stat. § 65A.01, subd. 3.
+### Why it was withdrawn
 
-**Counts as:** +2.
+**1. It asked FIE to explain someone else's arithmetic.** The $6,400 is in the appraisal award — the panel's work product. FIE's Answer already admits it confirmed the umpire produced no report or estimate, and that it referred Plaintiff Lu to his own appraiser for details. "We did not compute that figure and hold no calculation for it" is a truthful answer.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+**2. Attacking the figure cuts against Plaintiffs' own pleaded position.** Complaint ¶48 states the award "is binding under Minn. Stat. § 65A.01, Subd. 3 as to the matters it determined," and Count III seeks a declaration of non-preclusion only as to what the award did **not** itemize. Challenging the panel's valuation of the two awarded windows invites the vacatur alternative that the Complaint itself describes as a final fallback.
+
+**3. The itemization point is already secured at no interrogatory cost.** **RFA 9** in the served set asks FIE to admit the award "states a single lump-sum Replacement Cost Value of $12,800 and does not separately state the actual cash value and loss for each awarded window." That is the § 65A.01, subd. 3 evidence.
+
+**4. A revised version aimed at the deductible was also withdrawn, because the policy answers it.** `HomePolicy/2014_newBusiness_policy.pdf`, page 24 of 37, provides:
+
+> **5. How we settle covered loss. a. Coverage A (Dwelling)…** settlement "will be settled at **replacement cost, without deduction for depreciation**," capped at the smallest of the stated limit, the replacement cost for equivalent construction, the amount actually spent to repair, or the insured's interest. "When the cost to repair or replace damaged property is more than $2,500, **we will pay no more than the actual cash value of the loss until actual repair or replacement is completed**."
+>
+> **8. Deductible clause.** "We pay for loss or damage when **a covered loss exceeds the deductible(s)** amount applicable to the property."
+
+So loss is settled at replacement cost, and actual cash value operates as a restriction on the **timing** of payment rather than as the measure of loss. That is determinable from a document Plaintiffs already hold; it does not require discovery.
+
+**5. And the answer does not change the outcome for FIE.** Even measured at replacement cost, the two awarded windows come to **$12,800**, still below the **$17,720** deductible. FIE owes nothing on those windows under either measure and can say so truthfully. The point is worth knowing — it narrows the gap Plaintiffs must close from roughly $11,320 to roughly **$4,920** — but it is a case-planning fact, not a discovery target.
+
+**6. What remained was already covered.** FIE's depreciation methodology is sought in documentary form by **RFP 33** (applied), and is premature in any event since FIE has valued nothing — it denied the claim.
+
+### What replaces it
+
+| Need | Source |
+|---|---|
+| Whether the award allocates between F 1.7 and B 1.2 | **RFA 9** — already served |
+| ACV vs. replacement cost, and the deductible measure | **The policy itself**, quoted above |
+| FIE's position on that reading, locked under oath | **RFA item A-7** in `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` |
+| The estimating and depreciation file | **RFP 33** — already applied |
+| Confirming the 2023 renewal form matches the 2014 form | **RFP 35** — already applied; now a priority rather than a formality |
+
+**Budget effect:** removes **+2** from the running total.
+
+`WITHDRAWN — NO ACTION NEEDED ☐   DISAGREE, RESTORE IT ☐`
 
 ---
 
-## I-16. Destroyed or unlocatable information
+## I-16. Destroyed or unlocatable information — **keep, at a corrected count of 1**
 
-*(Previously proposed as RFP item P-33; still pending there. It belongs here — it calls for a narrative answer, which Rule 34 cannot compel.)*
+*(Previously proposed as RFP item P-33; still pending there. It belongs here — it calls for a narrative answer, which Rule 34 cannot compel. Reviewed again September 12, 2026; count corrected and scope clarified.)*
 
 **Proposed:**
 
 > **INTERROGATORY NO. [21]:** For each document or item of information responsive to any discovery request in Plaintiffs' First Sets that You contend no longer exists or cannot be located, identify the document or information by type, date, author, and subject matter; state the date and manner of its destruction or loss; identify the person who authorized or caused it and the retention policy or schedule under which it occurred; and identify each person who had custody of it.
 
-**Why.** This is the interrogatory that converts "the file does not contain a report on the requested date" into either a documented retention event or an admission that no one can explain the absence. It is the foundation of any Rule 37 spoliation argument about Brau's September 6, 2024 inspection record — and it makes Instruction 6 of this set enforceable through the right vehicle.
+**Counts as: 1 — corrected.** An earlier draft of this item said 2. That was wrong. The primary question is "identify each document You contend no longer exists"; the date and manner of destruction, who authorized it, the governing retention schedule, and the custodians are all **details about each such document**. That is the 1993 Advisory Committee pattern for Fed. R. Civ. P. 33 — the same reason Interrogatory 9 counts as 1.
 
-**If this is approved, mark RFP item P-33 as superseded** so the same question is not pending in two places.
+### What it duplicates — be honest about this
 
-**Counts as:** +2.
+| Already covered | Where |
+|---|---|
+| The search for Brau's September 6, 2024 records | **Interrogatory 10** — custodians, systems, date of search, who performed it |
+| The retention policy if Brau's notes are gone | **RFP 3** — "produce the records-retention policy under which any such record was destroyed or not preserved" |
+| Retention and destruction policies generally | **RFP 10** |
+| The litigation hold | **RFP 14** |
+| Whether anything is being withheld on an objection | **Instruction 9** (proposed at I-8) |
+
+**For the marquee issue — Brau's notes — this interrogatory adds nothing.**
+
+### What it uniquely adds
+
+**It sweeps beyond Brau.** Prieve's drafts, the February 3, 2025 call recording, the 2020 photograph log, deleted claim-system entries. If any of those are missing, this is the only question in any of the three sets that makes FIE explain it under oath.
+
+**It is the enforceable version of Instruction 6.** Instruction 6 already says that if responsive information once existed but is no longer available, FIE must "identify it, describe its disposition, and identify each person with knowledge." But by the reasoning recorded at **I-27**, an instruction is not a discovery request — Rule 33 obliges answers to *interrogatories*, and an ignored instruction gives you nothing to compel. This converts it.
+
+**It forces a useful fork.** If FIE answers "nothing was destroyed" and Brau's notes still do not exist, then either they never existed — meaning FIE's adjuster inspected the Property and documented nothing — or they existed and FIE cannot explain their absence. Both branches help, and the answer forecloses a later "routine purge" explanation.
+
+### On timing — the answer is synchronized with FIE's search, not ahead of it
+
+The natural objection is that FIE cannot know what it cannot locate until it searches. But if the three sets are served together, **FIE's document production and its interrogatory answers are due the same day**. It will have searched by then. Expect "investigation continues; Defendant will supplement," and treat that as the start of an obligation rather than the end of the inquiry.
+
+### What the supplementation duty actually gets you
+
+**Minn. R. Civ. P. 26.05(a):** a party "who has responded to an interrogatory … must supplement or correct its … response … **in a timely manner if the party learns that in some material respect the … response is incomplete or incorrect**," where the corrective information "has not otherwise been made known to the other parties during the discovery process or in writing."
+
+So an answer of "no file destroyed" that later proves wrong must be corrected. **Minn. R. Civ. P. 37.03(a)** supplies the teeth: information not provided as required by Rule 26.05 may not be used "to supply evidence on a motion, at a hearing, or at a trial, unless the failure was substantially justified or is harmless," with expenses, fees, and other sanctions available.
+
+**Three limits worth recording so the duty is not over-relied on:**
+
+1. **It runs on FIE's own recognition.** The duty attaches when FIE "learns" the answer is wrong. A party that never looks never learns.
+2. **The carve-out is broad.** No separate supplementation is required if the information "has otherwise been made known … during the discovery process or in writing" — so a correction may arrive buried in a production rather than as a clean amended answer.
+3. **"Timely manner" is undefined.** Against a March 15, 2027 discovery close, "timely" may stretch past the point of usefulness.
+
+**And note which way Rule 37.03 cuts.** It bars a party from *using* what it failed to disclose. That is powerful when FIE withholds something helpful to itself. For spoliation you want the opposite — to establish that evidence is **gone** — and the remedy there is a spoliation motion and an adverse-inference instruction, not Rule 37.03. This interrogatory contributes to that record; it does not create it.
+
+### ⚠️ Earmark — the sharper version comes after production
+
+The high-value version of this question is **retrospective**: served after the production is reviewed and pointed at gaps you have actually identified, rather than asking FIE to self-report. Examples of what to look for:
+
+| Requested | Gap to watch for | Follow-up question |
+|---|---|---|
+| RFP 5 — "every draft of the report" | Only the final Prieve report | Did drafts exist? When were they discarded, under what policy? |
+| RFP 6 — native photographs with EXIF | Flattened images, or only the curated Appendix A set | Where is the remainder of the October 9, 2024 native set? |
+| RFP 21 — the audit trail | No trail, or one beginning after a given date | Why does it not cover September–November 2024? |
+| RFP 23 — the 2020 photograph log | Breaks in the file-name sequence | What are the missing file numbers? |
+| RFP 36 — recorded calls | No recording of the February 3, 2025 call | Was it recorded? When was it purged? |
+
+A self-reported gap requires FIE's candour; an observed gap requires only its explanation. "Defendant is not aware of anything missing" is a complete answer to the general question — it is no answer at all to "your production contains no drafts of a report that went through peer review."
+
+**Reserve 2 for that follow-up.** See the earmark table below the Revised budget.
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
 ---
 
-## I-17. What FIE contends is owed, and what it has paid
+## I-17. ~~What FIE contends is owed, and what it has paid~~ — **WITHDRAWN**
 
-**Proposed:**
+> **Withdrawn September 12, 2026, at your direction.** You observed that this item fails for the same reasons as **I-15**, and on review you are right — on four of the six grounds, plus a drafting defect I had not caught. The reasoning is recorded below so it is not re-proposed.
 
-> **INTERROGATORY NO. [22]:** State the total amount You contend is owed to Plaintiffs under The Policy for the July 13, 2024 loss, itemized by component; and state every amount You have paid on The Claim, identifying for each payment the date, the payee, and the component to which it was applied.
+**What it originally asked:**
 
-**Why.** FIE has admitted paying $0. Making it state the contended amount **under oath** forecloses a later shift in position and produces a clean number to set against the $17,720 deductible. The payment half also closes off any late "we already paid part of this" argument.
+> State the total amount You contend is owed to Plaintiffs under The Policy for the July 13, 2024 loss, itemized by component; and state every amount You have paid on The Claim, identifying for each payment the date, the payee, and the component to which it was applied.
 
-**Counts as:** +2.
+### Why it was withdrawn
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+**1. Both halves are already answered — by FIE's own pleading.** Answer ¶35 affirmatively alleges that no payment was due "because the amount awarded … did not exceed the Plaintiffs' deductible," and that net payment to date is **$0**. A factual assertion in a party's own pleading is a judicial admission — conclusively binding on that party and stronger than an interrogatory answer, which is merely admissible against it. Spending 2 of 50 to re-obtain under oath what FIE has already alleged in the operative pleading is the same defect as I-15 ground 3: *the point is already secured at no interrogatory cost.*
+
+**2. The contention half is a contention interrogatory FIE is entitled to hedge.** This is the exact objection you raised about Interrogatory 15: FIE may answer "Defendant contends no amount is owed, and reserves the right to supplement as discovery proceeds." That answer is legitimate — Rule 33.02 expressly authorizes the court to defer contention interrogatories "until designated discovery has been completed, or until a pretrial conference or some other time," and a legal position is revisable in a way a fact is not. The "forecloses a later shift in position" rationale I originally gave does not survive contact with that reservation.
+
+**3. It hands FIE a free, sworn statement of its own best defense.** Unlike a request for admission, which asks FIE to concede *Plaintiffs'* proposition, this asks FIE to state *its own* position in *its own* words. The predictable product is a tidy, verified paragraph computing $12,800 (or $6,400) against the $17,720 deductible — a self-authenticating exhibit for FIE's summary-judgment motion, drafted at Plaintiffs' invitation and at Plaintiffs' budget expense. Contention interrogatories do their best work against the party carrying the burden; here that is Plaintiffs, not FIE.
+
+**4. "Itemized by component" asks for an itemization of zero.** When the contended amount is $0, there is nothing to itemize. The subpart that was supposed to carry the weight is inert.
+
+**5. Drafting defect — it does not reach the payment that actually matters.** The interrogatory asks for amounts paid on **The Claim**, which the definitions confine to claim number 7007986837-1-1. The payment behind FIE's prior-payment and setoff theory is the **2020** payment on claim 3013539499-1, which this interrogatory does not touch. My original "closes off any late 'we already paid part of this' argument" rationale was aimed at the wrong claim number. **RFP 2** — the entire 2020 claim file including the Xactimate estimate, the settlement notice, the building-loss worksheet, all line items, and any "work not completed" designation — is what actually closes that door, and it is already in the served set.
+
+**6. The remaining ground was already covered elsewhere.** Whether FIE contends anything is owed beyond the two awarded windows is reached by **Interrogatory 4** (existence of damage), **Interrogatory 2** (contentions), and **RFA item A-6** (the defense-universe lock). The itemization question is reached by **RFA 9**. None of those costs an additional interrogatory beyond what is already budgeted.
+
+### What replaces it
+
+| Need | Source | Cost |
+|---|---|---|
+| FIE has paid $0 | Answer ¶35 — judicial admission, already binding | free |
+| The same fact in clean, conclusive form for trial | **RFA item A-8** (new) — `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` | free (Rule 36 has no cap) |
+| Any payment to vendors on The Claim | **RFP 1** (billing records in the claim file), **RFP 5**, **RFP 9**, **RFP 28** | already served |
+| The 2020 payment and what it actually covered | **RFP 2**, **RFP 22**, **RFP 23** | already served |
+| Whether FIE contends anything is owed beyond the award | **Interrogatory 4**, **Interrogatory 2**, **RFA item A-6** | already budgeted |
+| The measure of loss against the deductible | **RFA item A-7** and the policy itself | free |
+
+### What is genuinely lost
+
+Nothing forces FIE to commit to a number before summary judgment. That is the correct allocation: Plaintiffs bear the burden of proving the amount of the loss, and a defendant's refusal to name a figure is not an evidentiary gap on Plaintiffs' side. The one thing worth watching is whether FIE's damages position shifts after production — and Rule 26.05 supplementation plus the A-6 defense-universe lock are the tools for that, not this.
+
+`WITHDRAWN — NO ACTION NEEDED ☐   DISAGREE, RESTORE IT ☐`
 
 ---
 
-## I-18. Prieve's status — expert or claim handling? ⚠️ *needs your decision*
+## I-18. ~~Prieve's status — expert or claim handling?~~ — **WITHDRAWN**
 
-**Proposed:**
+> **Withdrawn September 12, 2026, at your direction.** You asked whether FIE can simply answer "we haven't decided yet." It can — and the reason why exposes a defect in how the question was framed, not merely a risk of evasion. The reasoning is recorded below.
 
-> **INTERROGATORY NO. [23]:** State whether You contend that the Prieve Report and the opinions of Nathan Prieve constitute expert opinion within the meaning of Minn. R. Civ. P. 26.02(e), or were prepared in the ordinary course of claim handling.
+**What it originally asked:**
 
-**Why it survives the decision to drop the general expert interrogatory.** This is not a question about FIE's trial witnesses and is not answered by any disclosure on any deadline. It asks FIE to characterize a document it has already relied on. The answer decides whether Rule 26.02(e) applies to the Prieve file at all — which is the difference between RFP 5's draft-and-revision requests being routine claim-file discovery and a fight about trial-preparation material.
+> State whether You contend that the Prieve Report and the opinions of Nathan Prieve constitute expert opinion within the meaning of Minn. R. Civ. P. 26.02(e), or were prepared in the ordinary course of claim handling.
 
-Either answer helps. "Ordinary course of claim handling" concedes the point. "Expert" is a designation made seven months before FIE's deadline, and one that sits awkwardly with a report authored during the claim and transmitted with the denial letter.
+### Why it was withdrawn
 
-**Against it:** it costs 1–2 from a budget that is tighter than it looks (Section V), and FIE may answer "Defendant has not yet determined." **My recommendation: include it** — but it is the first thing I would cut if you want to hold more in reserve.
+**1. It asked the deferrable question instead of the determinative one.** Rule 26.02(e)(1)(A) lets a party require another to identify "each person whom the other party **expects to call** as an expert witness at trial." That is a statement about a **future election**, and FIE's election is not due until **April 17, 2027** under Scheduling Order ¶3. "Defendant has not yet determined whom it expects to call" is a complete and truthful answer. Worse, because the question is framed as "State whether You contend," it is a contention interrogatory, and Rule 33.02 expressly permits the court to defer one "until designated discovery has been completed, or until a pretrial conference or some other time." Both escape hatches are open at once.
 
-**Counts as:** +1.
+**2. Protection does not turn on designation at all — it turns on a historical fact.** Both protective provisions carry the same threshold predicate, and neither mentions designation:
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+> **Rule 26.02(d):** documents and tangible things "**prepared in anticipation of litigation or for trial** by or for another party" — reaching materials made by a party's "consultants, sureties, indemnitors, **insurers**, or agents."
+>
+> **Rule 26.02(e)(2):** facts known and opinions held by an expert "who has been **retained or specially employed** by another party **in anticipation of litigation or preparation for trial** and who is not expected to be called as a witness at trial."
+
+If Prieve was engaged to adjust the claim, **neither provision applies**, whatever FIE later decides about calling him. The operative question is therefore *why and when Prieve was engaged* — a fact FIE knows today and cannot defer.
+
+**3. The burden is already on FIE, and the enforcement mechanism is already in the served RFP set.** "The party objecting to the production of information has the burden of establishing that the sought-after information is immune from discovery." *In re Comm'r of Pub. Safety*, 735 N.W.2d 706, 712 (Minn. 2007). The test is "whether, in light of the nature of the document and the factual situation in the particular case, the document can fairly be said to have been prepared or obtained **because of the prospect of litigation**." *City Pages v. State*, 655 N.W.2d 839, 846 (Minn. Ct. App. 2003). Materials generated in the regular course of business under standard procedures are not protected. *Brown v. St. Paul City Ry. Co.*, 241 Minn. 15, 62 N.W.2d 688 (1954).
+
+FIE must therefore make its position known through **RFP 5**, and the instructions already force it to:
+
+| Instruction | What it compels |
+|---|---|
+| **4** | Any withholding must be expressly stated and logged under Rule 26.02(f), described sufficiently to assess the claim |
+| **8** | Only communications with counsel of record **dated on or after July 8, 2026** are exempt; documents "created in the handling, investigation, evaluation, or denial of The Claim" must be produced or logged |
+| **9** | Under Rule 34.02, each objection must state whether responsive materials are being withheld on that basis |
+
+FIE's response to RFP 5 **is** the answer to I-18, arrives on the same day the interrogatory answers would have, costs nothing from the budget, and puts the burden of justification on FIE rather than inviting FIE to characterize its own materials for free.
+
+**4. FIE's own conduct has largely answered it.** The November 4, 2024 denial letter states: "Our investigation found the condition of the window and components to be from wear/tear **as referrenced in the attached engineer report**," and the letter was "Delivered by email to: BILL_Y_LU@YAHOO.COM." FIE **attached Prieve's report and its Appendix A and sent them to the insureds** as the stated basis of its claim decision. A party does not hand its trial-preparation material to the opposing side as the explanation for a claim denial.
+
+**Be honest about the other side of this.** Prieve was engaged *after* the September 3, 2024 denial and *after* the family submitted rebuttal photographs on September 5, 8 and 10 — a sequence FIE can characterize as anticipating a dispute. The counter is that an insurer re-investigating a denial the insured has challenged is still adjusting the claim, and FIE's own transmittal of the report proves it treated the work as claim handling. The point is that this is a **fight worth having on FIE's burden**, not a characterization worth buying from FIE with an interrogatory slot.
+
+### What replaces it
+
+| Need | Source | Cost |
+|---|---|---|
+| The historical facts of the engagement, in admit/deny form FIE cannot defer | **RFA item A-9** (new) — `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` | free (Rule 36 has no cap) |
+| The engagement letter, statement of work, and billing records | **RFP 5** — already served | already served |
+| FIE's actual position on protection | **RFP 5 response** + Instructions 4, 8 and 9 | free |
+| Whom FIE expects to call at trial | Rule 26.01(b) expert disclosure, April 17, 2027 | free |
+| The anticipation-of-litigation **date**, if FIE asserts protection | **Reserved — 1 interrogatory, earmarked below** | deferred |
+
+### ⚠️ Earmark — the question that is actually worth an interrogatory, later
+
+If FIE withholds or logs Prieve material (or denial-letter drafts under **RFP 30**, review notes under **RFP 32**, or audit-trail entries under **RFP 21**) on Rule 26.02(d) or (e) grounds, one interrogatory becomes worth spending:
+
+> State the date on which You first anticipated litigation with Plaintiffs concerning The Claim, identify each person who made or participated in that determination, and identify each document reflecting it.
+
+That is the master key to **every** work-product objection FIE will make across the whole RFP set — it is a fact rather than an election, it is not deferrable under Rule 33.02, and an implausibly early date is itself impeaching on the § 604.18 claim. **But it is worth nothing until FIE actually asserts the protection.** Same logic as **I-25** (endorsement J6944): do not spend a slot pre-empting a position FIE has not taken. Earmarked at **1**, trigger: FIE's privilege log or any withholding statement under Instruction 4 or 9.
+
+`WITHDRAWN — NO ACTION NEEDED ☐   DISAGREE, RESTORE IT ☐`
 
 ---
 
@@ -385,21 +546,21 @@ Rule 33.01(a): 50 total per party, counting **each subdivision of separate quest
 | I-11 — Interrogatory 7, catch-all subpart | +1 | 25 |
 | I-13 — entity identity (6 subparts) | +6 | 31 |
 | I-14 — persons with knowledge | +1 | 32 |
-| I-15 — ACV and depreciation | +2 | 34 |
-| I-16 — destroyed information | +2 | 36 |
-| I-17 — amount owed and paid | +2 | 38 |
-| I-18 — Prieve's status *(optional)* | +1 | **39** |
-| **Remaining for all future sets** | | **11** |
+| ~~I-15 — ACV and depreciation~~ *(withdrawn 9/12)* | ~~+2~~ | — |
+| I-16 — destroyed information *(count corrected to 1)* | +1 | **33** |
+| ~~I-17 — amount owed and paid~~ *(withdrawn 9/12 — see A-8)* | ~~+2~~ | — |
+| ~~I-18 — Prieve's status~~ *(withdrawn 9/12 — see A-9)* | ~~+1~~ | — |
+| **Remaining for all future sets** | | **17** |
 
-**This is tighter than it looks.** Eleven remaining has to cover: a later expert set once FIE designates on April 17, 2027; any follow-up prompted by FIE's answers to this set; and anything arising from the § 604.18 motion to amend. On an aggressive reading — counting each separate "state / identify / describe" demand rather than only lettered subparts — the current set alone could be argued at 28, which would leave only six.
+**This is tighter than it looks.** Seventeen remaining has to cover: a later expert set once FIE designates on April 17, 2027; any follow-up prompted by FIE's answers to this set; and anything arising from the § 604.18 motion to amend. On an aggressive reading — counting each separate "state / identify / describe" demand rather than only lettered subparts — the current set alone could be argued at 28 rather than 23, which would push the total to 38 and leave **12**.
 
 **Three ways to buy room, in the order I would use them:**
 
 1. **Drop Interrogatory 14** (I-12) — the *Quade* legal-contention question. Interrogatory 13, once corrected, covers the ground on firmer footing. **Saves 1.**
-2. **Drop I-18** (Prieve's status). **Saves 1.**
+2. ~~**Drop I-18** (Prieve's status).~~ *Done — withdrawn September 12, 2026; the saving is already reflected above.*
 3. **Trim I-13 from six subparts to four** by combining (b) with (c) and (e) with (f). **Saves 2.** I would do this last — entity identity is the item with a hard, unextendable deadline behind it.
 
-Do **not** buy room by dropping I-13 or I-15. One is governed by the November 16 joinder deadline; the other goes to the arithmetic that decides whether you recover anything at all.
+Do **not** buy room by dropping I-13 — it is governed by the November 16 joinder deadline. *(I-15, formerly paired with it in this caution, was withdrawn on September 12, 2026.)*
 
 ---
 
@@ -409,7 +570,7 @@ Do **not** buy room by dropping I-13 or I-15. One is governed by the November 16
 |---|---|---|
 | **I-9** | "Respectfully submitted," — remove across all four served documents, or keep? | **Remove.** Discovery is served, not submitted to the Court; your filed documents already omit it. |
 | **I-12** | Interrogatory 14 (*Quade*) — keep or drop? | **Drop.** Most vulnerable to a Rule 33.02 deferral objection, and I-3's corrected Interrogatory 13 does the same work factually. |
-| **I-18** | Prieve's status — include or hold? | **Include**, but it is the first cut if you want more reserve. |
+| ~~**I-18**~~ | ~~Prieve's status — include or hold?~~ | **Resolved September 12, 2026 — withdrawn.** The framing asked a deferrable election; the determinative facts move to RFA item A-9, and the anticipation-of-litigation date is earmarked in reserve. |
 | **I-19** | Expert-discovery stipulation letter to Kennedy — draft it? | **Yes, and soon.** Without it there is no practical path to deposing FIE's expert on this schedule. |
 
 ---
@@ -539,6 +700,331 @@ This both shrinks the count exposure and produces better evidence: an admission 
 
 ---
 
+## I-27. REMOVE Interrogatory 1 — convert it to an instruction ⚠️ *conditional on I-14*
+
+**Current:**
+
+> **INTERROGATORY NO. 1:** Identify each person who supplied information used to answer these interrogatories, and identify the interrogatory or interrogatories to which each such person contributed.
+
+**Cost: 1 — in every set you ever serve.**
+
+**Proposed:** delete the interrogatory; add as an instruction:
+
+> **Identification of respondents.** With Your answers, identify each person who supplied information used in answering, and the interrogatory or interrogatories to which each such person contributed. This instruction supplements, and does not limit, the obligation under Minn. R. Civ. P. 33.01(d) of the officer or managing agent signing the answers to "furnish such information as is available."
+
+**Why it is a candidate.** As drafted the interrogatory is scoped to "**these** interrogatories" — the set it sits in. Rule 26.05 supplementation will not carry it forward, because a first-set answer does not become "incomplete or incorrect" when different people help answer a second set. So the question has to be re-asked, and re-paid for, in every set.
+
+**What you keep without it.**
+
+| Source | What it gives you |
+|---|---|
+| **Rule 33.01(d)** | The answers must be "signed under oath or penalty of perjury by … any officer or managing agent, **who shall furnish such information as is available**." You get the signer's name automatically, and that person carries the duty to furnish everything available to FIE. |
+| **I-14** | Every person known to FIE with knowledge of any fact at issue — a **superset** of the people who helped answer. |
+| **Rule 30.02(f)** | At the organizational deposition you may ask who gathered the information, with no cap on questions; the designee must testify to what the organization "knows or could reasonably obtain." |
+
+The only unique content in Interrogatory 1 is the mapping of person → interrogatory, which is low value against a slot.
+
+**The honest caveat.** An instruction is **not** a discovery request. Rule 33 obliges a party to answer *interrogatories*; nothing obliges FIE to comply with your instructions. If FIE ignores it there is no interrogatory to compel an answer to, and you would be asking the Court to enforce your own drafting rather than a rule. The instruction sets an expectation and gives you something concrete to raise in a meet-and-confer — it does not give you a motion.
+
+**Decision rule.**
+
+- **If I-14 is approved → remove Interrogatory 1** and add the instruction. Net saving of 1, with almost no loss.
+- **If I-14 is rejected → keep Interrogatory 1** as a numbered interrogatory. It is then your only written route to FIE's internal roster.
+
+`REMOVE (I-14 approved) ☐   KEEP (I-14 rejected) ☐   KEEP BOTH ☐   HOLD ☐`
+
+---
+
+## I-28. REWRITE Interrogatory 2 — it can be answered with "we make no contention" ⚠️ *needs your decision*
+
+**Current:**
+
+> **INTERROGATORY NO. 2:** State each fact on which You base any contention that hail did not cause damage to any window or exterior component of The Property beyond the windows designated "F1.7" and "B1.2" in The Appraisal Award, and identify the documents and witnesses that support that contention.
+
+### The problem
+
+The interrogatory asks FIE to support a **negative contention**. FIE has not made one — it has denied.
+
+Its answer to Complaint ¶12 is a flat denial: *"FIE denies that a July 13-14, 2024, hailstorm caused direct physical damage to the windows and other exterior components."* A denial puts Plaintiffs to their proof; it does not commit FIE to a theory. The predictable answer is therefore: *"Defendant asserts no such contention; Defendant denies Plaintiffs' allegations and puts Plaintiffs to their proof."* A slot spent for nothing.
+
+**And that dodge is legitimate, because of how the burden falls.** In Minnesota the insurer bears the burden of establishing the applicability of an exclusion, "which is strictly interpreted against the insurer," and only then does the burden shift to the insured to prove an exception. *Travelers Indem. Co. v. Bloomington Steel & Supply Co.*, 718 N.W.2d 888 (Minn. 2006), citing *Amos v. Campbell*, 593 N.W.2d 263, 266 (Minn. App. 1999). Causation **within** coverage is Plaintiffs' burden. FIE is entitled to sit on a denial there.
+
+That is why **Interrogatory 3 is strong and Interrogatory 2 is weak**: Interrogatory 3 asks about the six exclusions in the November 4, 2024 denial, which are FIE's own burden and which it must come forward on.
+
+### Why FIE is not actually as free as the dodge suggests
+
+FIE adopted affirmative opinions and made affirmative representations:
+
+| Source | Affirmative statement |
+|---|---|
+| Prieve Report, Conclusion 1 (p. 7 of 7) | "no recent hail damage has occurred to windows in the subject structure" |
+| Prieve Report, Conclusion 3 (p. 7 of 7) | reported water leakage and entry "is unrelated to hail or any other catastrophic causation" |
+| September 3, 2024 letter | "There were no other damages observed." |
+| November 4, 2024 letter | "Our investigation found the condition of the window and components to be from wear/tear" |
+
+An interrogatory anchored to **those documents** cannot be answered with "we make no contention," because FIE has already made them.
+
+### Proposed rewrite
+
+> **INTERROGATORY NO. 2:** Separately for each window and exterior component of The Property that the Prieve Report's Photo Appendix A depicts as dented, marked, or damaged, other than the windows designated "F 1.7" and "B 1.2," state the cause You attribute to that condition and the facts supporting it; state whether You contend any policy exclusion or limitation applies and, if so, which; and, if You contend The Appraisal Award determined the question for that item, identify the portion of the award You rely on.
+
+**The three changes, and what each one does:**
+
+1. **"State the cause You attribute"** replaces a negative contention with a positive one. FIE has already attributed causes — wear and tear, condensation, prior storms — through the report it transmitted with its denial. It cannot decline to state what it has already said.
+2. **Per-item framing anchored to Appendix A** mirrors Interrogatory 4, which is better drafted than Interrogatory 2 for exactly this reason. Anchoring to Appendix A — FIE's own engineer's photographs — also bounds the list, which matters for the counting risk discussed in Section VII.
+3. **The award clause captures the dodge itself.** If FIE's real answer is "the appraisal resolved it," it must identify where in a two-window, lump-sum award that determination appears. It cannot. That answer is then evidence for the *Quade* scope argument in Count I and the non-itemization argument in Count III under Minn. Stat. § 65A.01, subd. 3.
+
+### ⚠️ Decision: rewrite, or merge Interrogatory 2 into Interrogatory 4?
+
+Rewritten this way, Interrogatories 2 and 4 become the same question applied to two halves of the same house — windows on one side, non-window components on the other. FIE could fairly call that duplicative.
+
+**Option A — rewrite Interrogatory 2, keep Interrogatory 4 separate.** Clearer to answer and to enforce; two narrower questions are easier to defend in a meet-and-confer than one sprawling one. **Count: no change (1 + 1).**
+
+**Option B — merge them into a single per-item interrogatory** covering every window and exterior component in Appendix A. **Saves 1**, removes the duplication objection, and produces one consolidated answer rather than two that may not line up. The cost is a single larger question carrying more "for each" multiplication exposure.
+
+**My recommendation: Option B**, merged and anchored expressly to Appendix A so the set of items is closed rather than open-ended. If **I-26** is also approved (moving the damage-existence questions to Requests for Admission), the merged interrogatory gets smaller still — it would ask only for attributed cause, claimed exclusions, and any award reliance, with existence handled by admissions.
+
+`OPTION A — REWRITE ONLY ☐   OPTION B — REWRITE AND MERGE WITH NO. 4 ☐   REJECT — KEEP AS IS ☐   HOLD ☐`
+
+---
+
+## I-29. KEEP Interrogatory 5 — and close the "see our production" gap
+
+**Question considered:** should Interrogatory 5 be converted into a Request for Production seeking the communication trail?
+
+**Answer: no — that request already exists.** Request for Production 7 is the document version of this interrogatory:
+
+> **REQUEST FOR PRODUCTION NO. 7:** All documents and communications reflecting the decision to scope the Prieve Engineering engagement to "windows only," including all documents showing who made the decision and when, whether the decision preceded or followed Plaintiffs' reports of damage to siding, downspouts, flashing, and doors, and any request by Prieve to expand the scope.
+
+Request 5 (as amended) backs it up by reaching all communications between Prieve and FIE, including any comment on or instruction to revise a draft. The communication trail is fully requested. Converting Interrogatory 5 would duplicate Request 7 and cost the sworn answer.
+
+### Why the interrogatory earns its slot alongside Request 7
+
+| What Interrogatory 5 asks | Obtainable from Request 7? |
+|---|---|
+| Date of the decision; who made it | **Yes** — the same clause appears in Request 7 |
+| **The reason for scoping to windows only** | Only if someone wrote the reason down |
+| **Whether Plaintiffs were informed of the limitation** | **No** — this is a negative |
+| **Whether Prieve asked to expand scope and was refused** | Only if the refusal was in writing |
+
+The bottom three are negatives, and a document request cannot establish a negative. "No responsive documents" is ambiguous — the reason may never have been recorded, the record may not have been preserved, or the search may have been thin. A sworn answer under Minn. R. Civ. P. 33.01(d) converts the same fact into a party admission.
+
+That matters because **Complaint ¶69(g)** pleads the scoping decision as a Consumer Fraud Act violation: that Defendant scoped Prieve to "windows only," then used the resulting report to deny the entire claim "without disclosing the report's stated scope limitation to Plaintiffs as a limit on what the denial could rest on." Whether Plaintiffs were informed is an element of that allegation. It should be answered under oath, not inferred from an absence of documents.
+
+### Proposed — add one sentence
+
+> **INTERROGATORY NO. 5:** State the basis for Your decision to scope the Prieve Engineering engagement to the condition of the windows and to exclude the siding, downspouts, flashing, and doors that Plaintiffs had reported as damaged, identifying the date of that decision, the person(s) who made it, whether Plaintiffs were informed of it, and whether Prieve requested and was denied an expanded scope. **If no document records the reason for the decision, state the reason and identify each person with knowledge of it.**
+
+**What the added sentence does.** Once Request 7 is pending, FIE's natural move is to answer the interrogatory by pointing at its document production — "see documents produced in response to Request for Production No. 7." The added sentence forecloses that: if the documents are silent on the reason, FIE must supply the reason in the answer. Note also that Instruction 5 of this set offers the Rule 33.03 business-records option, which FIE may invoke; this sentence makes clear the option does not reach the part of the question no record answers.
+
+**Counts as:** 1 — unchanged. The added sentence is subsumed detail about the same decision.
+
+### ⚠️ Note for future editing — the pairing is deliberate
+
+Interrogatory 5 and Request for Production 7 **overlap on purpose**. Request 7 gets the paper; Interrogatory 5 gets the reasoning and the negatives the paper cannot show. A later reviewer trimming for length or for the 50-interrogatory cap should not cut Interrogatory 5 as redundant of Request 7 — the redundancy is the point, and only one of the two can produce a sworn negative.
+
+The same logic applies to two other deliberate pairings in these sets:
+
+| Interrogatory | Paired request | What only the interrogatory gets |
+|---|---|---|
+| **5** — Prieve scope decision | RFP 7 | The reason; whether Plaintiffs were told; whether Prieve was refused |
+| **10** — the search for Brau's records | RFP 3 | What search was actually performed, by whom, and when |
+| **12** — supervisory review of the denials | RFP 30 | What the review consisted of, where no memo exists |
+
+**Contrast with the items removed in Section VII**, where the overlap was *not* purposeful: Interrogatory 16 (litigation hold) duplicates RFP 14 with no unique sworn content, and Interrogatory 17(b)–(c) duplicate RFPs 31 and 32. Those were cut precisely because the document version gives you everything.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## I-30. KEEP Interrogatory 6 in the First Set — and pre-empt the Rule 33.03 dodge
+
+> **Wording revised September 12, 2026.** The first draft of the added sentence declared that "the option under Minn. R. Civ. P. 33.03 does not apply to this interrogatory." That was too declarative — it announces a legal conclusion that is FIE's objection to make and the Court's to decide, and it reads as argument inside a discovery request. Replaced with a statement of the **factual premise** the rule turns on.
+
+**Question considered:** should Interrogatory 6 be deferred to a second set, after reviewing the documents produced in response to the First Set of Requests for Production?
+
+**Answer: no. Serve it now.** Three reasons.
+
+**1. FIE can answer it today; only Plaintiffs are waiting on documents.** "Premature" normally means the responding party cannot yet answer. The asymmetry here runs the other way — the 2020 Xactimate, the building-loss worksheet, and the October 13, 2020 photograph log are all in **FIE's own file**. What is premature is Plaintiffs' ability to *test* the answer, not FIE's ability to give one. That is a weaker reason to wait than it first appears, because the answer is evidence either way.
+
+**2. It is not a contention interrogatory, so FIE cannot easily park it.** Rule 33.02 permits a court to order that an interrogatory "need not be answered until after designated discovery has been completed" — the risk hanging over Interrogatories 2, 3, 13, 14 and 15 (§ 3). Interrogatory 6 asks a **factual** question about FIE's own records, which is far harder to defer. Serving it now uses that advantage rather than surrendering it.
+
+**3. The calendar will not absorb a round trip.**
+
+| Step | Date |
+|---|---|
+| First sets mailed | ~September 21, 2026 |
+| Answers and production due (30 + 3 for mail) | ~October 24, 2026 |
+| Review, then a deferred second set | ~mid-November 2026 |
+| Answers to that second set | ~late December 2026 |
+| **Any dispute must reach the ¶4 letter stage by** | **mid-January 2027** |
+| Discovery closes | March 15, 2027 |
+
+That sequence works only if production actually lands on October 24. Productions roll. If FIE's 2020 file arrives in mid-November, a deferred Interrogatory 6 yields answers around the year-end holidays and a dispute in late January — past the point where a motion to compel can still produce usable documents before the close.
+
+**4. A non-answer is itself valuable.** Prieve's Conclusion 1 rests on "2 windows already included and paid in prior claims." If FIE cannot map its own 2020 line items to specific windows and sashes, that fact — established under oath, early — undermines the prior-payment defense and reinforces the § 65A.01, subd. 3 itemization theme running through Count III. You want it on the record before depositions, not after.
+
+### The real risk is not deferral — it is Rule 33.03
+
+The likely evasion is that FIE answers "see the 2020 Xactimate estimate" and points at records under the business-records option. That option applies only where "the burden of deriving or ascertaining the answer is **substantially the same** for the party serving the interrogatory as for the party served." It plainly is not: only FIE's adjuster knows which physical window or sash a given line item referred to. The estimate alone does not disclose it — which is the entire reason this interrogatory exists.
+
+**What the added sentence can and cannot do.** It does **not** bind FIE. A party cannot switch off a rule by saying so in an interrogatory, and FIE remains free to invoke Rule 33.03 and force the fight. What it does is put the point on the record *before* FIE answers. If FIE invokes the option anyway, the ¶4 letter and any motion to compel read very differently — *Plaintiffs identified at the outset why the business-records option does not reach this interrogatory; Defendant invoked it regardless* — than if the issue surfaces for the first time after a non-answer.
+
+**So state the factual premise, not the legal conclusion.** Asserting that the rule "does not apply" invites the response that Plaintiffs do not get to decide that. Asserting that the information is not derivable from the estimate puts FIE in the worse position of having to contest a factual claim about its own records.
+
+**Proposed — add one sentence:**
+
+> **INTERROGATORY NO. 6:** For each line item in the 2020 Xactimate estimate for The 2020 Claim, identify the specific window or sash to which the line item relates by location and elevation, state whether the line item paid for replacement of an entire window unit or for one or more individual sashes, and identify each window, sash, or component that the 2020 inspection observed or photographed as damaged but did not include in a paid line item, together with the reason for its exclusion. **The correspondence between a given line item and a specific window or sash is not ascertainable from the estimate itself and is known only to You and Your adjusters.**
+
+The sentence reads as part of the question rather than as a rider, which matters because this interrogatory is likely to be quoted in a motion.
+
+**Interaction with Instruction 5 — approve I-1 with this item.** Instruction 5 of this set expressly offers the Rule 33.03 business-records option, and currently cites the wrong rule for it (33.01(d), corrected to 33.03 by **I-1**). The carve-out here only makes sense once that citation is right, and offering the option generally while narrowing it here is coherent only if both changes go in together.
+
+**Counts as:** 2 — unchanged. The mapping question and the observed-but-not-paid question are genuinely separate inquiries.
+
+### ⚠️ Earmark: a targeted follow-up is planned
+
+Once Request for Production 23 produces the October 13, 2020 photograph log with captions — and any internal worksheet showing which observations became paid line items and which did not — a **targeted follow-up interrogatory** keyed to specific line items or photograph numbers will likely be worth serving. That version is much harder to evade than the general question, because it names the item.
+
+**Reserve 2 of the remaining budget for it.** See the earmark table below the Revised budget.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT — DEFER TO SECOND SET ☐   HOLD ☐`
+
+---
+
+## I-31. KEEP Interrogatories 10 and 11 — and add the reconciliation clause
+
+**Question considered:** are Interrogatories 10 and 11 duplicative of one another?
+
+**Answer: no. They attack different things** — but neither of them currently asks the question that matters most.
+
+### What each one targets
+
+| | The statement | What it probes |
+|---|---|---|
+| **Interrogatory 10** | FIE, October 10, 2025: *"the file does not contain a report on the requested date"* | **Absence.** Was a search actually performed — by whom, of which custodians and systems, and when |
+| **Interrogatory 11** | Nicholas Brau, October 29, 2025: *"all the information we can release has already been sent to you"* | **Withholding.** "Can release" implies information exists that is not being released |
+
+These are not the same question. Interrogatory 10 tests whether the record is gone; Interrogatory 11 tests whether it exists and is being held back. You need both answers to know which argument you actually have — spoliation under Rule 37, or an ordinary production dispute. Dropping either one leaves you guessing.
+
+### The gap in both
+
+**Neither interrogatory asks FIE to reconcile the two statements.** If the file contains no report, what was "released"? If all releasable information had already been sent, why did the earlier statement say nothing existed? As drafted, each interrogatory invites FIE to explain one statement in isolation, and each can be explained plausibly on its own. Only together are they a problem for FIE — and nothing currently forces that confrontation.
+
+### Proposed — add one sentence to Interrogatory 11
+
+> **INTERROGATORY NO. 11:** State the basis for Nicholas Brau's October 29, 2025 statement that "all the information we can release has already been sent to you," identifying what specifically had been released, to whom, on what date, and which of Mr. Brau's observations from the September 6, 2024 inspection are included in that release. **State whether You contend the October 10, 2025 statement and the October 29, 2025 statement are consistent with one another and, if so, the basis for that contention.**
+
+Making a party reconcile its own inconsistent statements under oath is worth more than either explanation standing alone. It is also the answer you would want to read from at Mr. Brau's deposition or quote in a spoliation motion — an evasive reconciliation is as useful as a candid one.
+
+**Counts as:** 1 today; **realistically 1, with a risk of 2.** The clause concerns the meaning of the same October 29 statement, which supports treating it as subsumed — but an adversary could argue the relationship between two different statements is a separate question. If FIE counts it as 2, the running total in the Revised budget moves from 27 to 28 and the reserve from 23 to 22. Acceptable either way.
+
+### The statements themselves are already locked — these interrogatories can go straight behind them
+
+**RFA 27** asks FIE to admit it stated in writing on October 10, 2025 that "the file does not contain a report on the requested date." **RFA 28** asks it to admit it has not produced any written report of the September 6, 2024 inspection. So neither interrogatory needs to spend words establishing that the statements were made; both correctly probe what lies behind them.
+
+### Companion Request for Admission — pin the negative at no budget cost
+
+Rule 36 is uncapped, and under Rule 36.02 an admission is conclusively established for the action. Add to the RFA set:
+
+> **REQUEST FOR ADMISSION:** Admit that no document You have produced or released to Plaintiffs records Mr. Brau's observations from the September 6, 2024 inspection of The Property.
+
+If admitted, the adverse-inference argument is largely made without an interrogatory answer at all. If denied, FIE has to identify the document it says exists — which is precisely what Interrogatory 11 asks for, now with a denial to test it against.
+
+**Why not replace Interrogatory 11 with RFAs entirely?** Because the reconciliation question is not a yes/no proposition, and "which of Mr. Brau's observations are included in that release" calls for a narrative only FIE can give. The RFA pins the negative; the interrogatory explains it.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## I-32. Sharpen Interrogatory 9's identifiers, and add a Dates instruction
+
+**Question considered:** can FIE refuse to answer Interrogatories 9, 10 and 11 on the ground that it does not know which communication is meant?
+
+**Short answer: not for 10 and 11. Interrogatory 9 is the exposed one** — though the risk is a non-answer rather than an objection.
+
+### Why 10 and 11 are safe
+
+Both **quote the statement verbatim** — "the file does not contain a report on the requested date" and "all the information we can release has already been sent to you." An objection that a verbatim quotation is too vague to answer is not credible, and Minn. R. Civ. P. 33.01(c) requires that objections "state with particularity the grounds for the objection." FIE also cannot borrow the Answer's "without sufficient knowledge" formula: Rule 33.01(d) obliges the officer or managing agent signing the answers to "furnish such information as is available."
+
+### Why Interrogatory 9 is weaker
+
+It identifies the two communications by **date and medium only** — no participants, no substance. FIE would not object; it would answer "Defendant has no record of a February 3, 2025 telephone call." That is a clean non-answer, not an objection you can move against.
+
+**Interrogatory 9 currently identifies these events less well than FIE's own Answer does**, and less well than the other two sets:
+
+| Where the same events appear | How they are identified |
+|---|---|
+| **Interrogatory 9** (current) | "the February 3, 2025 telephone call and the February 10, 2025 voicemail" — date and medium only |
+| **RFA 26** | Names Bradlee Monson, names Plaintiff Yibiao Lu, and states the substance |
+| **Proposed RFP 36** (item P-25, RFP set) | Names both participants for both communications |
+| **FIE's Answer to Complaint ¶24** | Engages substantively with the Monson call, stating what "Monson informed Plaintiff Lu, in part," and pleading lack of knowledge only as to "the remainder" |
+| **FIE's Answer to Complaint ¶25** | Responds to the voicemail alleged "On February 10, 2025 at 11:06 AM" from Nicholas Brau |
+
+**Date verification.** All four dates used in Interrogatories 9, 10 and 11 were checked against the record on September 12, 2026 and are correct — 2/3/2025 and 2/10/2025 (11:06 AM, with a transcript referenced) and 10/10/2025 and 10/29/2025 each appear independently in `ClaimTimeline.md`, `EventDocuments/Copy of ComunicationLogs.docx.md`, and `EventDocuments/2025-09-18-PostAppraisalEmailChain.md`.
+
+### Proposed change 1 — sharpen Interrogatory 9
+
+> **INTERROGATORY NO. 9:** Identify, by date, speaker, audience, and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer, including without limitation the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu, and the 11:06 a.m. February 10, 2025 voicemail from Nicholas Brau.
+
+**Counts as:** 1 — unchanged. Added identifying detail about the same communications is subsumed.
+
+### Proposed change 2 — add a Dates instruction
+
+> **Dates.** A date used to identify a communication, document, or event reflects Plaintiffs' best information and is approximate. If Your records show a different date for a communication, document, or event otherwise matching the description, answer as to that communication, document, or event and state the date Your records show.
+
+**Why this matters more than the vagueness question.** The realistic risk is not that FIE claims confusion — it is a **one-day discrepancy**. If FIE's call log records the Monson conversation on February 4, a literal answer to Interrogatory 9 as drafted is "there was no February 3, 2025 telephone call," and that answer is true. The instruction removes the escape and converts it into a useful answer, because FIE must then answer about the matching communication *and* tell you the date its records show.
+
+The instruction protects the whole set at once, which is better than editing every date reference individually — and it applies equally to Interrogatories 10, 11, 12, and 13, all of which turn on dated communications.
+
+**Instruction numbering.** The set currently has 7 instructions. Pending items would add more — **I-7** (attorney-client carve-out), **I-8** (partial objections), and **I-27** (identification of respondents, conditional on I-14). Number this one according to whichever of those are approved; do not hard-code it until the set is final.
+
+**Consider the same instruction for the RFP and RFA sets**, which contain the same dated references. It costs nothing and keeps the package consistent.
+
+`APPROVE BOTH ☐   APPROVE INTERROGATORY 9 ONLY ☐   APPROVE INSTRUCTION ONLY ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## I-33. DROP Interrogatory 15 — the defense-universe lock moves to the RFA set
+
+**Current:**
+
+> **INTERROGATORY NO. 15:** State the factual basis for each affirmative defense asserted in Your Answer to the Complaint, and identify the documents and witnesses that support each such defense.
+
+**Cost: 1.**
+
+### What it actually reaches
+
+FIE pleaded only three affirmative defenses, and the interrogatory reaches almost nothing in them:
+
+| FIE's defense | What Interrogatory 15 yields |
+|---|---|
+| **1.** Lack of jurisdiction over FIE **and** failure to state a claim | The jurisdiction half has content — but **I-13** (entity identity) attacks it directly and with specificity. The failure-to-state half is a Rule 12.02(e) legal defense that tests the pleading, not the facts; "this defense requires no factual basis" is a fair answer. |
+| **2.** The September 12, 2025 Appraisal Award is binding | Already covered in more depth by **Interrogatory 13** (as corrected by **I-3**), which asks for each fact supporting the contention that the award resolved The Claim and for every window the award covers and excludes. |
+| **3.** "FIE denies all allegations except those admitted" | Not an affirmative defense at all — a general denial. There is no factual basis to state. |
+
+One slot therefore buys a weaker version of Interrogatory 13, a legal non-answer, and a nullity.
+
+### The valuable job it was being asked to do — and why an interrogatory cannot do it
+
+The interrogatory's real potential value was **locking the defense universe**: FIE pleaded no statute-of-limitations or suit-limitation defense, no failure to mitigate, no setoff, no prior payment, and no cosmetic-damage or marring defense. Under Rule 8.03 unpleaded affirmative defenses are generally waived, and **the Scheduling Order sets no pleading-amendment deadline** — ¶1 fixes joinder at November 16, 2026 and says nothing about amending pleadings.
+
+But Rule 33 practice tolerates the answer *"Defendant reserves the right to assert additional defenses as discovery proceeds."* **Rule 36 does not.** Rule 36.01 requires a party to admit, deny, or "set forth in detail the reasons why the answering party cannot truthfully admit or deny," and permits a lack-of-knowledge answer only where "the party states that a **reasonable inquiry** has been made." Under Rule 36.02 an admission is **conclusively established**.
+
+So the lock belongs in the RFA set, where the rule forecloses the dodge — and where Rule 36 imposes no numeric cap, unlike the 50 interrogatories under Rule 33.01(a).
+
+**Moved to:** `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`, item **A-6** — seven requests in the form "Admit that You do not contend…", covering limitations, contractual suit-limitation, failure to mitigate, setoff and prior payment, conditions precedent and cooperation, misrepresentation, and a present-awareness catch-all.
+
+**Note on a reservation's legal effect.** Rule 8.03 waiver operates on the pleadings. A reservation in a discovery response does not amend the Answer; FIE would still need leave under Rule 15.01 to add a defense. Whatever FIE writes in a discovery answer preserves nothing.
+
+**Saving: 1.** Running total in the Revised budget moves from 27 to 26; reserve from 23 to 24.
+
+**If you prefer to keep it**, the fallback is to keep Interrogatory 15 narrow — the three pleaded defenses only — and still add A-6. The two are not inconsistent; A-6 simply does the work Interrogatory 15 cannot.
+
+`DROP — A-6 REPLACES IT ☐   KEEP NARROW AND ALSO ADD A-6 ☐   KEEP AS IS ☐   HOLD ☐`
+
+---
+
 ## Revised budget
 
 | | Count | Running |
@@ -548,21 +1034,40 @@ This both shrinks the count exposure and produces better evidence: an admission 
 | I-22 — remove Interrogatory 14 (*Quade*) | −1 | 18 |
 | I-23 — remove Interrogatory 16 (litigation hold) | −1 | 17 |
 | I-24 — trim Interrogatory 17 to two subparts | −2 | 15 |
-| I-25 — defer Interrogatory 8 (J6944) | −1 | **14** |
-| I-10 — Interrogatory 3, add decision-maker | +1 | 15 |
-| I-13 — entity identity (6 subparts) | +6 | 21 |
-| I-14 — persons with knowledge | +1 | 22 |
-| I-15 — ACV and depreciation | +2 | 24 |
-| I-16 — destroyed information | +2 | 26 |
-| I-17 — amount owed and paid | +2 | 28 |
-| I-18 — Prieve's status *(optional)* | +1 | **29** |
-| **Remaining of 50** | | **21** |
+| I-25 — defer Interrogatory 8 (J6944) | −1 | 14 |
+| I-27 — remove Interrogatory 1, convert to an instruction *(if I-14 approved)* | −1 | **13** |
+| I-28 — merge Interrogatory 2 into Interrogatory 4 *(Option B only)* | −1 | **12** |
+| I-33 — drop Interrogatory 15; lock moves to RFA item A-6 | −1 | **11** |
+| I-10 — Interrogatory 3, add decision-maker | +1 | 12 |
+| I-13 — entity identity (6 subparts) | +6 | 18 |
+| I-14 — persons with knowledge *(revised wording — counts as 1)* | +1 | 19 |
+| I-16 — destroyed information *(count corrected to 1)* | +1 | 20 |
+| ~~I-17 — amount owed and paid~~ *(withdrawn 9/12 — see A-8)* | ~~+2~~ | — |
+| ~~I-18 — Prieve's status~~ *(withdrawn 9/12 — see A-9)* | ~~+1~~ | — |
+| **Remaining of 50** | | **30** |
 
 *(I-11 is withdrawn as moot if I-21 is approved.)*
 
-**Before this pass: 39 served, 11 in reserve. After: 29 served, 21 in reserve** — while adding every one of the new interrogatories, including all six subparts of the entity-identity question. Nothing of substance is lost; five items move to devices with no cap, and one is deferred until FIE has actually taken the position it addresses.
+> **⚠️ These figures still use the lettered-subpart count of 23 for the current set.** Research on Minn. R. Civ. P. 33.01(a)'s "each subdivision of separate questions" (September 12, 2026) indicates the defensible figure for the set as drafted is **26**, not 23 — Interrogatories 6, 10 and 13 each pose two genuinely separate questions, and on an aggressive reading of the "for each" constructions in Interrogatories 3, 4, 12 and 15 the set could be pressed toward 36–40. Every line in this table therefore understates by about 3, and the reserve is correspondingly smaller. **Say the word and I will restate both budget tables on the corrected basis and add the counting-method language to the I-4 certification.**
 
-**What the 21 in reserve has to cover:** a second set after FIE's answers land; the expert interrogatory once FIE designates on April 17, 2027; anything arising from the § 604.18 motion to amend; and the ~5 you should hold against the counting risk described at the top of this section.
+**Before this pass: 39 served, 11 in reserve. After: 20 served, 30 in reserve** — while adding every one of the new interrogatories, including all six subparts of the entity-identity question. Nothing of substance is lost; five items move to devices with no cap, and one is deferred until FIE has actually taken the position it addresses.
+
+### Reserve earmarks
+
+Of the remaining budget, part is already spoken for:
+
+| Earmark | Count | Trigger |
+|---|---|---|
+| Follow-up to Interrogatory 6, keyed to specific 2020 line items or photographs (**I-30**) | 2 | Production of RFP 23's photo log and translation worksheet |
+| Post-production gap follow-up, keyed to specific absences in the production (**I-16**) | 2 | Review of FIE's document production |
+| Expert interrogatory under Rule 26.02(e)(1)(A) | 1–2 | FIE's expert designation, due April 17, 2027 |
+| Interrogatory 16 (litigation hold), if RFP 14's response is evasive (**I-23**) | 1 | FIE's response to RFP 14 |
+| Interrogatory 8 (J6944), once FIE actually asserts the endorsement (**I-25**) | 1 | FIE taking a position on matching |
+| Anticipation-of-litigation date and decision-makers (**I-18**) | 1 | FIE's privilege log, or any withholding statement under RFP Instruction 4 or 9 |
+| Held against the "for each" counting risk (top of this section) | ~5 | — |
+| **Total earmarked** | **~13–14** | |
+
+**What the remaining reserve has to cover:** a second set after FIE's answers land; the expert interrogatory once FIE designates on April 17, 2027; anything arising from the § 604.18 motion to amend; and the ~5 you should hold against the counting risk described at the top of this section.
 
 ## What this adds to the other sets
 
@@ -573,8 +1078,10 @@ This both shrinks the count exposure and produces better evidence: an admission 
 | Interrogatory 17 (b), (c) (I-24) | Already covered by RFPs 31 and 32 | +0 |
 | Interrogatory 16 (I-23) | Already covered by RFP 14 | +0 |
 | Interrogatory 8 (I-25) | Already covered by RFPs 24 and 40; interrogatory deferred | +0 |
+| Interrogatory 11 companion (I-31) | Requests for Admission | +1 RFA |
+| Interrogatory 15 defense lock (I-33) | Requests for Admission (A-6) | +7 RFAs |
 
-The RFA set goes from 34 to roughly 51. There is no cap, and the additions are stronger evidence than the interrogatory answers they replace — but say the word if you want me to draft them, since they are a separate document.
+The RFA set goes from 34 to roughly 52. There is no cap, and the additions are stronger evidence than the interrogatory answers they replace — but say the word if you want me to draft them, since they are a separate document.
 
 `APPROVE ALL SIX (I-21 … I-26) ☐   APPROVE INDIVIDUALLY ABOVE ☐   REJECT ☐   HOLD ☐`
 
