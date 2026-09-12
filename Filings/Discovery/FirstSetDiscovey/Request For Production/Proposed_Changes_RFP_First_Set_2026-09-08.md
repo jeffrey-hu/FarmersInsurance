@@ -1,5 +1,7 @@
 # Proposed Changes — Plaintiffs' First Set of Requests for Production to FIE
 
+> ✅ **Applied September 12, 2026, from the interrogatory proposal.** A **Dates** instruction was added to this set as **Instruction 12**, carried over from item **I-32** of `../Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. It provides that a date used to identify a communication, document or event is Plaintiffs' best information and approximate, and that if Defendant's records show a different date for an otherwise matching item it must respond and produce as to that item and state the date its records show. The purpose is to close a one-day-discrepancy escape across the whole set, not to change any individual request. The same instruction was added to the interrogatories (No. 11) and the Requests for Admission (No. 6).
+
 **Target document:** `Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx` / `.md`
 **Prepared:** September 8, 2026 · **Not yet served**
 **Companion:** `RFP_First_Set_Review_2026-09-08.md`

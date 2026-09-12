@@ -61,6 +61,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **10.** Identification of respondents. With Your answers, identify each person who supplied information used in answering, and the interrogatory or interrogatories to which each such person contributed. This instruction supplements, and does not limit, the obligation under Minn. R. Civ. P. 33.01(d) of the officer or managing agent signing the answers to “furnish such information as is available.”
 
+**11.** Dates. A date used to identify a communication, document, or event reflects Plaintiffs’ best information and is approximate. If Your records show a different date for a communication, document, or event otherwise matching the description, answer as to that communication, document, or event and state the date Your records show.
+
 **Interrogatories**
 
 **INTERROGATORY NO. 2:** State each fact on which You base any contention that hail did not cause damage to any window or exterior component of The Property beyond the windows designated "F1.7" and "B1.2" in The Appraisal Award, and identify the documents and witnesses that support that contention.
@@ -73,7 +75,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 6:** For each line item in the 2020 Xactimate estimate for The 2020 Claim, identify the specific window or sash to which the line item relates by location and elevation, state whether the line item paid for replacement of an entire window unit or for one or more individual sashes, and identify each window, sash, or component that the 2020 inspection observed or photographed as damaged but did not include in a paid line item, together with the reason for its exclusion. The correspondence between a given line item and a specific window or sash is not ascertainable from the estimate itself and is known only to You and Your adjusters.
 
-**INTERROGATORY NO. 9:** Identify, by date, speaker, audience, and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer before You would review it, including without limitation the February 3, 2025 telephone call and the February 10, 2025 voicemail.
+**INTERROGATORY NO. 9:** Identify, by date, speaker, audience, and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer, including without limitation the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu, and the 11:06 a.m. February 10, 2025 voicemail from Nicholas Brau.
 
 **INTERROGATORY NO. 10:** State the basis for Your October 10, 2025 statement that "the file does not contain a report on the requested date" with respect to Nicholas Brau’s September 6, 2024 inspection, and identify the search performed to locate such records, the custodians and systems searched, the date of the search, and the person who performed it.
 
@@ -82,8 +84,6 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 **INTERROGATORY NO. 12:** For each of the September 3, 2024 and November 4, 2024 denial letters, describe the supervisory review performed before the letter was issued, identifying the reviewer(s), the steps taken, the date of the review, and any documents created during the review.
 
 **INTERROGATORY NO. 13:** State each fact on which You base any contention that The Appraisal Award resolved The Claim within the meaning of Minn. Stat. § 604.18, subd. 4(c), and identify every window that the award is intended to cover and every window it is intended to exclude, with the document or communication supporting each identification.
-
-**INTERROGATORY NO. 15:** State the factual basis for each affirmative defense asserted in Your Answer to the Complaint, and identify the documents and witnesses that support each such defense.
 
 **INTERROGATORY NO. 17:** Describe Your policies, procedures, and practices for retaining, reviewing, evaluating, and accepting or rejecting third-party inspection reports and engineering reports on property claims, including the Hancock Claims Consultants and Prieve Engineering reports in The Claim, stating: (a) who within Farmers reviews such reports; (b) what independent review or analysis, if any, Farmers performs of a vendor’s findings and conclusions before relying on them; (c) whether and how an adjuster or supervisor may accept, modify, or reject a vendor’s conclusions; and (d) the review actually performed of the Hancock and Prieve reports in The Claim, identifying each person involved and each document created.
 

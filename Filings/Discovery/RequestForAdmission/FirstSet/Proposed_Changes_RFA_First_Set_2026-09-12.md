@@ -1,5 +1,7 @@
 # Proposed Changes — Plaintiffs' First Set of Requests for Admission to FIE
 
+> ✅ **Applied September 12, 2026, from the interrogatory proposal.** A **Dates** instruction was added to this set as **Instruction 6**, carried over from item **I-32** of `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. The RFA version carries an extra clause the other two do not need — *"rather than deny the request on the basis of the date alone"* — because under Rule 36 the risk of a date mismatch is a **denial**, not a non-answer, and a denial is far harder to undo than an evasive answer. It is drafted in this set's "Defendant / its" register. This instruction matters here in proportion to how many requests turn on a stated date, which is most of the statement-locking ones.
+
 **Target document:** `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` (34 requests) and `Plaintiffs_RFA_Exhibits_A-C.pdf`
 **Prepared:** September 12, 2026 · **Not yet served**
 **Companions:** `../../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`

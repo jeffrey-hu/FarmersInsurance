@@ -63,6 +63,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **11.** Duplicative documents. A document responsive to more than one request need be produced only once, provided the production identifies each request to which it responds.
 
+**12.** Dates. A date used to identify a communication, document, or event reflects Plaintiffs’ best information and is approximate. If Your records show a different date for a communication, document, or event otherwise matching the description, respond and produce as to that communication, document, or event and state the date Your records show.
+
 **Requests for Production**
 
 **REQUEST FOR PRODUCTION NO. 1:** The entire claim file for The Claim (claim number 7007986837-1-1), including every document, photograph, audio file, video file, item of ESI, system or case note, audit-log entry, billing record, and internal communication of any kind.
