@@ -28,9 +28,22 @@ Served second, after Defendant has answered whether it performed any independent
 
 **What to look for in those answers.** If Defendant states or shows that it performed no independent review of the vendor reports — or produces an engagement history showing a lopsided causation-finding pattern — this set becomes follow-up on Defendant's own admission. If Defendant instead documents a genuine review process, reconsider whether this set is worth the fight at all.
 
-## Timing against the schedule
+## Timing against the Scheduling Order
 
-Plaintiffs' proposed Scheduling Order sets **substantial completion of document production at February 26, 2027** and the **close of fact discovery at June 30, 2027**. First Set responses are due roughly 30 days after service. That leaves room for this set with a full 30-day response period and a meet-and-confer cycle before substantial completion — but only if it goes out promptly once the triggers are met. Calendar a check when the First Set responses arrive.
+> ⚠️ **Corrected September 12, 2026.** This section previously worked from **Plaintiffs' proposed** dates — substantial completion February 26, 2027 and a fact-discovery close of June 30, 2027. **The Court adopted neither.** The September 8, 2026 Scheduling Order is materially tighter, and planning against the old dates would have left this set unservable.
+
+The Scheduling Order entered September 8, 2026 controls:
+
+| Event | Date |
+|---|---|
+| All discovery completed | **March 15, 2027** |
+| Substantial completion of production | **not set** — production will be rolling |
+| Plaintiffs' expert disclosures and reports | **March 15, 2027** |
+| Non-dispositive motions heard by | May 14, 2027 |
+
+Responses are due 30 days after service, and service by U.S. Mail adds 3 days under Minn. R. Civ. P. 6.01(e). Working backward from March 15, 2027 — 33 days for a response, plus a meet-and-confer cycle and time to bring a motion to compel, which under Minn. Gen. R. Prac. 115.04 must be filed 21 days before it is heard — **the last practical service date for this set is roughly mid-January 2027.**
+
+There is no substantial-completion milestone to work against, so the trigger conditions above must be assessed against rolling production rather than a settled record. Calendar a check when the First Set responses arrive, and a second check no later than **January 8, 2027** to decide whether this set goes out at all.
 
 ---
 

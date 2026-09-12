@@ -26,7 +26,7 @@ Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct 
 
 ## Summary
 
-> **Applied September 12, 2026 — items I-1 through I-10.** All ten are live in `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` and its `.md` twin; I-9 was applied across all four served documents. Two carry caveats worth re-reading before service: **I-4** (the count was filled provisionally at “fewer than thirty (30)” and drops the Rule 26.06 enlargement clause) and **I-6** (applied although its stated condition, approval of I-13, is not yet met). **I-13 and I-14 were applied the same day** as Interrogatories 18 and 19, and the certification ceiling was raised from thirty (30) to forty (40) to stay truthful. **I-16 and I-20 followed** — Interrogatory 20 and the README budget tally. The live careful count is now **35** against the certification's “fewer than forty (40)” ceiling. Items **I-11, I-12, I-19 and I-21 onward remain pending**.
+> **Applied September 12, 2026 — items I-1 through I-10.** All ten are live in `Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx` and its `.md` twin; I-9 was applied across all four served documents. Two carry caveats worth re-reading before service: **I-4** (the count was filled provisionally at “fewer than thirty (30)” and drops the Rule 26.06 enlargement clause) and **I-6** (applied although its stated condition, approval of I-13, is not yet met). **I-13 and I-14 were applied the same day** as Interrogatories 18 and 19, and the certification ceiling was raised from thirty (30) to forty (40) to stay truthful. **I-16 and I-20 followed** — Interrogatory 20 and the README budget tally. The live careful count is now **35** against the certification's “fewer than forty (40)” ceiling. **I-19's letter is drafted**, and on September 12 **I-21 was applied** (Interrogatory 7 removed, converted to RFA item A-10) and **I-11 rejected**. The live set is now numbered **1–6, 8–20 — a gap at 7 that must be closed by a single renumbering pass before service.** **I-12 was decided (drop) and I-22 applied** — Interrogatory 14 removed, its *Quade* lock moved to RFA item A-11. **I-23 followed** — Interrogatory 16 removed, with a caveat recorded about RFP 14's counsel-communication carve-out; its value moves to RFA item A-12. **I-25 followed** — Interrogatory 8 deferred to a new second-set interrogatory draft. **I-27 followed** — Interrogatory 1 removed and re-issued as **Instruction 10** — and **I-29 and I-30 applied** (the anti-"see our production" clause in Interrogatory 5 and the Rule 33.03 factual premise in Interrogatory 6 — both count-neutral). The live set is numbered **2–6, 9–13, 15, 17–20**; careful count **27** — ⚠️ **28 if FIE counts I-31's reconciliation clause as a separate question**, which is arguable. Items **I-24, I-26, I-28, I-32 and I-33 remain pending**.
 
 
 | # | Change | Priority | Needs input |
@@ -43,8 +43,8 @@ Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct 
 | I-9 | "Respectfully submitted," — same open question as the RFPs | ✅ **Applied** | — |
 | **II. Amendments to existing interrogatories** | | | |
 | I-10 | Interrogatory 3 — add "who decided to include that exclusion" | ✅ **Applied** | — |
-| I-11 | Interrogatory 7 — add catch-all subpart (e) | Medium | No |
-| I-12 | Interrogatory 14 — keep, but do not spend the meet-and-confer on it | Low | **Yes** |
+| I-11 | ~~Interrogatory 7 — add catch-all subpart (e)~~ — survives as RFA No. 65 | ❌ **Rejected** | — |
+| I-12 | Interrogatory 14 — keep or drop? | ✅ **Decided: drop** | — |
 | **III. New interrogatories** | | | |
 | I-13 | **Entity identity and capacity** — joinder closes November 16, 2026 | ✅ **Applied** — Interrogatory 18 | — |
 | I-14 | Persons with knowledge | ✅ **Applied** — Interrogatory 19 | — |
@@ -57,17 +57,17 @@ Items are numbered **I-1** through **I-33** (the "I" prefix keeps them distinct 
 | I-19 | **Expert-discovery stipulation with Kennedy** — time-critical | ✅ **Letter drafted** | **Yes** — send standalone or fold in? |
 | I-20 | Keep a running interrogatory-budget tally | ✅ **Applied** — `README.md` §A | — |
 | **VII. Budget review — removals (added September 11)** | | | |
-| I-21 | **Remove Interrogatory 7**, convert to 5 RFAs | **Critical** | **Yes** |
-| I-22 | **Remove Interrogatory 14** (*Quade*) | High | **Yes** |
-| I-23 | **Remove Interrogatory 16** (litigation hold — covered by RFP 14) | High | **Yes** |
+| I-21 | **Remove Interrogatory 7**, convert to 5 RFAs | ✅ **Applied** — now RFA item A-10 | — |
+| I-22 | **Remove Interrogatory 14** (*Quade*) | ✅ **Applied** — lock moves to RFA A-11 | — |
+| I-23 | **Remove Interrogatory 16** (litigation hold) | ✅ **Applied** — ⚠️ see caveat; value moves to RFA A-12 | — |
 | I-24 | **Trim Interrogatory 17** to subparts (a) and (d) | High | **Yes** |
-| I-25 | **Defer Interrogatory 8** (J6944 not yet in issue) | Medium | **Yes** |
+| I-25 | **Defer Interrogatory 8** (J6944 not yet in issue) | ✅ **Applied** — held in the second-set draft | — |
 | I-26 | **Narrow Interrogatory 4** — existence questions to RFAs | Medium | **Yes** |
-| I-27 | **Remove Interrogatory 1**, convert to an instruction — conditional on I-14 | Medium | **Yes** |
+| I-27 | **Remove Interrogatory 1**, convert to an instruction | ✅ **Applied** — now Instruction 10 | — |
 | I-28 | **Rewrite Interrogatory 2** — it can be answered "we make no contention"; merge with No. 4? | **Critical** | **Yes** |
-| I-29 | **Keep Interrogatory 5**; add the anti-"see our production" clause; record the deliberate pairing with RFP 7 | High | No |
-| I-30 | **Keep Interrogatory 6** in the First Set; add the Rule 33.03 carve-out; earmark 2 for a follow-up | High | No |
-| I-31 | **Keep Interrogatories 10 and 11**; add the reconciliation clause to No. 11; add a companion RFA | High | No |
+| I-29 | **Keep Interrogatory 5**; add the anti-"see our production" clause; record the deliberate pairing with RFP 7 | ✅ **Applied** | — |
+| I-30 | **Keep Interrogatory 6** in the First Set; add the Rule 33.03 carve-out; earmark 2 for a follow-up | ✅ **Applied** | — |
+| I-31 | **Keep Interrogatories 10 and 11**; add the reconciliation clause to No. 11; companion RFA is A-4 | ✅ **Applied** | — |
 | I-32 | **Sharpen Interrogatory 9's identifiers**; add a Dates instruction (whole-set protection) | High | No |
 | I-33 | **Drop Interrogatory 15** — defense-universe lock moves to RFA item A-6 | High | **Yes** |
 
@@ -240,7 +240,9 @@ Same open question as the RFPs. It is a closing addressed to a tribunal; discove
 
 ---
 
-## I-11. Interrogatory 7 — add a catch-all
+## I-11. ~~Interrogatory 7 — add a catch-all~~ — **REJECTED**
+
+> ❌ **REJECTED September 12, 2026, at your direction**, and moot in any event: Interrogatory 7 was removed the same day under **I-21**. The catch-all itself is not lost — it survives as **Request for Admission No. 65** in item A-10, in the stronger "absence of a contention" form, at no interrogatory cost.
 
 **Proposed — add a fifth subpart:** "(e) any other category of cost You contend is excluded from or not included in the replacement cost owed for the covered windows."
 
@@ -248,11 +250,13 @@ Same open question as the RFPs. It is a closing addressed to a tribunal; discove
 
 **Counts as:** +1 (Interrogatory 7 goes from 4 subparts to 5).
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`❌ REJECTED 2026-09-12`
 
 ---
 
-## I-12. Interrogatory 14 — the *Quade* question ⚠️ *needs your decision*
+## I-12. Interrogatory 14 — the *Quade* question — **DECIDED: DROP**
+
+> ✅ **DECIDED September 12, 2026 — drop.** Executed the same day through **I-22**; Interrogatory 14 is deleted from the live set.
 
 **Current:** asks FIE to state its position and basis on whether the award binds it as to causation under *Quade v. Secura Insurance*.
 
@@ -260,7 +264,7 @@ This is a pure legal-contention question. Of the five contention interrogatories
 
 **Options:** keep it and do not spend meet-and-confer capital defending it; or drop it and recover a slot for the budget.
 
-`KEEP ☐   DROP ☐   HOLD ☐`
+`✅ DROP — DECIDED 2026-09-12`
 
 ---
 
@@ -582,7 +586,7 @@ Rule 33.01(a): 50 total per party, counting **each subdivision of separate quest
 |---|---|---|
 | Current set as drafted (17 numbered; Interrogatories 7 and 17 carry 4 subparts each) | **23** | 23 |
 | I-10 — Interrogatory 3, decision-maker | +1 | 24 |
-| I-11 — Interrogatory 7, catch-all subpart | +1 | 25 |
+| ~~I-11 — Interrogatory 7, catch-all subpart~~ ❌ *rejected 9/12* | ~~+1~~ | — |
 | I-13 — entity identity (6 subparts) ✅ *applied — Interrogatory 18* | +6 | 31 |
 | I-14 — persons with knowledge ✅ *applied — Interrogatory 19* | +1 | 32 |
 | ~~I-15 — ACV and depreciation~~ *(withdrawn 9/12)* | ~~+2~~ | — |
@@ -608,7 +612,7 @@ Do **not** buy room by dropping I-13 — it is governed by the November 16 joind
 | # | Decision | My recommendation |
 |---|---|---|
 | **I-9** | "Respectfully submitted," — remove across all four served documents, or keep? | **Remove.** Discovery is served, not submitted to the Court; your filed documents already omit it. |
-| **I-12** | Interrogatory 14 (*Quade*) — keep or drop? | **Drop.** Most vulnerable to a Rule 33.02 deferral objection, and I-3's corrected Interrogatory 13 does the same work factually. |
+| ~~**I-12**~~ | ~~Interrogatory 14 (*Quade*) — keep or drop?~~ | **Resolved September 12, 2026 — dropped**, and executed through I-22. The *Quade* lock moves to RFA item A-11. |
 | ~~**I-18**~~ | ~~Prieve's status — include or hold?~~ | **Resolved September 12, 2026 — withdrawn.** The framing asked a deferrable election; the determinative facts move to RFA item A-9, and the anticipation-of-litigation date is earmarked in reserve. |
 | **I-19** | Expert-discovery stipulation letter to Kennedy — draft it? | **Yes, and soon.** Without it there is no practical path to deposing FIE's expert on this schedule. |
 
@@ -643,7 +647,13 @@ I have not counted these aggressively in the tables below — but assume a reser
 
 ---
 
-## I-21. REMOVE Interrogatory 7 — convert it to Requests for Admission ✅ *largest single saving*
+## I-21. REMOVE Interrogatory 7 — convert it to Requests for Admission — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 7 is **deleted from the live set**. Its four subparts, plus the catch-all from **I-11**, are drafted as **RFA item A-10** (Requests 61–65) in `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`. Saving **−4**.
+>
+> ⚠️ **The set is now numbered 1–6, 8–20 — there is a gap at 7, and it must not be served that way.** Renumbering is deliberately deferred: five further removals are queued (I-22, I-23, I-24, I-25, I-27), and about 133 references to specific interrogatory numbers across nine project files would have to be re-checked after each pass. **One renumbering, at the end, with a mapping table** — recorded as a blocking item in the README's pre-service checklist.
+>
+> **One thing the conversion gives up.** Interrogatory 7 also asked for "the specific factual and contractual basis for each" contention; a request for admission cannot. If FIE denies Requests 61–64 you get the position without the reasoning. A-10 records three routes back to it, and **1 interrogatory is earmarked** below for the worst case — so the saving is −4 today and −3 if FIE denies.
 
 **Current:** four lettered subparts asking whether FIE contends replacement cost excludes (a) blinds, (b) trim, (c) exterior repaint, (d) mold and water remediation. Item **I-11** proposed a fifth.
 
@@ -657,11 +667,17 @@ I have not counted these aggressively in the tables below — but assume a reser
 
 **Saving: 4 (5 with I-11).** If approved, **I-11 becomes moot** — the catch-all becomes the fifth RFA.
 
-`REMOVE AND CONVERT ☐   KEEP AS INTERROGATORY ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## I-22. REMOVE Interrogatory 14 — the *Quade* legal question
+## I-22. REMOVE Interrogatory 14 — the *Quade* legal question — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 14 is deleted from the live set. Saving **−1**. Careful count now **30**.
+>
+> **The supporting admissions were re-verified before removing it.** Answer **¶¶31–32** admit the panel identified **hail** as the cause of loss for the two awarded windows, and **¶48** together with Affirmative Defense #2 treats the award as **binding**. Those are the facts *Quade* operates on, and they are already locked in the pleadings.
+>
+> ⚠️ **What is not admitted, and the gap it leaves.** FIE has admitted the *facts*; it has never conceded the *legal consequence* — that under *Quade* it cannot reassert wear-and-tear, marring, corrosion or any other exclusion against those two windows. Interrogatory 14 was the attempt to pin that. Dropping it costs less than it looks, because a party's stated legal position binds nobody and can be abandoned freely, whereas a Rule 36 admission is **conclusively established** under Rule 36.02. **The lock therefore moves to the RFA set as item A-11** (Request 66), which the A-6 defense-universe series does not currently reach.
 
 **Current:** "State Your position, and the complete basis for it, on whether The Appraisal Award is binding on You as to causation under *Quade v. Secura Insurance*…"
 
@@ -671,11 +687,21 @@ I have not counted these aggressively in the tables below — but assume a reser
 
 **Saving: 1.**
 
-`REMOVE ☐   KEEP ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## I-23. REMOVE Interrogatory 16 — the litigation hold is now covered by RFP 14
+## I-23. REMOVE Interrogatory 16 — the litigation hold — **APPLIED, with a caveat**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 16 is deleted from the live set. Saving **−1**. Careful count now **29**.
+>
+> ⚠️ **The reasoning below understated the loss, and this is worth reading before service.** RFP 14 as applied ends with: *"Plaintiffs do not by this request seek the text of any communication from counsel, and expressly reserve the right to seek the notice itself upon a showing that responsive documents have been lost or destroyed."* A litigation hold is very often issued **by counsel**. FIE can therefore respond that the only document showing the date, recipients and scope is a privileged communication from counsel whose text Plaintiffs have disclaimed — and produce nothing.
+>
+> **Interrogatory 16 did not have that problem.** It asked for the hold's date, recipients, scope and updates as **facts**. Those facts are not privileged merely because they are recorded in a privileged document; privilege protects the communication, not the underlying circumstance that one was sent, when, and to whom. The removal therefore trades a question FIE must answer for a request FIE may be able to answer with nothing.
+>
+> **Two mitigations, both free.** First, the value is recovered in admission form as **RFA item A-12** (Requests 67–68), which brackets the period in which Brau's notes went missing — an admission is the spoliation point, a denial concedes the date range. Second, the reserve earmark below is retained and its trigger sharpened: serve the question as a single second-set interrogatory **if FIE's RFP 14 response produces nothing or invokes the counsel-communication carve-out**, not merely if it is "evasive."
+>
+> **Reversible.** Nothing is served. Say the word and Interrogatory 16 goes back in at a cost of 1.
 
 **Current:** "State the date on which Your litigation hold concerning this matter was issued, its recipients, its scope, and each update to it."
 
@@ -687,7 +713,7 @@ I have not counted these aggressively in the tables below — but assume a reser
 
 **Saving: 1.**
 
-`REMOVE ☐   KEEP ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12 — see the caveat`
 
 ---
 
@@ -707,7 +733,15 @@ If the documents show no independent-review process, that is better evidence tha
 
 ---
 
-## I-25. DEFER Interrogatory 8 — J6944 is not yet in issue
+## I-25. DEFER Interrogatory 8 — J6944 is not yet in issue — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 8 is removed from the live set and preserved **verbatim** in `../../SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md`, a new held draft built on the same pattern as the second-set RFP draft. Saving **−1**. Careful count now **28**.
+>
+> **The trigger is mandatory, not advisory.** Condition (1) — FIE actually asserting J6944 or a matching limitation, whether in an amended answer, a discovery response, a denial of Requests for Admission 61–65, a mediation paper, or summary-judgment briefing — must be met before the set is served. RFP 24 and RFP 40 are secondary conditions. **If FIE never asserts matching, do not serve it**; Complaint ¶51 is then unopposed on the point and the slot is worth more elsewhere.
+>
+> **A related check was added to that draft.** RFP 35 seeks the complete policy as delivered at the October 22, 2023 renewal. If FIE cannot show it delivered J6944 at that renewal, the endorsement may not be available to it at all — which would make this interrogatory unnecessary rather than merely premature.
+>
+> ⚠️ **Unrelated correction made at the same time.** The existing second-set **RFP** draft was planning against **Plaintiffs' proposed** dates — substantial completion February 26, 2027 and a fact-discovery close of June 30, 2027. The Court adopted neither; the real close is **March 15, 2027** with no substantial-completion milestone. Both second-set drafts now carry the Order's dates and the same conclusion: **the last practical service date for any second set is roughly mid-January 2027.**
 
 **Current:** "For each item that You contend is limited or excluded by endorsement J6944 (Limited Matching of Undamaged Property), state the specific factual and contractual basis…"
 
@@ -719,7 +753,7 @@ If the documents show no independent-review process, that is better evidence tha
 
 **Saving: 1.**
 
-`DEFER TO SECOND SET ☐   KEEP ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -739,7 +773,13 @@ This both shrinks the count exposure and produces better evidence: an admission 
 
 ---
 
-## I-27. REMOVE Interrogatory 1 — convert it to an instruction ⚠️ *conditional on I-14*
+## I-27. REMOVE Interrogatory 1 — convert it to an instruction — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** The condition was met: **I-14 was applied** on September 12 as Interrogatory 19 (persons with knowledge). Interrogatory 1 is deleted from the live set and the substitute added as **Instruction 10**, with the V5 indentation. Saving **−1 in this set, and in every set served hereafter.**
+>
+> **The caveat below stands and is not cured by anything done here.** An instruction is not a discovery request; Rule 33 obliges answers to *interrogatories*. If FIE ignores Instruction 10 there is nothing to compel, and the instruction gives leverage in a meet-and-confer rather than a motion. This is the same reasoning relied on at **I-16**, where the conclusion ran the other way and Instruction 6 was converted *into* an interrogatory — the two are consistent because the content differs in value: which documents were destroyed is worth an enforceable question, a person-to-interrogatory mapping is not.
+>
+> **The enforceable backstop is Rule 33.01(d) itself**, which the instruction cites rather than restates: the answers must be signed under oath by an officer or managing agent "who shall furnish such information as is available." That duty runs whether or not FIE honours the instruction.
 
 **Current:**
 
@@ -770,7 +810,7 @@ The only unique content in Interrogatory 1 is the mapping of person → interrog
 - **If I-14 is approved → remove Interrogatory 1** and add the instruction. Net saving of 1, with almost no loss.
 - **If I-14 is rejected → keep Interrogatory 1** as a numbered interrogatory. It is then your only written route to FIE's internal roster.
 
-`REMOVE (I-14 approved) ☐   KEEP (I-14 rejected) ☐   KEEP BOTH ☐   HOLD ☐`
+`✅ REMOVED — APPLIED 2026-09-12 (I-14 approved)`
 
 ---
 
@@ -827,7 +867,13 @@ Rewritten this way, Interrogatories 2 and 4 become the same question applied to 
 
 ---
 
-## I-29. KEEP Interrogatory 5 — and close the "see our production" gap
+## I-29. KEEP Interrogatory 5 — and close the "see our production" gap — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 5 now ends: *"If no document records the reason for the decision, state the reason and identify each person with knowledge of it."* **Count unchanged at 1** — the sentence is subsumed detail about the same decision. Interrogatory 5 is kept; no removal.
+>
+> **What it forecloses.** With Request 7 pending, FIE's natural move is "see documents produced in response to Request for Production No. 7." It also has **Instruction 5**, which offers the Rule 33.03 business-records option. The added sentence makes clear that neither reaches the part of the question no record answers — if the paper is silent on the reason, FIE must supply the reason in the answer, under oath.
+>
+> ⚠️ **The pairing note below is not housekeeping — read it before any future trim.** Interrogatory 5 and RFP 7 overlap **on purpose**, as do Interrogatory 10 / RFP 3 and Interrogatory 12 / RFP 30. A later pass cutting for length or for the 50-interrogatory cap should not treat any of the three as redundant. That is exactly the distinction that justified removing Interrogatory 16 and trimming 17(b)–(c), where the document version gives you everything and the overlap was accidental.
 
 **Question considered:** should Interrogatory 5 be converted into a Request for Production seeking the communication trail?
 
@@ -872,11 +918,19 @@ The same logic applies to two other deliberate pairings in these sets:
 
 **Contrast with the items removed in Section VII**, where the overlap was *not* purposeful: Interrogatory 16 (litigation hold) duplicates RFP 14 with no unique sworn content, and Interrogatory 17(b)–(c) duplicate RFPs 31 and 32. Those were cut precisely because the document version gives you everything.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
-## I-30. KEEP Interrogatory 6 in the First Set — and pre-empt the Rule 33.03 dodge
+## I-30. KEEP Interrogatory 6 in the First Set — and pre-empt the Rule 33.03 dodge — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 6 now ends: *"The correspondence between a given line item and a specific window or sash is not ascertainable from the estimate itself and is known only to You and Your adjusters."* **Count unchanged at 2** — the mapping question and the observed-but-not-paid question remain genuinely separate inquiries. Interrogatory 6 stays in the First Set; nothing deferred.
+>
+> **The precondition was satisfied first.** This clause only coheres once **Instruction 5** cites the right rule, and **I-1** was applied earlier the same day — Instruction 5 now reads "business records under Minn. R. Civ. P. **33.03**" rather than 33.01(d). Offering the business-records option generally while narrowing it here is coherent only with both changes in place, and both are.
+>
+> **Note the form the sentence takes.** It states a **factual premise**, not a legal conclusion — it does not say "the option under Rule 33.03 does not apply," which would be Plaintiffs purporting to decide the question. Rule 33.03 conditions the option on the burden of deriving the answer being "substantially the same" for both parties; by asserting that the line-item-to-window correspondence cannot be derived from the estimate at all, the sentence puts that condition in issue on the face of the interrogatory. If FIE invokes the option anyway, it must contradict a stated premise rather than simply cite a rule.
+>
+> **The reserve earmark stands:** 2 interrogatories for a targeted follow-up keyed to specific 2020 line items or photographs, triggered by production of RFP 23's photo log and translation worksheet.
 
 > **Wording revised September 12, 2026.** The first draft of the added sentence declared that "the option under Minn. R. Civ. P. 33.03 does not apply to this interrogatory." That was too declarative — it announces a legal conclusion that is FIE's objection to make and the Court's to decide, and it reads as argument inside a discovery request. Replaced with a statement of the **factual premise** the rule turns on.
 
@@ -927,11 +981,19 @@ Once Request for Production 23 produces the October 13, 2020 photograph log with
 
 **Reserve 2 of the remaining budget for it.** See the earmark table below the Revised budget.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT — DEFER TO SECOND SET ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12 — kept in the First Set`
 
 ---
 
-## I-31. KEEP Interrogatories 10 and 11 — and add the reconciliation clause
+## I-31. KEEP Interrogatories 10 and 11 — and add the reconciliation clause — **APPLIED**
+
+> ✅ **APPLIED September 12, 2026.** Interrogatory 11 now ends: *"State whether You contend the October 10, 2025 statement and the October 29, 2025 statement are consistent with one another and, if so, the basis for that contention."* Interrogatories 10 and 11 both stay; neither was merged or cut.
+>
+> ⚠️ **This is the one count in the set I cannot promise.** It is **1** on the better view — the clause concerns the meaning of the same October 29 statement the interrogatory already asks about — but an adversary can argue that the *relationship between two different statements* is a separate question. **If FIE counts it as 2, the careful total goes from 27 to 28 and the reserve from 23 to 22.** The certification reads "fewer than forty (40)," so neither figure puts it at risk. Recorded here so the ambiguity is a known one rather than a surprise in a meet-and-confer.
+>
+> **The companion request needs no new drafting** — it is already **RFA item A-4** (Request 40): *"Admit that no document You have produced or released to Plaintiffs records Mr. Brau's observations from the September 6, 2024 inspection of The Property."* Still pending approval in the RFA proposal file.
+>
+> **Why the interrogatory was not replaced by RFAs outright:** the reconciliation question is not a yes/no proposition, and "which of Mr. Brau's observations are included in that release" calls for a narrative only FIE can give. A-4 pins the negative; Interrogatory 11 makes FIE explain it.
 
 **Question considered:** are Interrogatories 10 and 11 duplicative of one another?
 
@@ -972,7 +1034,7 @@ If admitted, the adverse-inference argument is largely made without an interroga
 
 **Why not replace Interrogatory 11 with RFAs entirely?** Because the reconciliation question is not a yes/no proposition, and "which of Mr. Brau's observations are included in that release" calls for a narrative only FIE can give. The RFA pins the negative; the interrogatory explains it.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`✅ APPLIED 2026-09-12`
 
 ---
 
@@ -1069,12 +1131,12 @@ So the lock belongs in the RFA set, where the rule forecloses the dodge — and 
 | | Count | Running |
 |---|---|---|
 | Current set as drafted | 23 | 23 |
-| I-21 — remove Interrogatory 7, convert to RFAs | −4 | 19 |
-| I-22 — remove Interrogatory 14 (*Quade*) | −1 | 18 |
-| I-23 — remove Interrogatory 16 (litigation hold) | −1 | 17 |
+| I-21 — remove Interrogatory 7, convert to RFAs ✅ *applied 9/12* | −4 | 19 |
+| I-22 — remove Interrogatory 14 (*Quade*) ✅ *applied 9/12* | −1 | 18 |
+| I-23 — remove Interrogatory 16 (litigation hold) ✅ *applied 9/12* | −1 | 17 |
 | I-24 — trim Interrogatory 17 to two subparts | −2 | 15 |
-| I-25 — defer Interrogatory 8 (J6944) | −1 | 14 |
-| I-27 — remove Interrogatory 1, convert to an instruction *(if I-14 approved)* | −1 | **13** |
+| I-25 — defer Interrogatory 8 (J6944) ✅ *applied 9/12* | −1 | 14 |
+| I-27 — remove Interrogatory 1, convert to an instruction ✅ *applied 9/12* | −1 | **13** |
 | I-28 — merge Interrogatory 2 into Interrogatory 4 *(Option B only)* | −1 | **12** |
 | I-33 — drop Interrogatory 15; lock moves to RFA item A-6 | −1 | **11** |
 | I-10 — Interrogatory 3, add decision-maker | +1 | 12 |
@@ -1085,7 +1147,7 @@ So the lock belongs in the RFA set, where the rule forecloses the dodge — and 
 | ~~I-18 — Prieve's status~~ *(withdrawn 9/12 — see A-9)* | ~~+1~~ | — |
 | **Remaining of 50** | | **30** |
 
-*(I-11 is withdrawn as moot if I-21 is approved.)*
+*(I-11 was rejected September 12, 2026; its catch-all is now RFA No. 65.)*
 
 > **⚠️ These figures still use the lettered-subpart count of 23 for the current set.** Research on Minn. R. Civ. P. 33.01(a)'s "each subdivision of separate questions" (September 12, 2026) indicates the defensible figure for the set as drafted is **26**, not 23 — Interrogatories 6, 10 and 13 each pose two genuinely separate questions, and on an aggressive reading of the "for each" constructions in Interrogatories 3, 4, 12 and 15 the set could be pressed toward 36–40. Every line in this table therefore understates by about 3, and the reserve is correspondingly smaller. **Say the word and I will restate both budget tables on the corrected basis and add the counting-method language to the I-4 certification.**
 
@@ -1100,11 +1162,12 @@ Of the remaining budget, part is already spoken for:
 | Follow-up to Interrogatory 6, keyed to specific 2020 line items or photographs (**I-30**) | 2 | Production of RFP 23's photo log and translation worksheet |
 | Post-production gap follow-up, keyed to specific absences in the production (**I-16**) | 2 | Review of FIE's document production |
 | Expert interrogatory under Rule 26.02(e)(1)(A) | 1–2 | FIE's expert designation, due April 17, 2027 |
-| Interrogatory 16 (litigation hold), if RFP 14's response is evasive (**I-23**) | 1 | FIE's response to RFP 14 |
-| Interrogatory 8 (J6944), once FIE actually asserts the endorsement (**I-25**) | 1 | FIE taking a position on matching |
+| Interrogatory 16 (litigation hold), restated (**I-23**) | 1 | FIE's RFP 14 response producing nothing, or invoking the counsel-communication carve-out |
+| Interrogatory 8 (J6944), held verbatim in the second-set draft (**I-25**) | 1 | FIE actually asserting J6944 or a matching limitation |
+| Basis for any denial of Requests for Admission 61–65 (**I-21 / A-10**) | 1 | FIE denying any of those requests |
 | Anticipation-of-litigation date and decision-makers (**I-18**) | 1 | FIE's privilege log, or any withholding statement under RFP Instruction 4 or 9 |
 | Held against the "for each" counting risk (top of this section) | ~5 | — |
-| **Total earmarked** | **~13–14** | |
+| **Total earmarked** | **~14–15** | |
 
 **What the remaining reserve has to cover:** a second set after FIE's answers land; the expert interrogatory once FIE designates on April 17, 2027; anything arising from the § 604.18 motion to amend; and the ~5 you should hold against the counting risk described at the top of this section.
 

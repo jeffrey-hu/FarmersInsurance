@@ -279,13 +279,111 @@ Nos. 56–58 are **historical facts within FIE's own records**, and Nos. 57 and 
 
 ---
 
+## A-10. Scope of replacement cost — replaces removed Interrogatory 7
+
+*Added September 12, 2026. Implements interrogatory proposal item **I-21**: Interrogatory 7 was **removed from the live set** the same day and its four subparts are converted here, with the catch-all that item **I-11** would have added as a fifth.*
+
+### Why the conversion is an upgrade, not a compromise
+
+Every subpart of Interrogatory 7 was a yes/no proposition about a contention — the thing Rule 36 exists for. Three gains:
+
+1. **Cost.** Four interrogatories (five with I-11) become zero. Rule 36 has no numeric cap.
+2. **Default.** Under Rule 36.01 a request not answered within 30 days is **admitted**. An unanswered interrogatory just sits there until you move to compel.
+3. **Effect.** Rule 36.02 makes an admission **conclusively established** for the action. An interrogatory answer is merely evidence that can be explained away at trial.
+
+The requests are framed as what the replacement cost **includes**, so an admission is affirmatively useful and a denial commits FIE to a position it must then defend.
+
+### Proposed requests
+
+> **REQUEST FOR ADMISSION NO. [61]:** Admit that the replacement cost owed under The Policy for the covered windows includes the cost of detaching and resetting, or replacing, window blinds and other coverings mounted to or within those windows.
+>
+> **REQUEST FOR ADMISSION NO. [62]:** Admit that the replacement cost owed under The Policy for the covered windows includes the cost of repairing or replacing interior or exterior trim disturbed by the window replacement.
+>
+> **REQUEST FOR ADMISSION NO. [63]:** Admit that the replacement cost owed under The Policy for the covered windows includes the cost of exterior repaint necessitated by the window installation.
+>
+> **REQUEST FOR ADMISSION NO. [64]:** Admit that the replacement cost owed under The Policy for the covered windows includes the cost of remediating mold or water damage resulting from leakage through those windows.
+>
+> **REQUEST FOR ADMISSION NO. [65]:** Admit that You do not contend that any category of cost, other than those addressed in Requests for Admission Nos. 61 through 64, is excluded from or not included in the replacement cost owed for the covered windows.
+
+**No. 65 is the catch-all**, in the "absence of a contention" form used at A-9. As written, it stops FIE from answering the first four and holding a fifth exclusion theory in reserve for summary judgment; Rule 26.05 then obliges FIE to supplement if one appears later.
+
+### ⚠️ What the conversion gives up — and the earmark that covers it
+
+Interrogatory 7 asked not only *whether* FIE contends each cost is excluded but for "the specific factual and contractual basis for each." **A request for admission cannot ask for that.** If FIE denies Nos. 61–64, you learn the position but not the reasoning.
+
+Three ways back to it, in the order I would use them:
+
+| Route | Cost | When |
+|---|---|---|
+| Rule 36.01 requires a denial to "fairly meet the substance of the requested admission" and to specify what is admitted where the rest is denied — a bare "denied" on a mixed proposition is itself objectionable | free | on receipt of the responses |
+| The Rule 30.02(f) organizational deposition | free of interrogatory budget | after production |
+| **One reserved interrogatory** — "state the factual and contractual basis for each denial of Requests for Admission Nos. 61 through 65" | **1** | only if FIE denies |
+
+**Net budget effect: −4 today, −3 in the worst case.** Earmarked at 1 in the interrogatory proposal's reserve table.
+
+`APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## A-11. The *Quade* lock on the two awarded windows — replaces removed Interrogatory 14
+
+*Added September 12, 2026. Implements interrogatory proposal item **I-22**. Interrogatory 14 asked FIE to state its position on whether the award binds it as to causation under* Quade v. Secura Ins., 814 N.W.2d 703 (Minn. 2012); *it was removed from the live set the same day. This belongs with the **A-6** defense-universe series and should sit next to it when the set is assembled.*
+
+### Why an admission does this better than the interrogatory did
+
+FIE's Answer already admits the **facts**: ¶¶31–32 admit the panel identified **hail** as the cause of loss for the two awarded windows, and ¶48, with Affirmative Defense #2, treats the award as **binding**. Under *Quade*, determining the "amount of loss" necessarily includes determining cause, so the panel's causation finding is within its authority and binds the insurer as to what it decided.
+
+What FIE has never conceded is the **consequence** — that it may not now reassert wear-and-tear, marring, corrosion, cosmetic damage or any other exclusion against those two windows. Interrogatory 14 asked for FIE's legal position on that. A stated legal position binds nobody and can be abandoned at will; a Rule 36 admission is **conclusively established** under Rule 36.02. The interrogatory was also the item in the set most exposed to a Rule 33.02 deferral order, since it asked FIE to brief case law rather than state facts.
+
+### Proposed request
+
+> **REQUEST FOR ADMISSION NO. [66]:** Admit that You do not contend that any exclusion, limitation, or condition in The Policy bars or reduces recovery for the two windows identified in The Appraisal Award.
+
+**Either answer is useful.** An admission closes those two windows to any further coverage defense and confines the fight to the units the panel never evaluated — the Count I lane. A denial is made in the teeth of FIE's own ¶¶31–32 and ¶48 admissions, and sets up the partial-summary-judgment motion already contemplated at item F of `../../../SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`.
+
+**Note the deliberate limit.** The request is confined to the two **awarded** windows. It does not ask FIE to give up exclusions as to anything else, because *Quade* does not reach items the panel never evaluated — and a request that overreached would invite a denial that muddies the narrow point this one wins.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
+## A-12. When the litigation hold issued — replaces removed Interrogatory 16
+
+*Added September 12, 2026. Implements interrogatory proposal item **I-23**, which removed Interrogatory 16 ("State the date on which Your litigation hold concerning this matter was issued, its recipients, its scope, and each update to it") on the footing that RFP 14 covers the same ground.*
+
+### The problem these requests solve
+
+RFP 14 asks for "[d]ocuments sufficient to show" the hold's date, recipients, scope and updates — but it closes with: "Plaintiffs do not by this request seek the text of any communication from counsel." Litigation holds are commonly issued **by counsel**. FIE can therefore answer that the only responsive document is a privileged communication whose text Plaintiffs have disclaimed, and produce nothing.
+
+The removed interrogatory did not have that weakness: it asked for the hold's date, recipients and scope as **facts**, and privilege protects the communication rather than the underlying circumstance that one was sent, when, and to whom. These requests restore that, in a device with no numeric cap and with Rule 36.02's conclusive effect.
+
+### Proposed requests
+
+> **REQUEST FOR ADMISSION NO. [67]:** Admit that, as of September 6, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+>
+> **REQUEST FOR ADMISSION NO. [68]:** Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+
+### Why these two dates
+
+They bracket the period in which the records at the centre of the case went missing. **September 6, 2024** is the date of Nicholas Brau's inspection — the inspection for which FIE has stated in writing that "the file does not contain a report." **November 4, 2024** is the second denial, transmitted with the Prieve report.
+
+**Both answers are useful, which is the point of the framing.** An admission establishes that no preservation instruction was in place while Brau's notes existed and then ceased to exist — a fact that goes to culpability on any spoliation motion, and that FIE cannot later walk back, since Rule 36.02 makes it conclusive. A denial concedes that a hold **was** in place by that date, which is the date information Interrogatory 16 was asking for, obtained without spending a slot.
+
+**Neither request seeks the hold's text, its author, or any advice.** They ask only whether a preservation instruction had issued by a stated date. FIE cannot answer "not applicable" or "privileged" without effectively asserting that the existence and timing of its own preservation efforts are privileged, which is a position it would have to defend under Rule 36.01's requirement to state in detail why it can neither admit nor deny.
+
+**The reserve earmark stays.** If FIE's RFP 14 response produces nothing or invokes the counsel-communication carve-out, serve the removed interrogatory as a single second-set question — by then better targeted, because you will know what is missing. Earmarked at 1.
+
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+
+---
+
 ## Related conversions pending elsewhere
 
 These would add to this set, but each is a decision in the interrogatory proposal file. Listed so the RFA set can be assembled once, rather than amended repeatedly.
 
 | Source item | What moves here | Approx. new RFAs |
 |---|---|---|
-| **I-21** | Interrogatory 7's four replacement-cost subparts, plus a catch-all | 5 |
+| ~~**I-21**~~ | ~~Interrogatory 7's four replacement-cost subparts, plus a catch-all~~ — **done, now item A-10** | *(counted below)* |
 | **I-26** | Interrogatory 4's damage-existence questions, keyed to Appendix A photographs | ~12 |
 | **I-31** | The Brau-observations negative | 1 *(this is A-4)* |
 | **A-1 to A-3** | Exhibits D and E, and the voicemail content | 5 |
@@ -293,7 +391,10 @@ These would add to this set, but each is a decision in the interrogatory proposa
 | **A-7** | Loss settlement and the deductible, replacing withdrawn item I-15 | 4 |
 | **A-8** | Payment and the contended amount, replacing withdrawn item I-17 | 4 |
 | **A-9** | The Prieve engagement, replacing withdrawn item I-18 | 5 |
-| | **Total if all approved** | **~42–43**, taking the set from 34 to roughly 77 |
+| **A-10** | Scope of replacement cost, replacing removed Interrogatory 7 | 5 |
+| **A-11** | The *Quade* lock, replacing removed Interrogatory 14 | 1 |
+| **A-12** | When the litigation hold issued, replacing removed Interrogatory 16 | 2 |
+| | **Total if all approved** | **~45–46**, taking the set from 34 to roughly 80 |
 
 There is no numeric limit on requests for admission, and Rule 36.02 makes each admission conclusive — but a set of 68 should be organized under headings so it reads as structured rather than scattershot. Say the word and I will draft the additions as a single consolidated amendment once the upstream decisions are made.
 
