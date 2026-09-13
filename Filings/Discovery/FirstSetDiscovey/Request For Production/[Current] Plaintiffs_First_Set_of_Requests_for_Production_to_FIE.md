@@ -89,7 +89,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **REQUEST FOR PRODUCTION NO. 10:** All written claims-handling policies, supervisor training materials, and standard operating procedures in effect from July 13, 2024 forward governing hail claims, the evidentiary treatment of non-engineer evidence, the application of exclusions, and the relationship between adjusters and field claim supervisors. This request includes all document- and record-retention and destruction policies applicable to adjuster inspection notes, draft correspondence and draft denial letters, and claim-system audit-trail records in effect from July 13, 2024 forward.
 
-**REQUEST FOR PRODUCTION NO. 11:** All internal Farmers communications from January 1, 2020 forward using the phrases "engineer’s report only," "engineer required," "non-engineer evidence," or any substantively similar phrase.
+**REQUEST FOR PRODUCTION NO. 11:** All communications from January 1, 2020 through the present sent, received, or authored by Nicholas Brau, Bradlee Monson, Christian Dudley, Peter Pietila, or any person to whom Bradlee Monson reported during the handling of The Claim, that use the phrases "engineer’s report only," "engineer required," "non-engineer evidence," "peer review," or any substantively similar phrase, whether or not the communication concerns The Claim.
 
 **REQUEST FOR PRODUCTION NO. 12:** Any log, report, tracking record, or database entry reflecting the acceptance or rejection of evidence not prepared by a licensed engineer on Minnesota hail claims from January 1, 2023 through the present.
 
