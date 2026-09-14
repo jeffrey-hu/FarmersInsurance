@@ -101,6 +101,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 17:** State the date on which You contend You first anticipated litigation concerning The Claim, identify the person who made that determination and the event or communication that prompted it, and identify each category of document created after that date that You contend is protected from discovery on that basis.
 
+**INTERROGATORY NO. 18:** Identify each portion of The Appraisal Award that You contend states the actual value and the loss separately for each item, specifying for each awarded item the actual value and the loss You contend the award states and the location on the award where each appears; and if You contend the award states a value or loss for any item other than the two awarded windows, identify that item and the amount.
+
 Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories, counting each subdivision of separate questions as an interrogatory, number fewer than thirty-five (35) and do not exceed the fifty (50) interrogatories permitted without leave of court. Plaintiffs reserve the right to serve additional interrogatories by stipulation or upon leave of court.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
