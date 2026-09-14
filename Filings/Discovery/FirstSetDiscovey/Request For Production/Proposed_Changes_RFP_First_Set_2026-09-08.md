@@ -233,7 +233,15 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 
 ---
 
-## P-6. Preamble — where production happens
+## P-6. Preamble — where production happens  ✅ *applied 2026-09-14*
+
+> ✅ **APPLIED September 14, 2026**, verbatim as proposed. The preamble now names **electronic production or secure file transfer** as the primary manner, with encrypted media to the Eden Prairie address only for material not reasonably capable of electronic delivery.
+>
+> **It now reads consistently with the rest of the set.** **Instruction 5** already requires ESI in native format with metadata intact and forbids printing to image or flattening; **Instruction 12** (Dates) and the 45 requests assume an electronic production. A preamble naming a residential address as the place of production sat oddly against all of it.
+>
+> **The email addresses are in place.** The clause points at "the email addresses in the signature block below," and that block carries both Plaintiffs' addresses — applied under **P-10** on September 10. No blank to fill.
+>
+> ⚠️ **One consequence worth noting.** A production delivered by email or secure transfer is a production Plaintiffs can search, hash and date-stamp on receipt. Keep the transmittal intact — it is the evidence of what was produced and when, which matters for the audit-trail and spoliation requests (RFPs 3, 21, 42) and for any Rule 37 motion.
 
 **Current:**
 
@@ -245,7 +253,7 @@ The eight new requests were first appended as Nos. 34–41, because old Request 
 
 **Why.** Rule 34.01 requires a reasonable time, place, and manner, so the current text is not wrong — but a claim file, an audit trail, and 217 native photographs are not arriving at your front door, and naming your house as the place of production invites a pointless exchange about logistics before anyone discusses documents.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  — *pending your review; nothing applied*
+`✅ APPLIED 2026-09-14`
 
 ---
 

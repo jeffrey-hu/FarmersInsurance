@@ -9,7 +9,7 @@
 
 **TO:** Defendant Fire Insurance Exchange, by and through its attorney-in-fact Fire Underwriters Association, and its attorneys of record.
 
-PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of Civil Procedure, Plaintiffs Yibiao Lu and Jie Hu request that Defendant produce for inspection and copying the documents and electronically stored information described below, within thirty (30) days after service, at 17756 George Moran Dr., Eden Prairie, Minnesota 55347, or at such other place and in such manner as the parties may agree.
+PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of Civil Procedure, Plaintiffs Yibiao Lu and Jie Hu request that Defendant produce for inspection and copying the documents and electronically stored information described below, within thirty (30) days after service, by electronic production to Plaintiffs at the email addresses in the signature block below or by secure file transfer, or, for any production not reasonably capable of electronic delivery, by encrypted media delivered to 17756 George Moran Dr., Eden Prairie, Minnesota 55347, or at such other place and in such manner as the parties may agree.
 
 **Definitions**
 
