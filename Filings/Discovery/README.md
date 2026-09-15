@@ -10,9 +10,9 @@
 >
 > Section A's Requests-for-Admission rows below are superseded — see **`../RequestForAdmission/README.md`**.
 
-> ### ✅ September 15, 2026 — the parties agreed to service by electronic mail
+> ### ✅ September 14, 2026 — the parties agreed to service by electronic mail
 >
-> Recorded as **Decision 4** in `../../KeyDecisions.md`. Effects on this folder:
+> Recorded as **Decision 4** in `../../KeyDecisions.md`. Defendant confirmed the same day that it is **not seeking a protective order** and does not object to Jeffrey Hu reviewing discovery documents — **Decision 5**. Effects on this folder:
 > - **The email certificate of service in the four served discovery documents is now accurate.** No swap to the mail certificate is needed. See `../Document_Formatting_Standard.md` § 4.1.
 > - **Deadlines tighten.** Email service is complete **upon transmission** (Gen. R. Prac. 14.03(e)) and adds **0 days**, or +1 only if transmitted after 5:00 p.m. Minnesota time (R. Civ. P. 6.01(e)). **The 3-day mail cushion is gone in both directions** — recalculate anything calendared on the mail assumption, and note that the "service by U.S. Mail adds 3 days" line in `SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md` is now the exception, not the rule.
 > - **Served by email before 5:00 p.m. on September 16, 2026, the First Sets are due back October 16, 2026** — 31 days before the November 16 joinder deadline.

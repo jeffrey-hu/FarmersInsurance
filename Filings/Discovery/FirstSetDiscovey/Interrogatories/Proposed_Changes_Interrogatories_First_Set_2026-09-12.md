@@ -19,7 +19,7 @@
 | Q-1 | **Interrogatory 2 — drop "the six," reach the attachment, and make FIE say exclusion vs. uninsured type** | ✅ **Applied** | 0 | — |
 | Q-2 | Interrogatory 2 — fix the mismatched series | ✅ **Absorbed by Q-1** | 0 | — |
 | Q-3 | **Interrogatory 1 ↔ Interrogatory 10 — resolve the award-reliance overlap** | High | 0 or −1 | **Yes** |
-| Q-4 | Define "Photo Appendix A" | ✅ **Applied** — ⚠️ not yet extended to the RFP/RFA sets | 0 | — |
+| Q-4 | Define "Photo Appendix A" | ✅ **Applied (all 3 sets)** — ⚠️ **partly reversed 9/15: transmittal clause struck** — see `../Photo_Appendix_A_Transmittal_Correction_2026-09-15.md` | 0 | — |
 | Q-5 | Policy number — one format | ✅ **Applied (all 3 sets)** | 0 | — |
 | Q-6 | **Certification ceiling — now "fewer than thirty (30)"** | ✅ **Applied** | 0 | — |
 | Q-7 | Interrogatory 6 — "audience" → "recipient(s)" | ✅ **Applied** | 0 | — |
@@ -123,7 +123,10 @@ If **Q-1 is approved this is absorbed**, because the rewrite re-punctuates as a 
 
 ---
 
-## Q-4. Define "Photo Appendix A" — **APPLIED**
+## Q-4. Define "Photo Appendix A" — **APPLIED**, then **PARTLY REVERSED September 15, 2026**
+
+> ⚠️ **CORRECTION — September 15, 2026. The closing clause "transmitted to Plaintiffs with Your November 4, 2024 letter" has been struck from all three sets and from the Second Set RFA draft.** The clause was an inference drawn from the letter's "as referrenced in the attached engineer report" language and from the case-file name `FarmersDenyLetter-11-4-AppendixA.pdf`. It was never sourced. The record is to the contrary: the November 4 letter's `Enclosure(s):` line names only "Report of Loss," the letter package is 10 pages and does not contain the appendix, the 110-page appendix is a separately produced PDF, and **Plaintiffs' own January 31, 2025 letter states that agent Peter Pietila sent the report "with all the photos attached" on November 7, 2024.** FIE's Answer ¶20 admits transmitting only *the Prieve Report* on November 4. The assessment below — "It almost certainly cannot [contest it]" — was wrong, and is preserved as written. **Full analysis: `../Photo_Appendix_A_Transmittal_Correction_2026-09-15.md`.**
+
 
 > ✅ **APPLIED September 12, 2026**, immediately after the "The Prieve Report" definition, with the V5 indentation. **Counts as 0** — a definition is not an interrogatory. Careful count stays at **27**.
 >

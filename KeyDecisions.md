@@ -71,13 +71,17 @@ The lawsuit's lead claim and gravamen is Count I, breach of the insurance contra
 
 ## Decision 4: Service by Electronic Mail Between the Parties
 
-**Decision: The parties serve by electronic mail. Agreement reached September 15, 2026.**
+**Decision: The parties serve by electronic mail. Agreement reached September 14, 2026.**
 
 **Status:** ✅ Confirmed as to the **method**. ⚠️ **Bare agreement — no terms beyond the method were agreed.**
 
 ### What was agreed
 
-Defendant's counsel raised email service first; Plaintiffs accepted. The agreement establishes **that** the parties may serve by email and **at which addresses**. It does not address when service is complete, how days are counted, what happens if a transmission fails, or how oversized productions are exchanged.
+Defendant's counsel raised email service first. Plaintiffs consented by email on **September 11, 2026 at 2:54 p.m.**, proposing that either party be able to withdraw consent on written notice. Mary Baskfield confirmed on **September 14, 2026 at 10:04 a.m.**: *"Thank you for consenting to service by email. We agree that you may withdraw this consent by notifying us that you wish to withdraw the consent."* The exchange is preserved at `EventDocuments/2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf`.
+
+The agreement establishes **that** the parties may serve by email, **at which addresses**, and **that consent is revocable on notice**. It does not address when service is complete, how days are counted, what happens if a transmission fails, or how oversized productions are exchanged.
+
+⚠️ **Two asymmetries worth noting.** Plaintiffs proposed that *"Each party should have the right to withdraw this consent upon written notice."* Baskfield's confirmation speaks only to Plaintiffs' right to withdraw (*"you may withdraw"*) and does not say the notice must be in writing. Neither is likely to matter, but if Defendant ever withdraws consent orally, the asymmetry is the reason to insist on written confirmation.
 
 ### Why the agreement was necessary
 
@@ -120,9 +124,37 @@ The email certificate of service already in the operative `.docx` files is now *
 
 ### Housekeeping
 
-Archive the written agreement in `Filings/Discovery/CommunicationLogs/2026-09-15-EServiceAgreement/`. **The existence of the writing is what makes every subsequent email service valid** — if it is ever contested, that exchange is the proof.
+The written agreement is preserved at `EventDocuments/2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf`, with a pointer at `Filings/Discovery/CommunicationLogs/2026-09-14-EServiceAndProtectiveOrder/`. **The existence of the writing is what makes every subsequent email service valid** — if it is ever contested, that exchange is the proof.
 
 **Sources:** Minn. Gen. R. Prac. 14.03(d)(2), (e) — https://www.revisor.mn.gov/court_rules/gp/id/14/ · Minn. R. Civ. P. 6.01(e) — https://www.revisor.mn.gov/court_rules/cp/id/6/ · Minn. R. Civ. P. 5.02 — https://www.revisor.mn.gov/court_rules/cp/id/5/ · Scheduling Order ¶12(a)(i), September 8, 2026. Verified against primary sources September 15, 2026.
+
+---
+
+## Decision 5: No Protective Order — Defendant Declined One and Consented to Jeffrey Hu's Access
+
+**Decision: Plaintiffs withdraw their proposal for a stipulated protective order.**
+
+**Status:** ✅ Resolved as to Defendant's present position. ⚠️ **Expressly reserved by Defendant — "at this time."**
+
+### What Defendant said
+
+Mary Baskfield, September 14, 2026:
+
+> "As you will recall, I informed you that I did not see a need for a protective order and did not have an issue with your son reviewing discovery documents in this case. To confirm, our client is not seeking a protective order **at this time**. We do not object to your son Jeffrey Hu reviewing the discovery documents."
+
+### Why this matters more than it looks
+
+`OfficialCourtDocuments/SchedulingOrder_Impact_Analysis_2026-09-10.md` § 3(c) identified the absence of a protective order as **"the largest unaddressed exposure in the Order"** — the risk being that Defendant would designate claims manuals, training materials or vendor agreements "attorneys' eyes only," which, against pro se Plaintiffs with no counsel of record, would operate as a complete bar on Plaintiffs' access to the evidence in their own case. Defendant's position removes that risk for now, and removes it without Plaintiffs having to negotiate or litigate for it.
+
+### ⚠️ What Defendant did not say
+
+Plaintiffs asked whether Defendant objected to disclosure of confidential material to Jeffrey Hu **"subject to his signing a written undertaking to be bound by the protective order."** Baskfield did not address the undertaking. She removed its premise instead — no protective order at all. So there is **no agreed framework** for what happens if Defendant later changes position, and **"at this time"** reserves that expressly. Defendant has not yet seen what RFP 10, 28 and 31 will require it to produce.
+
+### Action taken
+
+Section 2.1 of `Filings/Discovery/Meet_and_Confer_Letter_Scheduling_Order_2026-09-11.md` was rewritten on September 15, 2026 to record Defendant's position, withdraw the protective-order proposal, and ask Defendant to confirm three forward-looking points: written notice before any designation, no counsel-only tier, and that Jeffrey Hu's access survives any later designation subject to an undertaking.
+
+**Sources:** `EventDocuments/2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf` · Scheduling Order ¶16(e) · `SchedulingOrder_Impact_Analysis_2026-09-10.md` § 3(c).
 
 ---
 

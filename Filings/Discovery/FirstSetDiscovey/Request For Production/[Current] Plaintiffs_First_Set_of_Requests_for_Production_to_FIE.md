@@ -27,7 +27,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **"The Prieve Report"** means the report of Prieve Engineering, LLC, File \#241008, together with all drafts thereof.
 
-**“Photo Appendix A”** means the 110-page photographic appendix to The Prieve Report, titled “PHOTO APPENDIX A” and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217, transmitted to Plaintiffs with Your November 4, 2024 letter.
+**“Photo Appendix A”** means the 110-page photographic appendix to The Prieve Report, titled “PHOTO APPENDIX A” and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217.
 
 **"The Appraisal Award"** means the appraisal award entered September 12, 2025 under Minn. Stat. § 65A.01.
 
