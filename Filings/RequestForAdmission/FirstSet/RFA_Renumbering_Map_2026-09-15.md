@@ -1,7 +1,7 @@
 # RFA Renumbering Map — First Set to FIE
 
 **Built:** September 15, 2026
-**Maps:** the **34-request** draft (`[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`) → the operative **81-request** set (`Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md`)
+**Maps:** the **34-request** draft (`[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`) → the operative **86-request** set (`Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md`)
 **Status of both:** not yet served
 
 > **Not legal advice.** Working analysis. Per Scheduling Order ¶13, verify before serving.
@@ -57,7 +57,7 @@ Read with `../../Document_Formatting_Standard.md` § 7: **renumbering is safe on
 | **33** | **→ Second Set No. 2** | Authenticate Exhibit B (11/4/2024 denial) | **held** |
 | **34** | **→ Second Set No. 3** | Authenticate Exhibit C (appraisal award) | **held** — ⚠️ Exhibit C is currently a phone photo |
 
-**Reconciliation.** 34 old − 1 dropped − 4 moved to the Second Set = **29 carried forward**, occupying **42** of the new numbers (five requests were split). 63 − 42 = **21 new-origin requests**. Eight more (Nos. 64–71) were added on September 15, 2026 from Defendant's October 10, 2025 package, four more (Nos. 72–75) from Brau's October 29, 2025 email, and three more (Nos. 76–78) from the October 21, 2025 reply, taking the operative set to **81**. ⚠️ The photograph-log requests were **corrected twice on September 15, 2026** after Plaintiffs' review — first because there are **two** Hancock logs, not one; then because both logs record a **single August 29, 2024 inspection**, the footer dates being generation dates. See the two correction notes in the October 10 analysis. All are listed next.
+**Reconciliation.** 34 old − 1 dropped − 4 moved to the Second Set = **29 carried forward**, occupying **42** of the new numbers (five requests were split). 63 − 42 = **21 new-origin requests**. Eight more (Nos. 64–71) were added on September 15, 2026 from Defendant's October 10, 2025 package, four more (Nos. 72–75) from Brau's October 29, 2025 email, and three more (Nos. 76–78) from the October 21, 2025 reply, taking the operative set to **81**. Five more (Nos. 82–86) were added the same day — the proper-party admission, Zorphlon Miller's engagement, Peter Pietila's agency, and two requests pinning Jayden Grimm as the Hancock inspector — taking it to **86**. ⚠️ The photograph-log requests were **corrected twice on September 15, 2026** after Plaintiffs' review — first because there are **two** Hancock logs, not one; then because both logs record a **single August 29, 2024 inspection**, the footer dates being generation dates. See the two correction notes in the October 10 analysis. All are listed next.
 
 ---
 
@@ -79,36 +79,36 @@ Read with `../../Document_Formatting_Standard.md` § 7: **renumbering is safe on
 
 ## Table 3 — Proposals A-1 to A-14 against the operative set
 
-The 14 items proposed **42** requests, drafted with bracketed numbers **[35]–[76]** against the 34-request draft. Those bracketed numbers are now meaningless — the operative set already uses 35 through 81. Below, each is scored against the operative set and given a **revised number**.
+The 14 items proposed **42** requests, drafted with bracketed numbers **[35]–[76]** against the 34-request draft. Those bracketed numbers are now meaningless — the operative set already uses 35 through 86. Below, each is scored against the operative set and given a **revised number**.
 
-**Recommendation: append the live ones as 82 onward rather than inserting them thematically.** Placement has no legal effect, and appending keeps Tables 1 and 2 valid and the numbering stable. (Same reasoning applied to the interrogatories on September 12.)
+**Recommendation: append the live ones as 87 onward rather than inserting them thematically.** Placement has no legal effect, and appending keeps Tables 1 and 2 valid and the numbering stable. (Same reasoning applied to the interrogatories on September 12.)
 
 | Item | Drafted as | Status against the operative set | Revised № |
 |---|---|---|---|
 | **A-1** | [35] authenticate Exhibit D (the 10/10/2025 communication)<br>[36] admit its content | ✅ **[36] IMPLEMENTED** → new **60**.<br>✅ **[35] UNBLOCKED September 15, 2026.** Exhibit D exists: `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page letter package. **Route to the Second Set** with the other authentication requests | [35] → SS |
 | **A-2** | [37] authenticate Exhibit E (10/29/2025 Brau email)<br>[38] admit Brau's "all the information we can release" statement | ✅ **[38] IMPLEMENTED** → new **72** (with 73–75 added from the same email).<br>✅ **[37] UNBLOCKED September 15, 2026.** Exhibit E exists: `../../../EventDocuments/2025-10-29-BrauEmail.pdf`, with full headers. **Route to the Second Set** | [37] → SS |
-| **A-3** | [39] the 2/10/2025 11:06 a.m. Brau voicemail | **LIVE.** Operative set covers only the 2/3 Monson call (new 55). Attachment-free. ⚠️ The voicemail is still unpreserved — the request asks Defendant to admit its **content**, which is the right form while no recording exists | **82** |
-| **A-4** | [40] no produced document records Brau's observations | **LIVE.** Broader than new 61, which reaches only a "written report." Serve both | **83** |
+| **A-3** | [39] the 2/10/2025 11:06 a.m. Brau voicemail | **LIVE.** Operative set covers only the 2/3 Monson call (new 55). Attachment-free. ⚠️ The voicemail is still unpreserved — the request asks Defendant to admit its **content**, which is the right form while no recording exists | **87** |
+| **A-4** | [40] no produced document records Brau's observations | **LIVE.** Broader than new 61, which reaches only a "written report." Serve both | **88** |
 | **A-5** | — (replace the Exhibit C phone photos) | **LIVE — a Second Set prerequisite.** Unaffected by the October 10 package | SS prereq |
-| **A-6** | [41]–[47] defense-universe lock, "You do not contend…" | **LIVE, 7 requests.** Nothing in the operative set does this. High value — forecloses unpleaded defenses | **84 – 90** |
-| **A-7** | [48]–[51] loss settlement, RCV vs ACV, deductible application | **LIVE, 4 requests.** ⚠️ New 2 fixes the deductible *amount*; [50] fixes the *measure* it applies to. That is arithmetic the case turns on | **91 – 94** |
-| **A-8** | [52]–[55] payment and contended amount | **[52] SUPERSEDED** by new 62.<br>[53]–[55] **LIVE** (third-party payments; contended amount; deductible as the sole reason) | **95 – 97** |
-| **A-9** | [56]–[60] Prieve engagement and work-product disclaimers | **[58] SUPERSEDED** by new 26.<br>[56], [57] **LIVE** (adjustment framing; delivery by email).<br>⚠️ **[59], [60] LIVE and high value** — that Prieve was not retained in anticipation of litigation. Pairs directly with Interrogatory 17 | **98 – 101** |
-| **A-10** | [61]–[65] scope of replacement cost | **LIVE, 5 requests.** ⚠️ [65]'s internal cross-reference "Nos. 61 through 64" must be rewritten to **102 through 105** | **102 – 106** |
-| **A-11** | [66] the *Quade* lock on the two awarded windows | **LIVE.** ⚠️ Confirm the framing against *Quade* — appraisers **may** determine causation; what stays with the court is policy construction and exclusions | **107** |
-| **A-12** | [67], [68] litigation hold not issued as of 9/6/2024 and 11/4/2024 | **LIVE, 2 requests, high value.** Pairs with Interrogatory 17 and the spoliation track: *Miller v. Lankow* attaches the duty when litigation is reasonably foreseeable | **108, 109** |
-| **A-13** | [69]–[71] trim-board chip, door-screen dent, and a "do not contend undamaged" catch-all | **The A-91 correction is IMPLEMENTED** structurally — new 42–46 are per-photograph and A-91 is gone.<br>[69], [70], [71] **LIVE**. ⚠️ [71] cross-references "Nos. 18, 19, 69 and 70" → rewrite to **42–47, 110 and 111** | **110 – 112** |
-| **A-14** | [72]–[76] the 9/3/2024 denial rested on a non-engineer's inspection | **LIVE, 5 requests, high value.** Pairs with new 4 and the Consumer Fraud Act count. ✅ **[75]'s page citation ("pages 5 through 74") is now corroborated** by the October 10 package — see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md` § 6. ⚠️ [76] ("Brau did not inspect before 9/3") must be read against new 25 | **113 – 117** |
+| **A-6** | [41]–[47] defense-universe lock, "You do not contend…" | **LIVE, 7 requests.** Nothing in the operative set does this. High value — forecloses unpleaded defenses | **89 – 95** |
+| **A-7** | [48]–[51] loss settlement, RCV vs ACV, deductible application | **LIVE, 4 requests.** ⚠️ New 2 fixes the deductible *amount*; [50] fixes the *measure* it applies to. That is arithmetic the case turns on | **96 – 99** |
+| **A-8** | [52]–[55] payment and contended amount | **[52] SUPERSEDED** by new 62.<br>[53]–[55] **LIVE** (third-party payments; contended amount; deductible as the sole reason) | **100 – 102** |
+| **A-9** | [56]–[60] Prieve engagement and work-product disclaimers | **[58] SUPERSEDED** by new 26.<br>[56], [57] **LIVE** (adjustment framing; delivery by email).<br>⚠️ **[59], [60] LIVE and high value** — that Prieve was not retained in anticipation of litigation. Pairs directly with Interrogatory 17 | **103 – 106** |
+| **A-10** | [61]–[65] scope of replacement cost | **LIVE, 5 requests.** ⚠️ [65]'s internal cross-reference "Nos. 61 through 64" must be rewritten to **107 through 110** | **107 – 111** |
+| **A-11** | [66] the *Quade* lock on the two awarded windows | **LIVE.** ⚠️ Confirm the framing against *Quade* — appraisers **may** determine causation; what stays with the court is policy construction and exclusions | **112** |
+| **A-12** | [67], [68] litigation hold not issued as of 9/6/2024 and 11/4/2024 | **LIVE, 2 requests, high value.** Pairs with Interrogatory 17 and the spoliation track: *Miller v. Lankow* attaches the duty when litigation is reasonably foreseeable | **113, 114** |
+| **A-13** | [69]–[71] trim-board chip, door-screen dent, and a "do not contend undamaged" catch-all | **The A-91 correction is IMPLEMENTED** structurally — new 42–46 are per-photograph and A-91 is gone.<br>[69], [70], [71] **LIVE**. ⚠️ [71] cross-references "Nos. 18, 19, 69 and 70" → rewrite to **42–47, 115 and 116** | **115 – 117** |
+| **A-14** | [72]–[76] the 9/3/2024 denial rested on a non-engineer's inspection | **LIVE, 5 requests, high value.** Pairs with new 4 and the Consumer Fraud Act count. ✅ **[75]'s page citation ("pages 5 through 74") is now corroborated** by the October 10 package — see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md` § 6. ⚠️ [76] ("Brau did not inspect before 9/3") must be read against new 25 | **118 – 122** |
 
-**Totals.** Of the 42 proposed requests: **4 implemented or superseded** ([36], [38], [52], [58]), **2 routed to the Second Set** ([35], [37]), **36 live**. Applying all live items takes the First Set from 81 to **117**.
+**Totals.** Of the 42 proposed requests: **4 implemented or superseded** ([36], [38], [52], [58]), **2 routed to the Second Set** ([35], [37]), **36 live**. Applying all live items takes the First Set from 86 to **122**.
 
 > ### ⚠️ These absolute numbers move every time the operative set grows
 > They have been recomputed twice already — as documents arrived — Nos. 64–71 from the October 10 package, 72–75 from the October 29 email, 76–78 from the October 21 reply. **The stable part of this table is the ORDER, not the numbers.** Finalize the operative set before relying on a specific figure, and recompute this column and both cross-references in the same pass.
 
 > ### ⚠️ Two cross-references inside the proposals will silently break
 > Both are internal "Nos. X through Y" citations that still point at the old numbering:
-> - **A-10 [65]** — "Requests for Admission Nos. 61 through 64" → **102 through 105**
-> - **A-13 [71]** — "Requests for Admission Nos. 18, 19, 69 and 70" → **42 through 47, 110 and 111**
+> - **A-10 [65]** — "Requests for Admission Nos. 61 through 64" → **107 through 110**
+> - **A-13 [71]** — "Requests for Admission Nos. 18, 19, 69 and 70" → **42 through 47, 115 and 116**
 >
 > A catch-all that cites the wrong requests does not fail loudly; it just stops closing the gap it was written to close.
 

@@ -255,6 +255,18 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 81:** Admit that the electronic mail address myadjuster@farmersinsurance.com is used by more than one of Your employees or representatives to communicate with policyholders.
 
+*N. Party identity, agency, and the Hancock inspector*
+
+**REQUEST FOR ADMISSION NO. 82:** Admit that Fire Insurance Exchange is the proper party defendant to this action.
+
+**REQUEST FOR ADMISSION NO. 83:** Admit that Zorphlon Miller was employed or engaged by Fire Insurance Exchange on October 10, 2025.
+
+**REQUEST FOR ADMISSION NO. 84:** Admit that Peter Pietila acted as Your agent in connection with The Policy.
+
+**REQUEST FOR ADMISSION NO. 85:** Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants.
+
+**REQUEST FOR ADMISSION NO. 86:** Admit that Jayden Grimm was the only person who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.

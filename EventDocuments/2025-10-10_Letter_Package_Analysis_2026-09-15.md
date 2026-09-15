@@ -145,6 +145,8 @@ It is not. **Both logs contain interior photographs**, and Hancock was inside th
 
 Still worth doing: pull the **EXIF capture timestamps** from the native image files. That converts a sound inference into a documented fact, and it is one more reason the absence of an ESI order requiring native production with metadata intact is a live exposure.
 
+> **Decision, September 15, 2026 — RFP 4 left unchanged.** RFP 4 asks for the Hancock "photograph set produced in native form" but, unlike RFP 6 for the Prieve photographs, does not expressly require EXIF preserved, original file names, or the captioning database. Amending it was considered and **declined**; the request stands as drafted. **Do not re-raise this as an oversight.** If the Hancock photographs come back flattened or stripped, the routes are the proposed stipulated ESI order, a follow-up request under Minn. R. Civ. P. 34 (uncapped), or the Rule 30.02(f) deposition — not an amendment to RFP 4 before service.
+
 ---
 
 ## 8. What was done with this, September 15, 2026
