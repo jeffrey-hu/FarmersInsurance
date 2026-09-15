@@ -60,7 +60,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **Definitions**
 
-**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association, and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association (and, to the extent it acted as attorney-in-fact in connection with The Policy, Farmers Underwriters Association), and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting on their behalf.
+
+**"Fire Insurance Exchange"** means that entity only when used alone and spelled in full, and does not include its attorney-in-fact, any affiliate, or any other person within the preceding definition.
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 

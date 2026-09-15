@@ -9,6 +9,8 @@
 
 > **Q-1, Q-4 to Q-7, Q-9 and Q-11 applied September 12, 2026**; Q-2 absorbed into Q-1, Q-10 converted to RFA item A-14, Q-13 closed with no edit needed. The open items are **Q-3**, **Q-14** and **Q-15**. *(Q-12 rejected — the preamble stays as drafted.)* Mark up however is easiest — checkboxes, margin notes, or just the Q-numbers.
 
+> ✅ **Applied September 15, 2026, from the party-definition review.** The party definition was amended (Farmers Underwriters Association named in the alternative), a new definition of the spelled-out name **"Fire Insurance Exchange"** was added, and a new **Instruction 12 — Answering on behalf of others** was added. All three changes are in the `.md` and both `.docx` files. **Count effect 0.** Rationale and the full issue list: `../Party_Definition_Independent_Review_2026-09-15.md`.
+
 ---
 
 ## Summary

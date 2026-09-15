@@ -13,7 +13,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **Definitions**
 
-**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association, and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association (and, to the extent it acted as attorney-in-fact in connection with The Policy, Farmers Underwriters Association), and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+
+**"Fire Insurance Exchange"** means that entity only when used alone and spelled in full, and does not include its attorney-in-fact, any affiliate, or any other person within the preceding definition.
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 
@@ -64,6 +66,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 **10.** Identification of respondents. With Your answers, identify each person who supplied information used in answering, and the interrogatory or interrogatories to which each such person contributed. This instruction supplements, and does not limit, the obligation under Minn. R. Civ. P. 33.01(d) of the officer or managing agent signing the answers to “furnish such information as is available.”
 
 **11.** Dates. A date used to identify a communication, document, or event reflects Plaintiffs’ best information and is approximate. If Your records show a different date for a communication, document, or event otherwise matching the description, answer as to that communication, document, or event and state the date Your records show.
+
+**12.** Answering on behalf of others. If You do not answer on behalf of every person within the definition of “You,” state which persons You have excluded, and identify, as to each answer affected, the person who has the information withheld on that basis. Where an interrogatory asks which person or entity performed an act, made a decision, or sent a communication, identify the specific legal entity by name; attributing the act to “Farmers,” “Defendant,” or the Exchange collectively is not a complete answer.
 
 **Interrogatories**
 

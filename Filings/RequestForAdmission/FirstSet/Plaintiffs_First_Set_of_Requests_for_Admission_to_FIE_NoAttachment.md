@@ -13,7 +13,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **Definitions**
 
-**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association, and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association (and, to the extent it acted as attorney-in-fact in connection with The Policy, Farmers Underwriters Association), and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting on their behalf.
+
+**"Fire Insurance Exchange"** means that entity only when used alone and spelled in full, and does not include its attorney-in-fact, any affiliate, or any other person within the preceding definition.
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 
@@ -43,6 +45,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, photographs, recordings, images, and electronically stored information stored in any medium, together with all metadata and non-identical drafts and copies.
 
+**"Person"** means any natural person or any business, legal, or governmental entity.
+
 **Instructions**
 
 **1.** **Answering.** As to each request, Defendant must specifically admit or deny the matter or set forth in detail the reasons why it cannot truthfully admit or deny it. A denial must fairly meet the substance of the requested admission, and when good faith requires that Defendant qualify an answer or deny only a part of a matter, it must specify so much as is true and qualify or deny the remainder. Minn. R. Civ. P. 36.01.
@@ -60,6 +64,10 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **7.** **Cost of an unfounded denial.** If Defendant fails to admit any matter requested herein and Plaintiffs thereafter prove the truth of that matter, Plaintiffs will apply to the Court for an order requiring Defendant to pay the reasonable expenses incurred in making that proof, including reasonable attorney fees, pursuant to Minn. R. Civ. P. 37.03(b).
 
 **8.** **No attachments.** No document is attached to or served with this set. Each request refers to a term defined above or to a document or record in Defendant's own possession, custody, or control.
+
+**9.** **Answering on behalf of others.** If Defendant does not answer on behalf of every person within the definition of "You," it must state which persons it has excluded, and identify, as to each answer affected, the person who has the information withheld on that basis. Where a request asks which person or entity performed an act, made a decision, or sent a communication, Defendant must identify the specific legal entity by name; attributing the act to "Farmers," "Defendant," or the Exchange collectively is not a complete answer.
+
+**10.** **Attorney-client communications and litigation counsel.** No request seeks information protected by the attorney-client privilege or by Minn. R. Civ. P. 26.02(d). No request is directed to communications solely between Defendant and its counsel of record in this action dated on or after July 8, 2026.
 
 **Requests for Admission**
 
@@ -111,7 +119,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 20:** Admit that The Appraisal Award does not state an actual value or a loss for any window at The Property other than the two windows designated “F1.7” and “B1.2.”
 
-**REQUEST FOR ADMISSION NO. 21:** Admit that The Appraisal Award is binding upon You as to the matters it determined.
+**REQUEST FOR ADMISSION NO. 21:** Admit that The Appraisal Award is binding upon Defendant Fire Insurance Exchange as to the matters it determined.
 
 **REQUEST FOR ADMISSION NO. 22:** Admit that the appraisal umpire, Wade Roos, did not provide You with a written report or estimate.
 
@@ -266,6 +274,22 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 85:** Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants.
 
 **REQUEST FOR ADMISSION NO. 86:** Admit that Jayden Grimm was the only person who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024.
+
+*O. The Policy's own provisions bearing on capacity, suit, and forum*
+
+> Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
+
+**REQUEST FOR ADMISSION NO. 87:** Admit that The Policy, at General Conditions provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
+
+**REQUEST FOR ADMISSION NO. 88:** Admit that The Policy, at General Conditions provision 15 ("Reciprocal provisions"), states: "In any suit against us, service of process shall be upon the Attorney-in-Fact as shown in your Subscription Agreement."
+
+**REQUEST FOR ADMISSION NO. 89:** Admit that The Policy, at General Conditions provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
+
+**REQUEST FOR ADMISSION NO. 90:** Admit that Fire Insurance Exchange was licensed by the Minnesota Department of Commerce to transact insurance business in Minnesota on July 13, 2024.
+
+**REQUEST FOR ADMISSION NO. 91:** Admit that the Application for Insurance and Subscription Agreement executed by Plaintiff Yibiao Lu on October 21, 2014 in connection with The Policy designates Farmers Underwriters Association as attorney-in-fact.
+
+**REQUEST FOR ADMISSION NO. 92:** Admit that the Subscription Agreement Notice delivered to Plaintiffs with The Policy designates Fire Underwriters Association as attorney-in-fact.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 

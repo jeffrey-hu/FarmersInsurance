@@ -13,7 +13,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **Definitions**
 
-**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association, and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association (and, to the extent it acted as attorney-in-fact in connection with The Policy, Farmers Underwriters Association), and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+
+**"Fire Insurance Exchange"** means that entity only when used alone and spelled in full, and does not include its attorney-in-fact, any affiliate, or any other person within the preceding definition.
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 
@@ -175,7 +177,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **REQUEST FOR PRODUCTION NO. 53:** Documents sufficient to show the legal name, form, and state of organization of the insurance agency through which Peter Pietila acted in connection with The Policy, together with the agency, producer, or appointment agreement under which that agency or Mr. Pietila was appointed by or contracted with Fire Insurance Exchange or any entity affiliated with Fire Insurance Exchange, and all amendments to it in force between October 22, 2014 and the present.
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
+Dated: September 15, 2026.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -207,7 +209,7 @@ I, Yibiao Lu, state and declare as follows:
 
 1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2).
 
-2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at \_\_\_\_\_\_ \_\_.m. local Minnesota time, I served a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
+2\. On September 15, 2026, at \_\_\_\_\_\_ p.m. local Minnesota time, I served a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
 
 > Kevin J. Kennedy (\#193872) — kkennedy@kennedylf.com
 > 
@@ -227,7 +229,7 @@ I, Yibiao Lu, state and declare as follows:
 
 I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at Eden Prairie, Hennepin County, Minnesota.
+Dated: September 15, 2026, at Eden Prairie, Hennepin County, Minnesota.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
