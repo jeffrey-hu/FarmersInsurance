@@ -24,7 +24,7 @@ Measured from V5 and now applied across the discovery package. **These are the n
 | Element | Left indent | First-line indent | Space after |
 |---|---|---|---|
 | Body paragraph | 0 | 0 | 8 pt |
-| **Numbered or lettered list item** | **0.5"** | **−0.5" (hanging)** | **8 pt** |
+| **Numbered or lettered list item** | **0.5"** | **−0.4" (hanging)** | **8 pt** |
 | Continuation paragraph under a numbered item | 0.5" | 0 | 8 pt |
 | Sub-item — `(a)`, `(b)`, field labels, an address block | 0.75" | 0 | 8 pt (4 pt in tight blocks) |
 | Bulleted item | 1.0", `List Bullet` style | 0 | 4 pt |
@@ -33,7 +33,7 @@ Measured from V5 and now applied across the discovery package. **These are the n
 
 ### 2.1 Separator after the label — tab or spaces
 
-- **Short label** (`1.`, `12.`, `(a)`) → follow it with a **tab**. With a 0.5" hanging indent the text lands exactly on the indent. This is what V5 does.
+- **Short label** (`1.`, `12.`, `(a)`) → follow it with a **tab**. The label sits 0.1" in from the margin and the tab carries the text to the 0.5" indent, where wrapped lines align.
 - **Long label** (`REQUEST FOR PRODUCTION NO. 23:`) → keep **two spaces**. The label is already wider than 0.5", so a tab jumps to the next stop and opens a visible gap. Wrapped lines still align at 0.5".
 
 ### 2.2 Applying it in python-docx
@@ -42,11 +42,11 @@ Measured from V5 and now applied across the discovery package. **These are the n
 from docx.shared import Inches, Pt
 pf = paragraph.paragraph_format
 pf.left_indent        = Inches(0.5)
-pf.first_line_indent  = Inches(-0.5)   # negative = hanging
+pf.first_line_indent  = Inches(-0.4)   # negative = hanging
 pf.space_after        = Pt(8)
 ```
 
-Verify afterward that the document has exactly **one** hanging-indent variant — `(0.5, -0.5, 8.0)`. More than one means something was missed.
+Verify afterward that the document has exactly **one** hanging-indent variant — `(0.5, -0.4, 8.0)`. More than one means something was missed.
 
 ## 3. Signature block
 
@@ -87,7 +87,7 @@ Required elements, per Minn. R. Civ. P. 5.04(b) and Minn. Stat. § 358.116:
 5. Numbered ¶3 — "These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b)." (For disclosures: "These disclosures are served, not filed…".)
 6. `I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.`
 7. `Dated: [date], at Eden Prairie, Hennepin County, Minnesota.` — § 358.116 requires the **date, county, and state** of signing.
-8. **One** signature line, labeled `Signature of person who served the documents`, then the printed name.
+8. **One** signature line, labeled `Signature of person who served the documents`, then the server's identification block, matching the Judicial Branch forms (HOU111; SOP105; Conciliation Court Affidavit of Service): `Name:` / `Address:` / `City/State/Zip:` / `Telephone:` / `E-mail address:`, each label followed by a tab to a 1.4" tab stop, 0 pt between the lines and 8 pt after the last. No rule requires this block — Rule 5.04(b) asks only for how and when, and Minn. Stat. § 358.116 for the declaration, signature, date, county and state — but every official Minnesota form carries it, and it identifies and locates the server on the face of the certificate if service is ever contested. The `E-mail address:` must be the same address the certificate recites as the sending address.
 
 **Rules that follow from this:**
 

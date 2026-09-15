@@ -199,13 +199,13 @@ Email: jie\_h\_hu@yahoo.com
 
 I, Yibiao Lu, state and declare as follows:
 
-1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by United States mail. Service of documents after the original summons may be made by a party by mail under Minn. R. Civ. P. 5.02, and such service by mail is complete upon mailing.
+1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2).
 
-2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by depositing it in the United States mail at Eden Prairie, Minnesota, in a sealed envelope with postage prepaid, addressed as follows:
+2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at \_\_\_\_\_\_ \_\_.m. local Minnesota time, I served a true and correct copy of *Plaintiffs’ First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
 
-> Kevin J. Kennedy (\#193872)
+> Kevin J. Kennedy (\#193872) — kkennedy@kennedylf.com
 > 
-> Mary J. Baskfield (\#0314572)
+> Mary J. Baskfield (\#0314572) — mbaskfield@kennedylf.com
 > 
 > KENNEDY LAW FIRM P.C.
 > 
@@ -215,7 +215,9 @@ I, Yibiao Lu, state and declare as follows:
 > 
 > *Counsel for Defendant Fire Insurance Exchange*
 
-3\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+3\. The transmission was sent from bill_y_lu@yahoo.com. I did not receive any indication that the transmission failed or was undeliverable. I have retained a copy of the transmission.
+
+4\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
 
 I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
 
@@ -225,6 +227,8 @@ Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at Eden Prairie, Hennepin County, Min
 
 *Signature of person who served the documents*
 
-Yibiao Lu
-
-*Printed name*
+Name:  Yibiao Lu  
+Address:  17756 George Moran Dr.  
+City/State/Zip:  Eden Prairie, MN 55347  
+Telephone:  763-843-2859  
+E-mail address:  bill_y_lu@yahoo.com
