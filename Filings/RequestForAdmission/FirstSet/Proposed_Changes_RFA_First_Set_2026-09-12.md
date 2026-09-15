@@ -1,14 +1,19 @@
 # Proposed Changes — Plaintiffs' First Set of Requests for Admission to FIE
 
-> ✅ **Applied September 12, 2026, from the interrogatory review.** A **"Photo Appendix A"** definition was added to this set after the "The Prieve Report" definition, carried over from item **Q-4** of `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-12.md`. It fixes a real gap here: **RFAs 18 and 19** assert what particular Appendix A photographs depict, while "The Prieve Report" was defined only as the report "together with all drafts thereof" — which does not plainly include a separate 110-page appendix. The definition names the appendix by title, File Number 241008, site visit date, and photograph range A-1 through A-217, all verified against the PDF.
+> **Moved September 15, 2026** from `Filings/Discovery/RequestForAdmission/FirstSet/` to `Filings/RequestForAdmission/FirstSet/`; relative paths rewritten for the new location.
+>
+> ⚠️ **Items A-1 to A-14 below are numbered against the 34-request draft**, now retained as `[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`. The operative set is `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (63 requests). **The old→new map is `RFA_Renumbering_Map_2026-09-15.md` in this folder — Table 3 scores every item below against the operative set and gives it a revised number. Read it first.** Three of the 42 requests proposed here are now superseded ([36], [52], [58]), two route to the Second Set ([35], [37]), and 37 remain live as revised Nos. 64–100. Two internal cross-references break silently: **A-10 [65]** and **A-13 [71]**.
+
+
+> ✅ **Applied September 12, 2026, from the interrogatory review.** A **"Photo Appendix A"** definition was added to this set after the "The Prieve Report" definition, carried over from item **Q-4** of `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-12.md`. It fixes a real gap here: **RFAs 18 and 19** assert what particular Appendix A photographs depict, while "The Prieve Report" was defined only as the report "together with all drafts thereof" — which does not plainly include a separate 110-page appendix. The definition names the appendix by title, File Number 241008, site visit date, and photograph range A-1 through A-217, all verified against the PDF.
 >
 > ⚠️ **Separately: this set's definition block is not in the V5 format.** Its ten definition paragraphs carry no indentation and 0 pt spacing, while the interrogatory and RFP definition blocks use left 0.5″ / hanging −0.5″ / 8 pt, and this set's own *instructions* do. It appears to have been missed on September 10. Cosmetic, but it is the only place in the four served documents where the standard is not followed.
 
-> ✅ **Applied September 12, 2026, from the interrogatory proposal.** A **Dates** instruction was added to this set as **Instruction 6**, carried over from item **I-32** of `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. The RFA version carries an extra clause the other two do not need — *"rather than deny the request on the basis of the date alone"* — because under Rule 36 the risk of a date mismatch is a **denial**, not a non-answer, and a denial is far harder to undo than an evasive answer. It is drafted in this set's "Defendant / its" register. This instruction matters here in proportion to how many requests turn on a stated date, which is most of the statement-locking ones.
+> ✅ **Applied September 12, 2026, from the interrogatory proposal.** A **Dates** instruction was added to this set as **Instruction 6**, carried over from item **I-32** of `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`. The RFA version carries an extra clause the other two do not need — *"rather than deny the request on the basis of the date alone"* — because under Rule 36 the risk of a date mismatch is a **denial**, not a non-answer, and a denial is far harder to undo than an evasive answer. It is drafted in this set's "Defendant / its" register. This instruction matters here in proportion to how many requests turn on a stated date, which is most of the statement-locking ones.
 
 **Target document:** `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` (34 requests) and `Plaintiffs_RFA_Exhibits_A-C.pdf`
 **Prepared:** September 12, 2026 · **Not yet served**
-**Companions:** `../../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`
+**Companions:** `../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`
 
 > ### ⚠️ NOTHING HAS BEEN CHANGED
 > The RFA document and its exhibit packet are **untouched**. This file is a proposal only.
@@ -345,7 +350,7 @@ What FIE has never conceded is the **consequence** — that it may not now reass
 
 > **REQUEST FOR ADMISSION NO. [66]:** Admit that You do not contend that any exclusion, limitation, or condition in The Policy bars or reduces recovery for the two windows identified in The Appraisal Award.
 
-**Either answer is useful.** An admission closes those two windows to any further coverage defense and confines the fight to the units the panel never evaluated — the Count I lane. A denial is made in the teeth of FIE's own ¶¶31–32 and ¶48 admissions, and sets up the partial-summary-judgment motion already contemplated at item F of `../../../SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`.
+**Either answer is useful.** An admission closes those two windows to any further coverage defense and confines the fight to the units the panel never evaluated — the Count I lane. A denial is made in the teeth of FIE's own ¶¶31–32 and ¶48 admissions, and sets up the partial-summary-judgment motion already contemplated at item F of `../../SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`.
 
 **Note the deliberate limit.** The request is confined to the two **awarded** windows. It does not ask FIE to give up exclusions as to anything else, because *Quade* does not reach items the panel never evaluated — and a request that overreached would invite a denial that muddies the narrow point this one wins.
 
@@ -389,7 +394,7 @@ They bracket the period in which the records at the centre of the case went miss
 
 ### ⚠️ Read this before approving — I-26's photo list did not survive verification
 
-I-26 proposed extending RFAs 18 and 19 using the photo identifiers "A-42, A-91–93, A-98, A-99 for downspouts; A-103, A-128, A-129 for flashing; A-136, A-141 for the sliding-door screen; A-54, A-90, A-148 for trim." Checked caption by caption against `../../../../OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md`, **four of those identifiers do not support the assertion**:
+I-26 proposed extending RFAs 18 and 19 using the photo identifiers "A-42, A-91–93, A-98, A-99 for downspouts; A-103, A-128, A-129 for flashing; A-136, A-141 for the sliding-door screen; A-54, A-90, A-148 for trim." Checked caption by caption against `../../../OffenseStrategies/AppraisalAwardStrategy/01_DamageCatalog_PrieveAppendixA.md`, **four of those identifiers do not support the assertion**:
 
 | ID | Actual Appendix A caption | Problem |
 |---|---|---|

@@ -89,13 +89,26 @@ Required elements, per Minn. R. Civ. P. 5.04(b) and Minn. Stat. § 358.116:
 7. `Dated: [date], at Eden Prairie, Hennepin County, Minnesota.` — § 358.116 requires the **date, county, and state** of signing.
 8. **One** signature line, labeled `Signature of person who served the documents`, then the server's identification block, matching the Judicial Branch forms (HOU111; SOP105; Conciliation Court Affidavit of Service): `Name:` / `Address:` / `City/State/Zip:` / `Telephone:` / `E-mail address:`, each label followed by a tab to a 1.4" tab stop, 0 pt between the lines and 8 pt after the last. No rule requires this block — Rule 5.04(b) asks only for how and when, and Minn. Stat. § 358.116 for the declaration, signature, date, county and state — but every official Minnesota form carries it, and it identifies and locates the server on the face of the certificate if service is ever contested. The `E-mail address:` must be the same address the certificate recites as the sending address.
 
+### 4.1 Which certificate to use
+
+**Default — electronic mail.** Use the email certificate at Part 2 of `Discovery/Proposed_EService_Stipulation_and_Certificate_2026-09-14.md`. Its ¶1 recites *"by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2),"* which has been accurate since the parties' **September 15, 2026** agreement, and its ¶2 records the **date and time** of transmission — record the time, because a transmission after 5:00 p.m. Minnesota time adds a day under Rule 6.01(e).
+
+**Exception — U.S. mail.** Use the mail certificate (¶1 reciting that service by mail is complete upon mailing) only where a rule, statute, or order requires mail or personal service, or where a document is too large to email. Retain a signed original; consider USPS Form 3817 as independent proof of the mailing date.
+
 **Rules that follow from this:**
 
 - **Serve counsel, not the party.** Kennedy Law Firm P.C. appeared July 28, 2026. Minn. R. Civ. P. 5.02(a): "service shall be made upon the attorney unless service upon the party is ordered by the court." Never serve FIE's registered agent while counsel is of record. Address: Kevin J. Kennedy (#193872) and Mary J. Baskfield (#0314572), 7616 Currell Blvd., Suite 270, Woodbury, MN 55125.
 - **One signer — the person who actually mailed it.** Both Plaintiffs sign the document's own signature block; only the person effecting service signs the certificate.
 - **State the manner as fact**, not as a menu of bracketed options.
 - **Retain a signed original; never file it.** Rule 5.04(b) bars filing discovery. Consider a USPS Certificate of Mailing (Form 3817) as independent proof of the mailing date.
-- **⚠️ Service by U.S. Mail adds 3 days.** Minn. R. Civ. P. 6.01(e). A 30-day response period becomes **33 days from the date of mailing**, and Rule 6.01(a) rolls a deadline landing on a weekend or holiday to the next business day. Calendar the real date on the day you mail.
+- **⚠️ Day counts differ by manner of service — and email is now the default.** Since September 15, 2026 the parties serve by email by agreement (`KeyDecisions.md` Decision 4).
+
+  | Manner | Service complete | Days added | Authority |
+  |---|---|---|---|
+  | **Email (default)** | **upon transmission** | **0** — or **+1** if transmitted after **5:00 p.m.** Minnesota time | Gen. R. Prac. 14.03(e); R. Civ. P. 6.01(e) |
+  | U.S. Mail (exception) | upon mailing | **+3** | R. Civ. P. 5.02(c); 6.01(e) |
+
+  Rule 6.01(a) rolls a deadline landing on a weekend or holiday to the next business day. **Calculate and calendar the real date on the day you serve**, and do the same for every document Defendant serves on Plaintiffs — email service is complete on transmission with **no failed-delivery exception**, so the clock runs whether or not the message is seen.
 
 ## 5. Caption block
 
@@ -131,5 +144,6 @@ Markdown carries no indentation, so §2 changes are invisible in the `.md`. Rege
 
 | Date | Change |
 |---|---|
+| 2026-09-15 | Parties agreed to service by email (`KeyDecisions.md` Decision 4). §4 day-count warning replaced with a per-manner table; new §4.1 makes the email certificate the default and the mail certificate the exception. |
 | 2026-09-11 | Noted the `FirstSetDiscovey/` split into `Interrogatories/` and `Request For Production/`, and the filename caution in §8. |
 | 2026-09-10 | Adopted. Indentation aligned to V5 across the Requests for Production, Interrogatories, Requests for Admission, and Initial Disclosures (165 list items). Signature blocks rebuilt per Rule 26.07. Certificates of service replaced per Rule 5.04(b) and § 358.116. |

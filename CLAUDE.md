@@ -23,7 +23,11 @@ This project supports a lawsuit the Lu/Hu family is preparing against Farmers In
 ## Document Formatting
 
 - **Before creating or editing any `.docx` that will be filed with the court or served on Defendant, read `Filings/Document_Formatting_Standard.md` and follow it.** It fixes page setup, list indentation (left 0.5", hanging −0.5", 8 pt after), signature blocks, the certificate-of-service form, caption blocks, numbering discipline, and how to keep a document's Markdown twin in sync. The reference document is `Filings/Discovery/discoveryPlanAndInformationalStatement/Plaintiffs_Rule_26.06_Discovery_Plan_V5.docx`.
-- Two rules from that standard are easy to get wrong and expensive to fix: service goes to **counsel of record** (Kennedy Law Firm, appeared 7/28/2026), not to Defendant or its registered agent; and service by U.S. Mail **adds 3 days** to any response period under Minn. R. Civ. P. 6.01(e).
+- Two rules from that standard are easy to get wrong and expensive to fix. **First**, service goes to **counsel of record** (Kennedy Law Firm, appeared 7/28/2026), not to Defendant or its registered agent. Minn. R. Civ. P. 5.02(a).
+- **Second — the day count. As of 9/15/2026 the parties serve by EMAIL by agreement** (see `KeyDecisions.md` Decision 4), so the familiar "+3 days" no longer applies to how this case is actually served:
+  - **Email:** complete **upon transmission** (Minn. Gen. R. Prac. 14.03(e)); **0 days added**, or **+1 day** if transmitted after **5:00 p.m.** Minnesota time (Minn. R. Civ. P. 6.01(e)). There is **no** failed-delivery exception — service counts even if the message bounces or lands in spam.
+  - **U.S. Mail:** complete upon mailing; **+3 days** under Rule 6.01(e). This is the exception now, not the rule.
+  - Never generalize the 3-day rule to email. Applied the wrong way round on an **incoming** deadline it costs three days that do not exist.
 
 ## Working Notes
 

@@ -69,4 +69,61 @@ The lawsuit's lead claim and gravamen is Count I, breach of the insurance contra
 
 ---
 
-*Last updated: 2026-06-27 — add new decisions below as they are made.*
+## Decision 4: Service by Electronic Mail Between the Parties
+
+**Decision: The parties serve by electronic mail. Agreement reached September 15, 2026.**
+
+**Status:** ✅ Confirmed as to the **method**. ⚠️ **Bare agreement — no terms beyond the method were agreed.**
+
+### What was agreed
+
+Defendant's counsel raised email service first; Plaintiffs accepted. The agreement establishes **that** the parties may serve by email and **at which addresses**. It does not address when service is complete, how days are counted, what happens if a transmission fails, or how oversized productions are exchanged.
+
+### Why the agreement was necessary
+
+Plaintiffs are excluded from the eFiling System under Scheduling Order ¶12(a)(i). **Minn. Gen. R. Prac. 14.03(d)(2)** therefore made email the only available electronic method, and only by consent:
+
+> "Where the party or participant to be served is not a Registered User or has not either designated an email address for receiving electronic service in the E-Filing system for the case or electronically filed a document in the case but **has agreed to service by electronic means outside the E-Filing System** (such as by e-mail or other electric means), service may be made **in the agreed upon manner**."
+
+Before September 15, 2026 that condition was unsatisfied, and email service would have been ineffective in either direction. It is now satisfied.
+
+### Addresses of record
+
+| Served on | Addresses |
+|---|---|
+| **Plaintiffs** | `bill_y_lu@yahoo.com` **and** `jie_h_hu@yahoo.com` — both together constitute service on both Plaintiffs |
+| **Defendant** | `kkennedy@kennedylf.com` **and** `mbaskfield@kennedylf.com` |
+
+Serve counsel of record, never FIE or its registered agent. Minn. R. Civ. P. 5.02(a).
+
+### The two terms that matter are supplied by rule, not by the agreement
+
+The September 14, 2026 draft stipulation (`Filings/Discovery/Proposed_EService_Stipulation_and_Certificate_2026-09-14.md`) warned that a silent agreement would leave the completion question open. On verification against the primary sources, **it does not** — the rules fill both gaps, so the bare agreement is workable:
+
+1. **When service is complete.** Minn. Gen. R. Prac. 14.03(e): *"Service using other agreed upon electronic means pursuant to Rule 14.03(d)(2) is complete **upon transmission** of the document using that electronic means."* Not upon receipt, not upon the recipient opening it.
+2. **How many days are added.** Minn. R. Civ. P. 6.01(e) adds 3 days only where the document "is served upon the party **by United States Mail**." For email: **zero days added**, except *"If service is made by any means other than United States Mail and accomplished **after 5:00 p.m.** local Minnesota time on the day of service, **1 additional day** shall be added to the prescribed period."*
+
+**⚠️ Net effect on every deadline from here forward: Plaintiffs lose the 3-day mail cushion, in both directions.** A 30-day response period is now 30 days, not 33. Incoming deadlines are tighter than they were before today. Recalculate anything already calendared on the mail assumption.
+
+### What remains open
+
+| # | Open item | Why it matters |
+|---|---|---|
+| **(a)** | **No failed-delivery protection.** Rule 14.03 contains no analogue to Fed. R. Civ. P. 5(b)(2)(E) ("not effective if the serving party learns that it did not reach the person to be served"). | Service is complete on transmission **even if the message bounces or lands in spam**. A document emailed at 3:00 p.m. starts a bare 30-day clock that day whether or not Plaintiffs ever see it. **Operational rule: check both Plaintiff inboxes and their spam folders daily. Never assume Defendant will re-serve.** |
+| **(b)** | **Oversized productions.** The claim file and a 217-photograph appendix will exceed ordinary attachment limits; no transfer mechanism was agreed. | Raise before FIE's first production, not after. |
+| **(c)** | **Whether both Plaintiffs are on Defendant's service list.** | Unconfirmed. Ask Kennedy to confirm in writing. |
+| **(d)** | **Whether to embody the agreement in the stipulated order.** | **Undecided.** A court-entered term is enforceable and survives a change of defense counsel; a counsel-to-counsel email does neither. The itemized wording is held ready at the foot of the e-service file for the combined Protective / ESI / Claw-Back / E-Service stipulated order. Decide before that order is sent. |
+
+### Consequence for the First Discovery Sets
+
+The email certificate of service already in the operative `.docx` files is now **accurate**, and the blocking service defect identified in `Filings/Discovery/FirstSetDiscovey/Interrogatories/Interrogatories_First_Set_Independent_Review_2026-09-15.md` § 2 is **cured**. Served by email before 5:00 p.m. on September 16, 2026, responses are due **October 16, 2026** — 31 days before the November 16, 2026 joinder deadline, and three days sooner than service by mail would have produced.
+
+### Housekeeping
+
+Archive the written agreement in `Filings/Discovery/CommunicationLogs/2026-09-15-EServiceAgreement/`. **The existence of the writing is what makes every subsequent email service valid** — if it is ever contested, that exchange is the proof.
+
+**Sources:** Minn. Gen. R. Prac. 14.03(d)(2), (e) — https://www.revisor.mn.gov/court_rules/gp/id/14/ · Minn. R. Civ. P. 6.01(e) — https://www.revisor.mn.gov/court_rules/cp/id/6/ · Minn. R. Civ. P. 5.02 — https://www.revisor.mn.gov/court_rules/cp/id/5/ · Scheduling Order ¶12(a)(i), September 8, 2026. Verified against primary sources September 15, 2026.
+
+---
+
+*Last updated: 2026-09-15 — add new decisions below as they are made.*

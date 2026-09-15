@@ -288,7 +288,7 @@ Two propositions follow from Hancock being the basis, and both are yes/no:
 
 ### Revised recommendation — convert to Requests for Admission, spend nothing
 
-Drafted as **RFA item A-14** (Requests 72–76) in `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`. **Count effect: 0**, down from the +1 proposed below.
+Drafted as **RFA item A-14** (Requests 72–76) in `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`. **Count effect: 0**, down from the +1 proposed below.
 
 **Keep 1 in reserve** for a follow-up aimed at whatever the Hancock narrative report turns out to say, once RFP 4 is answered. If the report documents damage the September 3 letter denied observing, that gap is worth a sworn explanation — but it should be asked with the report in hand, not before.
 

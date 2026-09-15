@@ -169,6 +169,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 34 of the Minnesota Rules of C
 
 **REQUEST FOR PRODUCTION NO. 50:** All communications between any Farmers claim employee and Peter Pietila, any employee of his agency, or any other Farmers agent or agency, concerning The Claim, The 2020 Claim, The Policy, the appraisal, or The Appraisal Award, from July 13, 2024 through the present — including the October 14, 2025 email identified in Your answer to paragraph 36 of the Complaint — together with the complete agency file for The Policy.
 
+**REQUEST FOR PRODUCTION NO. 51:** All documents describing, constituting, or governing the photograph-labeling convention used in the inspection application or software by which Hancock Claims Consultants documented the August 29, 2024 inspection of The Property, including any template, pick-list, drop-down menu, or predefined caption set from which captions in the form "Window Wrap North Damaged - No" and "Siding South Damage - No" were generated; any field guide, manual, instruction, or training material governing when an inspector selects or applies such a caption; and documents sufficient to show whether the numeric suffix appended to a repeated caption (for example, "- No_2" through "- No_20") is assigned automatically by the application or entered by the inspector. Plaintiffs contend that documents held by Hancock Claims Consultants in connection with its engagement by You are within Your possession, custody, or control within the meaning of Minn. R. Civ. P. 34.01. If You contend otherwise, state the basis for that position and identify the person who has the documents.
+
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

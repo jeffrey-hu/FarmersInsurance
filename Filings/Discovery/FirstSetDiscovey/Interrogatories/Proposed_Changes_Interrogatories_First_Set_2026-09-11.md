@@ -352,7 +352,7 @@ So loss is settled at replacement cost, and actual cash value operates as a rest
 |---|---|
 | Whether the award allocates between F 1.7 and B 1.2 | **RFA 9** — already served |
 | ACV vs. replacement cost, and the deductible measure | **The policy itself**, quoted above |
-| FIE's position on that reading, locked under oath | **RFA item A-7** in `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` |
+| FIE's position on that reading, locked under oath | **RFA item A-7** in `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` |
 | The estimating and depreciation file | **RFP 33** — already applied |
 | Confirming the 2023 renewal form matches the 2014 form | **RFP 35** — already applied; now a priority rather than a formality |
 
@@ -459,7 +459,7 @@ A self-reported gap requires FIE's candour; an observed gap requires only its ex
 | Need | Source | Cost |
 |---|---|---|
 | FIE has paid $0 | Answer ¶35 — judicial admission, already binding | free |
-| The same fact in clean, conclusive form for trial | **RFA item A-8** (new) — `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` | free (Rule 36 has no cap) |
+| The same fact in clean, conclusive form for trial | **RFA item A-8** (new) — `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` | free (Rule 36 has no cap) |
 | Any payment to vendors on The Claim | **RFP 1** (billing records in the claim file), **RFP 5**, **RFP 9**, **RFP 28** | already served |
 | The 2020 payment and what it actually covered | **RFP 2**, **RFP 22**, **RFP 23** | already served |
 | Whether FIE contends anything is owed beyond the award | **Interrogatory 4**, **Interrogatory 2**, **RFA item A-6** | already budgeted |
@@ -513,7 +513,7 @@ FIE's response to RFP 5 **is** the answer to I-18, arrives on the same day the i
 
 | Need | Source | Cost |
 |---|---|---|
-| The historical facts of the engagement, in admit/deny form FIE cannot defer | **RFA item A-9** (new) — `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` | free (Rule 36 has no cap) |
+| The historical facts of the engagement, in admit/deny form FIE cannot defer | **RFA item A-9** (new) — `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` | free (Rule 36 has no cap) |
 | The engagement letter, statement of work, and billing records | **RFP 5** — already served | already served |
 | FIE's actual position on protection | **RFP 5 response** + Instructions 4, 8 and 9 | free |
 | Whom FIE expects to call at trial | Rule 26.01(b) expert disclosure, April 17, 2027 | free |
@@ -654,7 +654,7 @@ I have not counted these aggressively in the tables below — but assume a reser
 
 ## I-21. REMOVE Interrogatory 7 — convert it to Requests for Admission — **APPLIED**
 
-> ✅ **APPLIED September 12, 2026.** Interrogatory 7 is **deleted from the live set**. Its four subparts, plus the catch-all from **I-11**, are drafted as **RFA item A-10** (Requests 61–65) in `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`. Saving **−4**.
+> ✅ **APPLIED September 12, 2026.** Interrogatory 7 is **deleted from the live set**. Its four subparts, plus the catch-all from **I-11**, are drafted as **RFA item A-10** (Requests 61–65) in `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`. Saving **−4**.
 >
 > ⚠️ **The set is now numbered 1–6, 8–20 — there is a gap at 7, and it must not be served that way.** Renumbering is deliberately deferred: five further removals are queued (I-22, I-23, I-24, I-25, I-27), and about 133 references to specific interrogatory numbers across nine project files would have to be re-checked after each pass. **One renumbering, at the end, with a mapping table** — recorded as a blocking item in the README's pre-service checklist.
 >
@@ -1201,7 +1201,7 @@ But Rule 33 practice tolerates the answer *"Defendant reserves the right to asse
 
 So the lock belongs in the RFA set, where the rule forecloses the dodge — and where Rule 36 imposes no numeric cap, unlike the 50 interrogatories under Rule 33.01(a).
 
-**Moved to:** `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`, item **A-6** — seven requests in the form "Admit that You do not contend…", covering limitations, contractual suit-limitation, failure to mitigate, setoff and prior payment, conditions precedent and cooperation, misrepresentation, and a present-awareness catch-all.
+**Moved to:** `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`, item **A-6** — seven requests in the form "Admit that You do not contend…", covering limitations, contractual suit-limitation, failure to mitigate, setoff and prior payment, conditions precedent and cooperation, misrepresentation, and a present-awareness catch-all.
 
 **Note on a reservation's legal effect.** Rule 8.03 waiver operates on the pleadings. A reservation in a discovery response does not amend the Answer; FIE would still need leave under Rule 15.01 to add a defense. Whatever FIE writes in a discovery answer preserves nothing.
 

@@ -1,0 +1,224 @@
+# DRAFT — Plaintiffs' Second Set of Requests for Admission to FIE
+
+**Created:** September 15, 2026
+**Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Court File No. 27-CV-26-11606 (Hennepin Cty., Judge Jamie L. Anderson)
+**Origin:** Requests 31–34 of the drafted First Set, held back under `../FirstSet/RFA_First_Set_Independent_Review_2026-09-15.md` §§ 4–5.
+
+> ### ⚠️ DRAFT — NOT FOR SERVICE AS A WHOLE
+> This set has **two parts with different triggers.** Part 1 is ready as soon as clean exhibits exist. Part 2 must not be served until Defendant actually asserts a matching position. Serving Part 2 early is the specific harm it was separated to avoid.
+
+> **Not legal advice.** Have a Minnesota-licensed attorney review before service.
+
+---
+
+## Why these were separated from the First Set
+
+**Part 1 — authentication — was pulled because it is the only part of the RFA package that requires attachments.** Holding it let the First Set go out as 63 requests with nothing attached, which is what made same-week service possible. Nothing is lost by the delay: Minn. R. Civ. P. 36 imposes **no numerical limit** and no deadline beyond the **March 15, 2027** discovery close, so authentication can be served any time. What *is* at risk is serving it with a poor exhibit: Exhibit C is currently a phone photograph of the appraisal award — the single most important document in the case, and the one place where image quality could support a colorable denial.
+
+**Part 2 — matching — was pulled because Defendant has not asserted it.** The November 4, 2024 denial rested on six other provisions. Endorsement **J6944 (Limited Matching of Undamaged Property)** is an argument **Plaintiffs** raised at Complaint ¶51, in anticipation of a defense FIE has not made. A request premised on a contention the other side has not made invites a one-line non-answer and signposts the argument. This is the same reasoning the project already applied to the J6944 interrogatory (item **I-25**, `../../Discovery/SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md`) — applied here for consistency.
+
+---
+
+## Trigger conditions
+
+| Part | Requests | Serve when |
+|---|---|---|
+| **Part 1 — Authentication** | 1–5 | A clean, legible copy of the appraisal award has been obtained for Exhibit C. **Exhibits D and E are ready** — `../../../EventDocuments/2025-10-29-BrauEmail.pdf` for Exhibit E, and — `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page October 10, 2025 letter package (see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`). The September 3 and November 4, 2024 letters are already available as clean PDFs in `../../Discovery/Expert/Expert_Record_Packet/`. **No other condition.** |
+| **Part 2 — Matching / J6944** | 6–9 | **Mandatory:** FIE actually asserts J6944 or a matching limitation — in an amended answer, a discovery response, a denial of Request 1 of Part 2's predicate set, a mediation position paper, or summary-judgment briefing. **Without that, do not serve.** Helpful but not required: responses to First Set RFP Requests 24 and 40 (the endorsement, its drafting history, and FIE's matching guidance). |
+
+> ### ⚠️ One request in Part 2 does **not** depend on the trigger — consider moving it up
+> **Request 7** (whether J6944 was delivered with the October 22, 2023 renewal) is not a matching contention. It is a delivery question, and it runs the other way: **if FIE cannot show it delivered the endorsement at that renewal, the endorsement may not be available to it at all** — which would make the rest of Part 2 unnecessary rather than merely premature. It is attachment-free and safe to serve now. Recommended: move Request 7 into the First Set before service, or serve it as a one-request supplement. RFP 35 (the complete policy as delivered at the 2023 renewal) is the document counterpart.
+
+---
+
+## Timing against the Scheduling Order
+
+| Event | Date |
+|---|---|
+| All discovery completed | **March 15, 2027** |
+| Plaintiffs' expert disclosures and reports | **March 15, 2027** |
+| Non-dispositive motions filed by / heard by | April 23, 2027 / **May 14, 2027** |
+
+Responses are due **30 days** after service. Since the parties' **September 15, 2026** agreement, service is by e-mail: complete **upon transmission**, with **no days added** (one day only if transmitted after 5:00 p.m. Minnesota time). See `../../../KeyDecisions.md`, Decision 4 — the former three-day mail cushion no longer applies.
+
+Working backward through a meet-and-confer cycle, the Scheduling Order ¶4 conference protocol (four to eight weeks), and a Rule 36.01 motion to determine sufficiency, **the last practical service date for this set is roughly mid-January 2027.**
+
+---
+
+| | |
+| --- | --- |
+| STATE OF MINNESOTA<br>COUNTY OF HENNEPIN | DISTRICT COURT<br>FOURTH JUDICIAL DISTRICT |
+| Yibiao Lu and Jie Hu,<br><br>Plaintiffs,<br><br>vs.<br><br>Fire Insurance Exchange, by and through its attorney-in-fact Fire Underwriters Association, doing business as Farmers Insurance,<br><br>Defendant. | Case Type: Contract<br>Court File No. 27-CV-26-11606<br>Judge: Jamie Anderson |
+
+**Plaintiffs' Second Set of Requests for Admission**
+
+**to Defendant Fire Insurance Exchange**
+
+**TO:** Defendant Fire Insurance Exchange, by and through its attorney-in-fact Fire Underwriters Association, and its attorneys of record.
+
+PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of Civil Procedure, Plaintiffs Yibiao Lu and Jie Hu request that Defendant admit, for purposes of this action only, the truth of each of the following matters within thirty (30) days after service. Each matter is admitted unless, within that period, Defendant serves a written answer or objection addressed to the matter, signed by the party or its attorney, as required by Minn. R. Civ. P. 36.01.
+
+**Definitions**
+
+**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association, and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting or purporting to act on their behalf.
+
+**"Plaintiffs"** means Yibiao Lu and Jie Hu.
+
+**"The Claim"** means Farmers claim number 7007986837-1-1, arising from the July 13, 2024 hail loss.
+
+**"The 2020 Claim"** means Farmers claim number 3013539499-1.
+
+**"The Policy"** means homeowner's Policy 98055-49-65 (shown on Defendant's correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
+
+**"The Property"** means the insured dwelling at 17756 George Moran Dr., Eden Prairie, Minnesota 55347.
+
+**"The Prieve Report"** means the report of Prieve Engineering, LLC, File #241008, together with all drafts thereof.
+
+**"Photo Appendix A"** means the 110-page photographic appendix to The Prieve Report, titled "PHOTO APPENDIX A" and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217, transmitted to Plaintiffs with Your November 4, 2024 letter.
+
+**"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with Your November 4, 2024 letter to Plaintiffs.
+
+**"The Appraisal Award"** means the appraisal award entered September 12, 2025 under Minn. Stat. § 65A.01.
+
+**"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, photographs, recordings, images, and electronically stored information stored in any medium, together with all metadata and non-identical drafts and copies.
+
+**"Endorsement J6944"** means the endorsement designated J6944, Limited Matching of Undamaged Property, referenced in Defendant's records as applicable to The Policy.
+
+**"Exhibit A," "Exhibit B," "Exhibit C," "Exhibit D," and "Exhibit E"** mean the documents so labeled in the exhibit packet served with this set.
+
+**Instructions**
+
+**1.** **Answering.** As to each request, Defendant must specifically admit or deny the matter or set forth in detail the reasons why it cannot truthfully admit or deny it. A denial must fairly meet the substance of the requested admission, and when good faith requires that Defendant qualify an answer or deny only a part of a matter, it must specify so much as is true and qualify or deny the remainder. Minn. R. Civ. P. 36.01.
+
+**2.** **Lack of knowledge.** Defendant may not give lack of information or knowledge as a reason for failure to admit or deny unless it states that it has made reasonable inquiry and that the information known or readily obtainable by it is insufficient to enable it to admit or deny. Minn. R. Civ. P. 36.01.
+
+**3.** **Effect of non-response.** Pursuant to Minn. R. Civ. P. 36.01, any matter not timely answered or objected to is deemed admitted, and any matter admitted is conclusively established for purposes of this action under Minn. R. Civ. P. 36.02.
+
+**4.** **Continuing duty.** If Defendant later learns that an answer was incorrect or incomplete, it must seasonably amend or supplement the answer pursuant to Minn. R. Civ. P. 26.05.
+
+**5.** **Objections.** If Defendant objects to a request, it must state the reasons for the objection; it may not object solely on the ground that the request presents a genuine issue for trial. Minn. R. Civ. P. 36.01.
+
+**6.** **Dates.** A date used to identify a communication, document, or event reflects Plaintiffs' best information and is approximate. If Defendant's records show a different date for a communication, document, or event otherwise matching the description, Defendant must answer as to that communication, document, or event and state the date its records show, rather than deny the request on the basis of the date alone.
+
+**7.** **Cost of an unfounded denial.** If Defendant fails to admit any matter requested herein and Plaintiffs thereafter prove the truth of that matter, Plaintiffs will apply to the Court for an order requiring Defendant to pay the reasonable expenses incurred in making that proof, including reasonable attorney fees, pursuant to Minn. R. Civ. P. 37.03(b).
+
+**8.** **Attachments.** Exhibits A through E are served with this set and are referred to by those designations. Every other request refers to a term defined above or to a document or record in Defendant's own possession, custody, or control.
+
+**Requests for Admission**
+
+*Part 1 — Authentication of documents*
+
+**REQUEST FOR ADMISSION NO. 1:** Admit that the document attached as Exhibit A is a true and correct copy of Your September 3, 2024 letter to Plaintiffs.
+
+**REQUEST FOR ADMISSION NO. 2:** Admit that the document attached as Exhibit B is a true and correct copy of Your November 4, 2024 denial letter to Plaintiffs, together with its attachment titled “Coverage Outcome – Policy Provisions.”
+
+**REQUEST FOR ADMISSION NO. 3:** Admit that the document attached as Exhibit C is a true and correct copy of The Appraisal Award entered September 12, 2025.
+
+*Part 2 — Endorsement J6944 and matching*
+
+> **Do not serve Part 2 unless the mandatory trigger above has occurred.** *(Part 2 renumbered 6–9 on September 15, 2026 when Exhibits D and E were added as Requests 4 and 5.)*
+
+**REQUEST FOR ADMISSION NO. 4:** Admit that the document attached as Exhibit D is a true and correct copy of Your October 10, 2025 communication to Plaintiffs, together with its enclosures.
+
+**REQUEST FOR ADMISSION NO. 5:** Admit that the document attached as Exhibit E is a true and correct copy of Nicholas Brau's October 29, 2025 electronic mail message to Plaintiffs.
+
+**REQUEST FOR ADMISSION NO. 6:** Admit that Endorsement J6944 was in force under The Policy on July 13, 2024.
+
+**REQUEST FOR ADMISSION NO. 7:** Admit that You delivered Endorsement J6944 to Plaintiffs with the October 22, 2023 renewal of The Policy.
+
+**REQUEST FOR ADMISSION NO. 8:** Admit that no sash currently in production matches the profile of the insured windows at The Property manufactured by Semco Windows and Doors.
+
+**REQUEST FOR ADMISSION NO. 9:** Admit that replacing a damaged sash at The Property with a sash of a different profile would result in a visible difference in appearance between the replaced sash and the adjoining undamaged sashes of the same window.
+
+Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
+
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Yibiao Lu, Plaintiff *pro se*
+
+17756 George Moran Dr.
+
+Eden Prairie, MN 55347
+
+Telephone: 763-843-2859
+
+Email: bill\_y\_lu@yahoo.com
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Jie Hu, Plaintiff *pro se*
+
+17756 George Moran Dr.
+
+Eden Prairie, MN 55347
+
+Telephone: 763-843-2860
+
+Email: jie\_h\_hu@yahoo.com
+
+**CERTIFICATE OF SERVICE**
+
+I, Yibiao Lu, state and declare as follows:
+
+1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2). *(The parties agreed to service by electronic mail on September 15, 2026 — see `KeyDecisions.md`, Decision 4.)*
+
+2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at \_\_\_\_\_\_ \_\_.m. local Minnesota time, I served a true and correct copy of *Plaintiffs' Second Set of Requests for Admission to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
+
+> Kevin J. Kennedy (\#193872) — kkennedy@kennedylf.com
+>
+> Mary J. Baskfield (\#0314572) — mbaskfield@kennedylf.com
+>
+> KENNEDY LAW FIRM P.C.
+>
+> 7616 Currell Blvd., Suite 270
+>
+> Woodbury, MN 55125
+>
+> *Counsel for Defendant Fire Insurance Exchange*
+
+3\. The transmission was sent from bill\_y\_lu@yahoo.com. I did not receive any indication that the transmission failed or was undeliverable. I have retained a copy of the transmission.
+
+4\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+
+I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
+
+Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at Eden Prairie, Hennepin County, Minnesota.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Signature of person who served the documents*
+
+Name:  Yibiao Lu  
+Address:  17756 George Moran Dr.  
+City/State/Zip:  Eden Prairie, MN 55347  
+Telephone:  763-843-2859  
+E-mail address:  bill\_y\_lu@yahoo.com
+
+
+---
+
+## Reserve — candidates for this set or a later one
+
+Keep this list current. None of these is drafted above; each is held for the trigger named.
+
+| Candidate | Trigger |
+|---|---|
+| Authentication of The Prieve Report and Photo Appendix A as produced | FIE's production of its own copies, so the authenticated version is FIE's, not Plaintiffs' |
+| Authentication of the 2020 Xactimate estimate and 2020 photo log | Production in response to First Set RFP Requests 23 and related |
+| Authentication of the Hancock Claims Consultants inspection photo set | Production |
+| Admissions keyed to specific absences in FIE's production | Review of the production against the First Set requests |
+| Admissions keyed to FIE's privilege log | Service of the log |
+| Basis-of-denial admissions for any First Set request FIE denies | FIE's responses, due 30 days after service of the First Set |
+
+### ⚠️ The larger backlog is not in this file
+
+Roughly **sixty** further admissions remain pending as proposals and are **not** drafted here:
+
+- **A-1 to A-14** in `../FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`
+- **AM-8 to AM-16** in `../../Discovery/FirstSetDiscovey/Answer_Mined_for_Discovery_CONSOLIDATED_2026-09-14.md`
+
+**A-1 and A-2 remain blocked** until the October 10 and October 29, 2025 e-mail originals are exported — see `../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md`. Note the distinction drawn in the First Set review: the missing originals block *proving* those statements under Rule 37.03(b); they did **not** block serving First Set Request 60, which quotes FIE's own October 10, 2025 statement back to it.
+
+Work that backlog after the First Set responses arrive on the 30-day clock, so the requests can be aimed at actual answers rather than anticipated ones.

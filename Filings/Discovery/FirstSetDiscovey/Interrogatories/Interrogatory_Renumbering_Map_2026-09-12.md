@@ -64,7 +64,7 @@ The proposal and review files were written against the old numbering and **have 
 | `Proposed_Changes_Interrogatories_First_Set_2026-09-11.md` — reserve earmark table | Interrogatory 6 → **5** |
 | `Proposed_Changes_Interrogatories_First_Set_2026-09-11.md` — item **I-29** pairing table | Interrogatories 5, 10, 12 → **4, 7, 9** |
 | `../../SecondSetDiscovery/Plaintiffs_Second_Set_of_Requests_for_Production_to_FIE_DRAFT.md` — trigger condition 1 | Interrogatory 17 → **11** |
-| `../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` — item **A-4** | Interrogatory 11 → **8** |
+| `../../../RequestForAdmission/FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md` — item **A-4** | Interrogatory 11 → **8** |
 | `../../README.md` — Section A row and budget tally | counts and ranges restated |
 
 ---
