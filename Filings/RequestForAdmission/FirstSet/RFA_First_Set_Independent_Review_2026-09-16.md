@@ -17,7 +17,7 @@
 2. Commit with a message that names the ID (for example, `RFA: apply F-23`).
 3. Keep declined items in the table so they are not raised again.
 
-**Status as of September 16, 2026.** The operative set has **162 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125), and **§5-F**: D-2, T-36, T-37, T-40, T-41, T-42, U-11 (definition; Nos. 36, 37 and 41 replaced; Nos. 130–162; pointers under Nos. 37, 40 and 42). Everything after J-1 to J-8 is not yet committed. Append new requests as **No. 163 onward** unless the set is renumbered once at the end (see §5).
+**Status as of September 16, 2026.** The operative set has **180 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125), and **§5-F**: D-2, T-36, T-37, T-40, T-41, T-42, U-11 (definition; Nos. 36, 37 and 41 replaced; Nos. 130–162; pointers under Nos. 37, 40 and 42). Everything after J-1 to J-8 is not yet committed. R-9 (Nos. 131–151 restructured), R-10 (Nos. 152–155 replaced), T-53 (No. 53 replaced) and R-11 (Nos. 163–180) are also applied. R-12 is held in the Second Set. Append new requests as **No. 181 onward** unless the set is renumbered once at the end (see §5).
 
 Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · 🗂 Deferred (recommended) · ❌ Declined
 
@@ -39,12 +39,12 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | T-19 | Split RFA 19 into 19, 19-A and 19-B (§ 65A.01 itemization) | §5-C | ✅ | No. 19 (replaced) + Nos. 107–108 (section S); pointer under No. 19 | 9/16/2026 |
 | T-36 | Requote RFA 36 to the full NOAA sentence | §5-F | ✅ | No. 36 (replaced) | 9/16/2026 |
 | T-37 | Rewrite RFA 37 verbatim to the NWS page and add 37-A (Eden Prairie wind gust) | §5-F | ✅ | No. 37 (replaced) + No. 130 (section W); pointer under No. 37 | 9/16/2026 |
-| T-40 | Keep RFA 40 and add verbatim Prieve dent requests. *Expanded 9/16:* all 20 page 4–6 dent findings (No. 41 carries the 21st), an existence request, and 4 page-7 conclusions | §5-F | ✅ | Nos. 131–155 (section X): 20 page 4–6 quotes (131–150), existence request (151), 4 page-7 conclusions (152–155); pointer under No. 40 | 9/16/2026 — ⚠️ **§9: No. 151 is compound; restructure recommended (R-9)** |
+| T-40 | Keep RFA 40 and add verbatim Prieve dent requests. *Expanded 9/16:* all 20 page 4–6 dent findings (No. 41 carries the 21st), an existence request, and 4 page-7 conclusions. *Restructured by R-9:* 131–150 are now existence requests and 151 is a genuineness request | §5-F | ✅ | Nos. 131–155 (section X): 20 single-fact existence requests (131–150), genuineness of The Prieve Report (151), 4 "report does not state" requests (152–155, replaced by R-10); pointer under No. 40 | 9/16/2026 (R-9 applied; §9 compound issue resolved) |
 | T-41 | Requote RFA 41 ("bottom screen frame of the east facing sliding door") | §5-F | ✅ | No. 41 (replaced; page 5 quote) | 9/16/2026 |
 | T-42 | Verbatim-caption requests for A-42, A-92, A-93, A-98, A-99, A-103 and A-141 | §5-F | ✅ | Nos. 156–162 (section Y): A-42, A-92, A-93, A-98, A-99, A-103, A-141; pointer under No. 42 | 9/16/2026 |
 | T-50 | Replace RFA 50 (line item 1, 2.00 EA) | §5-G | ⏳ | — | — |
 | T-52 | Replace RFA 52 ("Type of Loss: Hail") and add 52-A (payment made on the 2020 Claim) | §5-G | ⏳ | — | — |
-| T-53 | Replace RFA 53 (inspection photographs dated Oct. 13, 2020) | §5-G | ⏳ | — | — |
+| T-53 | Replace RFA 53 (inspection photographs dated Oct. 13, 2020) | §5-G | ✅ | No. 53 (replaced, self-contained; does not depend on T-50) | 9/16/2026 |
 | T-54 | Replace RFA 54 (no hail loss dated after Sept. 5, 2020) | §5-G | ⏳ | — | — |
 | T-58 | RFA 58: add "directly or through Your agent Peter Pietila" | §5-I | ⏳ | — | — |
 | T-60 | Split RFA 60 (quote only) and add 60-A (the requested date was Sept. 6, 2024) | §5-I | ⏳ | — | — |
@@ -77,7 +77,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | U-8 | Nov. 4 letter signed by Brau; the "wear/tear as referrenced in the attached engineer report" quote (2 requests) | §5-E | ✅ | Nos. 128–129 (section V) | 9/16/2026 |
 | U-9 | Award: "Siding & Paint" $0 / $0 with Causation "Hail" | §5-C | ✅ | No. 110 (section S) | 9/16/2026 |
 | U-10 | Optional: Sept. 3 letter's "We will inform you in writing if … reopening your claim" (pairs with RFA 59) | §3 (No. 59) | ⏳ | — | — |
-| U-11 | Optional: Prieve's "not of sufficient size" opinion states no hail size, velocity or material threshold (pairs with RFAs 38–39) | §3 (Nos. 38–39) | ✅ | No. 155 (page 7 hail-size opinion, quoted; section X) | 9/16/2026 |
+| U-11 | Optional: Prieve's "not of sufficient size" opinion states no hail size, velocity or material threshold (pairs with RFAs 38–39) | §3 (Nos. 38–39) | ✅ | No. 155 (replaced by R-10: "does not state the minimum hailstone size"); originally applied as a quote of Prieve's opinion | 9/16/2026 |
 
 ### Jie Hu (§8)
 
@@ -107,14 +107,18 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Item | Status | Note |
 |---|---|---|---|
-| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 162 |
-| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–162 |
-| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–162 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
+| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 180 |
+| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–180 |
+| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–180 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
 | K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ⏳ | Now verified: the request is wrong as drafted (F-23) |
 | K-5 | Commit the Nos. 93–100 addition to git | ✅ | Committed in `ac2e92d` (9/15/2026 22:19 per git timestamp) |
-| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129), 5-F (def.; 36, 37, 41; 130–162)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
-| R-9 | §9.3 restructure: Nos. 131–150 become existence requests; No. 151 deleted; genuineness request for the Prieve Report added | ⏳ | Decide before K-8 |
-| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; move section W (No. 130) after No. 37, section X (Nos. 131–155, as one block; No. 151 refers to "the twenty preceding requests") after No. 41, and section Y (Nos. 156–162) after No. 47; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23, 34, 37, 40 and 42, the section-note references in sections R, S, U, V, W, X and Y (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
+| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129), 5-F (def.; 36, 37, 41; 130–162), R-9/R-10 (131–155), T-53 (53), R-11 (163–180)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
+| R-9 | §9.3 restructure: Nos. 131–150 become existence requests; No. 151 deleted; genuineness request for the Prieve Report added | ✅ | Applied 9/16/2026. Genuineness request placed in No. 151's slot, so no renumbering was needed |
+| R-10 | Replace Nos. 152–155 (page 7 conclusion quotes that helped FIE) with 4 "The Prieve Report does not identify / state…" requests | ✅ | Nos. 152–155 (same slots) — §5-F.2 |
+| R-11 | Section Z: 18 requests that FIE's 2020 claim file does not record each Prieve dent (excludes the dents in Nos. 131 and 146) | ✅ | Nos. 163–180 — §5-F.2 |
+| R-12 | Companion: "other than the Oct. 13, 2020 photographs, the 2020 claim file contains no written report or notes of a window inspection" | ⏸ | Moved to Second Set, Part 3, No. 10. Held until FIE's production under RFPs 2, 22 and 23 is reviewed |
+| O-1 | Optional: Prieve Report states "We understand the structure to have been constructed in 1993" | ⏳ | Not applied (9/16/2026 decision: Nos. 163–180 only) |
+| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; move section W (No. 130) after No. 37, section X (Nos. 131–155) after No. 41 (consider moving No. 151, the genuineness request, to the head of section X), and section Y (Nos. 156–162) after No. 47; place each section Z request (Nos. 163–180) right after its matching section X request, or keep section Z as a block after section X; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23, 34, 37, 40 and 42, the section-note references in sections R, S, U, V, W, X, Y and Z (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
 | K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ⏳ | After all decisions |
 
 ---
@@ -457,11 +461,13 @@ At K-8, move section U next to Nos. 60–61, and section V next to the Prieve re
 
 ### 5-F. Prieve Report, NWS page, dents, and photo captions (definition; Nos. 36, 37, 41 replaced; sections W–Y, Nos. 130–162)
 
+> ⚠️ **Revised 9/16/2026 by R-9 (§9.3).** Nos. 131–150 were changed from "the report states" quotations to single-fact existence requests. No. 151 (the compound existence request) was replaced by a genuineness request. The text below is the current text.
+
 *Rewritten September 16, 2026.* The first draft proposed only three verbatim dent sentences. A full count of the report found **43** uses of "dent"/"dents" as whole words (page 4: 12; **page 5: 19**; page 6: 6; page 7: 6). Many of those are "no hail dents" findings.
 
 ⚠️ **Complaint ¶22(e)** says page 5 uses the word "sixteen separate times." The count is **19** occurrences. Sixteen is the number of dent **findings** on that page: 15 sentences plus the one "indentation" at A-113. If the figure is used again, say which measure it is.
 
-**Why this section matters.** No. 40 ("at least twenty-five distinct windows") is Plaintiffs' own count, so FIE can deny it as a characterization. The requests below quote the engineer's own words, which FIE cannot deny, and then (No. 151) ask FIE to admit that the dents so described existed. That leaves **cause** as the only dispute.
+**Why this section matters.** No. 40 ("at least twenty-five distinct windows") is Plaintiffs' own count, so FIE can deny it as a characterization. Nos. 131–150 use the engineer's own sentences to identify each dent, and each asks FIE to admit that one dent existed. No. 151 establishes that the report is genuine, which covers what the report says. That leaves **cause** as the only dispute.
 
 **Selection rules.**
 - **Included:** every sentence on pages 4–6 reporting an observed dent or indentation (20); No. 41, replaced in place, carries the sliding-door sentence.
@@ -469,7 +475,7 @@ At K-8, move section U next to Nos. 60–61, and section V next to the Prieve re
 - **Excluded as favorable to FIE:** two sentences that tie dents to the prior claim. Page 4: "We note that prior claim information and photo logs indicate dents were previously noted…" Page 7: "Dents shown in prior claim photographs are similar…"
 - **Page 7 conclusions:** four are quoted. These lock in Prieve's alternative-cause theories (blunt objects; damage at original installation) and the unsupported hail-size opinion (U-11).
 - **Verbatim text:** quotes keep the report's own errors ("appear long the left side", "not constant with hail"). The PDF's "ﬃ" ligature is written as "ffi".
-- **Numbering:** requests are anchored to page numbers so each quote can be found exactly. None cites another request by number. The existence request refers to "the twenty preceding requests," so section X must move as one block.
+- **Numbering:** each request is anchored to a page number so the sentence can be found exactly. None cites another request by number, so section X can be moved without breaking references (only the section note needs checking).
 
 **Definition (D-2), replacing the current "The Prieve Report" definition:**
 
@@ -493,57 +499,57 @@ At K-8, move section U next to Nos. 60–61, and section V next to the Prieve re
 
 > *X. Dents recorded in The Prieve Report*
 >
-> > Each Request in this section quotes The Prieve Report at the page stated, except the Request that follows the page 4 through page 6 quotations, which concerns the dents and indentations those quotations describe. To be read with Requests Nos. 35 through 41.
+> > The first twenty Requests in this section each ask You to admit that a dent or indentation, identified by the sentence of The Prieve Report quoted in the Request, was present at The Property; they do not ask You to admit the cause of any dent or indentation. The next Request concerns the genuineness of The Prieve Report. The remaining Requests in this section concern what The Prieve Report does not state. To be read with Requests Nos. 35 through 41.
 >
-> **131.** (T-40) Admit that page 4 of The Prieve Report states: "Rounded dents were observed at sashes of this window unit."
+> **131.** (R-9 (existence)) Admit that the dents described on page 4 of The Prieve Report in the sentence "Rounded dents were observed at sashes of this window unit" were present at The Property on October 9, 2024.
 >
-> **132.** (T-40) Admit that page 4 of The Prieve Report states: "Two dents with sharp marks/indentations appear long the left side of the left sash as shown in photograph A-45."
+> **132.** (R-9 (existence)) Admit that the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long the left side of the left sash as shown in photograph A-45" were present at The Property on October 9, 2024.
 >
-> **133.** (T-40) Admit that page 4 of The Prieve Report states: "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64."
+> **133.** (R-9 (existence)) Admit that the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64" was present at The Property on October 9, 2024.
 >
-> **134.** (T-40) Admit that page 5 of The Prieve Report states: "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107."
+> **134.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107" was present at The Property on October 9, 2024.
 >
-> **135.** (T-40) Admit that page 5 of The Prieve Report states: "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113."
+> **135.** (R-9 (existence)) Admit that the indentation described on page 5 of The Prieve Report in the sentence "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113" was present at The Property on October 9, 2024.
 >
-> **136.** (T-40) Admit that page 5 of The Prieve Report states: "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents."
+> **136.** (R-9 (existence)) Admit that the dents described on page 5 of The Prieve Report in the sentence "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents" were present at The Property on October 9, 2024.
 >
-> **137.** (T-40) Admit that page 5 of The Prieve Report states: "A dent with marks present appears in the face of the drip cap of the upper center window unit."
+> **137.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with marks present appears in the face of the drip cap of the upper center window unit" was present at The Property on October 9, 2024.
 >
-> **138.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail."
+> **138.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **139.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears along the left accessory groove of the southeast facing window not consistent with hail."
+> **139.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the left accessory groove of the southeast facing window not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **140.** (T-40) Admit that page 5 of The Prieve Report states: "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail."
+> **140.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **141.** (T-40) Admit that page 5 of The Prieve Report states: "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail."
+> **141.** (R-9 (existence)) Admit that the dents described on page 5 of The Prieve Report in the sentence "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail" were present at The Property on October 9, 2024.
 >
-> **142.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears along the bottom accessory groove not consistent with hail."
+> **142.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the bottom accessory groove not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **143.** (T-40) Admit that page 5 of The Prieve Report states: "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail."
+> **143.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **144.** (T-40) Admit that page 5 of The Prieve Report states: "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166."
+> **144.** (R-9 (existence)) Admit that the dents described on page 5 of The Prieve Report in the sentence "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166" were present at The Property on October 9, 2024.
 >
-> **145.** (T-40) Admit that page 5 of The Prieve Report states: "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174."
+> **145.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174" was present at The Property on October 9, 2024.
 >
-> **146.** (T-40) Admit that page 5 of The Prieve Report states: "Two dents appear at the lower left corner of the left casement which are generally smooth."
+> **146.** (R-9 (existence)) Admit that the dents described on page 5 of The Prieve Report in the sentence "Two dents appear at the lower left corner of the left casement which are generally smooth" were present at The Property on October 9, 2024.
 >
-> **147.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears in the bottom accessory groove of the window not consistent with hail."
+> **147.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the window not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **148.** (T-40) Admit that page 5 of The Prieve Report states: "A scrape mark and dent appear at the right side of the east facing window not consistent with hail."
+> **148.** (R-9 (existence)) Admit that the dent described on page 5 of The Prieve Report in the sentence "A scrape mark and dent appear at the right side of the east facing window not consistent with hail" was present at The Property on October 9, 2024.
 >
-> **149.** (T-40) Admit that page 6 of The Prieve Report states: "A dent appears in the left accessory groove similar to those observed elsewhere."
+> **149.** (R-9 (existence)) Admit that the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove similar to those observed elsewhere" was present at The Property on October 9, 2024.
 >
-> **150.** (T-40) Admit that page 6 of The Prieve Report states: "A dent appears in the left accessory groove at the lower corner of the window."
+> **150.** (R-9 (existence)) Admit that the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove at the lower corner of the window" was present at The Property on October 9, 2024.
 >
-> **151.** (T-40 (existence)) Admit that each dent and indentation described in the statements of The Prieve Report quoted in the twenty preceding requests was present at The Property on October 9, 2024.
+> **151.** (R-9 (genuineness)) Admit that The Prieve Report is a genuine copy of the report prepared by Prieve Engineering, LLC, File Number 241008.
 >
-> **152.** (T-40 (conclusion)) Admit that page 7 of The Prieve Report states: "Dents and scrape marks appear at various areas of windows around the home not constant with hail."
+> **152.** (R-10) Admit that The Prieve Report does not identify any object, other than hail, that caused any dent or indentation described in The Prieve Report.
 >
-> **153.** (T-40 (conclusion)) Admit that page 7 of The Prieve Report states: "Dents noted at sashes and frames in our opinion include scrape marks inside dents consistent with impacts from blunt objects other than hail."
+> **153.** (R-10) Admit that The Prieve Report does not identify when, how, or by whom any dent described in The Prieve Report was caused "during or following installation of windows."
 >
-> **154.** (T-40 (conclusion)) Admit that page 7 of The Prieve Report states: "Dents in accessory grooves are consistent with impacts other than hail or damage occurring during or following installation of windows at the time of construction of the home."
+> **154.** (R-10) Admit that The Prieve Report does not state the size of any hailstone that fell at The Property on July 13 or 14, 2024.
 >
-> **155.** (T-40 / U-11 (conclusion)) Admit that page 7 of The Prieve Report states: "Further, it is our opinion that past hail at the site was not of sufficient size to dent window frames or the face of sashes."
+> **155.** (R-10) Admit that The Prieve Report does not state the minimum hailstone size required to dent the window frames or sashes at The Property.
 
 > *Y. Captions in Photo Appendix A*
 >
@@ -565,6 +571,73 @@ At K-8, move section U next to Nos. 60–61, and section V next to the Prieve re
 
 At K-8, move section W after No. 37, section X after No. 41, and section Y after No. 47. Update the three pointers and the section notes when you do.
 
+### 5-F.2 Nos. 152–155 replaced (R-10) and section Z, Nos. 163–180 (R-11), applied 9/16/2026
+
+**R-10: why Nos. 152–155 were replaced.** As first applied, these four requests quoted Prieve's page 7 conclusions ("not constant with hail," blunt objects, installation damage, and hail "not of sufficient size"). FIE would readily admit them, and they added nothing once No. 151 (genuineness) was in place. They also repeated FIE's defense in Plaintiffs' own document. The replacements, in the same slots, ask FIE to admit what the report **does not** say. Each was checked against the 7-page report:
+
+> **152.** Admit that The Prieve Report does not identify any object, other than hail, that caused any dent or indentation described in The Prieve Report.
+>
+> **153.** Admit that The Prieve Report does not identify when, how, or by whom any dent described in The Prieve Report was caused "during or following installation of windows."
+>
+> **154.** Admit that The Prieve Report does not state the size of any hailstone that fell at The Property on July 13 or 14, 2024.
+>
+> **155.** Admit that The Prieve Report does not state the minimum hailstone size required to dent the window frames or sashes at The Property.
+
+**R-11: section Z. The 2020 claim file does not record the dents.**
+- **Why a records request.** A request that a dent "was not present in 2020" is weak. FIE can properly answer that it lacks enough information after reasonable inquiry: no one examined every sash in 2020, the 2020 estimate shows no inspection date, and photographs do not show every surface. Each request below asks instead what **FIE's own 2020 file** records, which is information FIE can readily obtain.
+- **What an admission gives.** It places each dent after the 2020 records. Together with No. 54 (the only later hail event of record is July 13, 2024), that points to the 2024 storm.
+- **What a denial requires.** FIE must identify the 2020 record showing the dent, and RFPs 2, 22 and 23 (served 9/15/2026) require it to produce that record.
+- **Excluded:** the dents in Nos. 131 (front triple window) and 146 (north porch casement). Prieve attributes both to the 2020 claim, and his Conclusion 1 says the 2020 photos show similar dents, so FIE would deny truthfully. Those two windows are handled by the two-sash argument (Complaint ¶37).
+- **Numbering:** Nos. 163–180 match Nos. 132–145 and 147–150 in order. None cites another request by number except the section note.
+
+> *Z. The 2020 Claim file and the dents recorded in The Prieve Report*
+>
+> > Each Request in this section concerns Your claim file for The 2020 Claim and a dent or indentation identified by the sentence of The Prieve Report quoted in the Request. To be read with Requests Nos. 50 through 54 and 131 through 150.
+>
+> **163.** (R-11; pairs with No. 132) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long the left side of the left sash as shown in photograph A-45."
+>
+> **164.** (R-11; pairs with No. 133) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64."
+>
+> **165.** (R-11; pairs with No. 134) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107."
+>
+> **166.** (R-11; pairs with No. 135) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the indentation described on page 5 of The Prieve Report in the sentence "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113."
+>
+> **167.** (R-11; pairs with No. 136) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 5 of The Prieve Report in the sentence "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents."
+>
+> **168.** (R-11; pairs with No. 137) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent with marks present appears in the face of the drip cap of the upper center window unit."
+>
+> **169.** (R-11; pairs with No. 138) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail."
+>
+> **170.** (R-11; pairs with No. 139) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the left accessory groove of the southeast facing window not consistent with hail."
+>
+> **171.** (R-11; pairs with No. 140) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail."
+>
+> **172.** (R-11; pairs with No. 141) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 5 of The Prieve Report in the sentence "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail."
+>
+> **173.** (R-11; pairs with No. 142) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the bottom accessory groove not consistent with hail."
+>
+> **174.** (R-11; pairs with No. 143) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail."
+>
+> **175.** (R-11; pairs with No. 144) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 5 of The Prieve Report in the sentence "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166."
+>
+> **176.** (R-11; pairs with No. 145) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174."
+>
+> **177.** (R-11; pairs with No. 147) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the window not consistent with hail."
+>
+> **178.** (R-11; pairs with No. 148) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A scrape mark and dent appear at the right side of the east facing window not consistent with hail."
+>
+> **179.** (R-11; pairs with No. 149) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove similar to those observed elsewhere."
+>
+> **180.** (R-11; pairs with No. 150) Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove at the lower corner of the window."
+
+**Companion request (R-12), moved to the Second Set and held there:**
+
+> Admit that, other than the inspection photographs dated October 13, 2020, Your claim file for The 2020 Claim contains no written report or notes of an inspection of the windows at The Property.
+
+It is held until FIE's production under RFPs 2, 22 and 23 has been reviewed. If the 2020 file contains a written inspection report or notes, the request would be denied (and would need rewording). See the Second Set draft, Part 3.
+
+**Optional request, not applied:** that The Prieve Report states "We understand the structure to have been constructed in 1993." It would pair with the 2008 and 2014 sash stamps against Prieve's "installation" theory. It is pending as tracker item O-1.
+
 ### 5-G. 2020 Claim (replaces Nos. 50–54)
 
 > **50.** Admit that the estimate for The 2020 Claim dated February 18, 2022 (estimate "YIBIAO_LU2") contains one window-replacement line item — line item 1, "R&R Wood window - casement, 12-23 sf" — in a quantity of 2.00 EA.
@@ -575,7 +648,9 @@ At K-8, move section W after No. 37, section X after No. 41, and section Y after
 >
 > **[new 52-A]** Admit that You made payment to Plaintiff Yibiao Lu on The 2020 Claim.
 >
-> **53.** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the two windows addressed by line item 1 of the estimate identified in Request No. 50.
+> **53.** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the two windows addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
+>
+> *Applied 9/16/2026 in this self-contained form. The first draft referred to "the estimate identified in Request No. 50," but No. 50 has not been rewritten yet (T-50 is pending), so that reference would have pointed to nothing.*
 >
 > **54.** Admit that Your claim records for The Property identify no hail loss with a date of loss after September 5, 2020, other than The Claim.
 
@@ -724,7 +799,7 @@ No. 151 asks FIE to admit that "each dent and indentation described in … the t
 **(e) Captions (Nos. 156–162).**
 - These comply. Existing Nos. 42–47 already ask FIE to admit what photographs A-42, A-92, A-93, A-98, A-99 and A-103 **depict**. So these caption requests mainly back up those.
 
-### 9.3 Recommended restructure (not yet applied)
+### 9.3 Recommended restructure (✅ applied 9/16/2026 as R-9; see §5-F for the text)
 
 1. **Replace Nos. 131–150** with 20 single-fact **existence** requests. Each uses the report's sentence only to identify the dent, for example:
    > Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107" was present at The Property on October 9, 2024.

@@ -5,7 +5,7 @@
 **Origin:** Requests 31–34 of the drafted First Set, held back under `../FirstSet/RFA_First_Set_Independent_Review_2026-09-15.md` §§ 4–5.
 
 > ### ⚠️ DRAFT — NOT FOR SERVICE AS A WHOLE
-> This set has **two parts with different triggers.** Part 1 is ready as soon as clean exhibits exist. Part 2 must not be served until Defendant actually asserts a matching position. Serving Part 2 early is the specific harm it was separated to avoid.
+> This set has **three parts with different triggers** (Part 3, the 2020 claim file, was added September 16, 2026 and is held until FIE's RFP production has been reviewed). Part 1 is ready as soon as clean exhibits exist. Part 2 must not be served until Defendant actually asserts a matching position. Serving Part 2 early is the specific harm it was separated to avoid.
 
 > **Not legal advice.** Have a Minnesota-licensed attorney review before service.
 
@@ -25,6 +25,7 @@
 |---|---|---|
 | **Part 1 — Authentication** | 1–5 | A clean, legible copy of the appraisal award has been obtained for Exhibit C. **Exhibits D and E are ready** — `../../../EventDocuments/2025-10-29-BrauEmail.pdf` for Exhibit E, and — `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page October 10, 2025 letter package (see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`). The September 3 and November 4, 2024 letters are already available as clean PDFs in `../../Discovery/Expert/Expert_Record_Packet/`. **No other condition.** |
 | **Part 2 — Matching / J6944** | 6–9 | **Mandatory:** FIE actually asserts J6944 or a matching limitation — in an amended answer, a discovery response, a denial of Request 1 of Part 2's predicate set, a mediation position paper, or summary-judgment briefing. **Without that, do not serve.** Helpful but not required: responses to First Set RFP Requests 24 and 40 (the endorsement, its drafting history, and FIE's matching guidance). |
+| **Part 3 — The 2020 claim file** | 10 | **Mandatory:** FIE has produced its 2020 claim file and October 13, 2020 photograph log in response to First Set RFPs 2, 22 and 23 (responses due October 15, 2026), **and those documents have been reviewed first.** See the checklist under Part 3 below. Added September 16, 2026 (tracker item R-12 in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md`). |
 
 > ### ⚠️ One request in Part 2 does **not** depend on the trigger — consider moving it up
 > **Request 7** (whether J6944 was delivered with the October 22, 2023 renewal) is not a matching contention. It is a delivery question, and it runs the other way: **if FIE cannot show it delivered the endorsement at that renewal, the endorsement may not be available to it at all** — which would make the rest of Part 2 unnecessary rather than merely premature. It is attachment-free and safe to serve now. Recommended: move Request 7 into the First Set before service, or serve it as a one-request supplement. RFP 35 (the complete policy as delivered at the 2023 renewal) is the document counterpart.
@@ -131,6 +132,18 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 8:** Admit that no sash currently in production matches the profile of the insured windows at The Property manufactured by Semco Windows and Doors.
 
 **REQUEST FOR ADMISSION NO. 9:** Admit that replacing a damaged sash at The Property with a sash of a different profile would result in a visible difference in appearance between the replaced sash and the adjoining undamaged sashes of the same window.
+
+*Part 3 — The 2020 claim file*
+
+> **HOLD — check the documents FIE produced first.** Do not serve Request 10 until FIE's production under First Set RFPs 2, 22 and 23 (the 2020 claim file, all prior-claim inspection records, and the complete October 13, 2020 photograph log) has been received and reviewed. Before serving:
+> 1. Look for any written inspection report, adjuster notes, field notes, sketches, or window-condition summary for the 2020 claim.
+> 2. **If none was produced**, confirm that FIE's written RFP response says the production is complete (not "will supplement" or "subject to objections"). Then serve as drafted.
+> 3. **If such a document was produced**, do not serve as drafted. Either drop the request, or reword it to the specific gap the document leaves (for example, that it does not identify a dent on a named window).
+> 4. Compare the October 13, 2020 photographs with First Set Nos. 163–180. If any photograph shows one of those dents, note it and expect FIE to deny the matching request.
+>
+> This request is the companion to First Set Nos. 163–180, which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
+
+**REQUEST FOR ADMISSION NO. 10:** Admit that, other than the inspection photographs dated October 13, 2020, Your claim file for The 2020 Claim contains no written report or notes of an inspection of the windows at The Property.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
