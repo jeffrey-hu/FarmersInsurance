@@ -22,7 +22,7 @@
 **Companions:** `../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`
 
 > ### Status of items A-1 to A-14 (updated September 16, 2026)
-> The original "NOTHING HAS BEEN CHANGED" note no longer applies. Several items have been applied to the operative set, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (189 requests as of 9/16/2026). The bracketed numbers below ([35]–[76]) are **labels only** and do not match operative request numbers. Each section has a status line under its approval box. The master tracker is `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+> The original "NOTHING HAS BEEN CHANGED" note no longer applies. Several items have been applied to the operative set, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (190 live requests in slots 1–191 as of 9/16/2026; slot 63 vacant after No. 63 moved to the Second Set). The bracketed numbers below ([35]–[76]) are **labels only** and do not match operative request numbers. Each section has a status line under its approval box. The master tracker is `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 >
 > | Item | Status | Where it landed |
 > |---|---|---|
@@ -33,7 +33,7 @@
 > | A-5 | ⏳ Open | Clean award copy still needed |
 > | A-6 | ⏸ Held — do not serve | H-A6; No. 111 fixes the service date instead |
 > | A-7 | 🗂 Deferred | After RFP 24 production |
-> | A-8 | ◐ Partly superseded | [52] → No. 62; [53]–[55] deferred |
+> | A-8 | ◐ Partly applied | [52] → No. 62; [53] → No. 190; [55] → No. 191; [54] deferred |
 > | A-9 | ◐ Partly applied | [59] → No. 124; [60] → No. 125; [58] → No. 26; [56], [57] not applied |
 > | A-10 | 🗂 Deferred | [65] cross-reference stale |
 > | A-11 | ✅ Applied as edited | [66] (narrowed to exclusions) → No. 183 |
@@ -282,7 +282,7 @@ Neither point justified spending 2 of 50 interrogatories. Rule 36 has no numeric
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
 
-> **Status as of September 16, 2026:** ◐ **Partly superseded.** [52] is covered by operative **No. 62** (nothing paid on The Claim). [53]–[55] are 🗂 **deferred** with A-7. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+> **Status as of September 16, 2026:** ◐ **Partly applied.** [52] is covered by operative **No. 62**. **[53] → No. 190** (edited: "and any payment of additional living expense" removed, because that is paid to the insured) and **[55] → No. 191** (edited to use "windstorm/hail deductible" and the award's "F1.7"/"B1.2" designations). [54] remains 🗂 deferred and optional. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0 and §5-K.
 ---
 
 ## A-9. The Prieve engagement — replaces withdrawn interrogatory item I-18

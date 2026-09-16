@@ -55,7 +55,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **2.** **Lack of knowledge.** Defendant may not give lack of information or knowledge as a reason for failure to admit or deny unless it states that it has made reasonable inquiry and that the information known or readily obtainable by it is insufficient to enable it to admit or deny. Minn. R. Civ. P. 36.01.
 
-**3.** **Effect of non-response.** Pursuant to Minn. R. Civ. P. 36.01, any matter not timely answered or objected to is deemed admitted, and any matter admitted is conclusively established for purposes of this action under Minn. R. Civ. P. 36.02.
+**3.** **Effect of non-response.** Pursuant to Minn. R. Civ. P. 36.01, any matter not timely answered or objected to is deemed admitted, and any matter admitted is conclusively established for purposes of this action under Minn. R. Civ. P. 36.02. If the Court determines that an answer does not comply with the requirements of Minn. R. Civ. P. 36.01, it may order either that the matter is admitted or that an amended answer be served. Minn. R. Civ. P. 36.01.
 
 **4.** **Continuing duty.** If Defendant later learns that an answer was incorrect or incomplete, it must seasonably amend or supplement the answer pursuant to Minn. R. Civ. P. 26.05.
 
@@ -215,7 +215,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 53:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
 
-**REQUEST FOR ADMISSION NO. 54:** Admit that the only hail event documented in Your claim records for The Property after the October 13, 2020 inspection is the July 13, 2024 hailstorm.
+**REQUEST FOR ADMISSION NO. 54:** Admit that Your claim records for The Property identify no hail loss with a date of loss after September 5, 2020, other than The Claim.
 
 *H. The engineer-report requirement and Plaintiffs' submissions*
 
@@ -239,9 +239,11 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 62:** Admit that You have paid Plaintiffs nothing on The Claim.
 
+*See also Requests for Admission Nos. 190–191.*
+
 *J. The insured windows*
 
-**REQUEST FOR ADMISSION NO. 63:** Admit that Semco Windows and Doors ceased operations on December 31, 2019.
+*[Request No. 63 (Semco Windows and Doors ceased operations on December 31, 2019) was moved to the Second Set, Part 2, as Request No. 16 on September 16, 2026, and is held for decision (tracker H-63). Remove this note and the section J heading, and close the gap, at the final renumbering (K-8). Do not serve with this note in place.]*
 
 *K. The September 3, 2024 letter package and its photograph logs*
 
@@ -570,6 +572,14 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 > To be read with Requests Nos. 87 through 89, 93, and 101 through 104.
 
 **REQUEST FOR ADMISSION NO. 189:** Admit that the text of The Policy Form in force on July 13, 2024 is identical to the text of Form 56-5543 2nd Edition (7-08) included in the "Home Insurance New Policy" documents for The Policy that You sent to Plaintiff Yibiao Lu under a cover letter dated December 8, 2014.
+
+*AF. Payment on The Claim*
+
+> To be read with Requests Nos. 2, 21, 62, and 183.
+
+**REQUEST FOR ADMISSION NO. 190:** Admit that You have made no payment of any kind to any contractor, repair firm, or other third party for the repair or replacement of any part of The Property on account of the July 13, 2024 loss, including any payment for emergency or temporary repairs.
+
+**REQUEST FOR ADMISSION NO. 191:** Admit that the application of the windstorm/hail deductible is the only reason You have made no payment on account of the loss to the windows designated "F1.7" and "B1.2" in The Appraisal Award.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
