@@ -21,8 +21,25 @@
 **Prepared:** September 12, 2026 · **Not yet served**
 **Companions:** `../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`
 
-> ### ⚠️ NOTHING HAS BEEN CHANGED
-> The RFA document and its exhibit packet are **untouched**. This file is a proposal only.
+> ### Status of items A-1 to A-14 (updated September 16, 2026)
+> The original "NOTHING HAS BEEN CHANGED" note no longer applies. Several items have been applied to the operative set, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (187 requests as of 9/16/2026). The bracketed numbers below ([35]–[76]) are **labels only** and do not match operative request numbers. Each section has a status line under its approval box. The master tracker is `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+>
+> | Item | Status | Where it landed |
+> |---|---|---|
+> | A-1 | ◐ Partly applied | [36] → No. 60 (T-60 refinement pending); [35] → Second Set No. 4 (held) |
+> | A-2 | ✅ Applied as edited | [38] → No. 75 (+ Nos. 76–78); [37] → Second Set No. 5 (held) |
+> | A-3 | ⏸ Held | Requote needed (H-A3) |
+> | A-4 | ✅ Applied | [40] → No. 121 |
+> | A-5 | ⏳ Open | Clean award copy still needed |
+> | A-6 | ⏸ Held — do not serve | H-A6; No. 111 fixes the service date instead |
+> | A-7 | 🗂 Deferred | After RFP 24 production |
+> | A-8 | ◐ Partly superseded | [52] → No. 62; [53]–[55] deferred |
+> | A-9 | ◐ Partly applied | [59] → No. 124; [60] → No. 125; [58] → No. 26; [56], [57] not applied |
+> | A-10 | 🗂 Deferred | [65] cross-reference stale |
+> | A-11 | ✅ Applied as edited | [66] (narrowed to exclusions) → No. 183 |
+> | A-12 | ✅ Applied | [67] → No. 122; [68] → No. 123 |
+> | A-13 | ◐ Partly applied | A-91 fix → Nos. 42–46; [70] → No. 162 (caption form); captions Nos. 156–161; [69], [71] deferred |
+> | A-14 | ✅ Applied as edited | [72]–[74] → Nos. 184–186; [76] → No. 187; [75] → No. 70 |
 
 > **Not legal advice.** Have a Minnesota-licensed attorney review before service.
 
@@ -73,6 +90,8 @@ Items are numbered **A-1** onward, to stay distinct from the **P-** items (Reque
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ◐ **Partly applied.** [36] is in the operative set as **No. 60** (applied before 9/16/2026). Its pending refinement, tracker T-60, would split the quotation from the "requested date" characterization. [35] (authenticating Exhibit D) was routed to the **Second Set as No. 4** and is held there. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-2. New Exhibit E and authentication request — the October 29, 2025 Brau email
@@ -87,6 +106,8 @@ Items are numbered **A-1** onward, to stay distinct from the **P-** items (Reque
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ✅ **Applied as edited.** [38] is in the operative set as **No. 75**, with Nos. 76–78 added from the same email. The renumbering map lists these as 72–75; that is stale (tracker K-3). [37] (authenticating Exhibit E) was routed to the **Second Set as No. 5** and is held there. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-3. The February 10, 2025 voicemail — admit the content, not a transcript
@@ -101,6 +122,8 @@ Items are numbered **A-1** onward, to stay distinct from the **P-** items (Reque
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ⏸ **Held (tracker H-A3).** Not in the operative set. [39] misquotes the voicemail: it says Brau stated FIE "would not review it." The words quoted in Complaint ¶25 are "he did receive the information that you just sent in recently but it's not an engineers report so I believe that's what he wanted to look for from you." Requote before applying. Answer ¶25 already admits the gist. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-4. Pin the negative on Brau's observations
@@ -115,6 +138,8 @@ Items are numbered **A-1** onward, to stay distinct from the **P-** items (Reque
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ✅ **Applied 9/16/2026 as No. 121** (section U), word for word except "Mr. Brau's" → "Nicholas Brau's". Tracker U-4b. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-5. Exhibit C — replace the phone photographs of the appraisal award
@@ -131,6 +156,8 @@ which pins the operative figures regardless of the quality of the image.
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ⏳ **Open.** No clean copy of the award has been obtained yet. It is still needed for the Second Set authentication request, and to confirm operative Nos. 23 and 109, which rest on the phone photograph. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-6. The defense-universe lock — move it here from Interrogatory 15
@@ -183,6 +210,8 @@ FIE's Answer contains an unprompted swipe at cooperation: it "denies that Plaint
 
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ⏸ **Held (tracker H-A6). Recommended: do not serve.** FIE's Answer pleads no limitations, suit-limitation, setoff, mitigation or misrepresentation defense, and the Scheduling Order sets no deadline to amend pleadings. [41], [42] and [44] in particular would point FIE to defenses it has not raised. Instead, operative **No. 111** locks in the date service became effective (no later than July 8, 2026, per FIE's counsel's July 28, 2026 letter) without mentioning limitations. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-7. Loss settlement and the deductible — lock FIE's reading of its own policy
@@ -219,6 +248,8 @@ On that language, loss is **settled** at replacement cost, and actual cash value
 
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** 🗂 **Deferred.** Revisit after FIE produces the policy form in force on the loss date (RFP 24). Operative No. 102 and the form-identity request pending under tracker T-87 cover the policy-form groundwork. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-8. Payment and the contended amount — replaces withdrawn interrogatory item I-17
@@ -250,6 +281,8 @@ Neither point justified spending 2 of 50 interrogatories. Rule 36 has no numeric
 
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ◐ **Partly superseded.** [52] is covered by operative **No. 62** (nothing paid on The Claim). [53]–[55] are 🗂 **deferred** with A-7. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-9. The Prieve engagement — replaces withdrawn interrogatory item I-18
@@ -294,6 +327,8 @@ Nos. 56–58 are **historical facts within FIE's own records**, and Nos. 57 and 
 
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ◐ **Partly applied.** [59] → **No. 124**, [60] → **No. 125** (section V, applied 9/16/2026; the Rule 26.02(d) and 26.02(e)(2) citations were checked against revisor.mn.gov; tracker U-5a). [58] is superseded by operative **No. 26**. [56] and [57] are ⏳ **not applied**: they are largely covered by Nos. 12, 26 and 124–127 (the Prieve visit was "Per the request of Nic Brau"; report dated Nov. 4, 2024) and are low priority. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-10. Scope of replacement cost — replaces removed Interrogatory 7
@@ -340,6 +375,8 @@ Three ways back to it, in the order I would use them:
 
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** 🗂 **Deferred.** [65]'s cross-reference ("Nos. 61 through 64") is stale and must be rewritten when applied. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-11. The *Quade* lock on the two awarded windows — replaces removed Interrogatory 14
@@ -360,7 +397,38 @@ What FIE has never conceded is the **consequence** — that it may not now reass
 
 **Note the deliberate limit.** The request is confined to the two **awarded** windows. It does not ask FIE to give up exclusions as to anything else, because *Quade* does not reach items the panel never evaluated — and a request that overreached would invite a denial that muddies the narrow point this one wins.
 
-`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`  *(superseded — see the update below)*
+
+### ✏️ Update — September 16, 2026: approved as edited
+
+**Status:** `APPROVE ☐   APPROVE AS EDITED ☑   REJECT ☐   HOLD ☐`. ✅ **Applied 9/16/2026 as No. 183** (section AB of the operative set, with a pointer under No. 21). Tracked as **U-6** in `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+
+**Why [66] was edited.** As drafted, [66] would be denied truthfully:
+- It covers any "exclusion, **limitation, or condition**."
+- The windstorm/hail deductible is itself a policy condition (Section I – Property Conditions, "8. Deductible clause"), and it is FIE's entire defense: $6,400 actual cash value against a $17,720 deductible (Answer ¶¶2, 35).
+- FIE could therefore deny [66] in good faith. The denial would establish nothing, and Rule 37.03(b)(3) ("reasonable ground to believe that the party might prevail") would shield it from fee-shifting.
+
+**Revised request.** It is confined to the exclusions section the November 4, 2024 denial actually cited. It uses the defined term "The Policy Form" (added to the operative set 9/16/2026) and the award's own window designations:
+
+> **REQUEST FOR ADMISSION NO. 183:** Admit that You do not contend that any provision of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form bars or reduces recovery for the loss to the windows designated "F1.7" and "B1.2" in The Appraisal Award.
+
+**How the two halves of the removed Interrogatory 14 are now covered.**
+
+| Removed Interrogatory 14 asked about | Now covered by | Status |
+|---|---|---|
+| Whether the award binds FIE **as to causation** under *Quade* | Operative **No. 21**: "Admit that You are bound by The Appraisal Award's determination that hail was the cause of loss to the windows designated 'F1.7' and 'B1.2.'" | ✅ Applied 9/16/2026 (tracker F-21), replacing the earlier No. 21, which restated FIE's Affirmative Defense 2 |
+| The **consequence**: no exclusion may be reasserted against those two windows | **No. 183** (this item, as edited) | ✅ Applied 9/16/2026 |
+
+**What each answer gives.**
+- **An admission** removes wear and tear, marring, corrosion, inherent vice, neglect and faulty construction as defenses for F1.7 and B1.2. The dispute over those two windows then narrows to the deductible and the measure of loss.
+- **A denial** requires FIE to name the exclusion it still relies on for windows the appraisal panel found were damaged by hail. That position conflicts with Answer ¶¶31–32, ¶48 and Affirmative Defense 2, and it sets up the partial-summary-judgment motion noted above.
+
+**Placement and dependencies.**
+- At the final renumbering (tracker K-8), place No. 183 immediately after No. 21.
+- It no longer needs to sit with the A-6 series. A-6 is on hold (tracker H-A6) because it would signal defenses FIE has not pleaded.
+- No. 183 cites no other request by number.
+- The original [66] text above is kept unchanged as the record of what was proposed.
+
 
 ---
 
@@ -392,6 +460,8 @@ They bracket the period in which the records at the centre of the case went miss
 
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ✅ **Applied 9/16/2026:** [67] → **No. 122**, [68] → **No. 123** (section U), word for word. Tracker U-4c. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-13. Appendix A damage-existence admissions — implements interrogatory item I-26
@@ -443,6 +513,8 @@ The Appendix A summary table and its detail rows disagree on A-128, A-129 and A-
 
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ◐ **Partly applied.** The A-91 correction is implemented: the old compound RFA 18 became per-photograph Nos. 42–46, with A-91 dropped. [70] (the door-screen dent, A-141) is implemented in revised form as **No. 162**, a verbatim-caption request, and the screen-frame dent is quoted in operative **No. 41**. Verbatim-caption requests for A-42, A-92, A-93, A-98, A-99 and A-103 were added as **Nos. 156–161**. [69] (trim-board chip) and [71] (catch-all) are 🗂 **deferred**; [71]'s cross-references are stale. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-14. The September 3, 2024 denial rested on a non-engineer's inspection — replaces interrogatory item Q-10
@@ -483,8 +555,10 @@ Whether the Hancock photographs depict damage other than interior water damage. 
 
 **One interrogatory stays earmarked in reserve** for the gap between whatever that narrative report says and the letter's assertion that "[t]here were no other damages observed." If the report documents damage the letter denied observing, that is worth a sworn explanation — asked with the report in hand.
 
-`APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
+`APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☑   REJECT ☐   HOLD ☐`
 
+
+> **Status as of September 16, 2026:** ✅ **Applied as edited.** [72] → **No. 184**, [73] → **No. 185**, [74] → **No. 186**, [76] → **No. 187** (section AC). Nos. 185 and 186 add "in connection with The Claim" so FIE cannot deny them by pointing to engineering work on an earlier claim. [75] is superseded by operative **No. 70**; the September 3 coverage statement is **No. 3**. Tracker U-7 is complete. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0 and §5-J.
 ---
 
 ## Related conversions pending elsewhere

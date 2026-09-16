@@ -125,6 +125,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 21:** Admit that You are bound by The Appraisal Award's determination that hail was the cause of loss to the windows designated "F1.7" and "B1.2."
 
+*See also Request for Admission No. 183.*
+
 **REQUEST FOR ADMISSION NO. 22:** Admit that the appraisal umpire, Wade Roos, did not provide You with a written report or estimate.
 
 **REQUEST FOR ADMISSION NO. 23:** Admit that, on The Appraisal Award, the signature line and date line for "Greg Tomes" beneath the statement "We certify the amounts established above for the described loss" are blank.
@@ -134,6 +136,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 *D. The September 3, 2024 denial*
 
 **REQUEST FOR ADMISSION NO. 24:** Admit that Your September 3, 2024 letter to Plaintiffs stated, “There were no other damages observed.”
+
+*See also Requests for Admission Nos. 184–187.*
 
 **REQUEST FOR ADMISSION NO. 25:** Admit that on September 6, 2024, Your Senior Claim Adjuster Nicholas Brau observed dents on multiple windows at The Property.
 
@@ -532,6 +536,24 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 181:** Admit that You made payment to Plaintiff Yibiao Lu on The 2020 Claim.
 
 **REQUEST FOR ADMISSION NO. 182:** Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") does not identify the location at The Property of the item or items addressed by line item 1.
+
+*AB. The Appraisal Award and the policy exclusions*
+
+> To be read with Requests Nos. 17 through 21 and 27 through 33.
+
+**REQUEST FOR ADMISSION NO. 183:** Admit that You do not contend that any provision of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form bars or reduces recovery for the loss to the windows designated "F1.7" and "B1.2" in The Appraisal Award.
+
+*AC. The September 3, 2024 letter and the inspection on which it rested*
+
+> To be read with Requests Nos. 3, 4, 11, 24, 25, 55, and 64 through 72.
+
+**REQUEST FOR ADMISSION NO. 184:** Admit that the inspection referred to in Your September 3, 2024 letter as "we had your home inspected" was the August 29, 2024 inspection performed by Hancock Claims Consultants.
+
+**REQUEST FOR ADMISSION NO. 185:** Admit that, in connection with The Claim, You did not obtain any engineering analysis, engineering report, or engineering opinion concerning The Property before issuing Your September 3, 2024 letter.
+
+**REQUEST FOR ADMISSION NO. 186:** Admit that, in connection with The Claim, no licensed professional engineer inspected The Property on Your behalf before September 3, 2024.
+
+**REQUEST FOR ADMISSION NO. 187:** Admit that Nicholas Brau did not inspect The Property before Your September 3, 2024 letter was issued.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
