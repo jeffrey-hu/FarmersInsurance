@@ -421,7 +421,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 151:** Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
 
-*O. The September 3, 2024 letter package and its photograph logs*
+*O. The September 3, 2024 Denial Package and its photograph logs*
 
 **REQUEST FOR ADMISSION NO. 152:** Admit that You sent The September 3, 2024 Denial Package to Plaintiffs on or about September 3, 2024.
 
