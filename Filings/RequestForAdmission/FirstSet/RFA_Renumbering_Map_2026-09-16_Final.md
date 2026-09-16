@@ -455,7 +455,7 @@
 | 156 | **158** + **159** (new) | S-3: No. 158 = photographs 98–100 are downspouts; new No. 159 = each bears a No-Damage Caption |
 | 157–189 | **160–192** | +3 |
 
-**Cross-references updated in the set:** Instruction 8 (Request No. 59 → **60**); section F note (47–50 / 46 → 48–51 / 47); section G note (51–56; 14, 38, 57–64 → 52–57; 14, 39, 58–65); pointer under No. 64 (Nos. 81–105 → **82–106**); section J note (82–101, 124–130 → 83–102, 125–131); section N note (141–150; 8–12, 33, 136–138 → 142–151; 8–12, 34, 137–139); No. 167 (Request No. 162 → **163**). Unchanged: pointer under No. 140 (No. 27); all "preceding request" references still point correctly.
+**Cross-references updated in the set:** Instruction 8 (Request No. 59 → **60**); section F note (47–50 / 46 → 48–51 / 47); section G note (51–56; 14, 38, 57–64 → 52–57; 14, 39, 58–65); pointer under No. 64 (Nos. 81–105 → **82–106**); section I note (57–64 → **58–65**; fixed in the V-1 follow-up); section J note (82–101, 124–130 → 83–102, 125–131); section N note (141–150; 8–12, 33, 136–138 → 142–151; 8–12, 34, 137–139); No. 167 (Request No. 162 → **163**). Unchanged: pointer under No. 140 (No. 27); all "preceding request" references still point correctly.
 
 **Other files updated:** Second Set draft (First Set numbers), initial-disclosures note (185–187 → **188–190**), Prieve deposition plan (103 → **104**), README, Service_Log. KeyDecisions (Nos. 29–30) unchanged.
 

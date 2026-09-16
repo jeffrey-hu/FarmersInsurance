@@ -992,6 +992,88 @@ Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_fo
 - **Splits require renumbering.** ✅ S-2 to S-4 applied with renumbering on 9/16/2026 (S-10 declined). S-2 to S-4 (and S-10) each added a request. Renumbering is still safe before service, but it touches the map, the Second Set, the initial-disclosures note, the Prieve deposition plan and KeyDecisions. Alternatively, reduce each compound request to one proposition, which avoids renumbering.
 - **Stray empty folder.** An empty folder `EventDocuments/_tmp_render` was accidentally created during this review. Delete it; git ignores empty folders.
 
+## 11. Second self-review after the S-2 to S-4 renumbering (September 16, 2026)
+
+Checked: the `.md` (Nos. 1–192), the rebuilt `.docx`, and every file that cites First Set numbers. Numbers are **current (1–192)**. **Status: ✅ V-1, V-2 and V-3 applied 9/16/2026; `.docx` rebuilt and verified.**
+
+### 11.1 Fix before service
+
+| # | Where | Issue | Proposed fix |
+|---|---|---|---|
+| V-1 | **Section I note** (above No. 82), in the `.md` and the `.docx` | **Stale cross-reference.** It still says "To be read with Requests Nos. 57 through 64." After the S-4 split, those requests are Nos. **58 through 65**. My S-2 to S-4 pass missed this note; the §10.4 checklist named it, but I didn't update it. | Change to "Nos. 58 through 65," rebuild the `.docx`, and add the note to Table C of the final map. |
+
+### 11.2 Housekeeping (not served)
+
+| # | Where | Issue | Proposed fix |
+|---|---|---|---|
+| V-2 | `../README.md` | There is no row for the servable `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`. The `.md` row still says "Before service: update KeyDecisions (K-4), build the `.docx`," and both are done. | Add a **SERVE THIS** row for the `.docx`. Change the `.md` row's to-do list to "fill in dates, sign, PDF, email before 5:00 p.m." |
+| V-3 | `OffenseStrategies/Deposition/2.1Prieve_Nathan.md` §2.8(e) | The phrase is doubled: "final numbering (final numbering as revised …)". | Change to "First Set RFA No. 104 (final numbering as revised 9/16/2026)." |
+| V-4 | §10.4 checklist, item 4 | The checklist is correct, but the pass skipped note I. | No text change; V-1 closes it. |
+
+### 11.3 Verified in this pass
+
+- **Numbering:** Nos. 1–192 are contiguous with no duplicates. Every request carried over from the 1–189 set sits at the number Table C predicts. Section ranges match the final map (C 19–32 … U 187–192).
+- **Relative references still point correctly:** Nos. 49, 81, 136, 138 and 166 ("preceding"), No. 167 (→ No. 163), and the pointers under No. 64 (→ 82–106) and No. 140 (→ 27).
+- **Instruction 8:** it cites No. 60, and No. 60 is the NWS request that carries the web address.
+- **Section notes F, G, J and N:** they match the requests they describe.
+- **New Nos. 156–159, checked against the Second Photo Set** (the September 3, 2024 letter PDF, pp. 25–74, read with text recognition):
+  - Siding captions: North 25–32, South 50–64, East 73–78 and West 93–97, which is **34**. Each caption begins "Siding … Damage - No."
+  - Photos 98–100 are captioned "Down Spouts Damaged East/Right - No," "…South/Front - No," and "…South/Front - No_2."
+- **New No. 32** matches the award's "Siding & Paint" line (Causation "Hail"; see §3, row 20).
+- **Other files:**
+  - Second Set draft, initial-disclosures note (188–190), Prieve plan (104), Service_Log and README counts: converted correctly.
+  - KeyDecisions (Nos. 29–30): unchanged, and still correct.
+- **Word file:** all 192 request texts match the `.md`.
+
+### 11.4 Still open (unchanged)
+
+- The certificate ¶1 internal note (`KeyDecisions.md`, Decision 4) is in the `.md` only; the `.docx` correctly omits it.
+- `.git/index.lock` and the empty `EventDocuments/_tmp_render` folder still need to be removed before committing.
+- Dates, signatures and service are still to be done.
+
+## 12. Review of the Definitions and Instructions (September 16, 2026)
+
+**Scope:** the notice paragraph, the Definitions, and Instructions 1–10 of the current set (Nos. 1–192). They were checked against Minn. R. Civ. P. 26.05, 26.07, 36.01 and 36.02 (revisor.mn.gov, retrieved 9/16/2026) and against the source documents. **Status: proposed, not applied.** None of these fixes adds or removes a request, so no renumbering is needed. The `.docx` must be rebuilt after any change.
+
+### 12.1 Fix before service
+
+| # | Where | Problem | Proposed fix |
+|---|---|---|---|
+| DI-1 | **"The Claim"** | "…arising from the July 13, 2024 **hail loss**" builds the disputed causation fact into a term used in 20 requests and in other definitions. FIE can answer each one "denied that any hail loss occurred" or qualify it, and the qualification then taints every answer. | "…means Farmers claim number 7007986837-1-1, **date of loss July 13, 2024**." This is how FIE's own letters describe it ("Loss Date 07/13/2024"; see No. 166). |
+| DI-2 | **Instruction 4** (Continuing duty) | "If Defendant later learns that an answer was incorrect … it must … **amend**" invites FIE to take back an admission by simply serving an amended answer. Rule 36.02 says an admission "is conclusively established **unless the court on motion permits withdrawal or amendment**." Rule 26.05(a) applies to RFA responses, but it cannot override 36.02. | "Defendant must supplement or correct its responses as Minn. R. Civ. P. 26.05(a) requires. **A matter admitted, however, is conclusively established and may be withdrawn or amended only by order of the Court on motion under Minn. R. Civ. P. 36.02.**" |
+| DI-3 | **"The September 3, 2024 Letter Package," "The First Photo Set," "The Second Photo Set"** | (a) It says "the photograph **log**" (singular), but there are two logs. (b) The package is defined "as You re-transmitted the same … on October 10, 2025," yet the Photo Sets are defined as logs "enclosed with" the package. That makes **No. 152** ("the Package enclosed" both sets) true by definition. It also means that if FIE denies the 2024 mailing enclosed the logs, it can argue the Photo Set definitions fail, which would put **Nos. 152–162** at risk. (c) The package's attachment has the same title as the separately defined Coverage Outcome Attachment. | Anchor everything to the document FIE itself generated. Add: **"The October 10, 2025 Production"** means the 75-page PDF You sent Plaintiffs by an email link with Your October 10, 2025 letter. Then: **Letter Package** = pages 2–75 of it (the September 3, 2024 letter, its attachment, and the photograph logs); **First Photo Set** = pages 7–25 (footer date 8/30/2024, photos 1–38); **Second Photo Set** = pages 26–75 (footer date 8/31/2024, photos 1–100). No. 152 then asks a real question: whether the 2024 letter enclosed those logs. ⚠️ Page 6 (a single page footer-dated 8/30/2024) is still unidentified. Viewing it before service would settle whether the First Set log starts at page 6 or 7. |
+| DI-4 | **Instruction 9**, second clause and last sentence | "Identify … the person who has the information withheld" and "must identify the specific legal entity by name" are **interrogatory-type demands**. Rule 36.01 requires only admit, deny, or explain. No request in this set asks "which" entity, so the last sentence has nothing to apply to. It gives FIE a ready objection to the instructions. It also opens an argument that the set contains hidden interrogatories, which matters because our interrogatory count is already close to the limit (the Rule 33.01(a) certification problem). | "**If Defendant answers any request on behalf of fewer than all persons within the definition of "You," it must say so in that answer and state which persons are excluded.**" Delete the rest. Entity identification belongs in the interrogatories. |
+
+### 12.2 Worth fixing (moderate risk)
+
+| # | Where | Problem | Proposed fix |
+|---|---|---|---|
+| DI-5 | **"You/Your"** breadth | It includes "**former**" agents, "**attorneys**," "third-party administrators," and "**any other person acting on their behalf**," which sweeps in Hancock and Prieve. That makes the **negative and contention requests** (Nos. 26, 36, 52, 81, 136, 139, 149–151, 168, 185–186, 191–192) harder to admit. FIE can say it cannot, after reasonable inquiry, speak for former employees or independent contractors. "Attorneys" also sits awkwardly beside Instruction 10. The definition matches the served RFP and the interrogatories (the 9/15 party-definition review), so changing it is a **decision for you**. | **Option A (recommended for RFAs):** "…Fire Underwriters Association (…), and their employees, adjusters, and agents, **acting in connection with The Policy, The Claim, or The 2020 Claim**." This drops "former," "attorneys," and the catch-all. **Option B:** keep it as is for consistency with the served RFP. |
+| DI-6 | **"Document"** | "…all metadata and non-identical drafts and copies" is an RFP-style definition. In **Nos. 107–124, 149–151** ("no document … records"), it widens what FIE must search before it can admit, which invites "cannot admit or deny after reasonable inquiry." | "**"Document"** means any writing, photograph, note, or electronically stored record, including entries in Your electronic claim file." |
+| DI-7 | **"The Appraisal Award"** | "…**entered** September 12, 2025 **under Minn. Stat. § 65A.01**." "Entered" suggests court entry, and "under § 65A.01" is a legal characterization FIE can dispute. The Tomes certification line is also blank (Nos. 29–30). The definition should identify the document, not characterize it. | "…means the written appraisal award concerning The Claim dated on or about September 12, 2025." No request depends on the statute citation. |
+| DI-8 | **Instruction 8** and Rule 36.01 (copies) | No copies are served. The rule excuses copies only where documents "have been or are otherwise furnished or made available." That holds for FIE's own letters and The Prieve Report. Photo Appendix A reached Plaintiffs through agent Pietila, not with Brau's letter. For the genuineness requests (**Nos. 72, 82**), FIE may say it cannot confirm which copy is meant. | Add to Instruction 8: "**Plaintiffs will provide a copy of any document referred to in these requests promptly upon Defendant's request.**" |
+
+### 12.3 Low risk (accuracy)
+
+| # | Where | Problem | Proposed fix |
+|---|---|---|---|
+| DI-9 | Instruction 3 | "Conclusively established" leaves out Rule 36.02's "unless the court on motion permits withdrawal or amendment." That is a slight overstatement, and Rule 26.07 requires every request to be "consistent with these rules." | Add the qualifier. This is folded into DI-2's wording. |
+| DI-10 | Instruction 7 | "including reasonable **attorney fees**": self-represented parties generally cannot recover fees for their own time, so the warning reads as hollow. | "…the reasonable expenses incurred in making that proof, **including any reasonable attorney fees**, pursuant to Minn. R. Civ. P. 37.03(b)." |
+
+### 12.4 Checked and fine
+
+- **Notice paragraph:** the 30 days, "for purposes of this action only" (36.02), and "signed by the party or its attorney" all track Rule 36. The 45-day minimum for defendants has passed (service effective July 8, 2026).
+- **Instructions 1, 2 and 5** track Rule 36.01 ("fairly meet the substance"; reasonable inquiry; "genuine issue for trial … may not, on that ground alone, object").
+- **Instruction 6** (approximate dates) is a reasonable application of "fairly meet the substance." Keep it.
+- **Instruction 10** does not conflict with Nos. 52–53, which ask what FIE *contends* about work product, not for protected content.
+- **"Fire Insurance Exchange" (entity only):** the requests that quote a signature block ("Claims Spec Rep Prop, Fire Insurance Exchange": Nos. 56, 167, 169) quote text rather than use the term, so they are unaffected. ⚠️ Expect truthful **denials** of Nos. 8–12 if FIE's claim staff are employed by an affiliate of the attorney-in-fact rather than by the Exchange. Those denials are the point of the 9/15 party-definition review. Follow up by interrogatory or deposition, not through Instruction 9 (see DI-4).
+- **Source facts:**
+  - The Prieve Report has 7 pages ("Page 7 of 7") and its title matches.
+  - Photo Appendix A has 110 pages and photos A-1 to A-217 (PDF author Nathan Prieve, 11/4/2024).
+  - The No-Damage Caption examples match the log: "Window Wrap North Damaged - No_7" is on page 6 of 50 of the Second Photo Set, and "…No_20" is photo 24.
+  - The Photo Set page counts and footer dates match the October 10, 2025 production analysis.
+- **Signatures:** both self-represented Plaintiffs sign, as Rule 26.07(a) requires.
+
 ## Sources
 
 **Case documents (local):** the files listed in §2, plus `OfficialCourtDocuments/07_28_2026_…Correspondence for Judicial Approval…pdf` (Baskfield letter on § 45.028 service), `OfficialCourtDocuments/timeline.md`, `Filings/SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`, `EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`, `ClaimTimeline.md`, `KeyDecisions.md`, `Filings/Discovery/Service_Log.md`, `RFA_First_Set_Independent_Review_2026-09-15.md`, `RFA_Renumbering_Map_2026-09-15.md`, `Proposed_Changes_RFA_First_Set_2026-09-12.md`.

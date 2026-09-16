@@ -13,7 +13,8 @@ Consolidated here on **September 15, 2026** from `Filings/Discovery/RequestForAd
 
 | Path | Document | Status |
 |---|---|---|
-| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` | **FINAL NUMBERING (9/16/2026) — not yet served.** **192 requests**, Nos. 1–192, sections A–U, **no attachments**. Before service: update KeyDecisions (K-4), build the `.docx`, fill in dates, and serve by email before 5:00 p.m. |
+| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` | **FINAL NUMBERING (9/16/2026) — not yet served.** **192 requests**, Nos. 1–192, sections A–U, **no attachments**. Source text for the `.docx`; edit here, then rebuild the `.docx`. |
+| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | **SERVE THIS — not yet served.** Word version of the `.md` (Nos. 1–192), rebuilt 9/16/2026. To do: fill in the dates and service time, sign, save as PDF, and email before 5:00 p.m.; then log it in `../Discovery/Service_Log.md`. |
 | `FirstSet/` | `[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | ⚠️ **SUPERSEDED — DO NOT SERVE.** The 34-request draft. Retained as a dated baseline only. |
 | `FirstSet/` | `RFA_First_Set_Independent_Review_2026-09-15.md` | **REFERENCE.** The review that produced the operative set. |
 | `FirstSet/` | `RFA_Renumbering_Map_2026-09-16_Final.md` | **CURRENT MAP.** Working numbers from the 9/16/2026 review → final Nos. 1–189, plus Table C (S-2 to S-4 splits → Nos. 1–192). |

@@ -263,7 +263,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *I. Dents recorded in The Prieve Report*
 
-> The first Request in this section concerns the genuineness of The Prieve Report. The next twenty Requests each ask You to admit that a dent or indentation, identified by the sentence of The Prieve Report quoted in the Request, was present at The Property; they do not ask You to admit the cause of any dent or indentation. The remaining Requests in this section concern what The Prieve Report does not state. To be read with Requests Nos. 57 through 64.
+> The first Request in this section concerns the genuineness of The Prieve Report. The next twenty Requests each ask You to admit that a dent or indentation, identified by the sentence of The Prieve Report quoted in the Request, was present at The Property; they do not ask You to admit the cause of any dent or indentation. The remaining Requests in this section concern what The Prieve Report does not state. To be read with Requests Nos. 58 through 65.
 
 **REQUEST FOR ADMISSION NO. 82:** Admit that The Prieve Report is a genuine copy of the report prepared by Prieve Engineering, LLC, File Number 241008.
 
