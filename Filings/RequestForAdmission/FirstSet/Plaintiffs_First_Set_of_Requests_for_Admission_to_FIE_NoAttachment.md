@@ -359,6 +359,46 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 113:** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
 
+*U. Claim handlers and the September 6, 2024 inspection records*
+
+> Requests 114 through 123 concern the persons who handled The Claim and the records of the September 6, 2024 inspection, and are to be read with Requests Nos. 6 through 10, 25, 60, and 61.
+
+**REQUEST FOR ADMISSION NO. 114:** Admit that Christian Dudley acted on behalf of Fire Insurance Exchange in handling The Claim.
+
+**REQUEST FOR ADMISSION NO. 115:** Admit that Nicholas Brau acted on behalf of Fire Insurance Exchange in handling The Claim.
+
+**REQUEST FOR ADMISSION NO. 116:** Admit that Bradlee Monson acted on behalf of Fire Insurance Exchange in handling The Claim.
+
+**REQUEST FOR ADMISSION NO. 117:** Admit that Zorphlon Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
+
+**REQUEST FOR ADMISSION NO. 118:** Admit that Jillian Bell acted on behalf of Fire Insurance Exchange in handling The Claim.
+
+**REQUEST FOR ADMISSION NO. 119:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, measurements, or sketches concerning the windows at The Property.
+
+**REQUEST FOR ADMISSION NO. 120:** Admit that on October 29, 2025, notes, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
+
+**REQUEST FOR ADMISSION NO. 121:** Admit that no document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection of The Property.
+
+**REQUEST FOR ADMISSION NO. 122:** Admit that, as of September 6, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+
+**REQUEST FOR ADMISSION NO. 123:** Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+
+*V. The Prieve engagement and the November 4, 2024 letter*
+
+> Requests 124 through 129 concern the engagement of Prieve Engineering, LLC and Your November 4, 2024 letter, and are to be read with Requests Nos. 12, 26, and 35 through 41.
+
+**REQUEST FOR ADMISSION NO. 124:** Admit that You do not contend that the Prieve Report was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d).
+
+**REQUEST FOR ADMISSION NO. 125:** Admit that Nathan Prieve was not retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2).
+
+**REQUEST FOR ADMISSION NO. 126:** Admit that The Prieve Report states that Prieve Engineering, LLC visited The Property "Per the request of Nic Brau of Farmers Insurance."
+
+**REQUEST FOR ADMISSION NO. 127:** Admit that The Prieve Report bears the report date November 4, 2024.
+
+**REQUEST FOR ADMISSION NO. 128:** Admit that Your November 4, 2024 letter to Plaintiffs was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
+
+**REQUEST FOR ADMISSION NO. 129:** Admit that Your November 4, 2024 letter to Plaintiffs stated, "Our investigation found the condition of the window and components to be from wear/tear as referrenced in the attached engineer report."
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.

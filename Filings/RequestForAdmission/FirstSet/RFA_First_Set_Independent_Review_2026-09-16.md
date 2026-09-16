@@ -17,7 +17,7 @@
 2. Commit with a message that names the ID (for example, `RFA: apply F-23`).
 3. Keep declined items in the table so they are not raised again.
 
-**Status as of September 16, 2026.** The operative set has **113 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23). Everything after J-1 to J-8 is not yet committed. Append new requests as **No. 114 onward** unless the set is renumbered once at the end (see §5).
+**Status as of September 16, 2026.** The operative set has **129 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125). Everything after J-1 to J-8 is not yet committed. Append new requests as **No. 130 onward** unless the set is renumbered once at the end (see §5).
 
 Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · 🗂 Deferred (recommended) · ❌ Declined
 
@@ -66,15 +66,15 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 |---|---|---|---|---|---|
 | U-1 | Marring hail exception: 4 requests (A.8 sentence; "windstorm or hail" listed; not set out in the Coverage Outcome Attachment; the attachment shows only "8. Marring." and an ellipsis) plus a pointer under No. 34 | §5-B | ✅ | Nos. 103–106 (section R); pointer under No. 34. Move after No. 34 at K-8 | 9/16/2026 |
 | U-2 | Service effective by July 8, 2026; no insufficient-service contention; no personal-jurisdiction contention (3 requests) | §5-D | ✅ | Nos. 111–113 (section T) | 9/16/2026 |
-| U-3 | "Acted on behalf of Fire Insurance Exchange": Dudley, Brau, Monson, Miller, Bell (5 requests) | §5-E | ⏳ | — | — |
-| U-4a | Brau made notes, measurements or sketches on Sept. 6, 2024; those records were in FIE's possession on Oct. 29, 2025 (2 requests; supplements RFA 78) | §5-E | ⏳ | — | — |
-| U-4b | Proposal A-4 [40] (no produced document records Brau's observations) | §4 | ⏳ | — | — |
-| U-4c | Proposal A-12 [67], [68] (no litigation hold as of 9/6/2024 and 11/4/2024) | §4 | ⏳ | — | — |
-| U-5a | Proposal A-9 [59], [60] (Prieve not engaged in anticipation of litigation) | §4 | ⏳ | — | — |
-| U-5b | Prieve visit "Per the request of Nic Brau"; report dated Nov. 4, 2024 (2 requests) | §5-E | ⏳ | — | — |
+| U-3 | "Acted on behalf of Fire Insurance Exchange": Dudley, Brau, Monson, Miller, Bell (5 requests) | §5-E | ✅ | Nos. 114–118 (section U) | 9/16/2026 |
+| U-4a | Brau made notes, measurements or sketches on Sept. 6, 2024; those records were in FIE's possession on Oct. 29, 2025 (2 requests; supplements RFA 78) | §5-E | ✅ | Nos. 119–120 (section U) | 9/16/2026 |
+| U-4b | Proposal A-4 [40] (no produced document records Brau's observations) | §4 | ✅ | No. 121 (section U) ← earlier label A-4 [40] | 9/16/2026 |
+| U-4c | Proposal A-12 [67], [68] (no litigation hold as of 9/6/2024 and 11/4/2024) | §4 | ✅ | Nos. 122–123 (section U) ← earlier labels A-12 [67], [68] | 9/16/2026 |
+| U-5a | Proposal A-9 [59], [60] (Prieve not engaged in anticipation of litigation) | §4 | ✅ | Nos. 124–125 (section V) ← earlier labels A-9 [59], [60] | 9/16/2026 |
+| U-5b | Prieve visit "Per the request of Nic Brau"; report dated Nov. 4, 2024 (2 requests) | §5-E | ✅ | Nos. 126–127 (section V) | 9/16/2026 |
 | U-6 | *Quade* causation lock (same as F-21) plus proposal A-11 [66] | §4, §5-C | ⏳ partial | No. 21 (Quade lock, via F-21); A-11 [66] still pending | 9/16/2026 |
 | U-7 | Sept. 3 coverage statement (✅ applied as No. 3 via F-3) plus proposal A-14 [72], [73], [74] (⏳ pending) | §4 | ⏳ partial | No. 3 | 9/16/2026 (partial) |
-| U-8 | Nov. 4 letter signed by Brau; the "wear/tear as referrenced in the attached engineer report" quote (2 requests) | §5-E | ⏳ | — | — |
+| U-8 | Nov. 4 letter signed by Brau; the "wear/tear as referrenced in the attached engineer report" quote (2 requests) | §5-E | ✅ | Nos. 128–129 (section V) | 9/16/2026 |
 | U-9 | Award: "Siding & Paint" $0 / $0 with Causation "Hail" | §5-C | ✅ | No. 110 (section S) | 9/16/2026 |
 | U-10 | Optional: Sept. 3 letter's "We will inform you in writing if … reopening your claim" (pairs with RFA 59) | §3 (No. 59) | ⏳ | — | — |
 | U-11 | Optional: Prieve's "not of sufficient size" opinion states no hail size, velocity or material threshold (pairs with RFAs 38–39) | §3 (Nos. 38–39) | ⏳ | — | — |
@@ -107,13 +107,13 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Item | Status | Note |
 |---|---|---|---|
-| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 113 |
-| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–113 |
-| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–113 are now used) | ⏳ | Rebuild once, after all decisions |
+| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 129 |
+| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–129 |
+| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–129 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
 | K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ⏳ | Now verified: the request is wrong as drafted (F-23) |
 | K-5 | Commit the Nos. 93–100 addition to git | ✅ | Committed in `ac2e92d` (9/15/2026 22:19 per git timestamp) |
-| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
-| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23 and 34, the section-note references in sections R and S ("Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
+| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
+| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23 and 34, the section-note references in sections R, S, U and V (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
 | K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ⏳ | After all decisions |
 
 ---
@@ -400,23 +400,59 @@ plus proposal **A-14 [72], [73], [74]**. This also replaces the lost support for
 
 At K-8, move section T so it follows section O (Nos. 87–92), which carries the same Affirmative Defense 1 note.
 
-### 5-E. U-3, U-4, U-5, U-8
+### 5-E. U-3, U-4, U-5, U-8 (sections U and V, Nos. 114–129)
 
-> **[new ×5]** Admit that [Christian Dudley / Nicholas Brau / Bradlee Monson / Zorphlon Miller / Jillian Bell] acted on behalf of Fire Insurance Exchange in handling The Claim.
+*Revised September 16, 2026, at application.* The bracketed numbers from the earlier proposals ([40], [59], [60], [67], [68]) were numbered against the 34-request draft and are labels only. Each request received the next free number:
+
+| Earlier label | New No. |
+|---|---|
+| A-4 [40] | 121 |
+| A-12 [67], [68] | 122, 123 |
+| A-9 [59], [60] | 124, 125 |
+
+The earlier requests are carried over word for word, with one edit: in [40], "Mr. Brau's" becomes "Nicholas Brau's." The rule citations in [59] and [60] (Minn. R. Civ. P. 26.02(d) and 26.02(e)(2)) were checked against revisor.mn.gov on 9/16/2026. None of Nos. 114–129 cites another request by its number, except in the section notes, so the sections can be moved at K-8. No. 121 overlaps No. 61 but is broader; keep both.
+
+> *U. Claim handlers and the September 6, 2024 inspection records*
 >
-> **[new]** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, measurements, or sketches concerning the windows at The Property.
+> > Requests 114 through 123 concern the persons who handled The Claim and the records of the September 6, 2024 inspection, and are to be read with Requests Nos. 6 through 10, 25, 60, and 61.
 >
-> **[new]** Admit that on October 29, 2025, notes, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
+> **114.** (U-3) Admit that Christian Dudley acted on behalf of Fire Insurance Exchange in handling The Claim.
 >
-> **A-4 [40]; A-12 [67], [68]; A-9 [59], [60]** — as drafted in `Proposed_Changes_RFA_First_Set_2026-09-12.md`.
+> **115.** (U-3) Admit that Nicholas Brau acted on behalf of Fire Insurance Exchange in handling The Claim.
 >
-> **[new]** Admit that The Prieve Report states that Prieve Engineering LLC visited The Property "Per the request of Nic Brau of Farmers Insurance."
+> **116.** (U-3) Admit that Bradlee Monson acted on behalf of Fire Insurance Exchange in handling The Claim.
 >
-> **[new]** Admit that The Prieve Report bears the report date November 4, 2024.
+> **117.** (U-3) Admit that Zorphlon Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
 >
-> **[new]** Admit that Your November 4, 2024 letter to Plaintiffs was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
+> **118.** (U-3) Admit that Jillian Bell acted on behalf of Fire Insurance Exchange in handling The Claim.
 >
-> **[new]** Admit that Your November 4, 2024 letter to Plaintiffs stated, "Our investigation found the condition of the window and components to be from wear/tear as referrenced in the attached engineer report."
+> **119.** (U-4a) Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, measurements, or sketches concerning the windows at The Property.
+>
+> **120.** (U-4a) Admit that on October 29, 2025, notes, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
+>
+> **121.** (U-4b · A-4 [40]) Admit that no document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection of The Property.
+>
+> **122.** (U-4c · A-12 [67]) Admit that, as of September 6, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+>
+> **123.** (U-4c · A-12 [68]) Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+>
+> *V. The Prieve engagement and the November 4, 2024 letter*
+>
+> > Requests 124 through 129 concern the engagement of Prieve Engineering, LLC and Your November 4, 2024 letter, and are to be read with Requests Nos. 12, 26, and 35 through 41.
+>
+> **124.** (U-5a · A-9 [59]) Admit that You do not contend that the Prieve Report was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d).
+>
+> **125.** (U-5a · A-9 [60]) Admit that Nathan Prieve was not retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2).
+>
+> **126.** (U-5b) Admit that The Prieve Report states that Prieve Engineering, LLC visited The Property "Per the request of Nic Brau of Farmers Insurance."
+>
+> **127.** (U-5b) Admit that The Prieve Report bears the report date November 4, 2024.
+>
+> **128.** (U-8) Admit that Your November 4, 2024 letter to Plaintiffs was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
+>
+> **129.** (U-8) Admit that Your November 4, 2024 letter to Plaintiffs stated, "Our investigation found the condition of the window and components to be from wear/tear as referrenced in the attached engineer report."
+
+At K-8, move section U next to Nos. 60–61, and section V next to the Prieve requests (Nos. 35–41). Update both section notes when you do.
 
 ### 5-F. Prieve, NWS, photographs
 
