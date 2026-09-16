@@ -120,7 +120,11 @@ The September 14, 2026 draft stipulation (`Filings/Discovery/Proposed_EService_S
 
 ### Consequence for the First Discovery Sets
 
-The email certificate of service already in the operative `.docx` files is now **accurate**, and the blocking service defect identified in `Filings/Discovery/FirstSetDiscovey/Interrogatories/Interrogatories_First_Set_Independent_Review_2026-09-15.md` § 2 is **cured**. Served by email before 5:00 p.m. on September 16, 2026, responses are due **October 16, 2026** — 31 days before the November 16, 2026 joinder deadline, and three days sooner than service by mail would have produced.
+The email certificate of service already in the operative `.docx` files is now **accurate**, and the blocking service defect identified in `Filings/Discovery/FirstSetDiscovey/Interrogatories/Interrogatories_First_Set_Independent_Review_2026-09-15.md` § 2 is **cured**.
+
+Email service is complete on transmission (Minn. Gen. R. Prac. 14.03(e)), so the 30-day response period under Minn. R. Civ. P. 33.01(b) runs from the send date, adding nothing — except that a transmission **after 5:00 p.m.** adds one day under Minn. R. Civ. P. 6.01(e). **Send before 5:00 p.m.**
+
+⚠️ **Service backstop: October 16, 2026.** To have responses in hand before the November 16, 2026 joinder deadline, the sets must be served by **October 16, 2026** at the latest. Every day of delay past that date is a day the joinder decision has to be made without Defendant's answers. As of September 16, 2026 the sets are **not yet served** — three items still block them: the inaccurate Rule 33.01(a) certification, the unverified RFA 23, and the missing RFA `.docx`.
 
 ### Housekeeping
 
@@ -158,4 +162,39 @@ Section 2.1 of `Filings/Discovery/Meet_and_Confer_Letter_Scheduling_Order_2026-0
 
 ---
 
-*Last updated: 2026-09-15 — add new decisions below as they are made.*
+## Decision 6: Meet and Confer on the Scheduling Order — Letter Sent September 15, 2026
+
+**Decision: Plaintiffs raised six implementation issues under the September 8, 2026 Scheduling Order by letter rather than by motion, and set their own response dates.**
+
+**Status:** ✅ Sent. ⏳ **Awaiting Defendant — September 29 and October 9, 2026.**
+
+Sent by email at approximately 8:49 p.m. on September 15, 2026 to Mary Baskfield and Kevin Kennedy, cc Jie Hu. The signed three-page PDF as sent is at `OfficialDiscoveyDocuments/MeetAndConfer/Lu_Hu_Meet_and_Confer_Letter_2026-09-15.pdf`; the full log entry, including the item-by-item table of what was asked, is at `Filings/Discovery/CommunicationLogs/2026-09-15-MeetAndConferLetterSent/`.
+
+### Why a letter and not a motion
+
+Minn. Gen. R. Prac. 115.10 requires the parties to confer before **any** motion. Three of the four motions now foreseeable in this case — a joinder motion, a Rule 111.04 motion to extend the joinder deadline, and any motion about the scope of the March 15, 2027 deadline — would each have needed a conferral record. One letter creates that record for all of them, and does so before the disputes harden. The letter also says so on its face: *"This letter also begins the conferral required by Minn. Gen. R. Prac. 115.10."*
+
+### The dates this letter now controls
+
+| Date | What | Consequence of Defendant's silence |
+|---|---|---|
+| **Sept. 29, 2026 (Tue)** | Items 1–4, item 6 (mediation), and the preservation confirmation | Plaintiffs may proceed under ¶4 of the Scheduling Order on any discovery dispute, having conferred |
+| **Oct. 9, 2026 (Fri)** | Item 5 — Defendant's position on the proper party | Silence is itself the good-cause showing for a Rule 111.04 motion, and the trigger to file a protective joinder motion |
+| **Oct. 13, 2026 (Tue)** | Mediator candidates exchanged | Moves toward the Rule 114.04(b) impasse fallback |
+| **Oct. 27, 2026 (Tue)** | Scheduling Order ¶6 notice to the Court of the neutral and the mediation date | Neither party can satisfy ¶6 alone — a joint notice of impasse asking the Court to appoint a Qualified Neutral becomes the fallback |
+| **Nov. 16, 2026 (Mon)** | Joinder deadline | A Rule 111.04 extension motion must be **made before** this date, not on it |
+
+### The two things that make this letter work later
+
+1. **It is dated and it is provable.** Keep the sent message with full headers. Under Minn. Gen. R. Prac. 14.03(e) email service is complete on transmission, and the September 14, 2026 e-service agreement (Decision 4) is what makes that valid here.
+2. **It states rule arithmetic, not preference.** The letter shows *why* October 9 is the date — Rule 21 plus Gen. R. Prac. 115.04 plus Rule 115.02 put any joinder motion on file in late October. The Court's September 8 Order already rejected Plaintiffs' proposed timeline as "more than one year beyond the timeline for similar cases," so a later request for relief has to be arithmetic, not a general plea for time. This letter is that arithmetic, on the record, six weeks early.
+
+### Follow-up
+
+If nothing arrives by **September 30, 2026**, send a short follow-up email. An unanswered letter is good; an unanswered letter plus a documented, ignored reminder is materially better on a Rule 111.04 or Rule 37.01 showing.
+
+**Sources:** Minn. Gen. R. Prac. 115.10, 115.04, 115.02, 114.04(b), 111.04 · Minn. R. Civ. P. 21, 16.02 · Scheduling Order ¶¶1, 2, 3, 5, 6, 8, September 8, 2026 · Letter as sent, verified page by page September 16, 2026.
+
+---
+
+*Last updated: 2026-09-16 — add new decisions below as they are made.*
