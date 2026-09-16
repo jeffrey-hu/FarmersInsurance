@@ -128,7 +128,7 @@ Email service is complete on transmission (Minn. Gen. R. Prac. 14.03(e)), so the
 - **Requests for Admission:** the `.docx` was built September 16, 2026 (`Filings/RequestForAdmission/FirstSet/Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`). Nothing blocks it now. Date it, sign it, and serve it.
 - **Interrogatories:** still blocked by the inaccurate Rule 33.01(a) certification.
 
-~~The unverified RFA 23~~ is **resolved** (September 16, 2026). Checked against the award image, the old request ("Greg Tomes did not sign The Appraisal Award") was wrong as drafted: Tomes signed the umpire-appointment block, and left blank only his line under "We certify the amounts established above." The request was rewritten and is now **First Set No. 29**, with a companion at **No. 30**, under the final numbering of September 16, 2026 (`Filings/RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`). ⚠️ Both still rest on a phone photograph of the award; confirm them against a clean copy before service if one can be obtained.
+~~The unverified RFA 23~~ is **resolved** (September 16, 2026). Checked against the award image, the old request ("Greg Tomes did not sign The Appraisal Award") was wrong as drafted: Tomes signed the umpire-appointment block, and left blank only his line under "We certify the amounts established above." The request was rewritten and is now **First Set No. 29**, with a companion at **No. 30**, under the final numbering of September 16, 2026 (`Filings/RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`). ✅ Both were verified by Bill against the award on September 16, 2026.
 
 ### Housekeeping
 

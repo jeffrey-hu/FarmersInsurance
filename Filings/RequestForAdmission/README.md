@@ -7,16 +7,16 @@
 
 ## Contents
 
-> ⚠️ **Updated September 16, 2026.** The First Set was revised and renumbered (Nos. 1–189); see `FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` and the tracker in `FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0. The Second Set now has three parts (Nos. 1–16; Part 3 and No. 16 held). Older counts and statuses below this note are historical.
+> ⚠️ **Updated September 16, 2026.** The First Set was revised and renumbered (Nos. 1–192 after the S-2 to S-4 splits); see `FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` and the tracker in `FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0. The Second Set now has three parts (Nos. 1–16; Part 3 and No. 16 held). Older counts and statuses below this note are historical.
 
 Consolidated here on **September 15, 2026** from `Filings/Discovery/RequestForAdmission/`, so that all Requests for Admission live in one place.
 
 | Path | Document | Status |
 |---|---|---|
-| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` | **FINAL NUMBERING (9/16/2026) — not yet served.** **189 requests**, Nos. 1–189, sections A–U, **no attachments**. Before service: update KeyDecisions (K-4), build the `.docx`, fill in dates, and serve by email before 5:00 p.m. |
+| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` | **FINAL NUMBERING (9/16/2026) — not yet served.** **192 requests**, Nos. 1–192, sections A–U, **no attachments**. Before service: update KeyDecisions (K-4), build the `.docx`, fill in dates, and serve by email before 5:00 p.m. |
 | `FirstSet/` | `[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | ⚠️ **SUPERSEDED — DO NOT SERVE.** The 34-request draft. Retained as a dated baseline only. |
 | `FirstSet/` | `RFA_First_Set_Independent_Review_2026-09-15.md` | **REFERENCE.** The review that produced the operative set. |
-| `FirstSet/` | `RFA_Renumbering_Map_2026-09-16_Final.md` | **CURRENT MAP.** Working numbers from the 9/16/2026 review → final Nos. 1–189. |
+| `FirstSet/` | `RFA_Renumbering_Map_2026-09-16_Final.md` | **CURRENT MAP.** Working numbers from the 9/16/2026 review → final Nos. 1–189, plus Table C (S-2 to S-4 splits → Nos. 1–192). |
 | `FirstSet/` | `RFA_First_Set_Independent_Review_2026-09-16.md` | **REFERENCE + TRACKER.** Second-pass review and change tracker (§0). Uses working numbers; convert with the final map. |
 | `FirstSet/` | `RFA_Renumbering_Map_2026-09-15.md` | **HISTORICAL** (superseded 9/16/2026 by the final map). Old 1–34 → new 1–63, plus every A-item scored against the operative set. |
 | `FirstSet/` | `Proposed_Changes_RFA_First_Set_2026-09-12.md` | **OPEN.** Items A-1 to A-14. Of the 42 requests they propose, **3 are now superseded, 2 route to the Second Set, and 37 remain live** — which would take the First Set from 63 to 100. Numbered against the old set; use the map. |

@@ -8,6 +8,8 @@
 
 **Supersedes:** `RFA_Renumbering_Map_2026-09-15.md`, which maps the older 34-request draft and is now historical only.
 
+> ⚠️ **Revised later on September 16, 2026 (S-2, S-3, S-4).** Three compound requests were split, so the operative set is now **Nos. 1–192**. Tables A and B below map to the intermediate **1–189** numbering; convert those numbers to the current ones with **Table C**. The "Final sections" table shows the current (1–192) ranges.
+
 > **Not legal advice.** Working record. Once the set is served, these numbers are fixed: withdraw a request by letter and leave the gap; never renumber (`../../Document_Formatting_Standard.md` § 7).
 
 ## What the pass did
@@ -28,29 +30,29 @@
 
 ## Final sections
 
-| Final section | Title | Final Nos. |
+| Final section | Title | Final Nos. (1–192) |
 |---|---|---|
 | A | The Policy and the coverage grant | 1–6 |
 | B | Identity and capacity of the acting entity | 7–18 |
-| C | The Appraisal Award | 19–31 |
-| D | The September 3, 2024 denial | 32–37 |
-| E | The November 4, 2024 denial and the provisions it cited | 38–46 |
-| F | The Marring provision and its hail exception | 47–50 |
-| G | The Prieve engagement and the November 4, 2024 letter | 51–56 |
-| H | The Prieve Report and Photo Appendix A | 57–80 |
-| I | Dents recorded in The Prieve Report | 81–105 |
-| J | The 2020 Claim file and the dents recorded in The Prieve Report | 106–123 |
-| K | The 2020 Claim | 124–130 |
-| L | The engineer-report requirement and Plaintiffs' submissions | 131–135 |
-| M | Missing records and non-payment | 136–140 |
-| N | Claim handlers and the September 6, 2024 inspection records | 141–150 |
-| O | The September 3, 2024 letter package and its photograph logs | 151–161 |
-| P | The October 29, 2025 email | 162–165 |
-| Q | The October 21, 2025 reply and the handling of post-appraisal correspondence | 166–168 |
-| R | Party identity, agency, and the Hancock inspector | 169–173 |
-| S | The Policy's own provisions bearing on capacity, suit, and forum | 174–180 |
-| T | Service of process and jurisdiction | 181–183 |
-| U | Plaintiff Jie Hu's status under The Policy | 184–189 |
+| C | The Appraisal Award | 19–32 |
+| D | The September 3, 2024 denial | 33–38 |
+| E | The November 4, 2024 denial and the provisions it cited | 39–47 |
+| F | The Marring provision and its hail exception | 48–51 |
+| G | The Prieve engagement and the November 4, 2024 letter | 52–57 |
+| H | The Prieve Report and Photo Appendix A | 58–81 |
+| I | Dents recorded in The Prieve Report | 82–106 |
+| J | The 2020 Claim file and the dents recorded in The Prieve Report | 107–124 |
+| K | The 2020 Claim | 125–131 |
+| L | The engineer-report requirement and Plaintiffs' submissions | 132–136 |
+| M | Missing records and non-payment | 137–141 |
+| N | Claim handlers and the September 6, 2024 inspection records | 142–151 |
+| O | The September 3, 2024 letter package and its photograph logs | 152–164 |
+| P | The October 29, 2025 email | 165–168 |
+| Q | The October 21, 2025 reply and the handling of post-appraisal correspondence | 169–171 |
+| R | Party identity, agency, and the Hancock inspector | 172–176 |
+| S | The Policy's own provisions bearing on capacity, suit, and forum | 177–183 |
+| T | Service of process and jurisdiction | 184–186 |
+| U | Plaintiff Jie Hu's status under The Policy | 187–192 |
 
 ## Table A — final number → working number
 
@@ -441,6 +443,21 @@
 | 192 | **71** |
 | 63 | — (moved to Second Set, Request 16) |
 | 97, 98 | — (removed 9/16/2026) |
+
+## Table C — 1–189 numbering → current 1–192 numbering (S-2 to S-4 splits, 9/16/2026)
+
+| 1–189 No. | Current No. | Note |
+|---|---|---|
+| 1–30 | **1–30** | unchanged |
+| 31 | **31** + **32** (new) | S-4: No. 31 keeps the $0 / $0 values; new No. 32 asks about "Hail" in the Causation column |
+| 32–154 | **33–155** | +1 |
+| 155 | **156** + **157** (new) | S-2: No. 156 = 34 photographs whose captions begin with "Siding"; new No. 157 = each bears a No-Damage Caption |
+| 156 | **158** + **159** (new) | S-3: No. 158 = photographs 98–100 are downspouts; new No. 159 = each bears a No-Damage Caption |
+| 157–189 | **160–192** | +3 |
+
+**Cross-references updated in the set:** Instruction 8 (Request No. 59 → **60**); section F note (47–50 / 46 → 48–51 / 47); section G note (51–56; 14, 38, 57–64 → 52–57; 14, 39, 58–65); pointer under No. 64 (Nos. 81–105 → **82–106**); section J note (82–101, 124–130 → 83–102, 125–131); section N note (141–150; 8–12, 33, 136–138 → 142–151; 8–12, 34, 137–139); No. 167 (Request No. 162 → **163**). Unchanged: pointer under No. 140 (No. 27); all "preceding request" references still point correctly.
+
+**Other files updated:** Second Set draft (First Set numbers), initial-disclosures note (185–187 → **188–190**), Prieve deposition plan (103 → **104**), README, Service_Log. KeyDecisions (Nos. 29–30) unchanged.
 
 ## Files updated in the same pass
 

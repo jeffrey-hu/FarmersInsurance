@@ -12,7 +12,7 @@
 
 ## 0. Change status tracker
 
-> ✅ **Final renumbering (K-8) completed September 16, 2026.** The First Set now runs **Nos. 1–189** in sections A–U. **Every request number in this review, including this tracker, is a working number** from before the final renumbering. Convert with `RFA_Renumbering_Map_2026-09-16_Final.md` (Table B). The Second Set draft, the initial-disclosures note and the Prieve deposition plan were converted to final numbers in the same pass.
+> ✅ **Final renumbering (K-8) completed September 16, 2026.** The First Set then ran **Nos. 1–189** in sections A–U. ⚠️ **After the S-2 to S-4 splits (§10), it runs Nos. 1–192**; convert 1–189 numbers with Table C of the final map. **Every request number in this review, including this tracker, is a working number** from before the final renumbering. Convert with `RFA_Renumbering_Map_2026-09-16_Final.md` (Table B). The Second Set draft, the initial-disclosures note and the Prieve deposition plan were converted to final numbers in the same pass.
 
 **How to use this table.**
 1. When a proposal is applied, declined or held, update its row: set the status, give the request numbers where it landed, and add the date.
@@ -29,7 +29,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 |---|---|---|---|---|---|
 | F-3 | Replace RFA 3 (hail is not an enumerated covered peril) with the Sept. 3 coverage-statement quote, and add 2 new requests (the open-perils grant; B.26 does not reach windows) | §5-A | ✅ | No. 3 (replaced); Nos. 101–102 (section Q, "The coverage grant") | 9/16/2026 |
 | F-21 | Replace RFA 21 with the *Quade* causation lock on F1.7 / B1.2 (= U-6) | §5-C | ✅ | No. 21 (replaced) | 9/16/2026 |
-| F-23 | Replace RFA 23 (the Tomes certification line is blank) and add 23-A (Tomes signed only the umpire acknowledgment). ⚠️ Confirm on a clean copy of the award | §5-C | ✅ | No. 23 (replaced) + No. 109 (section S); pointer under No. 23. ⚠️ Still confirm on a clean award copy before service | 9/16/2026 |
+| F-23 | Replace RFA 23 (the Tomes certification line is blank) and add 23-A (Tomes signed only the umpire acknowledgment). ⚠️ Confirm on a clean copy of the award | §5-C | ✅ | No. 23 (replaced) + No. 109 (section S); pointer under No. 23. ✅ **Verified by Bill against the award, 9/16/2026.** (final Nos. 29–30) | 9/16/2026 |
 | F-51 | Replace RFA 51 (the 2020 estimate's window lines are 1, 2, 3 and 32) | §5-G | ✅ | No. 51 (replaced, self-contained) | 9/16/2026 |
 
 ### Tightened wording and definitions (§3, §5)
@@ -104,7 +104,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | A-8 | [53]–[55] (third-party payments; contended amount; deductible as the only reason) | ◐ Partly applied | **[53] → No. 190, [55] → No. 191** (section AF, applied 9/16/2026, as edited — §5-K). [52] is covered by No. 62. [54] (contention lock) remains optional and deferred. |
 | A-10 | Replacement-cost scope [61]–[65] | 🗂 | Keep deferred until there is a contractor or expert estimate. **Drop [64]** (mold or water remediation): the form's Fungi exclusions (A.10 / B.10) would draw a denial and invite that defense. **[61]** (blinds) is supported by FIE's own 2020 estimate, line 2. **[62]** and **[63]** (trim, repaint) risk opening a J6944 "consequential loss" argument. **[65]**'s cross-reference ("Nos. 61 through 64") is stale. |
 | A-13 | [69] trim chip, [71] catch-all | 🗂 | **Drop [69].** Prieve says the A-53 chip "is visible in prior photo logs … dated October 13, 2020," and describes A-90's surfaces as "aged," so the request supports FIE's pre-existing-damage theory. **[70]** is implemented as No. 162 (caption form). **[71]**'s cross-references ("Nos. 18, 19, 69 and 70") are stale; if revived, aim it at the downspouts in Nos. 43–46 and 157–160, where Hancock's "Damaged – No" captions (No. 69) contradict Prieve's dent captions. |
-| A-1 [35], A-2 [37], A-5 | Authentication requests and a clean award copy | 🗂 | Now Second Set Nos. 4 and 5 (Exhibits D and E are ready). A-5 is still open: a clean copy of the award is needed for Second Set No. 3 and to confirm First Set Nos. 23 and 109. ✅ **Second Set layout fixed 9/16/2026:** Nos. 4 and 5 were moved up under the Part 1 heading. The Second Set's backlog note was also updated to list only the open items. |
+| A-1 [35], A-2 [37], A-5 | Authentication requests and a clean award copy | 🗂 | Now Second Set Nos. 4 and 5 (Exhibits D and E are ready). A-5 is still open: a clean copy of the award is needed for Second Set No. 3 (First Set Nos. 23 and 109, now final Nos. 29–30, were verified by Bill on 9/16/2026, so the clean copy is needed only for Second Set authentication). ✅ **Second Set layout fixed 9/16/2026:** Nos. 4 and 5 were moved up under the Part 1 heading. The Second Set's backlog note was also updated to list only the open items. |
 
 ### Housekeeping (§6)
 
@@ -209,7 +209,7 @@ Key: ✅ accurate, serve as written · ✏️ accurate in substance, but tighten
 | 20 | ✅ | Accurate. The only other lines are "Siding & Paint" and "Debris," at $0 / $0, with causation "Hail." |
 | 21 | ❌ | See §1. **Replace** with U-6. |
 | 22 | ✅ ◻ | Answer ¶34. |
-| 23 | ❌ | See §1. **Replace** with the two requests in §5-C. ⚠️ The finding rests on a phone photograph. The second upper-block signature reads as "Gregory Tomes" beside a handwritten date of 9-12-2025. Confirm against a clean copy (proposal A-5), but do **not** serve the current text. Note that Answer ¶31 already admits the award was "signed by Wade Roos and Plaintiffs' appraiser John Foster." |
+| 23 | ❌ | See §1. **Replace** with the two requests in §5-C. ✅ Verified by Bill against the award on 9/16/2026 (final Nos. 29–30). The finding originally rested on a phone photograph. The second upper-block signature reads as "Gregory Tomes" beside a handwritten date of 9-12-2025. Confirm against a clean copy (proposal A-5), but do **not** serve the current text. Note that Answer ¶31 already admits the award was "signed by Wade Roos and Plaintiffs' appraiser John Foster." |
 
 ### D–E. Denial letters and cited provisions (24–34)
 
@@ -398,7 +398,7 @@ plus proposal **A-14 [72], [73], [74]**. This also replaces the lost support for
 
 **Pointer under No. 19:** *See also Requests for Admission Nos. 107–108.* **Pointer under No. 23:** *See also Request for Admission No. 109.*
 
-⚠️ Nos. 23 and 109 rest on a phone photograph of the award. Confirm both against a clean copy (A-5) before service.
+✅ Nos. 23 and 109 (final Nos. 29–30) were verified by Bill against the award on 9/16/2026.
 
 ### 5-D. U-2 — service and jurisdiction (section T, Nos. 111–113)
 
@@ -940,43 +940,56 @@ No. 151 asks FIE to admit that "each dent and indentation described in … the t
 
 ## 10. Pre-service self-review of the final set (September 16, 2026)
 
-Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`. Numbers below are **final** numbers. Nothing in this section has been applied yet.
+Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`. Numbers below are **final** numbers.
+
+> **Status (9/16/2026):** ✅ **S-1, S-5 and S-6 applied** (no renumbering; `.docx` rebuilt). ✅ **S-9 verified** by the user against the live NWS page. ❌ **S-10 declined** (No. 163 unchanged). ❌ **S-11 declined** (No. 7 unchanged). ✅ **S-7 and S-8 applied** (Nos. 51, 138; `.docx` rebuilt). ✅ **S-2, S-3 and S-4 applied** (compound requests split; set renumbered to **Nos. 1–192**; see Table C of `RFA_Renumbering_Map_2026-09-16_Final.md`; `.docx` rebuilt). **All §10 items are now closed.**
+>
+> ⚠️ **Numbering in §10:** the "Final No." column in 10.1 and 10.2 uses the 1–189 numbering the review was run on. §10.3 has been converted to the current 1–192 numbers.
 
 ### 10.1 Fix before service
 
 | # | Final No. | Issue | Proposed fix |
 |---|---|---|---|
-| S-1 | **154** | **Compound.** Two counts in one request (94 of 100, *and* 132 of 138). This is the same "separately set forth" defect that was fixed in working No. 151. | Delete the second clause. It follows arithmetically from Nos. 153 and 154. |
-| S-2 | **155** | **Compound.** It asks that the Second Photo Set contains 34 siding photos *and* that each bears a No-Damage Caption. | Split into two requests (needs renumbering), or reduce to one proposition. |
-| S-3 | **156** | **Compound.** It asks that photos 98–100 are downspout photos *and* that each bears a No-Damage Caption. | Split, or rewrite as a single verbatim-caption request. |
-| S-4 | **31** | **Compound.** It asks that the "Siding & Paint" line shows $0 / $0 *and* shows "Hail" causation. (I drafted this one.) | Split into two requests. |
-| S-5 | **65** | **Deniable wording.** It says photograph A-42 "depicts a dented downspout," but the caption reads "DOWNSPOUT **EXTENSION** AT FRONT, VIEW OF DENT AT UPPER EDGE." | Change to "depicts a dent in a downspout extension." |
-| S-6 | **Instruction 8** | **Inaccurate.** It says every request refers to a defined term or to a document in Defendant's possession. Nos. 59–60 refer to a public NWS web page, which is neither. Rule 36.01 excuses copies only of documents "furnished or made available." | Add: "…or to the publicly available National Weather Service web page identified by its address in Request No. 59." |
+| S-1 | **154** | **Compound.** Two counts in one request (94 of 100, *and* 132 of 138). This is the same "separately set forth" defect that was fixed in working No. 151. | Delete the second clause. It follows arithmetically from Nos. 153 and 154. ✅ **Applied 9/16/2026:** No. 154 now reads "Admit that 94 of the 100 photographs in The Second Photo Set bear a No-Damage Caption." |
+| S-2 | **155** | **Compound.** It asks that the Second Photo Set contains 34 siding photos *and* that each bears a No-Damage Caption. | Split into two requests (needs renumbering), or reduce to one proposition. ✅ **Applied 9/16/2026:** now **No. 156** ("…contains 34 photographs whose captions begin with the word "Siding."") and **No. 157** ("…each photograph in The Second Photo Set whose caption begins with the word "Siding" bears a No-Damage Caption."). |
+| S-3 | **156** | **Compound.** It asks that photos 98–100 are downspout photos *and* that each bears a No-Damage Caption. | Split, or rewrite as a single verbatim-caption request. ✅ **Applied 9/16/2026 (split):** now **No. 158** (photographs 98–100 are downspout photographs) and **No. 159** (each bears a No-Damage Caption). |
+| S-4 | **31** | **Compound.** It asks that the "Siding & Paint" line shows $0 / $0 *and* shows "Hail" causation. (I drafted this one.) | Split into two requests. ✅ **Applied 9/16/2026:** **No. 31** keeps the $0 / $0 values; new **No. 32** asks that the award states "Hail" in the Causation column for "Siding & Paint." This moved the NWS request from No. 59 to **No. 60**, and Instruction 8 was updated to match. |
+| S-5 | **65** | **Deniable wording.** It says photograph A-42 "depicts a dented downspout," but the caption reads "DOWNSPOUT **EXTENSION** AT FRONT, VIEW OF DENT AT UPPER EDGE." | Change to "depicts a dent in a downspout extension." ✅ **Applied 9/16/2026:** No. 65 now reads "…depicts a dent in a downspout extension at The Property." |
+| S-6 | **Instruction 8** | **Inaccurate.** It says every request refers to a defined term or to a document in Defendant's possession. Nos. 59–60 refer to a public NWS web page, which is neither. Rule 36.01 excuses copies only of documents "furnished or made available." | Add: "…or to the publicly available National Weather Service web page identified by its address in Request No. 59." ✅ **Applied 9/16/2026:** Instruction 8 now ends "…or to the publicly available National Weather Service web page identified by its address in Request No. 59." If No. 59 is renumbered, update this reference (see the §10.4 checklist). |
 
 ### 10.2 Worth doing (low risk)
 
 | # | Final No. | Issue | Proposed fix |
 |---|---|---|---|
-| S-7 | 51 | Uses "the Prieve Report" instead of the defined term "The Prieve Report." | Capitalize "The." |
-| S-8 | 138 | "Mr. Brau's" (every other request uses his full name) | "Nicholas Brau's" |
-| S-9 | 59–60 | The NWS page quotes were checked against the saved copy (4/4/2026, which the page marks "Preliminary information as of July 14, 2024"). The live page could not be fetched this session because the approval timed out. | Re-open the live page before service and confirm both quotes. |
-| S-10 | 163 | Two facts about one message (sender and subject line). Low risk, since both come from FIE's own header. | Optional split. |
-| S-11 | 7 | "issued **and** underwrote." FIE already admits it "issued" the policy (Answer ¶2). | Optional: "underwrote" only. |
+| S-7 | 51 | Uses "the Prieve Report" instead of the defined term "The Prieve Report." | Capitalize "The." ✅ **Applied 9/16/2026.** |
+| S-8 | 138 | "Mr. Brau's" (every other request uses his full name) | "Nicholas Brau's" ✅ **Applied 9/16/2026.** |
+| S-9 | 59–60 | The NWS page quotes were checked against the saved copy (4/4/2026, which the page marks "Preliminary information as of July 14, 2024"). The live page could not be fetched this session because the approval timed out. | ✅ **Verified by the user 9/16/2026** against the live NWS page; the quotes in Nos. 59–60 stand. |
+| S-10 | 163 | Two facts about one message (sender and subject line). Low risk, since both come from FIE's own header. | ❌ **Declined 9/16/2026** — keep No. 163 as is (both facts come from FIE's own email header). |
+| S-11 | 7 | "issued **and** underwrote." FIE already admits it "issued" the policy (Answer ¶2). | ❌ **Declined 9/16/2026** — keep No. 7 as is. |
 
 ### 10.3 Confirmed or accepted as is
 
-- **No. 158** (both photo logs contain interior photos): **verified** 9/16/2026 by viewing the pages. First Set photos 5–8 and 31–32 are interior, and so are Second Set photos 9–10. Side finding: Second Set photos 9–10 are the same images as First Set photos 5–6.
-- **Nos. 29–30** (Tomes signature): still rest on a phone photograph. Confirm against a clean copy if one can be obtained.
-- **Nos. 172–173** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
+- **No. 161** (both photo logs contain interior photos): **verified** 9/16/2026 by viewing the pages. First Set photos 5–8 and 31–32 are interior, and so are Second Set photos 9–10. Side finding: Second Set photos 9–10 are the same images as First Set photos 5–6.
+- **Nos. 29–30** (Tomes signature): ✅ **Verified by Bill against the award, 9/16/2026.**
+- **Nos. 175–176** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
 - **"Letter to Plaintiffs"** (12 uses): the September 3 and October 10 letters are addressed to Yibiao Lu (September 3 is copied to Jie Hu). Low risk, since "Plaintiffs" covers him. Accepted.
-- **No. 63** ("at least twenty-five distinct windows") is a characterization and may draw a denial. Kept deliberately; Nos. 81–101 carry the undeniable version.
-- **No. 165** (information existed that FIE had not released): low value, and FIE can admit it trivially. Kept; Nos. 146–147 carry the pointed version.
-- **Size (189 requests):** accepted (Z-1).
+- **No. 64** ("at least twenty-five distinct windows") is a characterization and may draw a denial. Kept deliberately; Nos. 82–102 carry the undeniable version.
+- **No. 168** (information existed that FIE had not released): low value, and FIE can admit it trivially. Kept; Nos. 147–148 carry the pointed version.
+- **Size (192 requests after the S-2 to S-4 splits):** accepted (Z-1).
 
 ### 10.4 Process notes
 
 - **Word file must be regenerated.** Any fix in 10.1 or 10.2 changes the `.md`, so the `.docx` must be rebuilt from it. The build script lives in the session workspace; the `.md` → `.docx` build takes about a minute.
-- **Splits require renumbering.** S-2 to S-4 (and S-10) each add a request. Renumbering is still safe before service, but it touches the map, the Second Set, the initial-disclosures note, the Prieve deposition plan and KeyDecisions. Alternatively, reduce each compound request to one proposition, which avoids renumbering.
+- **⚠️ Checklist for any further renumbering.** Request numbers are also cited **outside the request list**. Update every one:
+  1. **Instruction 8:** "…identified by its address in **Request No. 59**." This must match the NWS request that carries the web address. ✅ Done: No. 31 was split, so it now reads **Request No. 60**.
+  2. **Request texts:** No. 164 ("Request No. 162"). ✅ Now No. 167 ("Request No. 163").
+  3. **Pointers:** under No. 63 (→ Nos. 81–105) and under No. 139 (→ No. 27).
+  4. **Section notes:** F, G, I, J and N.
+  5. **Other files:** the final renumbering map, the Second Set draft, the initial-disclosures note (Nos. 185–187), the Prieve deposition plan (No. 103), and KeyDecisions (Nos. 29–30).
+  6. **Word file:** rebuild it and re-verify.
+
+  After renumbering, search the whole `.md` (preamble, instructions and notes included) for `No. ` and `Nos. ` to catch anything missed.
+- **Splits require renumbering.** ✅ S-2 to S-4 applied with renumbering on 9/16/2026 (S-10 declined). S-2 to S-4 (and S-10) each added a request. Renumbering is still safe before service, but it touches the map, the Second Set, the initial-disclosures note, the Prieve deposition plan and KeyDecisions. Alternatively, reduce each compound request to one proposition, which avoids renumbering.
 - **Stray empty folder.** An empty folder `EventDocuments/_tmp_render` was accidentally created during this review. Delete it; git ignores empty folders.
 
 ## Sources
@@ -991,7 +1004,7 @@ Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_fo
 - [NWS Twin Cities, Significant Wind and Hail in Minnesota July 13-14](https://www.weather.gov/mpx/2024-07-13-SignificantWindandHail) (as saved in `Evidence/`)
 
 **Verification gaps carried forward:**
-- The Tomes signature finding comes from a phone photograph; confirm it on a clean copy.
+- ~~The Tomes signature finding comes from a phone photograph.~~ ✅ **Verified by Bill against the award, 9/16/2026.** (final Nos. 29–30)
 - I did not re-view the interior-photo pages supporting No. 71.
 - The full text of policy item B.26 should be read before serving the new request in §5-A.
 - Whether the 2024 policy form matches the 2014 booklet is unresolved (§6, item 4).

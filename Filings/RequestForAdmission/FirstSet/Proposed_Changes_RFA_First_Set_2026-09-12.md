@@ -159,7 +159,7 @@ which pins the operative figures regardless of the quality of the image.
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
 
-> **Status as of September 16, 2026:** ⏳ **Open.** No clean copy of the award has been obtained yet. It is still needed for the Second Set authentication request, and to confirm operative Nos. 23 and 109, which rest on the phone photograph. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+> **Status as of September 16, 2026:** ⏳ **Open.** No clean copy of the award has been obtained yet. It is still needed for the Second Set authentication request. Working Nos. 23 and 109 (final Nos. 29–30) no longer depend on it: Bill verified them against the award on 9/16/2026. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-6. The defense-universe lock — move it here from Interrogatory 15
