@@ -124,7 +124,11 @@ The email certificate of service already in the operative `.docx` files is now *
 
 Email service is complete on transmission (Minn. Gen. R. Prac. 14.03(e)), so the 30-day response period under Minn. R. Civ. P. 33.01(b) runs from the send date, adding nothing — except that a transmission **after 5:00 p.m.** adds one day under Minn. R. Civ. P. 6.01(e). **Send before 5:00 p.m.**
 
-⚠️ **Service backstop: October 16, 2026.** To have responses in hand before the November 16, 2026 joinder deadline, the sets must be served by **October 16, 2026** at the latest. Every day of delay past that date is a day the joinder decision has to be made without Defendant's answers. As of September 16, 2026 the sets are **not yet served** — three items still block them: the inaccurate Rule 33.01(a) certification, the unverified RFA 23, and the missing RFA `.docx`.
+⚠️ **Service backstop: October 16, 2026.** To have responses in hand before the November 16, 2026 joinder deadline, the sets must be served by **October 16, 2026** at the latest. Every day of delay past that date is a day the joinder decision has to be made without Defendant's answers. As of September 16, 2026, the Requests for Production were served on September 15, 2026 (responses due October 15, 2026; `Filings/Discovery/Service_Log.md`). The Interrogatories and the Requests for Admission are **not yet served**. **They will be served separately** (decision, September 16, 2026), each on its own 30-day clock, and each should be served by October 16, 2026 at the latest:
+- **Requests for Admission:** the `.docx` was built September 16, 2026 (`Filings/RequestForAdmission/FirstSet/Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`). Nothing blocks it now. Date it, sign it, and serve it.
+- **Interrogatories:** still blocked by the inaccurate Rule 33.01(a) certification.
+
+~~The unverified RFA 23~~ is **resolved** (September 16, 2026). Checked against the award image, the old request ("Greg Tomes did not sign The Appraisal Award") was wrong as drafted: Tomes signed the umpire-appointment block, and left blank only his line under "We certify the amounts established above." The request was rewritten and is now **First Set No. 29**, with a companion at **No. 30**, under the final numbering of September 16, 2026 (`Filings/RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`). ⚠️ Both still rest on a phone photograph of the award; confirm them against a clean copy before service if one can be obtained.
 
 ### Housekeeping
 
@@ -197,4 +201,4 @@ If nothing arrives by **September 30, 2026**, send a short follow-up email. An u
 
 ---
 
-*Last updated: 2026-09-16 — add new decisions below as they are made.*
+*Last updated: 2026-09-16 — Decision 4 status note: RFA 23 blocker resolved (now First Set Nos. 29–30); add new decisions below as they are made.*

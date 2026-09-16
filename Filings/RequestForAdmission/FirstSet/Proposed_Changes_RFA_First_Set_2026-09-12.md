@@ -22,6 +22,8 @@
 **Companions:** `../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`
 
 > ### Status of items A-1 to A-14 (updated September 16, 2026)
+> ⚠️ **Final renumbering done 9/16/2026.** The operative-set numbers in the table below are **working numbers** (before the final renumbering). Convert them with `RFA_Renumbering_Map_2026-09-16_Final.md`, Table B. For example, No. 121 → final No. 148, and No. 183 → final No. 26.
+>
 > The original "NOTHING HAS BEEN CHANGED" note no longer applies. Several items have been applied to the operative set, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (189 live requests in slots 1–192 as of 9/16/2026; slots 63, 97 and 98 vacant). The bracketed numbers below ([35]–[76]) are **labels only** and do not match operative request numbers. Each section has a status line under its approval box. The master tracker is `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 >
 > | Item | Status | Where it landed |

@@ -12,6 +12,8 @@
 
 ## 0. Change status tracker
 
+> ✅ **Final renumbering (K-8) completed September 16, 2026.** The First Set now runs **Nos. 1–189** in sections A–U. **Every request number in this review, including this tracker, is a working number** from before the final renumbering. Convert with `RFA_Renumbering_Map_2026-09-16_Final.md` (Table B). The Second Set draft, the initial-disclosures note and the Prieve deposition plan were converted to final numbers in the same pass.
+
 **How to use this table.**
 1. When a proposal is applied, declined or held, update its row: set the status, give the request numbers where it landed, and add the date.
 2. Commit with a message that names the ID (for example, `RFA: apply F-23`).
@@ -92,6 +94,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | J-7 | No contention that Jie Hu lacks standing | §8 | ✅ | No. 99 | 9/16/2026 |
 | J-8 | No contention that Jie Hu is not a proper party plaintiff | §8 | ✅ | No. 100 | 9/16/2026 |
 | J-9 | Assemble proof of marriage and residence (not a request; evidence file) | §8 notes | ⏳ | Produce with the initial disclosures due 9/25/2026 so a lack-of-knowledge answer to Nos. 94–96 is hard to sustain. A drafter's note with a proposed item 13 and a checklist was added to `Filings/Discovery/InitialDisclosure/Plaintiffs_Initial_Disclosures.md` (9/16/2026) | — |
+| J-10 | Auto policy as proof for Jie Hu (Nos. 185–187, final numbering). FIE's 2023 home declarations list an "Auto/Home" discount. Check the auto declarations page: (1) which Farmers company issued it (FIE or an affiliate); (2) whether Jie Hu is listed as named insured, spouse or driver; (3) the address and a policy period covering 7/13/2024. Then decide: (a) add it to initial-disclosures item 13; (b) add an RFA quoting "Auto/Home" from The Policy's declarations; (c) add an RFA about the auto policy's listing of Jie Hu (draft only after seeing the page) | §8 | ⏳ Waiting on user (9/16/2026) | — | — |
 
 ### Deferred earlier proposals (§4). Re-checked 9/16/2026
 
@@ -107,10 +110,10 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Item | Status | Note |
 |---|---|---|---|
-| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 189 (update after K-8) |
-| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 189 requests (update after K-8) |
-| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–192 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
-| K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ⏳ | Now verified: the request is wrong as drafted (F-23) |
+| K-1 | `README.md` (RFA) says 63 requests | ✅ | `README.md` updated 9/16/2026: 189 requests, final numbering |
+| K-2 | `Service_Log.md` says "Nos. 1–92" | ✅ | `Service_Log.md` updated 9/16/2026: Nos. 1–189 |
+| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–192 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ✅ | Superseded by `RFA_Renumbering_Map_2026-09-16_Final.md` (new); the 9/15 map is marked historical |
+| K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ✅ | Updated 9/16/2026: KeyDecisions Decision 4 now marks the RFA 23 blocker resolved (final Nos. 29–30), notes the RFPs were served 9/15, and lists the two remaining blockers (interrogatory certification; RFA `.docx`) |
 | K-5 | Commit the Nos. 93–100 addition to git | ✅ | Committed in `ac2e92d` (9/15/2026 22:19 per git timestamp) |
 | K-7 | Commit the applied changes | ✅ | Committed through `5d77651` ("RFAs applied 5-I and 5-O"); the `.git/index.lock` file is gone |
 | R-9 | §9.3 restructure: Nos. 131–150 become existence requests; No. 151 deleted; genuineness request for the Prieve Report added | ✅ | Applied 9/16/2026. Genuineness request placed in No. 151's slot, so no renumbering was needed |
@@ -122,8 +125,8 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | R-14 | Second Set Part 3, Nos. 11–15: two sashes, not two windows; unpaid sashes of the front triple and north porch windows; line 3 retrofit charge; no document identifies the sash location | ⏸ | Second Set Part 3 (with checklist items 5–9). Held until FIE's production under RFPs 2, 22, 23 and 33 is reviewed |
 | Z-1 | Size review: replace caption requests Nos. 156–162 with one Photo Appendix A genuineness request (net −6) | ❌ Declined | Decision 9/16/2026: **keep Nos. 156–162.** Each caption names a specific non-window component (downspouts, flashing, door screen) that FIE's own engineer's photographer recorded as dented, which supports damage beyond the windows (Complaint ¶49(b)). The size concern is noted in §9.2(b); proceed with the full set. |
 | Z-2 | Add a genuineness request for Photo Appendix A (supports Nos. 42–48 and 156–162) | ✅ | No. 192 (section AG), applied 9/16/2026 — §5-L; pointer under No. 42 extended |
-| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (0) **Remove the vacant-slot notes (No. 63, Nos. 97–98) and the now-empty section J heading**, and close the gaps. (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; move section W (No. 130) after No. 37, section X (Nos. 131–155) after No. 41 (consider moving No. 151, the genuineness request, to the head of section X), and section Y (Nos. 156–162) after No. 47; place each section Z request (Nos. 163–180) right after its matching section X request, or keep section Z as a block after section X; move section AA (Nos. 181–182) after No. 52; move section AB (No. 183) immediately after No. 21; move section AC (Nos. 184–187) after No. 25; move section AD (No. 188) directly after No. 60 and change its "Request No. 60" to "the preceding request"; move section AE (No. 189) after No. 89 (or to the head of section O); move No. 190 (section AF) after No. 62 and No. 191 after No. 183; move No. 192 (section AG) to the head of section Y or next to No. 151; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 21, 23, 24, 34, 37, 40, 42, 52, 60, 62 and 89, No. 188's reference to "Request No. 60," the section-note references in sections R, S, U, V, W, X, Y, Z, AA, AB, AC, AD, AE, AF and AG (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
-| K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ⏳ | After all decisions |
+| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ✅ | Completed 9/16/2026. Vacant notes (63, 97, 98) and section J removed; sections moved and relettered A–U; renumbered 1–189; Nos. 164 and 137 references fixed; section notes remapped; redundant pointers removed (two remain, under Nos. 63 and 139). Other files converted as listed in the final map. **Not yet committed.** |
+| K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ◐ Word file built | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` built 9/16/2026 from the final `.md` (189 requests, 21 pages), using the served RFP `.docx` as the formatting template. All 189 request texts were checked against the `.md`. The internal note at the end of certificate ¶1 ("see `KeyDecisions.md`") was left out, as in the served RFP. **Still to do:** fill in the dates and service time, sign, convert to PDF, and serve by email before 5:00 p.m. Served **separately** from the Interrogatories (decision 9/16/2026). |
 
 ---
 
@@ -934,6 +937,47 @@ No. 151 asks FIE to admit that "each dent and indentation described in … the t
 **Sources:** Minn. R. Civ. P. 26.02(b), 26.03, 26.07, 36.01, 37.03(b) (revisor.mn.gov, retrieved 9/16/2026) · Fed. R. Civ. P. 36, 1970 Advisory Committee Note ("to facilitate proof with respect to issues that cannot be eliminated from the case, and secondly, to narrow the issues by eliminating those that can be") · *Heartland Surgical Specialty Hosp., LLC v. Midwest Div., Inc.*, No. 05-2164 (D. Kan.) (govinfo.gov) · NC Bar Blog, "Documents Do Not 'Speak for Themselves'" (collecting *Miller*, *Booth Oil*, *Diederich*, *Frontier-Kemper*, *House v. Giant of Maryland*).
 
 ---
+
+## 10. Pre-service self-review of the final set (September 16, 2026)
+
+Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`. Numbers below are **final** numbers. Nothing in this section has been applied yet.
+
+### 10.1 Fix before service
+
+| # | Final No. | Issue | Proposed fix |
+|---|---|---|---|
+| S-1 | **154** | **Compound.** Two counts in one request (94 of 100, *and* 132 of 138). This is the same "separately set forth" defect that was fixed in working No. 151. | Delete the second clause. It follows arithmetically from Nos. 153 and 154. |
+| S-2 | **155** | **Compound.** It asks that the Second Photo Set contains 34 siding photos *and* that each bears a No-Damage Caption. | Split into two requests (needs renumbering), or reduce to one proposition. |
+| S-3 | **156** | **Compound.** It asks that photos 98–100 are downspout photos *and* that each bears a No-Damage Caption. | Split, or rewrite as a single verbatim-caption request. |
+| S-4 | **31** | **Compound.** It asks that the "Siding & Paint" line shows $0 / $0 *and* shows "Hail" causation. (I drafted this one.) | Split into two requests. |
+| S-5 | **65** | **Deniable wording.** It says photograph A-42 "depicts a dented downspout," but the caption reads "DOWNSPOUT **EXTENSION** AT FRONT, VIEW OF DENT AT UPPER EDGE." | Change to "depicts a dent in a downspout extension." |
+| S-6 | **Instruction 8** | **Inaccurate.** It says every request refers to a defined term or to a document in Defendant's possession. Nos. 59–60 refer to a public NWS web page, which is neither. Rule 36.01 excuses copies only of documents "furnished or made available." | Add: "…or to the publicly available National Weather Service web page identified by its address in Request No. 59." |
+
+### 10.2 Worth doing (low risk)
+
+| # | Final No. | Issue | Proposed fix |
+|---|---|---|---|
+| S-7 | 51 | Uses "the Prieve Report" instead of the defined term "The Prieve Report." | Capitalize "The." |
+| S-8 | 138 | "Mr. Brau's" (every other request uses his full name) | "Nicholas Brau's" |
+| S-9 | 59–60 | The NWS page quotes were checked against the saved copy (4/4/2026, which the page marks "Preliminary information as of July 14, 2024"). The live page could not be fetched this session because the approval timed out. | Re-open the live page before service and confirm both quotes. |
+| S-10 | 163 | Two facts about one message (sender and subject line). Low risk, since both come from FIE's own header. | Optional split. |
+| S-11 | 7 | "issued **and** underwrote." FIE already admits it "issued" the policy (Answer ¶2). | Optional: "underwrote" only. |
+
+### 10.3 Confirmed or accepted as is
+
+- **No. 158** (both photo logs contain interior photos): **verified** 9/16/2026 by viewing the pages. First Set photos 5–8 and 31–32 are interior, and so are Second Set photos 9–10. Side finding: Second Set photos 9–10 are the same images as First Set photos 5–6.
+- **Nos. 29–30** (Tomes signature): still rest on a phone photograph. Confirm against a clean copy if one can be obtained.
+- **Nos. 172–173** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
+- **"Letter to Plaintiffs"** (12 uses): the September 3 and October 10 letters are addressed to Yibiao Lu (September 3 is copied to Jie Hu). Low risk, since "Plaintiffs" covers him. Accepted.
+- **No. 63** ("at least twenty-five distinct windows") is a characterization and may draw a denial. Kept deliberately; Nos. 81–101 carry the undeniable version.
+- **No. 165** (information existed that FIE had not released): low value, and FIE can admit it trivially. Kept; Nos. 146–147 carry the pointed version.
+- **Size (189 requests):** accepted (Z-1).
+
+### 10.4 Process notes
+
+- **Word file must be regenerated.** Any fix in 10.1 or 10.2 changes the `.md`, so the `.docx` must be rebuilt from it. The build script lives in the session workspace; the `.md` → `.docx` build takes about a minute.
+- **Splits require renumbering.** S-2 to S-4 (and S-10) each add a request. Renumbering is still safe before service, but it touches the map, the Second Set, the initial-disclosures note, the Prieve deposition plan and KeyDecisions. Alternatively, reduce each compound request to one proposition, which avoids renumbering.
+- **Stray empty folder.** An empty folder `EventDocuments/_tmp_render` was accidentally created during this review. Delete it; git ignores empty folders.
 
 ## Sources
 

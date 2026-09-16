@@ -133,7 +133,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 9:** Admit that replacing a damaged sash at The Property with a sash of a different profile would result in a visible difference in appearance between the replaced sash and the adjoining undamaged sashes of the same window.
 
-> **HOLD FOR DECISION (added September 16, 2026; tracker H-63).** Request 16 was First Set No. 63 until September 16, 2026. It was moved here because Semco's closure is the "obsolescence or discontinuation" fact that endorsement J6944 ¶(1)(iii) uses to exclude matching costs. Serving it before FIE raises J6944 could point FIE to that argument. First Set RFP 24 (served) already names J6944, but nothing yet ties the endorsement to Semco. **Decide before serving:** (a) keep it with Part 2 and serve only if FIE asserts J6944 or a matching limitation; (b) serve it earlier anyway, for example if replacement-cost evidence needs the discontinuation fact regardless of J6944; or (c) drop it. The fact is sourced to Sierra Pacific's February 18, 2020 release (GlobeNewswire: Semco "went out of business on December 31, 2019"). Complaint ¶43 alleges it, and FIE answered lack of knowledge.
+> **HOLD FOR DECISION (added September 16, 2026; tracker H-63).** Request 16 was First Set No. 63 (working numbering) until September 16, 2026. It was moved here because Semco's closure is the "obsolescence or discontinuation" fact that endorsement J6944 ¶(1)(iii) uses to exclude matching costs. Serving it before FIE raises J6944 could point FIE to that argument. First Set RFP 24 (served) already names J6944, but nothing yet ties the endorsement to Semco. **Decide before serving:** (a) keep it with Part 2 and serve only if FIE asserts J6944 or a matching limitation; (b) serve it earlier anyway, for example if replacement-cost evidence needs the discontinuation fact regardless of J6944; or (c) drop it. The fact is sourced to Sierra Pacific's February 18, 2020 release (GlobeNewswire: Semco "went out of business on December 31, 2019"). Complaint ¶43 alleges it, and FIE answered lack of knowledge.
 
 **REQUEST FOR ADMISSION NO. 16:** Admit that Semco Windows and Doors ceased operations on December 31, 2019.
 
@@ -143,7 +143,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 > 1. Look for any written inspection report, adjuster notes, field notes, sketches, or window-condition summary for the 2020 claim.
 > 2. **If none was produced**, confirm that FIE's written RFP response says the production is complete (not "will supplement" or "subject to objections"). Then serve as drafted.
 > 3. **If such a document was produced**, do not serve as drafted. Either drop the request, or reword it to the specific gap the document leaves (for example, that it does not identify a dent on a named window).
-> 4. Compare the October 13, 2020 photographs with First Set Nos. 163–180. If any photograph shows one of those dents, note it and expect FIE to deny the matching request.
+> 4. Compare the October 13, 2020 photographs with First Set Nos. 106–123. If any photograph shows one of those dents, note it and expect FIE to deny the matching request.
 >
 > **Additional checklist for Requests 11–15 (added September 16, 2026). Plaintiffs' position is that the 2020 claim paid for two sashes, not two whole windows. Confirm it from FIE's documents before serving any of these:**
 > 5. **Native estimate (RFP 33):** does the Xactimate sketch, room list, line note, or revision history tie line item 1 to a location, elevation or window? Does line item 3 ("retrofit window, 24-40 sf") measure a whole window assembly?
@@ -152,7 +152,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 > 8. **Reword Requests 12 and 13** to the specific sash or unit the documents identify, and remove the bracketed placeholders. Drop Request 11 or 14 if the documents contradict it.
 > 9. **Request 15** can be served as drafted only if the review confirms that no 2020 document identifies the sash location.
 >
-> Request 10 is the companion to First Set Nos. 163–180, which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
+> Request 10 is the companion to First Set Nos. 106–123, which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
 
 **REQUEST FOR ADMISSION NO. 10:** Admit that, other than the inspection photographs dated October 13, 2020, Your claim file for The 2020 Claim contains no written report or notes of an inspection of the windows at The Property.
 
@@ -250,29 +250,31 @@ Keep this list current. None of these is drafted above; each is held for the tri
 
 ### ⚠️ The larger backlog is not in this file (updated September 16, 2026)
 
+> First Set request numbers in this file follow the **final numbering of September 16, 2026** (Nos. 1–189). See `../FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` for the conversion from working numbers.
+
 Most of the proposals once listed here have now been applied to the First Set, moved into this Second Set, held, or dropped. The master status is the tracker in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, and the per-item status is in the table at the top of `../FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`.
 
 **Earlier A-items still open (not drafted here):**
 
 | Item | What remains | Trigger / note |
 |---|---|---|
-| **A-7** [48]–[51] | Loss settlement and the deductible measure | After FIE produces the policy form (First Set RFP 24). [48] needs rework (it conflicts with [49]); [51] is largely covered by First Set No. 189. |
-| **A-8** [54] | "You contend no amount is owed" (optional contention lock) | [53] and [55] are now First Set Nos. 190–191; [52] is covered by No. 62. |
+| **A-7** [48]–[51] | Loss settlement and the deductible measure | After FIE produces the policy form (First Set RFP 24). [48] needs rework (it conflicts with [49]); [51] is largely covered by First Set No. 177. |
+| **A-8** [54] | "You contend no amount is owed" (optional contention lock) | [53] and [55] are now First Set Nos. 140 and 27; [52] is covered by First Set No. 139. |
 | **A-10** [61]–[63], [65] | Scope of replacement cost (blinds, trim, repaint; catch-all) | After a contractor or expert estimate. [64] (mold) is to be dropped. [65]'s cross-reference is stale. |
-| **A-13** [71] | Catch-all "You do not contend … undamaged" | Stale cross-references. If revived, aim it at the downspouts (First Set Nos. 43–46, 157–160). [69] is to be dropped. |
+| **A-13** [71] | Catch-all "You do not contend … undamaged" | Stale cross-references. If revived, aim it at the downspouts (First Set Nos. 66–69 and 73–76). [69] is to be dropped. |
 | **A-3** [39] | The February 10, 2025 voicemail | Held. The draft misquotes the voicemail; requote it first (Complaint ¶25). |
 | **A-6** [41]–[47] | Defense-universe lock | Held — **do not serve**. It would point FIE to limitations and setoff defenses it has not pleaded. |
-| **A-5** | Clean copy of the appraisal award | Prerequisite for Request 3 of this set, and for confirming First Set Nos. 23 and 109. |
+| **A-5** | Clean copy of the appraisal award | Prerequisite for Request 3 of this set, and for confirming First Set Nos. 29 and 30. |
 
 A-1 [35] and A-2 [37] are Requests 4 and 5 of this set; their exhibits are ready (see the trigger table). **The earlier note that A-1 and A-2 "remain blocked" is withdrawn.** Exhibit D is Defendant's own October 10, 2025 letter package, and Exhibit E is the October 29, 2025 email with full headers (`../../../EventDocuments/2025-10-29-BrauEmail.pdf`). Export the native originals anyway before any motion that depends on them (`../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md`).
 
 **Answer-mining items AM-8 to AM-16** (`../../Discovery/FirstSetDiscovey/Answer_Mined_for_Discovery_CONSOLIDATED_2026-09-14.md`). Only AM-9 has been applied item by item; the others have not been individually re-checked. As of September 16, 2026, several appear to be covered by First Set requests:
-- **AM-9** (Jie Hu's status): applied as First Set Nos. 93–100.
-- **AM-8** (Hancock's "Damaged – No" tagging): appears covered by Nos. 66–69.
-- **AM-10** (the award's $0 siding and debris lines): partly covered by No. 110.
-- **AM-11** (hail causation for the two windows; loss date): causation is partly covered by No. 21. The loss date has not been asked.
-- **AM-12** (the rear-garage window): appears covered by Nos. 48–49.
-- **AM-14** (the "lack of jurisdiction" defense): appears covered by Nos. 111–113.
+- **AM-9** (Jie Hu's status): applied as First Set Nos. 184–189 (the two address requests were later removed).
+- **AM-8** (Hancock's "Damaged – No" tagging): appears covered by First Set Nos. 153–156.
+- **AM-10** (the award's $0 siding and debris lines): partly covered by First Set No. 31.
+- **AM-11** (hail causation for the two windows; loss date): causation is partly covered by First Set No. 25. The loss date has not been asked.
+- **AM-12** (the rear-garage window): appears covered by First Set Nos. 79–80.
+- **AM-14** (the "lack of jurisdiction" defense): appears covered by First Set Nos. 181–183.
 - **AM-13, AM-15 and AM-16:** not yet reviewed.
 
 **Re-check each against the First Set before drafting anything from this list.**

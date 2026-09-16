@@ -1,5 +1,7 @@
 # RFA Renumbering Map — First Set to FIE
 
+> ⚠️ **HISTORICAL — superseded September 16, 2026** by `RFA_Renumbering_Map_2026-09-16_Final.md`. This file maps the old 34-request draft. Its "new" and "revised" numbers are **not** the final request numbers; do not use them to cite the First Set.
+
 **Built:** September 15, 2026
 **Maps:** the **34-request** draft (`[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx`) → the operative **86-request** set (`Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md`)
 **Status of both:** not yet served

@@ -7,14 +7,18 @@
 
 ## Contents
 
+> ⚠️ **Updated September 16, 2026.** The First Set was revised and renumbered (Nos. 1–189); see `FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` and the tracker in `FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0. The Second Set now has three parts (Nos. 1–16; Part 3 and No. 16 held). Older counts and statuses below this note are historical.
+
 Consolidated here on **September 15, 2026** from `Filings/Discovery/RequestForAdmission/`, so that all Requests for Admission live in one place.
 
 | Path | Document | Status |
 |---|---|---|
-| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` | **READY — SERVE.** 63 requests, **no attachments**. Fill the service date and time, then serve by e-mail. |
+| `FirstSet/` | `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` | **FINAL NUMBERING (9/16/2026) — not yet served.** **189 requests**, Nos. 1–189, sections A–U, **no attachments**. Before service: update KeyDecisions (K-4), build the `.docx`, fill in dates, and serve by email before 5:00 p.m. |
 | `FirstSet/` | `[Superseded 2026-09-12] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` | ⚠️ **SUPERSEDED — DO NOT SERVE.** The 34-request draft. Retained as a dated baseline only. |
 | `FirstSet/` | `RFA_First_Set_Independent_Review_2026-09-15.md` | **REFERENCE.** The review that produced the operative set. |
-| `FirstSet/` | `RFA_Renumbering_Map_2026-09-15.md` | **REFERENCE — read before applying any proposal.** Old 1–34 → new 1–63, plus every A-item scored against the operative set. |
+| `FirstSet/` | `RFA_Renumbering_Map_2026-09-16_Final.md` | **CURRENT MAP.** Working numbers from the 9/16/2026 review → final Nos. 1–189. |
+| `FirstSet/` | `RFA_First_Set_Independent_Review_2026-09-16.md` | **REFERENCE + TRACKER.** Second-pass review and change tracker (§0). Uses working numbers; convert with the final map. |
+| `FirstSet/` | `RFA_Renumbering_Map_2026-09-15.md` | **HISTORICAL** (superseded 9/16/2026 by the final map). Old 1–34 → new 1–63, plus every A-item scored against the operative set. |
 | `FirstSet/` | `Proposed_Changes_RFA_First_Set_2026-09-12.md` | **OPEN.** Items A-1 to A-14. Of the 42 requests they propose, **3 are now superseded, 2 route to the Second Set, and 37 remain live** — which would take the First Set from 63 to 100. Numbered against the old set; use the map. |
 | `SecondSet/` | `Plaintiffs_Second_Set_of_Requests_for_Admission_to_FIE_DRAFT.md` | **DRAFT — HELD.** Part 1 (authentication, 1–3) ready once a clean award copy exists. Part 2 (J6944 matching, 4–7) held until FIE asserts matching. |
 | `SecondSet/` | `Plaintiffs_RFA_Exhibits_A-C.pdf` | **HELD** with the Second Set. ⚠️ Exhibit C is a phone photo of the award — replace before serving authentication. |
@@ -52,7 +56,7 @@ Built by applying `FirstSet/RFA_First_Set_Independent_Review_2026-09-15.md`.
 
 Since the parties' **September 15, 2026** agreement, service is by e-mail (`../../KeyDecisions.md`, Decision 4): complete **upon transmission**, **no days added**, one day only if transmitted after 5:00 p.m. Minnesota time. The e-mail certificate is already in both documents. Served before 5:00 p.m. on September 16, 2026, responses are due **October 16, 2026**.
 
-Serve the First Set together with the Interrogatories and Requests for Production so one 30-day clock and one meet-and-confer cycle covers all three. Discovery is served, not filed. Minn. R. Civ. P. 5.04(b).
+~~Serve the First Set together with the Interrogatories and Requests for Production.~~ **Decision, September 16, 2026: the First Set of RFAs and the Interrogatories will be served separately.** The Requests for Production went out September 15, 2026. Each set runs its own 30-day clock from its own transmission, so calendar each response date separately in `../Discovery/Service_Log.md`, and handle each set's meet-and-confer on its own schedule. The RFA set does not depend on the interrogatory certification fix; serve it as soon as it is dated and signed. Discovery is served, not filed. Minn. R. Civ. P. 5.04(b).
 
 ## Before serving — open items
 
