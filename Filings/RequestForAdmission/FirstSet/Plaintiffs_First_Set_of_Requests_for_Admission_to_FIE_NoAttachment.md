@@ -25,6 +25,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **"The Policy"** means homeowner's Policy 98055-49-65 (shown on Defendant's correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
 
+**"The Policy Form"** means the Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition, as listed in the Declarations of The Policy effective October 22, 2023.
+
 **"The Property"** means the insured dwelling at 17756 George Moran Dr., Eden Prairie, Minnesota 55347.
 
 **"The Prieve Report"** means the report of Prieve Engineering, LLC, File #241008, together with all drafts thereof.
@@ -77,7 +79,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 2:** Admit that the windstorm/hail deductible applicable to The Claim is $17,720.
 
-**REQUEST FOR ADMISSION NO. 3:** Admit that hail is an enumerated covered peril under Section I (Loss or Damage Insured) of The Policy.
+**REQUEST FOR ADMISSION NO. 3:** Admit that Your September 3, 2024 letter to Plaintiffs stated, "our investigation found your policy provides coverage for direct physical loss to insured property, less uninsured or excluded."
 
 **REQUEST FOR ADMISSION NO. 4:** Admit that The Policy contains no provision requiring that evidence supporting a claim be provided by an engineer.
 
@@ -115,15 +117,19 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 18:** Admit that The Appraisal Award identifies the two awarded windows only by the designations “F1.7” and “B1.2.”
 
-**REQUEST FOR ADMISSION NO. 19:** Admit that The Appraisal Award states a single lump-sum Replacement Cost Value of $12,800 and does not state separately the actual value and the loss for each of the two awarded windows.
+**REQUEST FOR ADMISSION NO. 19:** Admit that The Appraisal Award states a Replacement Cost Value of $12,800 and an Actual Cash Value of $6,400 on a single line, the item description of which reads "Windows F1.7 B1.2."
+
+*See also Requests for Admission Nos. 107–108.*
 
 **REQUEST FOR ADMISSION NO. 20:** Admit that The Appraisal Award does not state an actual value or a loss for any window at The Property other than the two windows designated “F1.7” and “B1.2.”
 
-**REQUEST FOR ADMISSION NO. 21:** Admit that The Appraisal Award is binding upon Defendant Fire Insurance Exchange as to the matters it determined.
+**REQUEST FOR ADMISSION NO. 21:** Admit that You are bound by The Appraisal Award's determination that hail was the cause of loss to the windows designated "F1.7" and "B1.2."
 
 **REQUEST FOR ADMISSION NO. 22:** Admit that the appraisal umpire, Wade Roos, did not provide You with a written report or estimate.
 
-**REQUEST FOR ADMISSION NO. 23:** Admit that Your appraiser, Greg Tomes, did not sign The Appraisal Award.
+**REQUEST FOR ADMISSION NO. 23:** Admit that, on The Appraisal Award, the signature line and date line for "Greg Tomes" beneath the statement "We certify the amounts established above for the described loss" are blank.
+
+*See also Request for Admission No. 109.*
 
 *D. The September 3, 2024 denial*
 
@@ -152,6 +158,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 33:** Admit that The Coverage Outcome Attachment cites Section I.B.8, “Wear and Tear, Deterioration or Mechanical Breakdown.”
 
 **REQUEST FOR ADMISSION NO. 34:** Admit that the definition of “Marring” set out at paragraph 16 of The Coverage Outcome Attachment lists “denting” among its examples of marring.
+
+*See also Requests for Admission Nos. 103–106.*
 
 *F. The Prieve Report and Photo Appendix A*
 
@@ -310,6 +318,46 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 99:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
 
 **REQUEST FOR ADMISSION NO. 100:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
+
+*Q. The coverage grant*
+
+**REQUEST FOR ADMISSION NO. 101:** Admit that The Policy Form, at "Section I - Loss or Damage Insured," states: "We insure accidental direct physical loss or damage to that property described in Section I - Types of Property Insured."
+
+**REQUEST FOR ADMISSION NO. 102:** Admit that item 26 ("Windstorm or hail") of subsection B of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form does not apply to loss or damage to the windows of the dwelling at The Property.
+
+*R. The Marring provision and its hail exception*
+
+> Requests 103 and 104 quote The Policy Form. Requests 105 and 106 concern The Coverage Outcome Attachment transmitted with Your November 4, 2024 letter, and are to be read with Request No. 34.
+
+**REQUEST FOR ADMISSION NO. 103:** Admit that item 8 ("Marring") of subsection A of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form states: "However, we do insure marring which is directly caused by, arises out of or results from the following causes of loss, subject to the terms and limitations set forth in subsection B. Excluded Causes of Loss or Damage and in Extensions of Coverage for any such cause of loss or extensions of coverage:"
+
+**REQUEST FOR ADMISSION NO. 104:** Admit that "windstorm or hail" is among the causes of loss listed immediately after the sentence quoted in the preceding request.
+
+**REQUEST FOR ADMISSION NO. 105:** Admit that The Coverage Outcome Attachment does not set out the sentence of item 8 ("Marring") of subsection A that begins "However, we do insure marring."
+
+**REQUEST FOR ADMISSION NO. 106:** Admit that, for item 8 ("Marring") of subsection A, The Coverage Outcome Attachment sets out only the heading "8. Marring." followed by an ellipsis.
+
+*S. The Appraisal Award: itemization, signatures, and the siding line*
+
+> Requests 107 through 110 concern the face of The Appraisal Award and are to be read with Requests Nos. 17 through 23.
+
+**REQUEST FOR ADMISSION NO. 107:** Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "F1.7."
+
+**REQUEST FOR ADMISSION NO. 108:** Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "B1.2."
+
+**REQUEST FOR ADMISSION NO. 109:** Admit that the only signature of Greg Tomes on The Appraisal Award appears in the section acknowledging that Wade Roos "has been appointed to act as umpire in accord with the policy conditions."
+
+**REQUEST FOR ADMISSION NO. 110:** Admit that The Appraisal Award states a Replacement Cost Value of $0 and an Actual Cash Value of $0 for the item "Siding & Paint," and states "Hail" in the Causation column for that item.
+
+*T. Service of process and jurisdiction*
+
+> Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
+
+**REQUEST FOR ADMISSION NO. 111:** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
+
+**REQUEST FOR ADMISSION NO. 112:** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
+
+**REQUEST FOR ADMISSION NO. 113:** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 

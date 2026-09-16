@@ -17,7 +17,7 @@
 2. Commit with a message that names the ID (for example, `RFA: apply F-23`).
 3. Keep declined items in the table so they are not raised again.
 
-**Status as of September 16, 2026.** The operative set has **100 requests**. The only change applied so far is **J-1 to J-8** (Nos. 93–100, 20 lines added, not yet committed to git). New requests should be appended as **No. 101 onward** unless the set is renumbered once at the end (see §5).
+**Status as of September 16, 2026.** The operative set has **113 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23). Everything after J-1 to J-8 is not yet committed. Append new requests as **No. 114 onward** unless the set is renumbered once at the end (see §5).
 
 Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · 🗂 Deferred (recommended) · ❌ Declined
 
@@ -25,18 +25,18 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Proposal | Review § | Status | Where it landed | Date |
 |---|---|---|---|---|---|
-| F-3 | Replace RFA 3 (hail is not an enumerated covered peril) with the Sept. 3 coverage-statement quote, and add 2 new requests (the open-perils grant; B.26 does not reach windows) | §5-A | ⏳ | — | — |
-| F-21 | Replace RFA 21 with the *Quade* causation lock on F1.7 / B1.2 (= U-6) | §5-C | ⏳ | — | — |
-| F-23 | Replace RFA 23 (the Tomes certification line is blank) and add 23-A (Tomes signed only the umpire acknowledgment). ⚠️ Confirm on a clean copy of the award | §5-C | ⏳ | — | — |
+| F-3 | Replace RFA 3 (hail is not an enumerated covered peril) with the Sept. 3 coverage-statement quote, and add 2 new requests (the open-perils grant; B.26 does not reach windows) | §5-A | ✅ | No. 3 (replaced); Nos. 101–102 (section Q, "The coverage grant") | 9/16/2026 |
+| F-21 | Replace RFA 21 with the *Quade* causation lock on F1.7 / B1.2 (= U-6) | §5-C | ✅ | No. 21 (replaced) | 9/16/2026 |
+| F-23 | Replace RFA 23 (the Tomes certification line is blank) and add 23-A (Tomes signed only the umpire acknowledgment). ⚠️ Confirm on a clean copy of the award | §5-C | ✅ | No. 23 (replaced) + No. 109 (section S); pointer under No. 23. ⚠️ Still confirm on a clean award copy before service | 9/16/2026 |
 | F-51 | Replace RFA 51 (the 2020 estimate's window lines are 1, 2, 3 and 32) | §5-G | ⏳ | — | — |
 
 ### Tightened wording and definitions (§3, §5)
 
 | ID | Proposal | Review § | Status | Where it landed | Date |
 |---|---|---|---|---|---|
-| D-1 | Add a definition of "The Policy Form" (Form 56-5543 2nd Ed.) | §5-A | ⏳ | — | — |
+| D-1 | Add a definition of "The Policy Form" (Form 56-5543 2nd Ed.) | §5-A | ✅ | Definitions, after "The Policy" (applied with F-3) | 9/16/2026 |
 | D-2 | Narrow "The Prieve Report" to the 7-page Nov. 4, 2024 report (drop "all drafts") | §5-F | ⏳ | — | — |
-| T-19 | Split RFA 19 into 19, 19-A and 19-B (§ 65A.01 itemization) | §5-C | ⏳ | — | — |
+| T-19 | Split RFA 19 into 19, 19-A and 19-B (§ 65A.01 itemization) | §5-C | ✅ | No. 19 (replaced) + Nos. 107–108 (section S); pointer under No. 19 | 9/16/2026 |
 | T-36 | Requote RFA 36 to the full NOAA sentence | §5-F | ⏳ | — | — |
 | T-37 | Rewrite RFA 37 verbatim to the NWS page and add 37-A (Eden Prairie wind gust) | §5-F | ⏳ | — | — |
 | T-40 | Keep RFA 40 and add 3 verbatim Prieve narrative requests | §5-F | ⏳ | — | — |
@@ -48,7 +48,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | T-54 | Replace RFA 54 (no hail loss dated after Sept. 5, 2020) | §5-G | ⏳ | — | — |
 | T-58 | RFA 58: add "directly or through Your agent Peter Pietila" | §5-I | ⏳ | — | — |
 | T-60 | Split RFA 60 (quote only) and add 60-A (the requested date was Sept. 6, 2024) | §5-I | ⏳ | — | — |
-| T-87 | RFAs 87–89: anchor to "The Policy Form" and add a form-identity request. Also align No. 93's wording if D-1 is adopted | §5-O | ⏳ | — | — |
+| T-87 | RFAs 87–89: anchor to "The Policy Form" and add a form-identity request. D-1 is now adopted, so also change No. 93 from "The Policy" to "The Policy Form" | §5-O | ⏳ | — | — |
 | T-92 | RFA 92: specify the 2023–2024 renewal documents | §5-O | ⏳ | — | — |
 | I-3 | Instruction 3: add the Rule 36.01 remedy (court may order the matter admitted) | §6 item 1 | ⏳ | — | — |
 
@@ -64,18 +64,18 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Proposal | Review § | Status | Where it landed | Date |
 |---|---|---|---|---|---|
-| U-1 | Marring hail carve-back: 3 requests (A.8 sentence; "windstorm or hail" listed; omitted from the Coverage Outcome Attachment) | §5-B | ⏳ | — | — |
-| U-2 | Service effective by July 8, 2026; no insufficient-service contention; no personal-jurisdiction contention (3 requests) | §5-D | ⏳ | — | — |
+| U-1 | Marring hail exception: 4 requests (A.8 sentence; "windstorm or hail" listed; not set out in the Coverage Outcome Attachment; the attachment shows only "8. Marring." and an ellipsis) plus a pointer under No. 34 | §5-B | ✅ | Nos. 103–106 (section R); pointer under No. 34. Move after No. 34 at K-8 | 9/16/2026 |
+| U-2 | Service effective by July 8, 2026; no insufficient-service contention; no personal-jurisdiction contention (3 requests) | §5-D | ✅ | Nos. 111–113 (section T) | 9/16/2026 |
 | U-3 | "Acted on behalf of Fire Insurance Exchange": Dudley, Brau, Monson, Miller, Bell (5 requests) | §5-E | ⏳ | — | — |
 | U-4a | Brau made notes, measurements or sketches on Sept. 6, 2024; those records were in FIE's possession on Oct. 29, 2025 (2 requests; supplements RFA 78) | §5-E | ⏳ | — | — |
 | U-4b | Proposal A-4 [40] (no produced document records Brau's observations) | §4 | ⏳ | — | — |
 | U-4c | Proposal A-12 [67], [68] (no litigation hold as of 9/6/2024 and 11/4/2024) | §4 | ⏳ | — | — |
 | U-5a | Proposal A-9 [59], [60] (Prieve not engaged in anticipation of litigation) | §4 | ⏳ | — | — |
 | U-5b | Prieve visit "Per the request of Nic Brau"; report dated Nov. 4, 2024 (2 requests) | §5-E | ⏳ | — | — |
-| U-6 | *Quade* causation lock (same as F-21) plus proposal A-11 [66] | §4, §5-C | ⏳ | — | — |
-| U-7 | Sept. 3 coverage statement (carried in F-3) plus proposal A-14 [72], [73], [74] | §4 | ⏳ | — | — |
+| U-6 | *Quade* causation lock (same as F-21) plus proposal A-11 [66] | §4, §5-C | ⏳ partial | No. 21 (Quade lock, via F-21); A-11 [66] still pending | 9/16/2026 |
+| U-7 | Sept. 3 coverage statement (✅ applied as No. 3 via F-3) plus proposal A-14 [72], [73], [74] (⏳ pending) | §4 | ⏳ partial | No. 3 | 9/16/2026 (partial) |
 | U-8 | Nov. 4 letter signed by Brau; the "wear/tear as referrenced in the attached engineer report" quote (2 requests) | §5-E | ⏳ | — | — |
-| U-9 | Award: "Siding & Paint" $0 / $0 with Causation "Hail" | §5-C | ⏳ | — | — |
+| U-9 | Award: "Siding & Paint" $0 / $0 with Causation "Hail" | §5-C | ✅ | No. 110 (section S) | 9/16/2026 |
 | U-10 | Optional: Sept. 3 letter's "We will inform you in writing if … reopening your claim" (pairs with RFA 59) | §3 (No. 59) | ⏳ | — | — |
 | U-11 | Optional: Prieve's "not of sufficient size" opinion states no hail size, velocity or material threshold (pairs with RFAs 38–39) | §3 (Nos. 38–39) | ⏳ | — | — |
 
@@ -107,11 +107,13 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Item | Status | Note |
 |---|---|---|---|
-| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 100 |
-| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–100 |
-| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–100 are now used) | ⏳ | Rebuild once, after all decisions |
+| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 113 |
+| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–113 |
+| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–113 are now used) | ⏳ | Rebuild once, after all decisions |
 | K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ⏳ | Now verified: the request is wrong as drafted (F-23) |
-| K-5 | Commit the Nos. 93–100 addition to git | ⏳ | Suggested message: `RFA: apply J-1–J-8 (Jie Hu, Nos. 93–100)` |
+| K-5 | Commit the Nos. 93–100 addition to git | ✅ | Committed in `ac2e92d` (9/15/2026 22:19 per git timestamp) |
+| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
+| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23 and 34, the section-note references in sections R and S ("Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
 | K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ⏳ | After all decisions |
 
 ---
@@ -334,37 +336,69 @@ plus proposal **A-14 [72], [73], [74]**. This also replaces the lost support for
 
 *(Add a definition: **"The Policy Form" means Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition, as listed in the Declarations of The Policy effective October 22, 2023.** Item 26 ends with carve-outs (a)–(c): sand/dust in personal property, watercraft, and awnings/greenhouses/towers. None concerns dwelling windows. Check the full item text before serving.)*
 
-### 5-B. U-1 — marring carve-back (append after No. 34)
+### 5-B. U-1 — marring hail exception (section R, Nos. 103–106; to be moved after No. 34 at the final renumbering)
 
-> **[new]** Admit that item 8 ("Marring") of subsection A of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form states: "However, we do insure marring which is directly caused by, arises out of or results from the following causes of loss, subject to the terms and limitations set forth in subsection B. Excluded Causes of Loss or Damage and in Extensions of Coverage for any such cause of loss or extensions of coverage:"
->
-> **[new]** Admit that "windstorm or hail" is among the causes of loss listed immediately after the sentence quoted in the preceding request.
->
-> **[new]** Admit that The Coverage Outcome Attachment does not set out the sentence quoted in Request No. [__].
+*Revised September 16, 2026.* Changes from the first draft:
+- The three requests now form their own section, with a neutral note saying which source each one relies on. Nos. 103–104 quote The Policy Form. Nos. 105–106 concern the November 4, 2024 Coverage Outcome Attachment.
+- The third request no longer cites a request number (it used to say "Request No. [__]"), so the section can be moved without breaking any reference.
+- A companion request (No. 106) states what the attachment actually shows for item 8. I verified this against `FarmersDenyLetter-11-4.pdf`: the heading "8. Marring." followed by "…".
+- A pointer line is added under No. 34.
 
-### 5-C. Award (replaces Nos. 19, 21, 23)
+> *R. The Marring provision and its hail exception*
+>
+> > Requests 103 and 104 quote The Policy Form. Requests 105 and 106 concern The Coverage Outcome Attachment transmitted with Your November 4, 2024 letter, and are to be read with Request No. 34.
+>
+> **103.** Admit that item 8 ("Marring") of subsection A of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form states: "However, we do insure marring which is directly caused by, arises out of or results from the following causes of loss, subject to the terms and limitations set forth in subsection B. Excluded Causes of Loss or Damage and in Extensions of Coverage for any such cause of loss or extensions of coverage:"
+>
+> **104.** Admit that "windstorm or hail" is among the causes of loss listed immediately after the sentence quoted in the preceding request.
+>
+> **105.** Admit that The Coverage Outcome Attachment does not set out the sentence of item 8 ("Marring") of subsection A that begins "However, we do insure marring."
+>
+> **106.** Admit that, for item 8 ("Marring") of subsection A, The Coverage Outcome Attachment sets out only the heading "8. Marring." followed by an ellipsis.
+
+**Pointer under No. 34:** *See also Requests for Admission Nos. 103–106.*
+
+**At the final renumbering (K-8):** move section R so it follows No. 34 (section E) and update the pointer line. Nos. 103–106 cite no absolute request number, so the move is safe as long as the four requests stay together and in this order.
+
+### 5-C. Award (replaces Nos. 19, 21, 23; adds section S, Nos. 107–110)
+
+*Revised September 16, 2026, at application.* Nos. 19, 21 and 23 are replaced in place. The four new requests are appended as section S, with a neutral note. They cite no request number by its figure, so the section can be moved after No. 23 at the final renumbering (K-8).
 
 > **19.** Admit that The Appraisal Award states a Replacement Cost Value of $12,800 and an Actual Cash Value of $6,400 on a single line, the item description of which reads "Windows F1.7 B1.2."
->
-> **[new 19-A]** Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "F1.7."
->
-> **[new 19-B]** Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "B1.2."
 >
 > **21.** Admit that You are bound by The Appraisal Award's determination that hail was the cause of loss to the windows designated "F1.7" and "B1.2."
 >
 > **23.** Admit that, on The Appraisal Award, the signature line and date line for "Greg Tomes" beneath the statement "We certify the amounts established above for the described loss" are blank.
 >
-> **[new 23-A]** Admit that the only signature of Greg Tomes on The Appraisal Award appears in the section acknowledging that Wade Roos "has been appointed to act as umpire in accord with the policy conditions."
+> *S. The Appraisal Award: itemization, signatures, and the siding line*
 >
-> **[new, U-9]** Admit that The Appraisal Award states a Replacement Cost Value of $0 and an Actual Cash Value of $0 for the item "Siding & Paint," and states "Hail" in the Causation column for that item.
+> > Requests 107 through 110 concern the face of The Appraisal Award and are to be read with Requests Nos. 17 through 23.
+>
+> **107.** (was 19-A) Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "F1.7."
+>
+> **108.** (was 19-B) Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "B1.2."
+>
+> **109.** (was 23-A) Admit that the only signature of Greg Tomes on The Appraisal Award appears in the section acknowledging that Wade Roos "has been appointed to act as umpire in accord with the policy conditions."
+>
+> **110.** (U-9) Admit that The Appraisal Award states a Replacement Cost Value of $0 and an Actual Cash Value of $0 for the item "Siding & Paint," and states "Hail" in the Causation column for that item.
 
-### 5-D. U-2 — service and jurisdiction
+**Pointer under No. 19:** *See also Requests for Admission Nos. 107–108.* **Pointer under No. 23:** *See also Request for Admission No. 109.*
 
-> **[new]** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
+⚠️ Nos. 23 and 109 rest on a phone photograph of the award. Confirm both against a clean copy (A-5) before service.
+
+### 5-D. U-2 — service and jurisdiction (section T, Nos. 111–113)
+
+> *T. Service of process and jurisdiction*
 >
-> **[new]** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
+> > Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
 >
-> **[new]** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
+> **111.** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
+>
+> **112.** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
+>
+> **113.** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
+
+At K-8, move section T so it follows section O (Nos. 87–92), which carries the same Affirmative Defense 1 note.
 
 ### 5-E. U-3, U-4, U-5, U-8
 
