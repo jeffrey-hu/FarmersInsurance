@@ -22,11 +22,11 @@
 **Companions:** `../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` · `../../Discovery/FirstSetDiscovey/Interrogatories/Proposed_Changes_Interrogatories_First_Set_2026-09-11.md`
 
 > ### Status of items A-1 to A-14 (updated September 16, 2026)
-> The original "NOTHING HAS BEEN CHANGED" note no longer applies. Several items have been applied to the operative set, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (187 requests as of 9/16/2026). The bracketed numbers below ([35]–[76]) are **labels only** and do not match operative request numbers. Each section has a status line under its approval box. The master tracker is `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+> The original "NOTHING HAS BEEN CHANGED" note no longer applies. Several items have been applied to the operative set, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (189 requests as of 9/16/2026). The bracketed numbers below ([35]–[76]) are **labels only** and do not match operative request numbers. Each section has a status line under its approval box. The master tracker is `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 >
 > | Item | Status | Where it landed |
 > |---|---|---|
-> | A-1 | ◐ Partly applied | [36] → No. 60 (T-60 refinement pending); [35] → Second Set No. 4 (held) |
+> | A-1 | ◐ Partly applied | [36] → No. 60 (refined) + No. 188; [35] → Second Set No. 4 (held) |
 > | A-2 | ✅ Applied as edited | [38] → No. 75 (+ Nos. 76–78); [37] → Second Set No. 5 (held) |
 > | A-3 | ⏸ Held | Requote needed (H-A3) |
 > | A-4 | ✅ Applied | [40] → No. 121 |
@@ -91,7 +91,7 @@ Items are numbered **A-1** onward, to stay distinct from the **P-** items (Reque
 `APPROVE ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
 
-> **Status as of September 16, 2026:** ◐ **Partly applied.** [36] is in the operative set as **No. 60** (applied before 9/16/2026). Its pending refinement, tracker T-60, would split the quotation from the "requested date" characterization. [35] (authenticating Exhibit D) was routed to the **Second Set as No. 4** and is held there. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+> **Status as of September 16, 2026:** ◐ **Partly applied.** [36] is in the operative set as **No. 60** (applied before 9/16/2026). Refined 9/16/2026 under tracker T-60: No. 60 now quotes the letter exactly, and the "requested date" point is **No. 188**. [35] (authenticating Exhibit D) was routed to the **Second Set as No. 4** and is held there. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-2. New Exhibit E and authentication request — the October 29, 2025 Brau email
@@ -249,7 +249,7 @@ On that language, loss is **settled** at replacement cost, and actual cash value
 `APPROVE ALL ☐   APPROVE INDIVIDUALLY ☐   APPROVE AS EDITED ☐   REJECT ☐   HOLD ☐`
 
 
-> **Status as of September 16, 2026:** 🗂 **Deferred.** Revisit after FIE produces the policy form in force on the loss date (RFP 24). Operative No. 102 and the form-identity request pending under tracker T-87 cover the policy-form groundwork. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
+> **Status as of September 16, 2026:** 🗂 **Deferred.** Revisit after FIE produces the policy form in force on the loss date (RFP 24). Operative No. 102 and the form-identity request (No. 189, tracker T-87) cover the policy-form groundwork. See `RFA_First_Set_Independent_Review_2026-09-16.md` §0.
 ---
 
 ## A-8. Payment and the contended amount — replaces withdrawn interrogatory item I-17

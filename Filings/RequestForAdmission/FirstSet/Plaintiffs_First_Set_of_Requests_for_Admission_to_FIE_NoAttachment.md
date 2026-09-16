@@ -225,13 +225,15 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 57:** Admit that You received Plaintiffs' February 10, 2025 submission containing City of Eden Prairie permit records and a neighbor canvass.
 
-**REQUEST FOR ADMISSION NO. 58:** Admit that You received Plaintiffs' May 28, 2025 submission containing National Weather Service and Interactive Hail Maps material.
+**REQUEST FOR ADMISSION NO. 58:** Admit that You received, directly or through Your agent Peter Pietila, Plaintiffs' May 28, 2025 submission containing National Weather Service and Interactive Hail Maps material.
 
 **REQUEST FOR ADMISSION NO. 59:** Admit that You did not reopen The Claim after receiving the submissions identified in the three preceding requests.
 
 *I. Missing records and non-payment*
 
-**REQUEST FOR ADMISSION NO. 60:** Admit that You stated to Plaintiffs in writing on October 10, 2025 that “the file does not contain a report on the requested date” with respect to Mr. Brau's September 6, 2024 inspection.
+**REQUEST FOR ADMISSION NO. 60:** Admit that Your October 10, 2025 letter to Plaintiffs stated, "The file does not contain a report on the requested date."
+
+*See also Request for Admission No. 188.*
 
 **REQUEST FOR ADMISSION NO. 61:** Admit that You have not produced to Plaintiffs any written report of Mr. Brau's September 6, 2024 inspection.
 
@@ -299,23 +301,25 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 > Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
 
-**REQUEST FOR ADMISSION NO. 87:** Admit that The Policy, at General Conditions provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
+**REQUEST FOR ADMISSION NO. 87:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
 
-**REQUEST FOR ADMISSION NO. 88:** Admit that The Policy, at General Conditions provision 15 ("Reciprocal provisions"), states: "In any suit against us, service of process shall be upon the Attorney-in-Fact as shown in your Subscription Agreement."
+**REQUEST FOR ADMISSION NO. 88:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "In any suit against us, service of process shall be upon the Attorney-in-Fact as shown in your Subscription Agreement."
 
-**REQUEST FOR ADMISSION NO. 89:** Admit that The Policy, at General Conditions provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
+**REQUEST FOR ADMISSION NO. 89:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
+
+*See also Request for Admission No. 189.*
 
 **REQUEST FOR ADMISSION NO. 90:** Admit that Fire Insurance Exchange was licensed by the Minnesota Department of Commerce to transact insurance business in Minnesota on July 13, 2024.
 
 **REQUEST FOR ADMISSION NO. 91:** Admit that the Application for Insurance and Subscription Agreement executed by Plaintiff Yibiao Lu on October 21, 2014 in connection with The Policy designates Farmers Underwriters Association as attorney-in-fact.
 
-**REQUEST FOR ADMISSION NO. 92:** Admit that the Subscription Agreement Notice delivered to Plaintiffs with The Policy designates Fire Underwriters Association as attorney-in-fact.
+**REQUEST FOR ADMISSION NO. 92:** Admit that the "Subscription Agreement Notice" included in Your renewal documents for The Policy for the policy period October 22, 2023 to October 22, 2024 designates Fire Underwriters Association as attorney-in-fact.
 
 *P. Plaintiff Jie Hu's status under The Policy*
 
 > Relevant to Complaint ¶4, which Defendant's Answer did not admit as to Plaintiff Jie Hu, and to Defendant's First Affirmative Defense.
 
-**REQUEST FOR ADMISSION NO. 93:** Admit that The Policy, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
+**REQUEST FOR ADMISSION NO. 93:** Admit that The Policy Form, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
 
 **REQUEST FOR ADMISSION NO. 94:** Admit that on July 13, 2024, Jie Hu was the spouse of Yibiao Lu.
 
@@ -554,6 +558,18 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 186:** Admit that, in connection with The Claim, no licensed professional engineer inspected The Property on Your behalf before September 3, 2024.
 
 **REQUEST FOR ADMISSION NO. 187:** Admit that Nicholas Brau did not inspect The Property before Your September 3, 2024 letter was issued.
+
+*AD. The October 10, 2025 letter*
+
+> To be read with Requests Nos. 60, 61, and 73 through 74.
+
+**REQUEST FOR ADMISSION NO. 188:** Admit that the "requested date" referred to in the statement quoted in Request No. 60 was September 6, 2024.
+
+*AE. The Policy Form*
+
+> To be read with Requests Nos. 87 through 89, 93, and 101 through 104.
+
+**REQUEST FOR ADMISSION NO. 189:** Admit that the text of The Policy Form in force on July 13, 2024 is identical to the text of Form 56-5543 2nd Edition (7-08) included in the "Home Insurance New Policy" documents for The Policy that You sent to Plaintiff Yibiao Lu under a cover letter dated December 8, 2014.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
