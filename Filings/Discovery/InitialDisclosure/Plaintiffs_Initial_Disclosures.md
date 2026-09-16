@@ -57,6 +57,27 @@ Plaintiffs describe by category the documents, electronically stored information
 
 **12.** Plaintiffs’ communication logs.
 
+> **⚠️ DRAFTER'S NOTE — Jie Hu's marriage and residence proof (added September 16, 2026). REMOVE THIS NOTE BEFORE SERVICE.**
+>
+> **Action:** add the item below to this list, and produce the documents with these disclosures. They are due **September 25, 2026** (Scheduling Order ¶2(a)).
+>
+> **Why:** First Set RFAs Nos. 94 (Jie Hu was Yibiao Lu's spouse on July 13, 2024), 95 (same-household residence) and 96 (Jie Hu is an insured) could draw a Rule 36.01 "cannot admit or deny after reasonable inquiry" answer, because FIE's policy records name only Yibiao Lu. Once FIE holds these documents, the facts are "readily obtainable" and that answer is hard to sustain. If FIE still refuses to admit, Plaintiffs can challenge the answer's sufficiency under Rule 36.01 and seek the expenses of proof under Rule 37.03(b). See `../../RequestForAdmission/FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, tracker J-9.
+>
+> **Proposed item (insert as No. 13, in the same style as items 1–12):**
+>
+> > **13.** Documents showing that Plaintiff Jie Hu was the spouse of Plaintiff Yibiao Lu and resided with him at the Property on July 13, 2024, including the certificate of marriage and [the first page of Plaintiffs' 2024 joint federal or Minnesota income tax return / a statement or bill addressed to Jie Hu at the Property dated on or about July 2024].
+>
+> **Gather (tracker J-9):**
+> 1. Marriage certificate (copy).
+> 2. First page of the 2024 joint federal or Minnesota tax return. It shows both marital status and the address. Black out SSNs, income figures and account numbers.
+> 3. At least one dated item in Jie Hu's name at 17756 George Moran Dr. from around July 2024: a bank or credit-card statement, utility bill, or voter-registration record.
+> 4. Optional backup: Jie Hu's driver's license (black out the license number and date of birth). On its own it is weak proof of residence, because it shows the address only as of issue. Also optional: a short sworn declaration by Jie Hu (Minn. Stat. § 358.116 form).
+>
+> **Before service:**
+> - Fill in the bracketed choice in item 13 to match what is actually produced.
+> - Update the `.docx` twin to match (`../../Document_Formatting_Standard.md`).
+> - ⚠️ **Separately, the certificate of service below still describes U.S. mail.** Since the September 14, 2026 agreement, service is by email (`../../../KeyDecisions.md`, Decision 4). Update it to the email form used in the First Set RFAs, and serve before 5:00 p.m.
+
 **C. Computation of damages — Rule 26.01(a)(1)(C)**
 
 Plaintiffs compute their damages by category as set forth below. The computation is based on information reasonably available at this time and will be supplemented after expert valuation and completion of discovery. The supporting documents are among those identified in Section B and are available for inspection and copying. The Policy provides replacement-cost coverage; actual-cash-value and depreciation figures remain to be determined.

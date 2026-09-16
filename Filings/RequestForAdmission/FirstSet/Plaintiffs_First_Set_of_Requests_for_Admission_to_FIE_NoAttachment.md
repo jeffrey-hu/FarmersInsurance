@@ -187,7 +187,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 42:** Admit that photograph A-42 of Photo Appendix A depicts a dented downspout at The Property.
 
-*See also Requests for Admission Nos. 156–162.*
+*See also Requests for Admission Nos. 156–162 and 192.*
 
 **REQUEST FOR ADMISSION NO. 43:** Admit that photograph A-92 of Photo Appendix A depicts a dented downspout at The Property.
 
@@ -329,9 +329,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 96:** Admit that Jie Hu is an insured under The Policy with respect to The Claim.
 
-**REQUEST FOR ADMISSION NO. 97:** Admit that Your November 4, 2024 letter concerning The Claim was addressed "Dear Yibiao Lu & Jie Hu."
-
-**REQUEST FOR ADMISSION NO. 98:** Admit that Your September 3, 2024 letter concerning The Claim shows "CC: JIE HU."
+*[Requests Nos. 97 and 98 (how the November 4, 2024 and September 3, 2024 letters were addressed) were removed on September 16, 2026 as low-value (tracker J-5, J-6). Remove this note and close the gap at the final renumbering (K-8). Do not serve with this note in place.]*
 
 **REQUEST FOR ADMISSION NO. 99:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
 
@@ -580,6 +578,12 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 190:** Admit that You have made no payment of any kind to any contractor, repair firm, or other third party for the repair or replacement of any part of The Property on account of the July 13, 2024 loss, including any payment for emergency or temporary repairs.
 
 **REQUEST FOR ADMISSION NO. 191:** Admit that the application of the windstorm/hail deductible is the only reason You have made no payment on account of the loss to the windows designated "F1.7" and "B1.2" in The Appraisal Award.
+
+*AG. Genuineness of Photo Appendix A*
+
+> To be read with Requests Nos. 42 through 48, 151, and 156 through 162.
+
+**REQUEST FOR ADMISSION NO. 192:** Admit that Photo Appendix A is a genuine copy of the photographic appendix prepared by Prieve Engineering, LLC, File Number 241008.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
