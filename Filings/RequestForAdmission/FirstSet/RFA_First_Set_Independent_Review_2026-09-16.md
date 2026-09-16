@@ -17,7 +17,7 @@
 2. Commit with a message that names the ID (for example, `RFA: apply F-23`).
 3. Keep declined items in the table so they are not raised again.
 
-**Status as of September 16, 2026.** The operative set has **129 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125). Everything after J-1 to J-8 is not yet committed. Append new requests as **No. 130 onward** unless the set is renumbered once at the end (see §5).
+**Status as of September 16, 2026.** The operative set has **162 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125), and **§5-F**: D-2, T-36, T-37, T-40, T-41, T-42, U-11 (definition; Nos. 36, 37 and 41 replaced; Nos. 130–162; pointers under Nos. 37, 40 and 42). Everything after J-1 to J-8 is not yet committed. Append new requests as **No. 163 onward** unless the set is renumbered once at the end (see §5).
 
 Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · 🗂 Deferred (recommended) · ❌ Declined
 
@@ -35,13 +35,13 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | ID | Proposal | Review § | Status | Where it landed | Date |
 |---|---|---|---|---|---|
 | D-1 | Add a definition of "The Policy Form" (Form 56-5543 2nd Ed.) | §5-A | ✅ | Definitions, after "The Policy" (applied with F-3) | 9/16/2026 |
-| D-2 | Narrow "The Prieve Report" to the 7-page Nov. 4, 2024 report (drop "all drafts") | §5-F | ⏳ | — | — |
+| D-2 | Narrow "The Prieve Report" to the 7-page Nov. 4, 2024 report (drop "all drafts") | §5-F | ✅ | Definitions ("The Prieve Report" replaced) | 9/16/2026 |
 | T-19 | Split RFA 19 into 19, 19-A and 19-B (§ 65A.01 itemization) | §5-C | ✅ | No. 19 (replaced) + Nos. 107–108 (section S); pointer under No. 19 | 9/16/2026 |
-| T-36 | Requote RFA 36 to the full NOAA sentence | §5-F | ⏳ | — | — |
-| T-37 | Rewrite RFA 37 verbatim to the NWS page and add 37-A (Eden Prairie wind gust) | §5-F | ⏳ | — | — |
-| T-40 | Keep RFA 40 and add 3 verbatim Prieve narrative requests | §5-F | ⏳ | — | — |
-| T-41 | Requote RFA 41 ("bottom screen frame of the east facing sliding door") | §5-F | ⏳ | — | — |
-| T-42 | Add verbatim-caption requests for A-42 and A-141 (optional: A-92, A-93, A-98, A-99, A-103) | §5-F | ⏳ | — | — |
+| T-36 | Requote RFA 36 to the full NOAA sentence | §5-F | ✅ | No. 36 (replaced) | 9/16/2026 |
+| T-37 | Rewrite RFA 37 verbatim to the NWS page and add 37-A (Eden Prairie wind gust) | §5-F | ✅ | No. 37 (replaced) + No. 130 (section W); pointer under No. 37 | 9/16/2026 |
+| T-40 | Keep RFA 40 and add verbatim Prieve dent requests. *Expanded 9/16:* all 20 page 4–6 dent findings (No. 41 carries the 21st), an existence request, and 4 page-7 conclusions | §5-F | ✅ | Nos. 131–155 (section X): 20 page 4–6 quotes (131–150), existence request (151), 4 page-7 conclusions (152–155); pointer under No. 40 | 9/16/2026 — ⚠️ **§9: No. 151 is compound; restructure recommended (R-9)** |
+| T-41 | Requote RFA 41 ("bottom screen frame of the east facing sliding door") | §5-F | ✅ | No. 41 (replaced; page 5 quote) | 9/16/2026 |
+| T-42 | Verbatim-caption requests for A-42, A-92, A-93, A-98, A-99, A-103 and A-141 | §5-F | ✅ | Nos. 156–162 (section Y): A-42, A-92, A-93, A-98, A-99, A-103, A-141; pointer under No. 42 | 9/16/2026 |
 | T-50 | Replace RFA 50 (line item 1, 2.00 EA) | §5-G | ⏳ | — | — |
 | T-52 | Replace RFA 52 ("Type of Loss: Hail") and add 52-A (payment made on the 2020 Claim) | §5-G | ⏳ | — | — |
 | T-53 | Replace RFA 53 (inspection photographs dated Oct. 13, 2020) | §5-G | ⏳ | — | — |
@@ -77,7 +77,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | U-8 | Nov. 4 letter signed by Brau; the "wear/tear as referrenced in the attached engineer report" quote (2 requests) | §5-E | ✅ | Nos. 128–129 (section V) | 9/16/2026 |
 | U-9 | Award: "Siding & Paint" $0 / $0 with Causation "Hail" | §5-C | ✅ | No. 110 (section S) | 9/16/2026 |
 | U-10 | Optional: Sept. 3 letter's "We will inform you in writing if … reopening your claim" (pairs with RFA 59) | §3 (No. 59) | ⏳ | — | — |
-| U-11 | Optional: Prieve's "not of sufficient size" opinion states no hail size, velocity or material threshold (pairs with RFAs 38–39) | §3 (Nos. 38–39) | ⏳ | — | — |
+| U-11 | Optional: Prieve's "not of sufficient size" opinion states no hail size, velocity or material threshold (pairs with RFAs 38–39) | §3 (Nos. 38–39) | ✅ | No. 155 (page 7 hail-size opinion, quoted; section X) | 9/16/2026 |
 
 ### Jie Hu (§8)
 
@@ -107,13 +107,14 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Item | Status | Note |
 |---|---|---|---|
-| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 129 |
-| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–129 |
-| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–129 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
+| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 162 |
+| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–162 |
+| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–162 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
 | K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ⏳ | Now verified: the request is wrong as drafted (F-23) |
 | K-5 | Commit the Nos. 93–100 addition to git | ✅ | Committed in `ac2e92d` (9/15/2026 22:19 per git timestamp) |
-| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
-| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23 and 34, the section-note references in sections R, S, U and V (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
+| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129), 5-F (def.; 36, 37, 41; 130–162)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
+| R-9 | §9.3 restructure: Nos. 131–150 become existence requests; No. 151 deleted; genuineness request for the Prieve Report added | ⏳ | Decide before K-8 |
+| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; move section W (No. 130) after No. 37, section X (Nos. 131–155, as one block; No. 151 refers to "the twenty preceding requests") after No. 41, and section Y (Nos. 156–162) after No. 47; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23, 34, 37, 40 and 42, the section-note references in sections R, S, U, V, W, X and Y (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
 | K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ⏳ | After all decisions |
 
 ---
@@ -454,29 +455,115 @@ The earlier requests are carried over word for word, with one edit: in [40], "Mr
 
 At K-8, move section U next to Nos. 60–61, and section V next to the Prieve requests (Nos. 35–41). Update both section notes when you do.
 
-### 5-F. Prieve, NWS, photographs
+### 5-F. Prieve Report, NWS page, dents, and photo captions (definition; Nos. 36, 37, 41 replaced; sections W–Y, Nos. 130–162)
 
-> **Definition change:** "The Prieve Report" means the seven-page report of Prieve Engineering, LLC titled "Evaluation of Condition of Windows as Relates to Hail," File Number 241008, report date November 4, 2024, as transmitted with Your November 4, 2024 letter to Plaintiffs.
->
+*Rewritten September 16, 2026.* The first draft proposed only three verbatim dent sentences. A full count of the report found **43** uses of "dent"/"dents" as whole words (page 4: 12; **page 5: 19**; page 6: 6; page 7: 6). Many of those are "no hail dents" findings.
+
+⚠️ **Complaint ¶22(e)** says page 5 uses the word "sixteen separate times." The count is **19** occurrences. Sixteen is the number of dent **findings** on that page: 15 sentences plus the one "indentation" at A-113. If the figure is used again, say which measure it is.
+
+**Why this section matters.** No. 40 ("at least twenty-five distinct windows") is Plaintiffs' own count, so FIE can deny it as a characterization. The requests below quote the engineer's own words, which FIE cannot deny, and then (No. 151) ask FIE to admit that the dents so described existed. That leaves **cause** as the only dispute.
+
+**Selection rules.**
+- **Included:** every sentence on pages 4–6 reporting an observed dent or indentation (20); No. 41, replaced in place, carries the sliding-door sentence.
+- **Excluded:** every "No hail dents…" finding.
+- **Excluded as favorable to FIE:** two sentences that tie dents to the prior claim. Page 4: "We note that prior claim information and photo logs indicate dents were previously noted…" Page 7: "Dents shown in prior claim photographs are similar…"
+- **Page 7 conclusions:** four are quoted. These lock in Prieve's alternative-cause theories (blunt objects; damage at original installation) and the unsupported hail-size opinion (U-11).
+- **Verbatim text:** quotes keep the report's own errors ("appear long the left side", "not constant with hail"). The PDF's "ﬃ" ligature is written as "ffi".
+- **Numbering:** requests are anchored to page numbers so each quote can be found exactly. None cites another request by number. The existence request refers to "the twenty preceding requests," so section X must move as one block.
+
+**Definition (D-2), replacing the current "The Prieve Report" definition:**
+
+> **"The Prieve Report"** means the seven-page report of Prieve Engineering, LLC titled "Evaluation of Condition of Windows as Relates to Hail," File Number 241008, report date November 4, 2024, as transmitted with Your November 4, 2024 letter to Plaintiffs.
+
+**Replaced in place:**
+
 > **36.** Admit that The Prieve Report states: "Similar past estimated hail appears in a summary from the NOAA Storm Events Database with most recent hail in Eden Prairie reported in 2020."
 >
-> **37.** Admit that the National Weather Service Twin Cities/Chanhassen web page titled "Significant Wind and Hail in Minnesota July 13-14" (https://www.weather.gov/mpx/2024-07-13-SignificantWindandHail) states that a line of storms on the night of July 13, 2024 "led to numerous reports of hail and wind damage."
+> **37.** Admit that the National Weather Service Twin Cities/Chanhassen web page titled "Significant Wind and Hail in Minnesota July 13-14" (https://www.weather.gov/mpx/2024-07-13-SignificantWindandHail) states that a line of storms that developed on the evening of July 13, 2024 "led to numerous reports of hail and wind damage."
 >
-> **[new 37-A]** Admit that the web page identified in the preceding request lists a 48 MPH wind gust at "Eden Prairie AP" at 1:00 a.m. on July 14, 2024.
->
-> **41.** Admit that The Prieve Report states: "A dent with a scrape mark present appears in the bottom screen frame of the east facing sliding door."
->
-> **[new]** Admit that The Prieve Report states: "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents."
->
-> **[new]** Admit that The Prieve Report states: "Two dents appear at the lower left corner of the left casement which are generally smooth."
->
-> **[new]** Admit that The Prieve Report states: "Rounded dents were observed at sashes of this window unit."
->
-> **[new]** Admit that the caption of photograph A-42 of Photo Appendix A reads: "DOWNSPOUT EXTENSION AT FRONT, VIEW OF DENT AT UPPER EDGE."
->
-> **[new]** Admit that the caption of photograph A-141 of Photo Appendix A reads: "DENT IN SCREEN AT DOOR WINDOW SCRAPE MARK PRESENT."
+> **41.** Admit that page 5 of The Prieve Report states: "A dent with a scrape mark present appears in the bottom screen frame of the east facing sliding door."
 
-*(Optional: add verbatim-caption requests for A-92, A-93, A-98, A-99 and A-103 as well.)*
+**Pointer under No. 37:** *See also Request for Admission No. 130.* **Pointer under No. 40:** *See also Requests for Admission Nos. 131–155.* **Pointer under No. 42:** *See also Requests for Admission Nos. 156–162.*
+
+> *W. The National Weather Service page*
+>
+> > To be read with Request No. 37.
+>
+> **130.** (T-37 (37-A)) Admit that the National Weather Service Twin Cities/Chanhassen web page titled "Significant Wind and Hail in Minnesota July 13-14" lists a 48 MPH wind gust at "Eden Prairie AP" at 1:00 a.m. on July 14, 2024.
+
+> *X. Dents recorded in The Prieve Report*
+>
+> > Each Request in this section quotes The Prieve Report at the page stated, except the Request that follows the page 4 through page 6 quotations, which concerns the dents and indentations those quotations describe. To be read with Requests Nos. 35 through 41.
+>
+> **131.** (T-40) Admit that page 4 of The Prieve Report states: "Rounded dents were observed at sashes of this window unit."
+>
+> **132.** (T-40) Admit that page 4 of The Prieve Report states: "Two dents with sharp marks/indentations appear long the left side of the left sash as shown in photograph A-45."
+>
+> **133.** (T-40) Admit that page 4 of The Prieve Report states: "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64."
+>
+> **134.** (T-40) Admit that page 5 of The Prieve Report states: "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107."
+>
+> **135.** (T-40) Admit that page 5 of The Prieve Report states: "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113."
+>
+> **136.** (T-40) Admit that page 5 of The Prieve Report states: "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents."
+>
+> **137.** (T-40) Admit that page 5 of The Prieve Report states: "A dent with marks present appears in the face of the drip cap of the upper center window unit."
+>
+> **138.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail."
+>
+> **139.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears along the left accessory groove of the southeast facing window not consistent with hail."
+>
+> **140.** (T-40) Admit that page 5 of The Prieve Report states: "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail."
+>
+> **141.** (T-40) Admit that page 5 of The Prieve Report states: "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail."
+>
+> **142.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears along the bottom accessory groove not consistent with hail."
+>
+> **143.** (T-40) Admit that page 5 of The Prieve Report states: "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail."
+>
+> **144.** (T-40) Admit that page 5 of The Prieve Report states: "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166."
+>
+> **145.** (T-40) Admit that page 5 of The Prieve Report states: "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174."
+>
+> **146.** (T-40) Admit that page 5 of The Prieve Report states: "Two dents appear at the lower left corner of the left casement which are generally smooth."
+>
+> **147.** (T-40) Admit that page 5 of The Prieve Report states: "A dent appears in the bottom accessory groove of the window not consistent with hail."
+>
+> **148.** (T-40) Admit that page 5 of The Prieve Report states: "A scrape mark and dent appear at the right side of the east facing window not consistent with hail."
+>
+> **149.** (T-40) Admit that page 6 of The Prieve Report states: "A dent appears in the left accessory groove similar to those observed elsewhere."
+>
+> **150.** (T-40) Admit that page 6 of The Prieve Report states: "A dent appears in the left accessory groove at the lower corner of the window."
+>
+> **151.** (T-40 (existence)) Admit that each dent and indentation described in the statements of The Prieve Report quoted in the twenty preceding requests was present at The Property on October 9, 2024.
+>
+> **152.** (T-40 (conclusion)) Admit that page 7 of The Prieve Report states: "Dents and scrape marks appear at various areas of windows around the home not constant with hail."
+>
+> **153.** (T-40 (conclusion)) Admit that page 7 of The Prieve Report states: "Dents noted at sashes and frames in our opinion include scrape marks inside dents consistent with impacts from blunt objects other than hail."
+>
+> **154.** (T-40 (conclusion)) Admit that page 7 of The Prieve Report states: "Dents in accessory grooves are consistent with impacts other than hail or damage occurring during or following installation of windows at the time of construction of the home."
+>
+> **155.** (T-40 / U-11 (conclusion)) Admit that page 7 of The Prieve Report states: "Further, it is our opinion that past hail at the site was not of sufficient size to dent window frames or the face of sashes."
+
+> *Y. Captions in Photo Appendix A*
+>
+> > Each Request in this section quotes a caption of Photo Appendix A. To be read with Requests Nos. 42 through 48.
+>
+> **156.** (T-42) Admit that "DOWNSPOUT EXTENSION AT FRONT, VIEW OF DENT AT UPPER EDGE" is the caption of photograph A-42 of Photo Appendix A.
+>
+> **157.** (T-42) Admit that "VIEW OF DOWNSPOUT, DENT PRESENT" is the caption of photograph A-92 of Photo Appendix A.
+>
+> **158.** (T-42) Admit that "ADJACENT AREA SHOWING DENT IN DOWNSPOUT" is the caption of photograph A-93 of Photo Appendix A.
+>
+> **159.** (T-42) Admit that "DOWNSPOUT AT EASET [sic] SIDE SHOWING DENT" is the caption of photograph A-98 of Photo Appendix A.
+>
+> **160.** (T-42) Admit that "DENT IN DOWNSPOUT WITH CREASE PRESENT" is the caption of photograph A-99 of Photo Appendix A.
+>
+> **161.** (T-42) Admit that "VIEW OF DENTS IN FLASHING AT BASE OF WALL ALONG DECK" is the caption of photograph A-103 of Photo Appendix A.
+>
+> **162.** (T-42) Admit that "DENT IN SCREEN AT DOOR WINDOW SCRAPE MARK PRESENT" is the caption of photograph A-141 of Photo Appendix A.
+
+At K-8, move section W after No. 37, section X after No. 41, and section Y after No. 47. Update the three pointers and the section notes when you do.
 
 ### 5-G. 2020 Claim (replaces Nos. 50–54)
 
@@ -587,6 +674,73 @@ A Jie Hu standing challenge is therefore held in reserve. A request for admissio
   Supporting proof: Jie Hu's driver's license, the Hennepin County homestead record, and a short sworn declaration from Jie Hu. Redact license numbers, dates of birth and account numbers before sharing anything.
 - **Whether Jie Hu is on title to the Property** is a separate insurable-interest question. The project has no deed on file. Do not raise it in an RFA; confirm it privately first.
 - **The last two requests matter most.** A denial requires FIE to state its reason now, while there is still time to respond before November 16.
+
+---
+
+## 9. Compliance check: the dent requests (sections X and Y, Nos. 131–162), September 16, 2026
+
+**Question.** Do the dent and caption requests added under §5-F comply with the Minnesota rules and with good practice?
+
+**Short answer.** Mostly yes. **One request (No. 151) is compound and should be restructured before service.** The 20 quotation requests (Nos. 131–150) comply with the rules but add little on their own. A restructure that asks FIE to admit the dents *existed* gives more value with fewer requests.
+
+### 9.1 What complies
+
+| Point | Rule / authority | Assessment |
+|---|---|---|
+| Subject matter | Minn. R. Civ. P. 36.01: admissions may concern "statements, opinions of fact, or the application of law to fact, including the genuineness of any documents" | ✅ Asking FIE to admit what its own engineer's report says is within the rule. |
+| Number of requests | Rule 36 sets no numerical limit (verified on revisor.mn.gov). Persuasive federal example: *Heartland Surgical Specialty Hosp. v. Midwest Div., Inc.* (D. Kan., No. 05-2164) refused to limit 1,351 requests, noting there is no "presumptive limitation on the number of requests for admission." | ✅ There is no cap, but see 9.2(b) on proportionality. |
+| Copies of documents | Rule 36.01: copies must be served "unless they have been or are otherwise furnished or made available" | ✅ FIE sent the Prieve Report and Photo Appendix A to Plaintiffs. No attachment is needed, which matches Instruction 8. |
+| One matter per request | Rule 36.01: "Each matter … shall be separately set forth" | ✅ Nos. 131–150, 152–162 each state one proposition. ❌ **No. 151 does not** (see 9.2(a)). |
+| "The document speaks for itself" | Federal courts reject this objection to requests that quote a document: *Miller v. Holzmann*, 240 F.R.D. 1 (D.D.C. 2006); *Booth Oil Site Admin. Grp. v. Safety-Kleen Corp.*, 194 F.R.D. 76 (W.D.N.Y. 2000); *Diederich v. Dep't of the Army*, 132 F.R.D. 614 (S.D.N.Y. 1990). These are persuasive only in Minnesota, but Minnesota's Rule 36 tracks the federal rule. | ✅ The verbatim, page-cited format is the recognized way to defeat that objection, and FIE's Answer uses the phrase repeatedly (e.g., Answer ¶¶17, 20, 22). ⚠️ Case citations are from secondary sources and have not been independently pulled. Verify them before citing in any motion (Order ¶13). |
+| Accuracy | Scheduling Order ¶13; Rule 26.07 signature certification | ✅ All 25 page quotations and 7 captions were checked against the PDFs by script on 9/16/2026. |
+
+### 9.2 Problems and risks
+
+**(a) No. 151 is compound. Fix it before service.** *(Corrected 9/16/2026: the first version said FIE could "deny the whole request by disputing a single dent." The rule does not allow that.)*
+
+No. 151 asks FIE to admit that "each dent and indentation described in … the twenty preceding requests" existed. That is **20 separate facts in one request**. Here is what Rule 36.01 actually provides, and what follows from it:
+
+- **Ground for objection.** "Each matter of which an admission is requested shall be separately set forth." No. 151 does not meet this, so FIE may object on that ground ("If objection is made, the reasons therefor shall be stated").
+- **A blanket denial is *not* permitted.** "When good faith requires that a party qualify an answer or deny only a part of the matter …, the party shall specify so much of it as is true and qualify or deny the remainder." If FIE disputes one dent, the rule requires it to admit the other nineteen and identify the one it denies. A blanket denial would be non-compliant, and so would a vague "denied as phrased."
+- **The cure takes a motion.** If FIE objects, or answers evasively, Plaintiffs must "move to determine the sufficiency of the answers or objections." The court "shall order that an answer be served" unless the objection is justified. For a non-compliant answer, it "may order either that the matter is admitted or that an amended answer be served." An evasive answer is treated as a failure to answer (Rule 37.01(c)). Before any motion, Scheduling Order ¶4 requires a meet-and-confer, then a letter and a conference call with the Court. So a compound request that draws an objection costs weeks.
+- **It can end fee-shifting.** Rule 37.03(b) excuses a failure to admit where "the request was held objectionable pursuant to Rule 36.01." If the court sustains a compound-request objection, Plaintiffs lose the expense award for that request.
+
+**Bottom line.** The realistic risk is not that FIE lawfully denies all 20 facts. The risk is that a compound request invites an objection or a muddled partial answer, and fixing either takes motion practice before the November 16 joinder deadline and the March 15, 2027 discovery close. Twenty single-fact requests avoid that, because each one must be answered on its own.
+
+**(b) Proportionality and how the set looks to the Court.**
+- Discovery must be "proportional to the needs of the case" (Rule 26.02(b)). By signing, a party certifies the requests are "not unreasonable or unduly burdensome or expensive" (Rule 26.07). The Court may limit discovery that is "unreasonably cumulative or duplicative" and may issue protective orders against "undue burden or expense" (Rule 26.03).
+- Twenty-five quotation requests are cheap for FIE to answer, so a burden objection is unlikely to succeed. Even so, the set is now **162 requests**.
+- The September 8 Order already criticized Plaintiffs' proposed schedule as far beyond "the timeline for similar cases." A very large set from self-represented parties invites a Rule 26.03 motion or a ¶4 discovery-dispute conference.
+- **Cumulativeness matters most here.** A quotation request proves only that the report says something. FIE already admitted it provided the report as a basis for the denial (Answer ¶20). A single genuineness request (Rule 36.01) establishes the same thing for every sentence at once.
+
+**(c) Fee-shifting leverage is weak for quotation requests.**
+- Rule 37.03(b) excuses a failure to admit where "the admission sought was of no substantial importance."
+- A bare "the report says X" request is the kind a court may treat that way. The request that matters, and that FIE may actually deny, is whether the **dent existed**.
+
+**(d) Conclusion requests (Nos. 152–155).**
+- These are compliant and harmless. They lock in Prieve's alternative-cause theories (blunt objects, installation damage) and the hail-size opinion.
+- They add little beyond a genuineness request. Keep them only if you want those theories isolated for the Frye-Mack/Daubert motion.
+
+**(e) Captions (Nos. 156–162).**
+- These comply. Existing Nos. 42–47 already ask FIE to admit what photographs A-42, A-92, A-93, A-98, A-99 and A-103 **depict**. So these caption requests mainly back up those.
+
+### 9.3 Recommended restructure (not yet applied)
+
+1. **Replace Nos. 131–150** with 20 single-fact **existence** requests. Each uses the report's sentence only to identify the dent, for example:
+   > Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107" was present at The Property on October 9, 2024.
+
+   Each request asks FIE to admit one fact: that a particular dent existed. It does not ask about cause. Because the request refers only to "the dent described," FIE cannot answer it by disputing the report's causation wording ("not consistent with hail"). Prieve is FIE's own retained engineer, so a lack-of-knowledge answer requires the "reasonable inquiry" statement under Rule 36.01, and the information is readily obtainable.
+2. **Delete No. 151.** It becomes unnecessary.
+3. **Add one genuineness request** that needs no attachment, because the document was already furnished:
+   > Admit that The Prieve Report, as transmitted with Your November 4, 2024 letter, is a genuine copy of the report prepared by Prieve Engineering, LLC.
+
+   This covers the "Prieve said it" point for every sentence at once.
+4. **Nos. 152–162:** keep as they are, or trim Nos. 152–155 if you want the set smaller.
+5. **Net effect:** the set shrinks by one request. The 20 requests that matter move from "the report says" to "the dent existed," and the compound defect is removed.
+
+**Alternative, if you would rather keep the quotation requests:** place each existence request immediately after its quotation. Each would read "Admit that the dent or indentation described in the statement quoted in the preceding request was present at The Property on October 9, 2024." That gives about 40 requests instead of 21, adds size without much benefit, and is not recommended.
+
+**Sources:** Minn. R. Civ. P. 26.02(b), 26.03, 26.07, 36.01, 37.03(b) (revisor.mn.gov, retrieved 9/16/2026) · Fed. R. Civ. P. 36, 1970 Advisory Committee Note ("to facilitate proof with respect to issues that cannot be eliminated from the case, and secondly, to narrow the issues by eliminating those that can be") · *Heartland Surgical Specialty Hosp., LLC v. Midwest Div., Inc.*, No. 05-2164 (D. Kan.) (govinfo.gov) · NC Bar Blog, "Documents Do Not 'Speak for Themselves'" (collecting *Miller*, *Booth Oil*, *Diederich*, *Frontier-Kemper*, *House v. Giant of Maryland*).
 
 ---
 
