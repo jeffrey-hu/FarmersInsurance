@@ -291,6 +291,26 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 92:** Admit that the Subscription Agreement Notice delivered to Plaintiffs with The Policy designates Fire Underwriters Association as attorney-in-fact.
 
+*P. Plaintiff Jie Hu's status under The Policy*
+
+> Relevant to Complaint ¶4, which Defendant's Answer did not admit as to Plaintiff Jie Hu, and to Defendant's First Affirmative Defense.
+
+**REQUEST FOR ADMISSION NO. 93:** Admit that The Policy, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
+
+**REQUEST FOR ADMISSION NO. 94:** Admit that on July 13, 2024, Jie Hu was the spouse of Yibiao Lu.
+
+**REQUEST FOR ADMISSION NO. 95:** Admit that on July 13, 2024, Jie Hu resided at The Property in the same household as Yibiao Lu.
+
+**REQUEST FOR ADMISSION NO. 96:** Admit that Jie Hu is an insured under The Policy with respect to The Claim.
+
+**REQUEST FOR ADMISSION NO. 97:** Admit that Your November 4, 2024 letter concerning The Claim was addressed "Dear Yibiao Lu & Jie Hu."
+
+**REQUEST FOR ADMISSION NO. 98:** Admit that Your September 3, 2024 letter concerning The Claim shows "CC: JIE HU."
+
+**REQUEST FOR ADMISSION NO. 99:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
+
+**REQUEST FOR ADMISSION NO. 100:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
