@@ -13,13 +13,13 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **Definitions**
 
-**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association (and, to the extent it acted as attorney-in-fact in connection with The Policy, Farmers Underwriters Association), and each of their present and former agents, adjusters, employees, representatives, attorneys, third-party administrators, and any other person acting on their behalf.
+**"Defendant," "Farmers," "FIE," "You," and "Your"** mean Fire Insurance Exchange, its attorney-in-fact Fire Underwriters Association (and, to the extent it acted as attorney-in-fact in connection with The Policy, Farmers Underwriters Association), and their employees, adjusters, and agents, acting in connection with The Policy, The Claim, or The 2020 Claim.
 
 **"Fire Insurance Exchange"** means that entity only when used alone and spelled in full, and does not include its attorney-in-fact, any affiliate, or any other person within the preceding definition.
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 
-**"The Claim"** means Farmers claim number 7007986837-1-1, arising from the July 13, 2024 hail loss.
+**"The Claim"** means Farmers claim number 7007986837-1-1, date of loss July 13, 2024.
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
@@ -35,17 +35,17 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with Your November 4, 2024 letter to Plaintiffs.
 
-**"The September 3, 2024 Letter Package"** means Your September 3, 2024 letter to Plaintiffs together with its "Coverage Outcome – Policy Provisions" attachment and the photograph log enclosed with it, as You re-transmitted the same to Plaintiffs on October 10, 2025.
+**"The September 3, 2024 Denial Package"** means the 74-page PDF document dated September 3, 2024 that Plaintiffs received from You, consisting of Your September 3, 2024 letter to Plaintiffs (pages 1–2), a two-page document titled "Coverage Outcome – Policy Provisions" (pages 3–4; a different document from The Coverage Outcome Attachment), a one-page Hancock Claims Consultants roof diagram (page 5), and the two photograph logs defined below (pages 6–74).
 
-**"The First Photo Set"** means the 19-page photograph log enclosed with The September 3, 2024 Letter Package, bearing the page-footer date August 30, 2024 and containing photographs numbered 1 through 38.
+**"The First Photo Set"** means the 19-page photograph log at pages 6 through 24 of The September 3, 2024 Denial Package, bearing the page-footer date 8/30/2024 and containing photographs numbered 1 through 38.
 
-**"The Second Photo Set"** means the 50-page photograph log enclosed with The September 3, 2024 Letter Package, bearing the page-footer date August 31, 2024 and containing photographs numbered 1 through 100.
+**"The Second Photo Set"** means the 50-page photograph log at pages 25 through 74 of The September 3, 2024 Denial Package, bearing the page-footer date 8/31/2024 and containing photographs numbered 1 through 100.
 
 **"No-Damage Caption"** means a caption of a photograph in The First Photo Set or The Second Photo Set that ends with the word "No," either standing alone or followed by an underscore and one or more numerals, whether one digit or two (for example, "Window Wrap North Damaged - No_7" and "Window Wrap North Damaged - No_20").
 
-**"The Appraisal Award"** means the appraisal award entered September 12, 2025 under Minn. Stat. § 65A.01.
+**"The Appraisal Award"** means the written appraisal award concerning The Claim dated on or about September 12, 2025.
 
-**"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, photographs, recordings, images, and electronically stored information stored in any medium, together with all metadata and non-identical drafts and copies.
+**"Document" and "Documents"** mean any writing, photograph, note, or electronically stored record, including any entry in Your electronic claim file.
 
 **"Person"** means any natural person or any business, legal, or governmental entity.
 
@@ -55,19 +55,19 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **2.** **Lack of knowledge.** Defendant may not give lack of information or knowledge as a reason for failure to admit or deny unless it states that it has made reasonable inquiry and that the information known or readily obtainable by it is insufficient to enable it to admit or deny. Minn. R. Civ. P. 36.01.
 
-**3.** **Effect of non-response.** Pursuant to Minn. R. Civ. P. 36.01, any matter not timely answered or objected to is deemed admitted, and any matter admitted is conclusively established for purposes of this action under Minn. R. Civ. P. 36.02. If the Court determines that an answer does not comply with the requirements of Minn. R. Civ. P. 36.01, it may order either that the matter is admitted or that an amended answer be served. Minn. R. Civ. P. 36.01.
+**3.** **Effect of non-response.** Pursuant to Minn. R. Civ. P. 36.01, any matter not timely answered or objected to is deemed admitted, and any matter admitted is conclusively established for purposes of this action unless the Court on motion permits withdrawal or amendment of the admission. Minn. R. Civ. P. 36.02. If the Court determines that an answer does not comply with the requirements of Minn. R. Civ. P. 36.01, it may order either that the matter is admitted or that an amended answer be served. Minn. R. Civ. P. 36.01.
 
-**4.** **Continuing duty.** If Defendant later learns that an answer was incorrect or incomplete, it must seasonably amend or supplement the answer pursuant to Minn. R. Civ. P. 26.05.
+**4.** **Continuing duty.** Defendant must supplement or correct its responses as required by Minn. R. Civ. P. 26.05(a). A matter admitted, however, is conclusively established and may be withdrawn or amended only by order of the Court on motion under Minn. R. Civ. P. 36.02.
 
 **5.** **Objections.** If Defendant objects to a request, it must state the reasons for the objection; it may not object solely on the ground that the request presents a genuine issue for trial. Minn. R. Civ. P. 36.01.
 
 **6.** **Dates.** A date used to identify a communication, document, or event reflects Plaintiffs' best information and is approximate. If Defendant's records show a different date for a communication, document, or event otherwise matching the description, Defendant must answer as to that communication, document, or event and state the date its records show, rather than deny the request on the basis of the date alone.
 
-**7.** **Cost of an unfounded denial.** If Defendant fails to admit any matter requested herein and Plaintiffs thereafter prove the truth of that matter, Plaintiffs will apply to the Court for an order requiring Defendant to pay the reasonable expenses incurred in making that proof, including reasonable attorney fees, pursuant to Minn. R. Civ. P. 37.03(b).
+**7.** **Cost of an unfounded denial.** If Defendant fails to admit any matter requested herein and Plaintiffs thereafter prove the truth of that matter, Plaintiffs will apply to the Court for an order requiring Defendant to pay the reasonable expenses incurred in making that proof, including any reasonable attorney fees, pursuant to Minn. R. Civ. P. 37.03(b).
 
-**8.** **No attachments.** No document is attached to or served with this set. Each request refers to a term defined above, to a document or record in Defendant's own possession, custody, or control, or to the publicly available National Weather Service web page identified by its address in Request No. 60.
+**8.** **No attachments.** No document is attached to or served with this set. Each request refers to a term defined above, to a document or record in Defendant's own possession, custody, or control, or to the publicly available National Weather Service web page identified by its address in Request No. 60. Plaintiffs will provide a copy of any document referred to in these requests promptly upon Defendant's request.
 
-**9.** **Answering on behalf of others.** If Defendant does not answer on behalf of every person within the definition of "You," it must state which persons it has excluded, and identify, as to each answer affected, the person who has the information withheld on that basis. Where a request asks which person or entity performed an act, made a decision, or sent a communication, Defendant must identify the specific legal entity by name; attributing the act to "Farmers," "Defendant," or the Exchange collectively is not a complete answer.
+**9.** **Answering on behalf of others.** If Defendant answers any request on behalf of fewer than all persons within the definition of "You," it must say so in that answer and state which persons are excluded.
 
 **10.** **Attorney-client communications and litigation counsel.** No request seeks information protected by the attorney-client privilege or by Minn. R. Civ. P. 26.02(d). No request is directed to communications solely between Defendant and its counsel of record in this action dated on or after July 8, 2026.
 
@@ -423,7 +423,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *O. The September 3, 2024 letter package and its photograph logs*
 
-**REQUEST FOR ADMISSION NO. 152:** Admit that The September 3, 2024 Letter Package enclosed The First Photo Set and The Second Photo Set.
+**REQUEST FOR ADMISSION NO. 152:** Admit that You sent The September 3, 2024 Denial Package to Plaintiffs on or about September 3, 2024.
 
 **REQUEST FOR ADMISSION NO. 153:** Admit that The First Photo Set and The Second Photo Set together contain 138 numbered photographs of The Property.
 
