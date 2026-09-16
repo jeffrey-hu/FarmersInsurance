@@ -250,7 +250,7 @@ Keep this list current. None of these is drafted above; each is held for the tri
 
 ### ⚠️ The larger backlog is not in this file (updated September 16, 2026)
 
-> First Set request numbers in this file follow the **final numbering of September 16, 2026, as revised the same day for the S-2 to S-4 splits** (Nos. 1–192). See `../FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` for the conversion from working numbers.
+> First Set request numbers in this file follow the **final numbering of September 16, 2026, as revised the same day for the S-2 to S-4 splits** (Nos. 1–193, after the trade-name request was added as No. 173). See `../FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` for the conversion from working numbers.
 
 Most of the proposals once listed here have now been applied to the First Set, moved into this Second Set, held, or dropped. The master status is the tracker in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, and the per-item status is in the table at the top of `../FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`.
 
@@ -258,7 +258,7 @@ Most of the proposals once listed here have now been applied to the First Set, m
 
 | Item | What remains | Trigger / note |
 |---|---|---|
-| **A-7** [48]–[51] | Loss settlement and the deductible measure | After FIE produces the policy form (First Set RFP 24). [48] needs rework (it conflicts with [49]); [51] is largely covered by First Set No. 180. |
+| **A-7** [48]–[51] | Loss settlement and the deductible measure | After FIE produces the policy form (First Set RFP 24). [48] needs rework (it conflicts with [49]); [51] is largely covered by First Set No. 181. |
 | **A-8** [54] | "You contend no amount is owed" (optional contention lock) | [53] and [55] are now First Set Nos. 141 and 27; [52] is covered by First Set No. 140. |
 | **A-10** [61]–[63], [65] | Scope of replacement cost (blinds, trim, repaint; catch-all) | After a contractor or expert estimate. [64] (mold) is to be dropped. [65]'s cross-reference is stale. |
 | **A-13** [71] | Catch-all "You do not contend … undamaged" | Stale cross-references. If revived, aim it at the downspouts (First Set Nos. 67–70 and 74–77). [69] is to be dropped. |
@@ -269,12 +269,12 @@ Most of the proposals once listed here have now been applied to the First Set, m
 A-1 [35] and A-2 [37] are Requests 4 and 5 of this set; their exhibits are ready (see the trigger table). **The earlier note that A-1 and A-2 "remain blocked" is withdrawn.** Exhibit D is Defendant's own October 10, 2025 letter package, and Exhibit E is the October 29, 2025 email with full headers (`../../../EventDocuments/2025-10-29-BrauEmail.pdf`). Export the native originals anyway before any motion that depends on them (`../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md`).
 
 **Answer-mining items AM-8 to AM-16** (`../../Discovery/FirstSetDiscovey/Answer_Mined_for_Discovery_CONSOLIDATED_2026-09-14.md`). Only AM-9 has been applied item by item; the others have not been individually re-checked. As of September 16, 2026, several appear to be covered by First Set requests:
-- **AM-9** (Jie Hu's status): applied as First Set Nos. 187–192 (the two address requests were later removed).
+- **AM-9** (Jie Hu's status): applied as First Set Nos. 188–193 (the two address requests were later removed).
 - **AM-8** (Hancock's "Damaged – No" tagging): appears covered by First Set Nos. 154–159.
 - **AM-10** (the award's $0 siding and debris lines): partly covered by First Set Nos. 31–32.
 - **AM-11** (hail causation for the two windows; loss date): causation is partly covered by First Set No. 25. The loss date has not been asked.
 - **AM-12** (the rear-garage window): appears covered by First Set Nos. 80–81.
-- **AM-14** (the "lack of jurisdiction" defense): appears covered by First Set Nos. 184–186.
+- **AM-14** (the "lack of jurisdiction" defense): appears covered by First Set Nos. 185–187.
 - **AM-13, AM-15 and AM-16:** not yet reviewed.
 
 **Re-check each against the First Set before drafting anything from this list.**

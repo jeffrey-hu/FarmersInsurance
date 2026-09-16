@@ -8,7 +8,7 @@
 
 **Supersedes:** `RFA_Renumbering_Map_2026-09-15.md`, which maps the older 34-request draft and is now historical only.
 
-> ⚠️ **Revised later on September 16, 2026 (S-2, S-3, S-4).** Three compound requests were split, so the operative set is now **Nos. 1–192**. Tables A and B below map to the intermediate **1–189** numbering; convert those numbers to the current ones with **Table C**. The "Final sections" table shows the current (1–192) ranges.
+> ⚠️ **Revised later on September 16, 2026 (S-2, S-3, S-4).** Three compound requests were split, so the operative set became **Nos. 1–192**. ⚠️ **A trade-name request was then added as No. 173, making it Nos. 1–193; see Table D.** Tables A and B below map to the intermediate **1–189** numbering; convert those numbers to the current ones with **Table C**. The "Final sections" table shows the current (1–192) ranges.
 
 > **Not legal advice.** Working record. Once the set is served, these numbers are fixed: withdraw a request by letter and leave the gap; never renumber (`../../Document_Formatting_Standard.md` § 7).
 
@@ -30,7 +30,7 @@
 
 ## Final sections
 
-| Final section | Title | Final Nos. (1–192) |
+| Final section | Title | Final Nos. (1–193) |
 |---|---|---|
 | A | The Policy and the coverage grant | 1–6 |
 | B | Identity and capacity of the acting entity | 7–18 |
@@ -49,10 +49,10 @@
 | O | The September 3, 2024 letter package and its photograph logs | 152–164 |
 | P | The October 29, 2025 email | 165–168 |
 | Q | The October 21, 2025 reply and the handling of post-appraisal correspondence | 169–171 |
-| R | Party identity, agency, and the Hancock inspector | 172–176 |
-| S | The Policy's own provisions bearing on capacity, suit, and forum | 177–183 |
-| T | Service of process and jurisdiction | 184–186 |
-| U | Plaintiff Jie Hu's status under The Policy | 187–192 |
+| R | Party identity, agency, and the Hancock inspector | 172–177 |
+| S | The Policy's own provisions bearing on capacity, suit, and forum | 178–184 |
+| T | Service of process and jurisdiction | 185–187 |
+| U | Plaintiff Jie Hu's status under The Policy | 188–193 |
 
 ## Table A — final number → working number
 
@@ -458,6 +458,22 @@
 **Cross-references updated in the set:** Instruction 8 (Request No. 59 → **60**); section F note (47–50 / 46 → 48–51 / 47); section G note (51–56; 14, 38, 57–64 → 52–57; 14, 39, 58–65); pointer under No. 64 (Nos. 81–105 → **82–106**); section I note (57–64 → **58–65**; fixed in the V-1 follow-up); section J note (82–101, 124–130 → 83–102, 125–131); section N note (141–150; 8–12, 33, 136–138 → 142–151; 8–12, 34, 137–139); No. 167 (Request No. 162 → **163**). Unchanged: pointer under No. 140 (No. 27); all "preceding request" references still point correctly.
 
 **Other files updated:** Second Set draft (First Set numbers), initial-disclosures note (185–187 → **188–190**), Prieve deposition plan (103 → **104**), README, Service_Log. KeyDecisions (Nos. 29–30) unchanged.
+
+## Table D — 1–192 numbering → current 1–193 numbering (trade-name request added, 9/16/2026)
+
+| 1–192 No. | Current No. | Note |
+|---|---|---|
+| 1–172 | **1–172** | unchanged |
+| — | **173** (new) | "Admit that, in its dealings with Plaintiffs concerning The Policy and The Claim, Fire Insurance Exchange did business under the name "Farmers Insurance."" (section R; Complaint ¶5; the Answer did not admit the trade name) |
+| 173–192 | **174–193** | +1 |
+
+**Cross-references:** none inside the set point to Nos. 173–192, so nothing in the set changed apart from the renumbering.
+
+**Other files updated:**
+- Second Set draft: 180 → 181; 184–186 → 185–187; 187–192 → 188–193.
+- Initial-disclosures note: 188–190 → 189–191.
+- README and Service_Log: counts updated.
+- Review file §10.3: Grimm requests 175–176 → 176–177.
 
 ## Files updated in the same pass
 

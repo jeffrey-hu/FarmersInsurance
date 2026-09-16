@@ -971,11 +971,11 @@ Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_fo
 
 - **No. 161** (both photo logs contain interior photos): **verified** 9/16/2026 by viewing the pages. First Set photos 5–8 and 31–32 are interior, and so are Second Set photos 9–10. Side finding: Second Set photos 9–10 are the same images as First Set photos 5–6.
 - **Nos. 29–30** (Tomes signature): ✅ **Verified by Bill against the award, 9/16/2026.**
-- **Nos. 175–176** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
+- **Nos. 176–177** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
 - **"Letter to Plaintiffs"** (12 uses): the September 3 and October 10 letters are addressed to Yibiao Lu (September 3 is copied to Jie Hu). Low risk, since "Plaintiffs" covers him. Accepted.
 - **No. 64** ("at least twenty-five distinct windows") is a characterization and may draw a denial. Kept deliberately; Nos. 82–102 carry the undeniable version.
 - **No. 168** (information existed that FIE had not released): low value, and FIE can admit it trivially. Kept; Nos. 147–148 carry the pointed version.
-- **Size (192 requests after the S-2 to S-4 splits):** accepted (Z-1).
+- **Size (193 requests after the S-2 to S-4 splits and the No. 173 trade-name request):** accepted (Z-1).
 
 ### 10.4 Process notes
 
@@ -1111,6 +1111,37 @@ No count change and no renumbering. The `.docx` must be rebuilt.
 - Instruction 8 → No. 60 is correct, and every section note and pointer is correct.
 - No other project file uses the retired terms. The September 3 and November 4 "Coverage Outcome – Policy Provisions" documents were confirmed to be different documents: September 3 defines "Building structure" and "Water"; November 4 defines "Marring."
 - The `.docx` was rebuilt and matches the `.md`.
+
+### 12.6 DI-3b: the September 3, 2024 delivery email (proposed 9/16/2026, not applied)
+
+**New fact (Bill, 9/16/2026).** The September 3, 2024 Denial Package reached Plaintiffs through an **email containing a link**. The email is signed "Christian Dudley / Catastrophe Claims Representative / 913-309-7398 / Fire Insurance Exchange," with the Farmers Insurance logo. The letter itself (Denial Package p. 2) carries the same signature block.
+
+**Effect on the set as it stands:** none required.
+- The Denial Package definition says only "received from You," so it does not name the delivery method.
+- No. 152 ("You sent … on or about September 3, 2024") is consistent with delivery by link.
+
+**Optional addition (would require renumbering):**
+- **New request, proposed as No. 34-A:** "Admit that Your September 3, 2024 letter to Plaintiffs was signed by Christian Dudley, Catastrophe Claims Representative, Fire Insurance Exchange."
+  - It parallels No. 56 (Brau, November 4 letter) and No. 167 (Brau, October 29 email).
+  - It supports Nos. 8 and 142 (Dudley acted for the Exchange).
+  - It rests on the Denial Package itself, so the email does not need to be defined.
+- **Placement options:**
+  - **(a)** In section D after No. 33 (the September 3 letter quote). Nos. 34–192 shift by 1, and Instruction 8 and the notes change again.
+  - **(b)** At the end of section O after No. 152 (the sending request). Nos. 153–192 shift by 1, which is fewer cross-reference changes.
+
+**Housekeeping:** export the September 3, 2024 email (with its header and link) to `EventDocuments/` as a PDF. It backs No. 152 if FIE denies sending, and it preserves the delivery record.
+
+### 12.7 Trade-name request added (✅ applied 9/16/2026)
+
+**Why.** Complaint ¶5 alleged that FIE operates under the trade name Farmers Insurance. Answer ¶5 admitted only that FIE is a reciprocal exchange licensed in Minnesota, and called the rest "statements and conclusions of law." The signature block on Dudley's September 3, 2024 letter and email reads "Fire Insurance Exchange" beside the Farmers Insurance logo. FIE's letters also use Farmers letterhead.
+
+**New No. 173 (section R, after "proper party defendant"):** "Admit that, in its dealings with Plaintiffs concerning The Policy and The Claim, Fire Insurance Exchange did business under the name "Farmers Insurance.""
+- The request is limited to FIE's dealings with Plaintiffs. That makes it a fact FIE can check, and it blunts a "Farmers Insurance is a brand shared by many companies" qualification.
+- It uses the strict term "Fire Insurance Exchange" (the entity alone).
+
+**Renumbering:** Nos. 173–192 → 174–193 (map Table D). No cross-reference inside the set pointed into that range. Updated elsewhere: Second Set draft, initial-disclosures note (189–191), README, Service_Log, and §10.3.
+
+**Follow-up idea (not done):** check the Minnesota Secretary of State's assumed-name filings (Minn. Stat. ch. 333) for "Farmers Insurance." A filing would be independent proof if FIE denies.
 
 ## Sources
 

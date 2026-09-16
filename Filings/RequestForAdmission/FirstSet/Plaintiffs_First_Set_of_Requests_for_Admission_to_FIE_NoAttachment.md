@@ -471,57 +471,59 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 172:** Admit that Fire Insurance Exchange is the proper party defendant to this action.
 
-**REQUEST FOR ADMISSION NO. 173:** Admit that Zorphlon Miller was employed or engaged by Fire Insurance Exchange on October 10, 2025.
+**REQUEST FOR ADMISSION NO. 173:** Admit that, in its dealings with Plaintiffs concerning The Policy and The Claim, Fire Insurance Exchange did business under the name "Farmers Insurance."
 
-**REQUEST FOR ADMISSION NO. 174:** Admit that Peter Pietila acted as Your agent in connection with The Policy.
+**REQUEST FOR ADMISSION NO. 174:** Admit that Zorphlon Miller was employed or engaged by Fire Insurance Exchange on October 10, 2025.
 
-**REQUEST FOR ADMISSION NO. 175:** Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants.
+**REQUEST FOR ADMISSION NO. 175:** Admit that Peter Pietila acted as Your agent in connection with The Policy.
 
-**REQUEST FOR ADMISSION NO. 176:** Admit that Jayden Grimm was the only person who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024.
+**REQUEST FOR ADMISSION NO. 176:** Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants.
+
+**REQUEST FOR ADMISSION NO. 177:** Admit that Jayden Grimm was the only person who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024.
 
 *S. The Policy's own provisions bearing on capacity, suit, and forum*
 
 > Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
 
-**REQUEST FOR ADMISSION NO. 177:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
+**REQUEST FOR ADMISSION NO. 178:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
 
-**REQUEST FOR ADMISSION NO. 178:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "In any suit against us, service of process shall be upon the Attorney-in-Fact as shown in your Subscription Agreement."
+**REQUEST FOR ADMISSION NO. 179:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "In any suit against us, service of process shall be upon the Attorney-in-Fact as shown in your Subscription Agreement."
 
-**REQUEST FOR ADMISSION NO. 179:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
+**REQUEST FOR ADMISSION NO. 180:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
 
-**REQUEST FOR ADMISSION NO. 180:** Admit that the text of The Policy Form in force on July 13, 2024 is identical to the text of Form 56-5543 2nd Edition (7-08) included in the "Home Insurance New Policy" documents for The Policy that You sent to Plaintiff Yibiao Lu under a cover letter dated December 8, 2014.
+**REQUEST FOR ADMISSION NO. 181:** Admit that the text of The Policy Form in force on July 13, 2024 is identical to the text of Form 56-5543 2nd Edition (7-08) included in the "Home Insurance New Policy" documents for The Policy that You sent to Plaintiff Yibiao Lu under a cover letter dated December 8, 2014.
 
-**REQUEST FOR ADMISSION NO. 181:** Admit that Fire Insurance Exchange was licensed by the Minnesota Department of Commerce to transact insurance business in Minnesota on July 13, 2024.
+**REQUEST FOR ADMISSION NO. 182:** Admit that Fire Insurance Exchange was licensed by the Minnesota Department of Commerce to transact insurance business in Minnesota on July 13, 2024.
 
-**REQUEST FOR ADMISSION NO. 182:** Admit that the Application for Insurance and Subscription Agreement executed by Plaintiff Yibiao Lu on October 21, 2014 in connection with The Policy designates Farmers Underwriters Association as attorney-in-fact.
+**REQUEST FOR ADMISSION NO. 183:** Admit that the Application for Insurance and Subscription Agreement executed by Plaintiff Yibiao Lu on October 21, 2014 in connection with The Policy designates Farmers Underwriters Association as attorney-in-fact.
 
-**REQUEST FOR ADMISSION NO. 183:** Admit that the "Subscription Agreement Notice" included in Your renewal documents for The Policy for the policy period October 22, 2023 to October 22, 2024 designates Fire Underwriters Association as attorney-in-fact.
+**REQUEST FOR ADMISSION NO. 184:** Admit that the "Subscription Agreement Notice" included in Your renewal documents for The Policy for the policy period October 22, 2023 to October 22, 2024 designates Fire Underwriters Association as attorney-in-fact.
 
 *T. Service of process and jurisdiction*
 
 > Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
 
-**REQUEST FOR ADMISSION NO. 184:** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
+**REQUEST FOR ADMISSION NO. 185:** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
 
-**REQUEST FOR ADMISSION NO. 185:** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
+**REQUEST FOR ADMISSION NO. 186:** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
 
-**REQUEST FOR ADMISSION NO. 186:** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 187:** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
 
 *U. Plaintiff Jie Hu's status under The Policy*
 
 > Relevant to Complaint ¶4, which Defendant's Answer did not admit as to Plaintiff Jie Hu, and to Defendant's First Affirmative Defense.
 
-**REQUEST FOR ADMISSION NO. 187:** Admit that The Policy Form, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
+**REQUEST FOR ADMISSION NO. 188:** Admit that The Policy Form, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
 
-**REQUEST FOR ADMISSION NO. 188:** Admit that on July 13, 2024, Jie Hu was the spouse of Yibiao Lu.
+**REQUEST FOR ADMISSION NO. 189:** Admit that on July 13, 2024, Jie Hu was the spouse of Yibiao Lu.
 
-**REQUEST FOR ADMISSION NO. 189:** Admit that on July 13, 2024, Jie Hu resided at The Property in the same household as Yibiao Lu.
+**REQUEST FOR ADMISSION NO. 190:** Admit that on July 13, 2024, Jie Hu resided at The Property in the same household as Yibiao Lu.
 
-**REQUEST FOR ADMISSION NO. 190:** Admit that Jie Hu is an insured under The Policy with respect to The Claim.
+**REQUEST FOR ADMISSION NO. 191:** Admit that Jie Hu is an insured under The Policy with respect to The Claim.
 
-**REQUEST FOR ADMISSION NO. 191:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
+**REQUEST FOR ADMISSION NO. 192:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
 
-**REQUEST FOR ADMISSION NO. 192:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
+**REQUEST FOR ADMISSION NO. 193:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
