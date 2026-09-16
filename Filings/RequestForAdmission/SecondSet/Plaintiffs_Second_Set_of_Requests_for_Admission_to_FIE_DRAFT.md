@@ -25,7 +25,7 @@
 |---|---|---|
 | **Part 1 — Authentication** | 1–5 | A clean, legible copy of the appraisal award has been obtained for Exhibit C. **Exhibits D and E are ready** — `../../../EventDocuments/2025-10-29-BrauEmail.pdf` for Exhibit E, and — `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page October 10, 2025 letter package (see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`). The September 3 and November 4, 2024 letters are already available as clean PDFs in `../../Discovery/Expert/Expert_Record_Packet/`. **No other condition.** |
 | **Part 2 — Matching / J6944** | 6–9 | **Mandatory:** FIE actually asserts J6944 or a matching limitation — in an amended answer, a discovery response, a denial of Request 1 of Part 2's predicate set, a mediation position paper, or summary-judgment briefing. **Without that, do not serve.** Helpful but not required: responses to First Set RFP Requests 24 and 40 (the endorsement, its drafting history, and FIE's matching guidance). |
-| **Part 3 — The 2020 claim file** | 10 | **Mandatory:** FIE has produced its 2020 claim file and October 13, 2020 photograph log in response to First Set RFPs 2, 22 and 23 (responses due October 15, 2026), **and those documents have been reviewed first.** See the checklist under Part 3 below. Added September 16, 2026 (tracker item R-12 in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md`). |
+| **Part 3 — The 2020 claim file** | 10–15 | **Mandatory:** FIE has produced its 2020 claim file, October 13, 2020 photograph log and native 2020 estimate in response to First Set RFPs 2, 22, 23 and 33 (responses due October 15, 2026), **and those documents have been reviewed first.** See the checklist under Part 3 below. Added September 16, 2026 (tracker item R-12 in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md`). |
 
 > ### ⚠️ One request in Part 2 does **not** depend on the trigger — consider moving it up
 > **Request 7** (whether J6944 was delivered with the October 22, 2023 renewal) is not a matching contention. It is a delivery question, and it runs the other way: **if FIE cannot show it delivered the endorsement at that renewal, the endorsement may not be available to it at all** — which would make the rest of Part 2 unnecessary rather than merely premature. It is attachment-free and safe to serve now. Recommended: move Request 7 into the First Set before service, or serve it as a one-request supplement. RFP 35 (the complete policy as delivered at the 2023 renewal) is the document counterpart.
@@ -135,15 +135,32 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *Part 3 — The 2020 claim file*
 
-> **HOLD — check the documents FIE produced first.** Do not serve Request 10 until FIE's production under First Set RFPs 2, 22 and 23 (the 2020 claim file, all prior-claim inspection records, and the complete October 13, 2020 photograph log) has been received and reviewed. Before serving:
+> **HOLD — check the documents FIE produced first.** Do not serve any of Requests 10–15 until FIE's production under First Set RFPs 2, 22, 23 and 33 (the native 2020 estimate, plus the 2020 claim file, all prior-claim inspection records, and the complete October 13, 2020 photograph log) has been received and reviewed. Before serving:
 > 1. Look for any written inspection report, adjuster notes, field notes, sketches, or window-condition summary for the 2020 claim.
 > 2. **If none was produced**, confirm that FIE's written RFP response says the production is complete (not "will supplement" or "subject to objections"). Then serve as drafted.
 > 3. **If such a document was produced**, do not serve as drafted. Either drop the request, or reword it to the specific gap the document leaves (for example, that it does not identify a dent on a named window).
 > 4. Compare the October 13, 2020 photographs with First Set Nos. 163–180. If any photograph shows one of those dents, note it and expect FIE to deny the matching request.
 >
-> This request is the companion to First Set Nos. 163–180, which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
+> **Additional checklist for Requests 11–15 (added September 16, 2026). Plaintiffs' position is that the 2020 claim paid for two sashes, not two whole windows. Confirm it from FIE's documents before serving any of these:**
+> 5. **Native estimate (RFP 33):** does the Xactimate sketch, room list, line note, or revision history tie line item 1 to a location, elevation or window? Does line item 3 ("retrofit window, 24-40 sf") measure a whole window assembly?
+> 6. **October 13, 2020 photograph log (RFP 23):** which sashes or units of the front triple window and the north porch four-unit window are shown dented? Record the photo numbers.
+> 7. **2020 claim file (RFPs 2, 22):** look for adjuster notes by Allen Banning (2020 claim representative), contractor bids, or supplement requests that name the sashes. If the file is silent or unclear, add Banning to the deposition list.
+> 8. **Reword Requests 12 and 13** to the specific sash or unit the documents identify, and remove the bracketed placeholders. Drop Request 11 or 14 if the documents contradict it.
+> 9. **Request 15** can be served as drafted only if the review confirms that no 2020 document identifies the sash location.
+>
+> Request 10 is the companion to First Set Nos. 163–180, which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
 
 **REQUEST FOR ADMISSION NO. 10:** Admit that, other than the inspection photographs dated October 13, 2020, Your claim file for The 2020 Claim contains no written report or notes of an inspection of the windows at The Property.
+
+**REQUEST FOR ADMISSION NO. 11:** Admit that line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim addressed two casement sashes and not two complete window assemblies.
+
+**REQUEST FOR ADMISSION NO. 12:** Admit that The 2020 Claim did not pay for the replacement of any sash of the three-sash window on the front (west) elevation of the dwelling, north of the main entry, other than [the sash or sashes identified in Your production — CONFIRM BEFORE SERVICE].
+
+**REQUEST FOR ADMISSION NO. 13:** Admit that The 2020 Claim did not pay for the replacement of any unit of the four-unit window in the north wall of the four-season porch other than [the unit or units identified in Your production — CONFIRM BEFORE SERVICE].
+
+**REQUEST FOR ADMISSION NO. 14:** Admit that line item 3 ("Additional charge for a retrofit window, 24-40 sf") of Your February 18, 2022 estimate for The 2020 Claim does not reflect the replacement of any complete window assembly at The Property.
+
+**REQUEST FOR ADMISSION NO. 15:** Admit that no document in Your claim file for The 2020 Claim identifies which sash or sashes at The Property line item 1 of Your February 18, 2022 estimate addresses.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 

@@ -17,7 +17,7 @@
 2. Commit with a message that names the ID (for example, `RFA: apply F-23`).
 3. Keep declined items in the table so they are not raised again.
 
-**Status as of September 16, 2026.** The operative set has **180 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125), and **§5-F**: D-2, T-36, T-37, T-40, T-41, T-42, U-11 (definition; Nos. 36, 37 and 41 replaced; Nos. 130–162; pointers under Nos. 37, 40 and 42). Everything after J-1 to J-8 is not yet committed. R-9 (Nos. 131–151 restructured), R-10 (Nos. 152–155 replaced), T-53 (No. 53 replaced) and R-11 (Nos. 163–180) are also applied. R-12 is held in the Second Set. Append new requests as **No. 181 onward** unless the set is renumbered once at the end (see §5).
+**Status as of September 16, 2026.** The operative set has **182 requests**. Applied so far: **J-1 to J-8** (Nos. 93–100, committed `ac2e92d`), and **F-3 with D-1** (No. 3 replaced, Nos. 101–102 added, "The Policy Form" definition added), **U-1** (Nos. 103–106 plus a pointer under No. 34), and **§5-C / §5-D**: F-21, F-23, T-19, U-9, U-2 (Nos. 19, 21 and 23 replaced; Nos. 107–113 added; pointers under Nos. 19 and 23), and **§5-E**: U-3, U-4a–c, U-5a–b, U-8 (Nos. 114–129; earlier labels [40], [67], [68], [59], [60] mapped to Nos. 121–125), and **§5-F**: D-2, T-36, T-37, T-40, T-41, T-42, U-11 (definition; Nos. 36, 37 and 41 replaced; Nos. 130–162; pointers under Nos. 37, 40 and 42). Everything after J-1 to J-8 is not yet committed. R-9 (Nos. 131–151 restructured), R-10 (Nos. 152–155 replaced), T-53 (No. 53 replaced) and R-11 (Nos. 163–180) are also applied. R-12 is held in the Second Set. §5-G is applied (Nos. 50–53 replaced; Nos. 181–182 added), and R-14 is held in the Second Set. Append new requests as **No. 183 onward** unless the set is renumbered once at the end (see §5).
 
 Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · 🗂 Deferred (recommended) · ❌ Declined
 
@@ -28,7 +28,7 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | F-3 | Replace RFA 3 (hail is not an enumerated covered peril) with the Sept. 3 coverage-statement quote, and add 2 new requests (the open-perils grant; B.26 does not reach windows) | §5-A | ✅ | No. 3 (replaced); Nos. 101–102 (section Q, "The coverage grant") | 9/16/2026 |
 | F-21 | Replace RFA 21 with the *Quade* causation lock on F1.7 / B1.2 (= U-6) | §5-C | ✅ | No. 21 (replaced) | 9/16/2026 |
 | F-23 | Replace RFA 23 (the Tomes certification line is blank) and add 23-A (Tomes signed only the umpire acknowledgment). ⚠️ Confirm on a clean copy of the award | §5-C | ✅ | No. 23 (replaced) + No. 109 (section S); pointer under No. 23. ⚠️ Still confirm on a clean award copy before service | 9/16/2026 |
-| F-51 | Replace RFA 51 (the 2020 estimate's window lines are 1, 2, 3 and 32) | §5-G | ⏳ | — | — |
+| F-51 | Replace RFA 51 (the 2020 estimate's window lines are 1, 2, 3 and 32) | §5-G | ✅ | No. 51 (replaced, self-contained) | 9/16/2026 |
 
 ### Tightened wording and definitions (§3, §5)
 
@@ -42,9 +42,9 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 | T-40 | Keep RFA 40 and add verbatim Prieve dent requests. *Expanded 9/16:* all 20 page 4–6 dent findings (No. 41 carries the 21st), an existence request, and 4 page-7 conclusions. *Restructured by R-9:* 131–150 are now existence requests and 151 is a genuineness request | §5-F | ✅ | Nos. 131–155 (section X): 20 single-fact existence requests (131–150), genuineness of The Prieve Report (151), 4 "report does not state" requests (152–155, replaced by R-10); pointer under No. 40 | 9/16/2026 (R-9 applied; §9 compound issue resolved) |
 | T-41 | Requote RFA 41 ("bottom screen frame of the east facing sliding door") | §5-F | ✅ | No. 41 (replaced; page 5 quote) | 9/16/2026 |
 | T-42 | Verbatim-caption requests for A-42, A-92, A-93, A-98, A-99, A-103 and A-141 | §5-F | ✅ | Nos. 156–162 (section Y): A-42, A-92, A-93, A-98, A-99, A-103, A-141; pointer under No. 42 | 9/16/2026 |
-| T-50 | Replace RFA 50 (line item 1, 2.00 EA) | §5-G | ⏳ | — | — |
-| T-52 | Replace RFA 52 ("Type of Loss: Hail") and add 52-A (payment made on the 2020 Claim) | §5-G | ⏳ | — | — |
-| T-53 | Replace RFA 53 (inspection photographs dated Oct. 13, 2020) | §5-G | ✅ | No. 53 (replaced, self-contained; does not depend on T-50) | 9/16/2026 |
+| T-50 | Replace RFA 50 (line item 1, 2.00 EA) | §5-G | ✅ | No. 50 (replaced; neutral: quotes line item 1 and its quantity, does not say "window") | 9/16/2026 |
+| T-52 | Replace RFA 52 ("Type of Loss: Hail") and add 52-A (payment made on the 2020 Claim) | §5-G | ✅ | No. 52 (replaced) + No. 181 (was 52-A; section AA); pointer under No. 52 | 9/16/2026 |
+| T-53 | Replace RFA 53 (inspection photographs dated Oct. 13, 2020) | §5-G | ✅ | No. 53 (replaced, self-contained; re-fixed 9/16 to say "the items addressed by line item 1," not "the two windows") | 9/16/2026 |
 | T-54 | Replace RFA 54 (no hail loss dated after Sept. 5, 2020) | §5-G | ⏳ | — | — |
 | T-58 | RFA 58: add "directly or through Your agent Peter Pietila" | §5-I | ⏳ | — | — |
 | T-60 | Split RFA 60 (quote only) and add 60-A (the requested date was Sept. 6, 2024) | §5-I | ⏳ | — | — |
@@ -107,18 +107,20 @@ Status key: ✅ Applied · ⏳ Pending decision · ⏸ Hold (recommended) · �
 
 | ID | Item | Status | Note |
 |---|---|---|---|
-| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 180 |
-| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–180 |
-| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–180 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
+| K-1 | `README.md` (RFA) says 63 requests | ⏳ | Now 182 |
+| K-2 | `Service_Log.md` says "Nos. 1–92" | ⏳ | Now 1–182 |
+| K-3 | `RFA_Renumbering_Map_2026-09-15.md` numbers are stale (Brau 75–78, Bell 79–81, A-items collide with 87–92, and 93–182 are now used; earlier labels A-4 [40], A-12 [67], [68], A-9 [59], [60] are now Nos. 121–125. Mark those items implemented in `Proposed_Changes_RFA_First_Set_2026-09-12.md` in the same pass) | ⏳ | Rebuild once, after all decisions |
 | K-4 | `KeyDecisions.md` Decision 4 lists "unverified RFA 23" as a blocker | ⏳ | Now verified: the request is wrong as drafted (F-23) |
 | K-5 | Commit the Nos. 93–100 addition to git | ✅ | Committed in `ac2e92d` (9/15/2026 22:19 per git timestamp) |
-| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129), 5-F (def.; 36, 37, 41; 130–162), R-9/R-10 (131–155), T-53 (53), R-11 (163–180)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
+| K-7 | Commit the F-3 / D-1, U-1 and §5-C / §5-D changes | ⏳ | Suggested message: `RFA: apply F-3+D-1 (No. 3; 101–102), U-1 (103–106), 5-C (19, 21, 23; 107–110), 5-D (111–113), 5-E (114–129), 5-F (def.; 36, 37, 41; 130–162), R-9/R-10 (131–155), T-53 (53), R-11 (163–180), 5-G (50–53; 181–182)`. ⚠️ A leftover `.git/index.lock` was seen on 9/16; if no git program is running, delete it before committing |
 | R-9 | §9.3 restructure: Nos. 131–150 become existence requests; No. 151 deleted; genuineness request for the Prieve Report added | ✅ | Applied 9/16/2026. Genuineness request placed in No. 151's slot, so no renumbering was needed |
 | R-10 | Replace Nos. 152–155 (page 7 conclusion quotes that helped FIE) with 4 "The Prieve Report does not identify / state…" requests | ✅ | Nos. 152–155 (same slots) — §5-F.2 |
 | R-11 | Section Z: 18 requests that FIE's 2020 claim file does not record each Prieve dent (excludes the dents in Nos. 131 and 146) | ✅ | Nos. 163–180 — §5-F.2 |
 | R-12 | Companion: "other than the Oct. 13, 2020 photographs, the 2020 claim file contains no written report or notes of a window inspection" | ⏸ | Moved to Second Set, Part 3, No. 10. Held until FIE's production under RFPs 2, 22 and 23 is reviewed |
 | O-1 | Optional: Prieve Report states "We understand the structure to have been constructed in 1993" | ⏳ | Not applied (9/16/2026 decision: Nos. 163–180 only) |
-| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; move section W (No. 130) after No. 37, section X (Nos. 131–155) after No. 41 (consider moving No. 151, the genuineness request, to the head of section X), and section Y (Nos. 156–162) after No. 47; place each section Z request (Nos. 163–180) right after its matching section X request, or keep section Z as a block after section X; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23, 34, 37, 40 and 42, the section-note references in sections R, S, U, V, W, X, Y and Z (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
+| R-13 | New neutral request: the 2020 estimate does not identify the location of the items in line item 1 | ✅ | No. 182 (section AA) — §5-G, applied 9/16/2026 |
+| R-14 | Second Set Part 3, Nos. 11–15: two sashes, not two windows; unpaid sashes of the front triple and north porch windows; line 3 retrofit charge; no document identifies the sash location | ⏸ | Second Set Part 3 (with checklist items 5–9). Held until FIE's production under RFPs 2, 22, 23 and 33 is reviewed |
+| K-8 | **Final renumbering pass — once, after every proposal is decided and before the `.docx` is built** | ⏳ | (1) Arrange the requests thematically: move section R (Nos. 103–106) to follow No. 34; move section S (Nos. 107–110) to follow No. 23; move section T (Nos. 111–113) to follow section O (No. 92); move section U (Nos. 114–123) next to Nos. 60–61; move section V (Nos. 124–129) next to Nos. 35–41; move section W (No. 130) after No. 37, section X (Nos. 131–155) after No. 41 (consider moving No. 151, the genuineness request, to the head of section X), and section Y (Nos. 156–162) after No. 47; place each section Z request (Nos. 163–180) right after its matching section X request, or keep section Z as a block after section X; move section AA (Nos. 181–182) after No. 52; consider moving section Q (Nos. 101–102) into section A after No. 3; place any other appended requests with their topics. (2) Renumber 1–N in document order. (3) Fix every absolute cross-reference: Nos. 76–77 ("Request No. 75"), the pointers under Nos. 19, 23, 34, 37, 40, 42 and 52, the section-note references in sections R, S, U, V, W, X, Y, Z and AA (including "Requests 103 and 104…", "Requests 107 through 110… Nos. 17 through 23"), and any others added later. Relative references ("the preceding request", "the three preceding requests") must still point to the right requests after the move. (4) In the same pass, update this tracker's "Where it landed" column, the RFA `README.md`, `Service_Log.md`, `RFA_Renumbering_Map_2026-09-15.md`, and the RFA numbers cited in the interrogatory and RFP files (see the map's list). (5) Commit as a single change. |
 | K-6 | Build the `.docx` and fill in dates; serve before 5:00 p.m. | ⏳ | After all decisions |
 
 ---
@@ -638,21 +640,52 @@ It is held until FIE's production under RFPs 2, 22 and 23 has been reviewed. If 
 
 **Optional request, not applied:** that The Prieve Report states "We understand the structure to have been constructed in 1993." It would pair with the 2008 and 2014 sash stamps against Prieve's "installation" theory. It is pending as tracker item O-1.
 
-### 5-G. 2020 Claim (replaces Nos. 50–54)
+### 5-G. 2020 Claim (Nos. 50–53 replaced; section AA, Nos. 181–182; Second Set Part 3, Nos. 11–15). Revised and applied 9/16/2026
 
-> **50.** Admit that the estimate for The 2020 Claim dated February 18, 2022 (estimate "YIBIAO_LU2") contains one window-replacement line item — line item 1, "R&R Wood window - casement, 12-23 sf" — in a quantity of 2.00 EA.
+**Plaintiffs' position (9/16/2026):** the 2020 claim paid for **two sashes**, not two whole windows (see Complaint ¶23(a)). FIE's documents are needed to prove it.
+
+**What the estimate shows.**
+- Line 1: "R&R Wood window - casement, 12-23 sf," 2.00 EA at $702.31. That is consistent with single casement units or sashes.
+- Line 3: "Additional charge for a retrofit window, 24-40 sf," 2.00 EA. FIE may read this as two whole assemblies.
+- No line identifies a location. The estimate is sourced "Eagle View" and shows no inspection date.
+
+The existing documents are ambiguous, so the First Set stays **neutral and verbatim**. The sash-specific requests are held in the Second Set until FIE produces the 2020 file (RFPs 2, 22, 23 and 33, due 10/15/2026).
+
+**First Set, applied:**
+- Nos. 50–53 are replaced in place. No. 53 now reads "the **items** addressed by line item 1," replacing "the two windows," which conceded FIE's reading.
+- Nos. 50–52 each name the estimate directly, so none depends on another request.
+
+> **50.** Admit that line item 1 of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") reads "R&R Wood window - casement, 12-23 sf" and states a quantity of 2.00 EA.
 >
-> **51.** Admit that the only line items in the estimate identified in the preceding request that refer to windows are line items 1, 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
+> **51.** Admit that the only line items in Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") that refer to windows are line items 1 ("R&R Wood window - casement, 12-23 sf"), 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
 >
-> **52.** Admit that the estimate identified in Request No. 50 states "Type of Loss: Hail."
+> **52.** Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") states "Type of Loss: Hail."
 >
-> **[new 52-A]** Admit that You made payment to Plaintiff Yibiao Lu on The 2020 Claim.
+> **53.** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
 >
-> **53.** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the two windows addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
+> *AA. The 2020 Claim estimate*
 >
-> *Applied 9/16/2026 in this self-contained form. The first draft referred to "the estimate identified in Request No. 50," but No. 50 has not been rewritten yet (T-50 is pending), so that reference would have pointed to nothing.*
+> > To be read with Requests Nos. 50 through 54.
 >
-> **54.** Admit that Your claim records for The Property identify no hail loss with a date of loss after September 5, 2020, other than The Claim.
+> **181.** (was 52-A) Admit that You made payment to Plaintiff Yibiao Lu on The 2020 Claim.
+>
+> **182.** (new, R-13) Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") does not identify the location at The Property of the item or items addressed by line item 1.
+
+Pointer under No. 52: *See also Requests for Admission Nos. 181–182.* No. 54 is unchanged; its T-54 rewrite is still pending.
+
+**Deliberately omitted:** the estimate's "Work Not Completed" listing for window lines 1–4. FIE could use it to argue that the dents noted in 2020 were never repaired and are still there.
+
+**Second Set, Part 3 (R-14): held until FIE's production has been reviewed.** Nos. 12–13 carry bracketed placeholders to fill from the documents:
+
+> **SS 11.** Admit that line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim addressed two casement sashes and not two complete window assemblies.
+>
+> **SS 12.** Admit that The 2020 Claim did not pay for the replacement of any sash of the three-sash window on the front (west) elevation of the dwelling, north of the main entry, other than [the sash or sashes identified in Your production — CONFIRM BEFORE SERVICE].
+>
+> **SS 13.** Admit that The 2020 Claim did not pay for the replacement of any unit of the four-unit window in the north wall of the four-season porch other than [the unit or units identified in Your production — CONFIRM BEFORE SERVICE].
+>
+> **SS 14.** Admit that line item 3 ("Additional charge for a retrofit window, 24-40 sf") of Your February 18, 2022 estimate for The 2020 Claim does not reflect the replacement of any complete window assembly at The Property.
+>
+> **SS 15.** Admit that no document in Your claim file for The 2020 Claim identifies which sash or sashes at The Property line item 1 of Your February 18, 2022 estimate addresses.
 
 ### 5-I. No. 60 split; No. 58
 

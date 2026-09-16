@@ -201,13 +201,15 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *G. The 2020 Claim*
 
-**REQUEST FOR ADMISSION NO. 50:** Admit that The 2020 Claim paid for no more than two of the window units at The Property.
+**REQUEST FOR ADMISSION NO. 50:** Admit that line item 1 of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") reads "R&R Wood window - casement, 12-23 sf" and states a quantity of 2.00 EA.
 
-**REQUEST FOR ADMISSION NO. 51:** Admit that the Xactimate estimate for The 2020 Claim contains no window-related line item other than the line items approving two casement windows.
+**REQUEST FOR ADMISSION NO. 51:** Admit that the only line items in Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") that refer to windows are line items 1 ("R&R Wood window - casement, 12-23 sf"), 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
 
-**REQUEST FOR ADMISSION NO. 52:** Admit that You paid The 2020 Claim for hail damage to one or more windows at The Property.
+**REQUEST FOR ADMISSION NO. 52:** Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") states "Type of Loss: Hail."
 
-**REQUEST FOR ADMISSION NO. 53:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the two windows addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
+*See also Requests for Admission Nos. 181–182.*
+
+**REQUEST FOR ADMISSION NO. 53:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
 
 **REQUEST FOR ADMISSION NO. 54:** Admit that the only hail event documented in Your claim records for The Property after the October 13, 2020 inspection is the July 13, 2024 hailstorm.
 
@@ -522,6 +524,14 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 179:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove similar to those observed elsewhere."
 
 **REQUEST FOR ADMISSION NO. 180:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove at the lower corner of the window."
+
+*AA. The 2020 Claim estimate*
+
+> To be read with Requests Nos. 50 through 54.
+
+**REQUEST FOR ADMISSION NO. 181:** Admit that You made payment to Plaintiff Yibiao Lu on The 2020 Claim.
+
+**REQUEST FOR ADMISSION NO. 182:** Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") does not identify the location at The Property of the item or items addressed by line item 1.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
