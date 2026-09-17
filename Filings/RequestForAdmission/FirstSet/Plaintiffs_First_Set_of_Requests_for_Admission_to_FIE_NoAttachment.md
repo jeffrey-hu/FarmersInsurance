@@ -199,7 +199,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 52:** Admit that You do not contend that The Prieve Report was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d).
 
-**REQUEST FOR ADMISSION NO. 53:** Admit that Nathan Prieve was not retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2).
+**REQUEST FOR ADMISSION NO. 53:** Admit that neither Prieve Engineering, LLC nor Nathan Prieve was retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2).
 
 **REQUEST FOR ADMISSION NO. 54:** Admit that The Prieve Report states that Prieve Engineering, LLC visited The Property "Per the request of Nic Brau of Farmers Insurance."
 

@@ -26,6 +26,7 @@
 | **Part 1 — Authentication** | 1–5 | A clean, legible copy of the appraisal award has been obtained for Exhibit C. **Exhibits D and E are ready** — `../../../EventDocuments/2025-10-29-BrauEmail.pdf` for Exhibit E, and — `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page October 10, 2025 letter package (see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`). The September 3 and November 4, 2024 letters are already available as clean PDFs in `../../Discovery/Expert/Expert_Record_Packet/`. **No other condition.** |
 | **Part 2 — Matching / J6944** | 6–9, 16 (16 is held for decision) | **Mandatory:** FIE actually asserts J6944 or a matching limitation — in an amended answer, a discovery response, a denial of Request 1 of Part 2's predicate set, a mediation position paper, or summary-judgment briefing. **Without that, do not serve.** Helpful but not required: responses to First Set RFP Requests 24 and 40 (the endorsement, its drafting history, and FIE's matching guidance). |
 | **Part 3 — The 2020 claim file** | 10–15 | **Mandatory:** FIE has produced its 2020 claim file, October 13, 2020 photograph log and native 2020 estimate in response to First Set RFPs 2, 22, 23 and 33 (responses due October 15, 2026), **and those documents have been reviewed first.** See the checklist under Part 3 below. Added September 16, 2026 (tracker item R-12 in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md`). |
+| **Part 4 — The Prieve Report (ordinary course)** | 17 | FIE has answered First Set Nos. 52–53. Serve if FIE denied or qualified either one; otherwise optional. First sync the Definitions with the revised First Set (see the Part 4 note). |
 
 > ### ⚠️ One request in Part 2 does **not** depend on the trigger — consider moving it up
 > **Request 7** (whether J6944 was delivered with the October 22, 2023 renewal) is not a matching contention. It is a delivery question, and it runs the other way: **if FIE cannot show it delivered the endorsement at that renewal, the endorsement may not be available to it at all** — which would make the rest of Part 2 unnecessary rather than merely premature. It is attachment-free and safe to serve now. Recommended: move Request 7 into the First Set before service, or serve it as a one-request supplement. RFP 35 (the complete policy as delivered at the 2023 renewal) is the document counterpart.
@@ -165,6 +166,16 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 14:** Admit that line item 3 ("Additional charge for a retrofit window, 24-40 sf") of Your February 18, 2022 estimate for The 2020 Claim does not reflect the replacement of any complete window assembly at The Property.
 
 **REQUEST FOR ADMISSION NO. 15:** Admit that no document in Your claim file for The 2020 Claim identifies which sash or sashes at The Property line item 1 of Your February 18, 2022 estimate addresses.
+
+*Part 4 — The Prieve Report: ordinary course of claim adjustment*
+
+> **Added September 16, 2026.** This is the positive companion to First Set Nos. 52–53. Those requests ask FIE to admit that it does not claim work-product protection for The Prieve Report under Minn. R. Civ. P. 26.02(d), and that Prieve was not retained in anticipation of litigation under 26.02(e)(2). This request states the underlying fact: a report made in the ordinary course of adjusting a claim is a business record, not work product. It stays linked to The Claim on purpose.
+>
+> **Before serving:**
+> 1. Review FIE's answers to First Set Nos. 52–53. If FIE admitted both, this request is optional. If FIE denied or qualified either one, serve it.
+> 2. ⚠️ **Sync this set's Definitions with the First Set as revised on September 16, 2026 (items DI-1 to DI-10).** In particular, this set still defines "The Prieve Report" as the report "together with all drafts thereof." Drafts would give FIE a reason to deny this request. Use the First Set definition instead: the seven-page report dated November 4, 2024, as transmitted with the November 4, 2024 letter.
+
+**REQUEST FOR ADMISSION NO. 17:** Admit that The Prieve Report was prepared in the ordinary course of Your adjustment of The Claim.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 

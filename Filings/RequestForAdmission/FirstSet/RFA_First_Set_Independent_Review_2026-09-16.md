@@ -1143,6 +1143,14 @@ No count change and no renumbering. The `.docx` must be rebuilt.
 
 **Follow-up idea (not done):** check the Minnesota Secretary of State's assumed-name filings (Minn. Stat. ch. 333) for "Farmers Insurance." A filing would be independent proof if FIE denies.
 
+### 12.8 Nos. 52–53: work-product wording (✅ applied 9/16/2026)
+
+- **No. 53 fixed.** It named only "Nathan Prieve," but No. 14 says FIE retained Prieve Engineering, LLC, so FIE could truthfully say it never retained the individual. It now reads: "Admit that neither Prieve Engineering, LLC nor Nathan Prieve was retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2)."
+- **Nos. 52–53 were not tied to The Claim.** The unqualified phrase "in anticipation of litigation" reaches any litigation. "…concerning The Claim" would add nothing. "…this action" would let FIE rely on some other anticipated dispute, such as the appraisal. The link to the claim comes from the definition and from Nos. 54 and 58.
+- **The ordinary-course request went to the Second Set** as Part 4, Request 17: "Admit that The Prieve Report was prepared in the ordinary course of Your adjustment of The Claim." Serve it if FIE denies or qualifies Nos. 52–53.
+  - ⚠️ The Second Set's Definitions still predate DI-1 to DI-10, and its "The Prieve Report" definition includes "all drafts." Sync the definitions before serving that set.
+- No renumbering was needed. The `.docx` was rebuilt.
+
 ## Sources
 
 **Case documents (local):** the files listed in §2, plus `OfficialCourtDocuments/07_28_2026_…Correspondence for Judicial Approval…pdf` (Baskfield letter on § 45.028 service), `OfficialCourtDocuments/timeline.md`, `Filings/SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`, `EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`, `ClaimTimeline.md`, `KeyDecisions.md`, `Filings/Discovery/Service_Log.md`, `RFA_First_Set_Independent_Review_2026-09-15.md`, `RFA_Renumbering_Map_2026-09-15.md`, `Proposed_Changes_RFA_First_Set_2026-09-12.md`.
