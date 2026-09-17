@@ -23,6 +23,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
+**“The 2020 Settlement Package”** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned “Settlement Notice,” the one-page “BUILDING LOSS WORKSHEET” headed “This is a complete recap of your claim,” and the eight-page estimate that follows, identified on its face as Estimate “YIBIAO_LU2,” bearing “Claim Number: 3013539499-1-1” and setting out numbered line items 1 through 32.
+
 **"The Policy"** means homeowner’s Policy 98055-49-65 (shown on Defendant’s correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
 
 **"The Property"** means the insured dwelling at 17756 George Moran Dr., Eden Prairie, Minnesota 55347.
@@ -69,9 +71,11 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **12.** Answering on behalf of others. If You do not answer on behalf of every person within the definition of “You,” state which persons You have excluded, and identify, as to each answer affected, the person who has the information withheld on that basis. Where an interrogatory asks which person or entity performed an act, made a decision, or sent a communication, identify the specific legal entity by name; attributing the act to “Farmers,” “Defendant,” or the Exchange collectively is not a complete answer.
 
+**13.** Item-by-item answers. Where an interrogatory asks about each of several windows, items, or persons, answer separately as to each. A single collective answer that does not address each one is not responsive.
+
 **Interrogatories**
 
-**INTERROGATORY NO. 1:** Separately for each window of The Property that the Prieve Report’s Photo Appendix A depicts as dented, marked, or otherwise damaged, other than the windows designated “F1.7” and “B1.2” in The Appraisal Award, state the cause You attribute to that condition and the facts supporting that attribution, state whether You contend any policy exclusion or limitation applies to that window and, if so, which, and, if You contend The Appraisal Award determined the question for that window, identify the portion of the award You rely on.
+**INTERROGATORY NO. 1:** For each window other than “F1.7” and “B1.2” at which The Prieve Report or Photo Appendix A records a dent, mark, scrape, or indentation, state the cause and approximate date You attribute to it, the facts supporting that attribution (including, for any condition attributed to a prior claim, that claim’s number and the estimate line item You contend paid for it), any policy exclusion or limitation You contend applies, and any portion of The Appraisal Award You contend determined the question for that window.
 
 **INTERROGATORY NO. 2:** For each policy provision cited in the November 4, 2024 denial letter and its “Coverage Outcome – Policy Provisions” attachment as a ground for denying The Claim, state: the provision by section and number; whether You contend it operates as an exclusion or as a limitation on the grant of coverage; the specific factual basis on which You contend it applies to The Claim; the documents and witnesses on which You rely to support its application; and the person who decided to include it in the letter.
 
@@ -79,7 +83,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 4:** State the basis for Your decision to scope the Prieve Engineering engagement to the condition of the windows and to exclude the siding, downspouts, flashing, and doors that Plaintiffs had reported as damaged, identifying the date of that decision, the person(s) who made it, whether Plaintiffs were informed of it, and whether Prieve requested and was denied an expanded scope. If no document records the reason for the decision, state the reason and identify each person with knowledge of it.
 
-**INTERROGATORY NO. 5:** For each line item in the 2020 Xactimate estimate for The 2020 Claim, identify the specific window or sash to which the line item relates by location and elevation, state whether the line item paid for replacement of an entire window unit or for one or more individual sashes, and identify each window, sash, or component that the 2020 inspection observed or photographed as damaged but did not include in a paid line item, together with the reason for its exclusion. The correspondence between a given line item and a specific window or sash is not ascertainable from the estimate itself and is known only to You and Your adjusters.
+**INTERROGATORY NO. 5:** For each of line items 1, 2, 3, and 32 of the estimate within The 2020 Settlement Package, identify by location and elevation the window or sash it covers, and state whether it covers a whole window unit or one or more individual sashes.
 
 **INTERROGATORY NO. 6:** Identify, by date, speaker, recipient(s), and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer, including without limitation the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu, and the 11:06 a.m. February 10, 2025 voicemail from Nicholas Brau.
 
@@ -89,11 +93,11 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 9:** For each of the September 3, 2024 and November 4, 2024 denial letters, describe the supervisory review performed before the letter was issued, identifying the reviewer(s), the steps taken, the date of the review, and any documents created during the review.
 
-**INTERROGATORY NO. 10:** State each fact on which You base any contention that The Appraisal Award resolved The Claim within the meaning of Minn. Stat. § 604.18, subd. 4(c), and identify every window that the award is intended to cover and every window it is intended to exclude, with the document or communication supporting each identification.
+**INTERROGATORY NO. 10:** State each fact supporting any contention that The Claim was “resolved or confirmed by arbitration or appraisal” under Minn. Stat. § 604.18, subd. 4(c); and, for each item submitted to or addressed in the appraisal — including windows “F1.7” and “B1.2,” “Siding & Paint,” and each item in Plaintiffs’ August 3, 2025 appraisal demand — state whether You contend The Appraisal Award determined its actual value and loss, and identify the document supporting that contention.
 
 **INTERROGATORY NO. 11:** Describe Your policies, procedures, and practices for retaining, reviewing, evaluating, and accepting or rejecting third-party inspection reports and engineering reports on property claims, including the Hancock Claims Consultants and Prieve Engineering reports in The Claim, stating: (a) who within Farmers reviews such reports; (b) what independent review or analysis, if any, Farmers performs of a vendor’s findings and conclusions before relying on them; (c) whether and how an adjuster or supervisor may accept, modify, or reject a vendor’s conclusions; and (d) the review actually performed of the Hancock and Prieve reports in The Claim, identifying each person involved and each document created.
 
-**INTERROGATORY NO. 12:** State each fact on which You base Your First Affirmative Defense that "there exists a lack of jurisdiction over Defendant FIE," and, if You contend that any entity other than Fire Insurance Exchange should have been named as a defendant in this action, identify that entity and state its form and state of organization.
+**INTERROGATORY NO. 12:** State each fact supporting Your First Affirmative Defense, which alleges that “pursuant to Rule 12, Minn. R. Civ. P., there exists a lack of jurisdiction over Defendant FIE and Plaintiffs have failed to state a claim upon which relief can be granted”; and, if You contend that any person should be a defendant in this action in place of or in addition to Fire Insurance Exchange, or that Fire Insurance Exchange is misnamed or misdescribed in the caption, identify that person by legal name, form, and state of organization.
 
 **INTERROGATORY NO. 13:** Identify each person known to You to have knowledge of any fact at issue in this action, including without limitation facts relating to The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or the denial decisions, and state the subject matter of each person’s knowledge.
 
@@ -107,7 +111,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 18:** Identify each portion of The Appraisal Award that You contend states the actual value and the loss separately for each item, specifying for each awarded item the actual value and the loss You contend the award states and the location on the award where each appears; and if You contend the award states a value or loss for any item other than the two awarded windows, identify that item and the amount.
 
-Pursuant to Minn. R. Civ. P. 33.01(a), Plaintiffs state that the foregoing interrogatories, counting each subdivision of separate questions as an interrogatory, number fewer than thirty-five (35) and do not exceed the fifty (50) interrogatories permitted without leave of court. Plaintiffs reserve the right to serve additional interrogatories by stipulation or upon leave of court.
+**INTERROGATORY NO. 19:** Identify the legal entity that employed or engaged each person who acted for You in handling The Claim, including Christian Dudley, Nicholas Brau, and Bradlee Monson, at the time of that person’s involvement.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
