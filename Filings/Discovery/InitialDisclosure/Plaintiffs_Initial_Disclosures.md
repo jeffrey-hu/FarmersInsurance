@@ -61,7 +61,7 @@ Plaintiffs describe by category the documents, electronically stored information
 >
 > **Action:** add the item below to this list, and produce the documents with these disclosures. They are due **September 25, 2026** (Scheduling Order ¶2(a)).
 >
-> **Why:** First Set RFAs Nos. 189 (Jie Hu was Yibiao Lu's spouse on July 13, 2024), 190 (same-household residence) and 191 (Jie Hu is an insured) (final numbering as revised 9/16/2026, Nos. 1–193) could draw a Rule 36.01 "cannot admit or deny after reasonable inquiry" answer, because FIE's policy records name only Yibiao Lu. Once FIE holds these documents, the facts are "readily obtainable" and that answer is hard to sustain. If FIE still refuses to admit, Plaintiffs can challenge the answer's sufficiency under Rule 36.01 and seek the expenses of proof under Rule 37.03(b). See `../../RequestForAdmission/FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, tracker J-9.
+> **Why:** First Set RFAs Nos. 191 (Jie Hu was Yibiao Lu's spouse on July 13, 2024), 192 (same-household residence) and 193 (Jie Hu is an insured) (final numbering as revised 9/17/2026, Nos. 1–195) could draw a Rule 36.01 "cannot admit or deny after reasonable inquiry" answer, because FIE's policy records name only Yibiao Lu. Once FIE holds these documents, the facts are "readily obtainable" and that answer is hard to sustain. If FIE still refuses to admit, Plaintiffs can challenge the answer's sufficiency under Rule 36.01 and seek the expenses of proof under Rule 37.03(b). See `../../RequestForAdmission/FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, tracker J-9.
 >
 > **Proposed item (insert as No. 13, in the same style as items 1–12):**
 >

@@ -12,7 +12,7 @@
 
 ## 0. Change status tracker
 
-> ✅ **Final renumbering (K-8) completed September 16, 2026.** The First Set then ran **Nos. 1–189** in sections A–U. ⚠️ **After the S-2 to S-4 splits (§10), it runs Nos. 1–192**; convert 1–189 numbers with Table C of the final map. **Every request number in this review, including this tracker, is a working number** from before the final renumbering. Convert with `RFA_Renumbering_Map_2026-09-16_Final.md` (Table B). The Second Set draft, the initial-disclosures note and the Prieve deposition plan were converted to final numbers in the same pass.
+> ✅ **Final renumbering (K-8) completed September 16, 2026.** The First Set then ran **Nos. 1–189** in sections A–U. ⚠️ **It now runs Nos. 1–195** (as of 9/17/2026). Later changes: the S-2 to S-4 splits (§10) gave 1–192 (map Table C); the trade-name request (§12.7) gave 1–193 (Table D); party-identity Nos. 173–174 (§12.10) gave 1–195 (Table E). **§§10–12 cite the numbering in force on the date of each entry**; convert older numbers with those tables. **Every request number in this review, including this tracker, is a working number** from before the final renumbering. Convert with `RFA_Renumbering_Map_2026-09-16_Final.md` (Table B). The Second Set draft, the initial-disclosures note and the Prieve deposition plan were converted to final numbers in the same pass.
 
 **How to use this table.**
 1. When a proposal is applied, declined or held, update its row: set the status, give the request numbers where it landed, and add the date.
@@ -971,11 +971,11 @@ Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_fo
 
 - **No. 161** (both photo logs contain interior photos): **verified** 9/16/2026 by viewing the pages. First Set photos 5–8 and 31–32 are interior, and so are Second Set photos 9–10. Side finding: Second Set photos 9–10 are the same images as First Set photos 5–6.
 - **Nos. 29–30** (Tomes signature): ✅ **Verified by Bill against the award, 9/16/2026.**
-- **Nos. 176–177** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
+- **Nos. 178–179** (Jayden Grimm as the Hancock inspector): the source is the family's record and Complaint ¶15. The Hancock logs do not name the inspector, and FIE admitted only that "Hancock … inspected." A wrong name would draw a denial.
 - **"Letter to Plaintiffs"** (12 uses): the September 3 and October 10 letters are addressed to Yibiao Lu (September 3 is copied to Jie Hu). Low risk, since "Plaintiffs" covers him. Accepted.
 - **No. 64** ("at least twenty-five distinct windows") is a characterization and may draw a denial. Kept deliberately; Nos. 82–102 carry the undeniable version.
 - **No. 168** (information existed that FIE had not released): low value, and FIE can admit it trivially. Kept; Nos. 147–148 carry the pointed version.
-- **Size (193 requests after the S-2 to S-4 splits and the No. 173 trade-name request):** accepted (Z-1).
+- **Size (195 requests after the S-2 to S-4 splits, the trade-name request, and party-identity Nos. 173–174):** accepted (Z-1).
 
 ### 10.4 Process notes
 
@@ -1131,7 +1131,7 @@ No count change and no renumbering. The `.docx` must be rebuilt.
 
 **Housekeeping:** export the September 3, 2024 email (with its header and link) to `EventDocuments/` as a PDF. It backs No. 152 if FIE denies sending, and it preserves the delivery record.
 
-### 12.7 Trade-name request added (✅ applied 9/16/2026)
+### 12.7 Trade-name request added (✅ applied 9/16/2026; ⚠️ renumbered to **No. 175** on 9/17/2026, see §12.10)
 
 **Why.** Complaint ¶5 alleged that FIE operates under the trade name Farmers Insurance. Answer ¶5 admitted only that FIE is a reciprocal exchange licensed in Minnesota, and called the rest "statements and conclusions of law." The signature block on Dudley's September 3, 2024 letter and email reads "Fire Insurance Exchange" beside the Farmers Insurance logo. FIE's letters also use Farmers letterhead.
 
@@ -1162,6 +1162,41 @@ No count change and no renumbering. The `.docx` must be rebuilt.
 - "(East)" matches Prieve's caption for A-213, "WINDOW AT REAR/EAST SIDE OF GARAGE."
 - No. 81 is unchanged. There was no renumbering, and the `.docx` was rebuilt.
 - **Note:** the filed Complaint ¶38 also says "immediately south." Read it as "the next window to the south"; no amendment is needed, but be ready to explain it at deposition.
+
+### 12.10 Party identity, the "Person" definition, and No. 179 (✅ applied 9/17/2026)
+
+**Why.** Old No. 172 ("Fire Insurance Exchange is the proper party defendant to this action") read as a bare legal conclusion. "Proper" was ambiguous: it could mean capacity, liability, joinder, or the form of the caption. It also did not pin down FIE's position before the **November 16, 2026** joinder deadline, and Affirmative Defense 1 may be cover for a proper-party argument.
+
+**Applied:**
+
+| No. | Change | Text |
+|---|---|---|
+| Definition | "Person" broadened | "**"Person" and "person"** mean any natural person or group of natural persons, and any business, legal, or governmental entity of any form, whether or not incorporated, including any corporation, partnership, limited liability company, association, reciprocal or interinsurance exchange, attorney-in-fact, trust, or joint venture." |
+| 172 | Rewritten (replacement) | "Admit that You do not contend that any person should be the defendant in this action in place of Fire Insurance Exchange." |
+| 173 | New (addition) | "Admit that You do not contend that any person must be added as a defendant in this action." |
+| 174 | New (misnomer) | "Admit that You do not contend that Fire Insurance Exchange is misnamed or misdescribed in the caption of this action." |
+| 179 (was 177) | "person" → "individual" | "Admit that Jayden Grimm was the only individual who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024." |
+
+**Design notes:**
+- Each request asks one question. Nos. 172–174 use the same "You do not contend" form as Nos. 188–189, which FIE cannot easily object to as a legal conclusion.
+- The requests are in the present tense, so they ask for FIE's position now.
+- Rule 19 is deliberately not cited in No. 173, so the request covers any theory for adding a party.
+- The broadened "Person" definition reaches FUA (including in its role as attorney-in-fact), Farmers affiliates, other exchanges, and groups such as subscribers, without naming subscribers.
+
+**Impact review of the broader definition** (every use of person/persons checked):
+- Definition of "Fire Insurance Exchange": neutral to helpful.
+- Instruction 9: neutral.
+- No. 81: helpful.
+- Section N note: neutral.
+- Certificate of service: no effect.
+- **No. 177 (now No. 179): negative, because an entity could count as a "person"; fixed with "individual."**
+- The served RFPs and the interrogatories keep the shorter definition. That is harmless, since each set defines its own terms. Use the new wording in later sets.
+
+**Renumbering:** old Nos. 173–193 → 175–195 (map Table E). No cross-reference inside the set pointed into that range. Updated elsewhere: Second Set draft, initial-disclosures note (Nos. 191–193), README, Service_Log, and §10.3.
+
+**Already in the file when this pass ran:** Bill's manual fix to No. 167 ("Request No. 165").
+
+**Word file:** rebuilt from the `.md`.
 
 ## Sources
 

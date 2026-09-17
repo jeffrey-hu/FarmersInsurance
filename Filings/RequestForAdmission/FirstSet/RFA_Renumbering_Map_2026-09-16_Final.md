@@ -8,7 +8,7 @@
 
 **Supersedes:** `RFA_Renumbering_Map_2026-09-15.md`, which maps the older 34-request draft and is now historical only.
 
-> ⚠️ **Revised later on September 16, 2026 (S-2, S-3, S-4).** Three compound requests were split, so the operative set became **Nos. 1–192**. ⚠️ **A trade-name request was then added as No. 173, making it Nos. 1–193; see Table D.** Tables A and B below map to the intermediate **1–189** numbering; convert those numbers to the current ones with **Table C**. The "Final sections" table shows the current (1–192) ranges.
+> ⚠️ **Revised later on September 16, 2026 (S-2, S-3, S-4).** Three compound requests were split, so the operative set became **Nos. 1–192**. ⚠️ **A trade-name request was then added as No. 173, making it Nos. 1–193; see Table D.** ⚠️ **On 9/17/2026, party-identity requests Nos. 173–174 were added, making it Nos. 1–195; see Table E.** Tables A and B below map to the intermediate **1–189** numbering; convert those numbers to the current ones with **Table C**. The "Final sections" table shows the current (1–192) ranges.
 
 > **Not legal advice.** Working record. Once the set is served, these numbers are fixed: withdraw a request by letter and leave the gap; never renumber (`../../Document_Formatting_Standard.md` § 7).
 
@@ -30,7 +30,7 @@
 
 ## Final sections
 
-| Final section | Title | Final Nos. (1–193) |
+| Final section | Title | Final Nos. (1–195) |
 |---|---|---|
 | A | The Policy and the coverage grant | 1–6 |
 | B | Identity and capacity of the acting entity | 7–18 |
@@ -49,10 +49,10 @@
 | O | The September 3, 2024 letter package and its photograph logs | 152–164 |
 | P | The October 29, 2025 email | 165–168 |
 | Q | The October 21, 2025 reply and the handling of post-appraisal correspondence | 169–171 |
-| R | Party identity, agency, and the Hancock inspector | 172–177 |
-| S | The Policy's own provisions bearing on capacity, suit, and forum | 178–184 |
-| T | Service of process and jurisdiction | 185–187 |
-| U | Plaintiff Jie Hu's status under The Policy | 188–193 |
+| R | Party identity, agency, and the Hancock inspector | 172–179 |
+| S | The Policy's own provisions bearing on capacity, suit, and forum | 180–186 |
+| T | Service of process and jurisdiction | 187–189 |
+| U | Plaintiff Jie Hu's status under The Policy | 190–195 |
 
 ## Table A — final number → working number
 
@@ -474,6 +474,28 @@
 - Initial-disclosures note: 188–190 → 189–191.
 - README and Service_Log: counts updated.
 - Review file §10.3: Grimm requests 175–176 → 176–177.
+
+## Table E — 1–193 numbering → current 1–195 numbering (party-identity requests, 9/17/2026)
+
+| 1–193 No. | Current No. | Note |
+|---|---|---|
+| 1–171 | **1–171** | unchanged |
+| 172 | **172** (rewritten) | Was "…is the proper party defendant to this action." Now "Admit that You do not contend that any person should be the defendant in this action in place of Fire Insurance Exchange." |
+| — | **173** (new) | "Admit that You do not contend that any person must be added as a defendant in this action." |
+| — | **174** (new) | "Admit that You do not contend that Fire Insurance Exchange is misnamed or misdescribed in the caption of this action." |
+| 173–193 | **175–195** | +2. The trade-name request is now **No. 175**, and the Grimm "only individual" request is now **No. 179**. |
+
+**Also changed in the same pass:**
+- The "Person" definition was broadened to cover "Person" and "person," groups of natural persons, and every entity form.
+- No. 179 (was 177) now says "only individual" instead of "only person."
+
+**Cross-references:** none inside the set point to Nos. 173–193, so none changed.
+
+**Other files updated:**
+- Second Set draft: 181 → 183; 185–187 → 187–189; 188–193 → 190–195.
+- Initial-disclosures note: 189–191 → 191–193.
+- README and Service_Log: counts updated.
+- Review file: §10.3 (Grimm 176–177 → 178–179) and §12.7 (trade name now No. 175).
 
 ## Files updated in the same pass
 
