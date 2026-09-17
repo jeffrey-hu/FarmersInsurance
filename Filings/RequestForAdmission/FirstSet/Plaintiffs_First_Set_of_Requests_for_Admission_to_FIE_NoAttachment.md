@@ -257,7 +257,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 79:** Admit that "DENT IN SCREEN AT DOOR WINDOW SCRAPE MARK PRESENT" is the caption of photograph A-141 of Photo Appendix A.
 
-**REQUEST FOR ADMISSION NO. 80:** Admit that Photo Appendix A contains no photograph of the two-sash fixed window located on the rear elevation of the attached garage at The Property, immediately south of the garage rear-elevation window depicted at photographs A-213 through A-217.
+**REQUEST FOR ADMISSION NO. 80:** Admit that Photo Appendix A contains no photograph of the two-sash fixed window that is the only other window on the rear (east) elevation of the attached garage at The Property, south of the garage window depicted at photographs A-213 through A-217.
 
 **REQUEST FOR ADMISSION NO. 81:** Admit that no person acting for You or retained by You has inspected the window described in the preceding request.
 

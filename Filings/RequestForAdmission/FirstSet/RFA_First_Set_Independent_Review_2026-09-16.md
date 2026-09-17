@@ -1151,6 +1151,18 @@ No count change and no renumbering. The `.docx` must be rebuilt.
   - ⚠️ The Second Set's Definitions still predate DI-1 to DI-10, and its "The Prieve Report" definition includes "all drafts." Sync the definitions before serving that set.
 - No renumbering was needed. The `.docx` was rebuilt.
 
+### 12.9 No. 80: location of the rear-garage window (✅ applied 9/17/2026)
+
+**Problem (Bill).** "Immediately south of" implies the two windows are next to each other, but they are several feet apart. FIE could deny No. 80 on that phrase alone, and No. 81 ("the window described in the preceding request") would fall with it.
+
+**Fact confirmed by Bill:** the rear wall of the garage has only two windows.
+
+- **Before:** "…the two-sash fixed window located on the rear elevation of the attached garage at The Property, immediately south of the garage rear-elevation window depicted at photographs A-213 through A-217."
+- **After:** "…the two-sash fixed window that is the only other window on the rear (east) elevation of the attached garage at The Property, south of the garage window depicted at photographs A-213 through A-217."
+- "(East)" matches Prieve's caption for A-213, "WINDOW AT REAR/EAST SIDE OF GARAGE."
+- No. 81 is unchanged. There was no renumbering, and the `.docx` was rebuilt.
+- **Note:** the filed Complaint ¶38 also says "immediately south." Read it as "the next window to the south"; no amendment is needed, but be ready to explain it at deposition.
+
 ## Sources
 
 **Case documents (local):** the files listed in §2, plus `OfficialCourtDocuments/07_28_2026_…Correspondence for Judicial Approval…pdf` (Baskfield letter on § 45.028 service), `OfficialCourtDocuments/timeline.md`, `Filings/SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`, `EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`, `ClaimTimeline.md`, `KeyDecisions.md`, `Filings/Discovery/Service_Log.md`, `RFA_First_Set_Independent_Review_2026-09-15.md`, `RFA_Renumbering_Map_2026-09-15.md`, `Proposed_Changes_RFA_First_Set_2026-09-12.md`.
