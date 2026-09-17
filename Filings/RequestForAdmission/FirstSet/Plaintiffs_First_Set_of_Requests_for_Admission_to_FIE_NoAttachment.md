@@ -455,7 +455,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 166:** Admit that the message identified in the preceding request was sent from the address myadjuster@farmersinsurance.com and bore the subject line "Claim # 7007986837-1-1, Loss Date 07/13/2024, Important Claim Information [3CAB117Z3]."
 
-**REQUEST FOR ADMISSION NO. 167:** Admit that the message identified in Request No. 163 was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 167:** Admit that the message identified in Request No. 165 was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
 
 **REQUEST FOR ADMISSION NO. 168:** Admit that, as of October 29, 2025, information relating to The Claim existed that You had not released to Plaintiffs.
 

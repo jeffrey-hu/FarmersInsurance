@@ -982,7 +982,7 @@ Checked: the final `.md` (Nos. 1–189) and `Plaintiffs_First_Set_of_Requests_fo
 - **Word file must be regenerated.** Any fix in 10.1 or 10.2 changes the `.md`, so the `.docx` must be rebuilt from it. The build script lives in the session workspace; the `.md` → `.docx` build takes about a minute.
 - **⚠️ Checklist for any further renumbering.** Request numbers are also cited **outside the request list**. Update every one:
   1. **Instruction 8:** "…identified by its address in **Request No. 59**." This must match the NWS request that carries the web address. ✅ Done: No. 31 was split, so it now reads **Request No. 60**.
-  2. **Request texts:** No. 164 ("Request No. 162"). ✅ Now No. 167 ("Request No. 163").
+  2. **Request texts:** No. 164 ("Request No. 162"). ⚠️ Now No. 167, which must read "Request No. **165**" (corrected 9/17/2026; the S-2 to S-4 pass wrote 163 in error. Bill is fixing the `.md` and `.docx` manually).
   3. **Pointers:** under No. 63 (→ Nos. 81–105) and under No. 139 (→ No. 27).
   4. **Section notes:** F, G, I, J and N.
   5. **Other files:** the final renumbering map, the Second Set draft, the initial-disclosures note (Nos. 185–187), the Prieve deposition plan (No. 103), and KeyDecisions (Nos. 29–30).
@@ -1013,7 +1013,7 @@ Checked: the `.md` (Nos. 1–192), the rebuilt `.docx`, and every file that cite
 ### 11.3 Verified in this pass
 
 - **Numbering:** Nos. 1–192 are contiguous with no duplicates. Every request carried over from the 1–189 set sits at the number Table C predicts. Section ranges match the final map (C 19–32 … U 187–192).
-- **Relative references still point correctly:** Nos. 49, 81, 136, 138 and 166 ("preceding"), No. 167 (→ No. 163), and the pointers under No. 64 (→ 82–106) and No. 140 (→ 27).
+- **Relative references still point correctly:** Nos. 49, 81, 136, 138 and 166 ("preceding"), No. 167 (→ should be No. **165**; this check wrongly accepted 163, corrected 9/17/2026), and the pointers under No. 64 (→ 82–106) and No. 140 (→ 27).
 - **Instruction 8:** it cites No. 60, and No. 60 is the NWS request that carries the web address.
 - **Section notes F, G, J and N:** they match the requests they describe.
 - **New Nos. 156–159, checked against the Second Photo Set** (the September 3, 2024 letter PDF, pp. 25–74, read with text recognition):
