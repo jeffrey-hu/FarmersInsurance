@@ -173,6 +173,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 >
 > **Before serving:**
 > 1. Review FIE's answers to First Set Nos. 52–53. If FIE admitted both, this request is optional. If FIE denied or qualified either one, serve it.
+> 2a. ⚠️ **Also add the First Set's September 17, 2026 definition** of **"The February 18, 2022 Settlement Package"** (verbatim), and reword **Requests 11, 14 and 15**, which still say "Your February 18, 2022 estimate for The 2020 Claim," to "the estimate within The February 18, 2022 Settlement Package." The same definition is in the First Set of Interrogatories, so all three sets must match word for word.
 > 2. ⚠️ **Sync this set's Definitions with the First Set as revised on September 16, 2026 (items DI-1 to DI-10).** In particular, this set still defines "The Prieve Report" as the report "together with all drafts thereof." Drafts would give FIE a reason to deny this request. Use the First Set definition instead: the seven-page report dated November 4, 2024, as transmitted with the November 4, 2024 letter.
 
 **REQUEST FOR ADMISSION NO. 17:** Admit that The Prieve Report was prepared in the ordinary course of Your adjustment of The Claim.

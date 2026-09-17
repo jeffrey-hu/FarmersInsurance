@@ -33,7 +33,7 @@
 | F-2 | Rewrite Int. 10: quote "resolved **or confirmed**"; per-item form; non-window items | Int. 10 | 0 (FIE's count −1) | ✅ Applied 9/17/2026 | Concise version; `.md` only |
 | F-3 | Rewrite Int. 12 (verbatim quotation of Affirmative Defense 1; substitute, added, or misnamed party) **and split the employer question into a new Int. 19** | Ints. 12, 19 | +1 (Int. 12 +0, Int. 19 +1) | ✅ Applied 9/17/2026 | Joinder deadline is 11/16; Int. 19 uses option A (three names) |
 | F-4 | Rewrite Int. 1: source wording, approximate date, prior-claim attribution (the rear-garage window went to a **held** Second Set item, H-1) | Int. 1 | **0** | ✅ Applied 9/17/2026 | Additions ride as particulars |
-| F-5 | Rewrite Int. 5: new definition **"The 2020 Settlement Package"**; ask only the line-item mapping; delete the argumentative last sentence | Definitions, Int. 5 | **−1** | ✅ Applied 9/17/2026 | Documented-but-unpaid clause held as H-2 |
+| F-5 | Rewrite Int. 5: new definition **"The February 18, 2022 Settlement Package"**; ask only the line-item mapping; delete the argumentative last sentence | Definitions, Int. 5 | **−1** | ✅ Applied 9/17/2026 | Documented-but-unpaid clause held as H-2 |
 | F-6a | "The Claim" → "date of loss July 13, 2024" | Definitions | 0 | ⬜ Open | |
 | F-6b | "The Appraisal Award" → the RFA wording | Definitions | 0 | ⬜ Open | |
 | F-6c | "The Prieve Report" → the RFA wording (no drafts) | Definitions | 0 | ⬜ Open | |
@@ -228,9 +228,9 @@ Two related gaps:
 
 **Text as applied (9/17/2026).** A new definition, placed after "The 2020 Claim":
 
-> **"The 2020 Settlement Package"** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned "Settlement Notice," the one-page "BUILDING LOSS WORKSHEET" headed "This is a complete recap of your claim," and the eight-page estimate that follows, identified on its face as Estimate "YIBIAO_LU2," bearing "Claim Number: 3013539499-1-1" and setting out numbered line items 1 through 32.
+> **"The February 18, 2022 Settlement Package"** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned "Settlement Notice," the one-page "BUILDING LOSS WORKSHEET" headed "This is a complete recap of your claim," and the eight-page estimate that follows, identified on its face as Estimate "YIBIAO_LU2," bearing "Claim Number: 3013539499-1-1" and setting out numbered line items 1 through 32.
 
-> **INTERROGATORY NO. 5:** For each of line items 1, 2, 3, and 32 of the estimate within The 2020 Settlement Package, identify by location and elevation the window or sash it covers, and state whether it covers a whole window unit or one or more individual sashes.
+> **INTERROGATORY NO. 5:** For each of line items 1, 2, 3, and 32 of the estimate within The February 18, 2022 Settlement Package, identify by location and elevation the window or sash it covers, and state whether it covers a whole window unit or one or more individual sashes.
 
 **Count: 1 fair, down from 2** — the documented-but-unpaid clause went to held item **H-2**.
 
@@ -254,6 +254,8 @@ Line 1 is "R&R Wood window - casement, 12-23 sf," 2.00 EA; line 4 is "Scaffoldin
 - **No reference to the Building Loss Worksheet in the question.** The worksheet only summarizes completed and uncompleted work; the line items live in the estimate. Line 4 (scaffolding) was left out with it, so Int. 5 names the four items whose own descriptions refer to windows — the same four as RFA 126.
 - **"Covers," not "paid for."** The worksheet shows the window work under Work Not Completed with depreciation withheld, so "paid for" invites the true but useless answer that nothing was paid for the windows. The value is which physical windows the 2020 scope included.
 - **The argumentative last sentence was deleted** ("The correspondence … is known only to You and Your adjusters"). It was there to preempt a Rule 33.03 records-only answer, but Rule 33.03 requires the burden of deriving the answer to be substantially the same for both parties, which FIE cannot show for a mapping only its adjusters could make.
+
+**Name changed 9/17/2026 (Bill's decision).** The term was "The 2020 Settlement Package" when first applied; it is now **"The February 18, 2022 Settlement Package."** Two names were considered and rejected: "The Settlement Notice" (that is the caption of the two-page letter only, so requests about line items could be read as reaching only the letter) and any name built on "created on or about," which invites an argument about system generation rather than the printed date. The delivery channel stays out of the definition — the document is available in the Documents section of FIE's online claim account, and that fact belongs in its own request, where a denial cannot take the definition down with it.
 
 **Why the bad answer is still a good answer.** If FIE says the estimate does not record which physical windows the line items covered, its "already paid in a prior claim" attribution has no anchor — and Int. 1's prior-claim clause forces the same admission window by window.
 

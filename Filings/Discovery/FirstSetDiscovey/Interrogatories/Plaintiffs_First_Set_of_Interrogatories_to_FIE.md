@@ -23,7 +23,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
-**“The 2020 Settlement Package”** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned “Settlement Notice,” the one-page “BUILDING LOSS WORKSHEET” headed “This is a complete recap of your claim,” and the eight-page estimate that follows, identified on its face as Estimate “YIBIAO_LU2,” bearing “Claim Number: 3013539499-1-1” and setting out numbered line items 1 through 32.
+**“The February 18, 2022 Settlement Package”** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned “Settlement Notice,” the one-page “BUILDING LOSS WORKSHEET” headed “This is a complete recap of your claim,” and the eight-page estimate that follows, identified on its face as Estimate “YIBIAO_LU2,” bearing “Claim Number: 3013539499-1-1” and setting out numbered line items 1 through 32.
 
 **"The Policy"** means homeowner’s Policy 98055-49-65 (shown on Defendant’s correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
 
@@ -83,7 +83,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 4:** State the basis for Your decision to scope the Prieve Engineering engagement to the condition of the windows and to exclude the siding, downspouts, flashing, and doors that Plaintiffs had reported as damaged, identifying the date of that decision, the person(s) who made it, whether Plaintiffs were informed of it, and whether Prieve requested and was denied an expanded scope. If no document records the reason for the decision, state the reason and identify each person with knowledge of it.
 
-**INTERROGATORY NO. 5:** For each of line items 1, 2, 3, and 32 of the estimate within The 2020 Settlement Package, identify by location and elevation the window or sash it covers, and state whether it covers a whole window unit or one or more individual sashes.
+**INTERROGATORY NO. 5:** For each of line items 1, 2, 3, and 32 of the estimate within The February 18, 2022 Settlement Package, identify by location and elevation the window or sash it covers, and state whether it covers a whole window unit or one or more individual sashes.
 
 **INTERROGATORY NO. 6:** Identify, by date, speaker, recipient(s), and medium, each communication in which You articulated, restated, or applied any requirement that evidence on a hail claim be provided by an engineer, including without limitation the February 3, 2025 telephone call between Bradlee Monson and Yibiao Lu, and the 11:06 a.m. February 10, 2025 voicemail from Nicholas Brau.
 

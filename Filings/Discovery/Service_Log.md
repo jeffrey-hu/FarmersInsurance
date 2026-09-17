@@ -33,7 +33,7 @@
 | Document | Status | Before it goes out |
 |---|---|---|
 | **Plaintiffs' First Set of Interrogatories to FIE** (18 numbered) | Ready in `.md` and both `.docx` | ⚠️ `FirstSetDiscovey/Interrogatories/Interrogatory_Count_and_Open_Items_2026-09-15.md` item 1 is marked **BLOCKING** — the Rule 33.01(a) certification paragraph reads "fewer than thirty-five (35)" against a fair count of 37. Also: dates in the signature block and certificate. |
-| **Plaintiffs' First Set of Requests for Admission to FIE** (Nos. 1–195, final numbering as revised 9/17/2026; see map Tables C–E) | `.md` and `.docx` ready | Fill signature-block and certificate dates; serve before 5:00 p.m. Minn. R. Civ. P. 36 imposes no numerical limit. Map: `../RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`. |
+| **Plaintiffs' First Set of Requests for Admission to FIE** (Nos. 1–195, final numbering as revised 9/17/2026; see map Tables C–E) | `.md` revised 9/17/2026 ("The February 18, 2022 Settlement Package" definition; Nos. 125–130 reworded). ⚠️ **`.docx` stale — rebuild from the `.md` before serving** | Fill signature-block and certificate dates; serve before 5:00 p.m. Minn. R. Civ. P. 36 imposes no numerical limit. Map: `../RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`. |
 | **Plaintiffs' Second Set of Requests for Admission** | Draft only | Depends on interrogatory headroom; see the count file above. |
 
 ---

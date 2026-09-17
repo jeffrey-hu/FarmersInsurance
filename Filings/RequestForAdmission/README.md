@@ -7,6 +7,8 @@
 
 ## Contents
 
+> ⚠️ **Updated September 17, 2026.** The definition **"The February 18, 2022 Settlement Package"** was added and Nos. 125, 126, 127, 129 and 130 were reworded to use it (P-1 to P-5; see `FirstSet/RFA_2020SettlementPackage_Definition_Impact_2026-09-17.md`). The count is unchanged at **195** and nothing renumbered. The `.docx` is stale until it is rebuilt from the `.md`.
+
 > ⚠️ **Updated September 16, 2026.** The First Set was revised and renumbered (Nos. 1–195 after the S-2 to S-4 splits, the trade-name request, and party-identity Nos. 172–174); see `FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` and the tracker in `FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0. The Second Set now has three parts (Nos. 1–16; Part 3 and No. 16 held). Older counts and statuses below this note are historical.
 
 Consolidated here on **September 15, 2026** from `Filings/Discovery/RequestForAdmission/`, so that all Requests for Admission live in one place.

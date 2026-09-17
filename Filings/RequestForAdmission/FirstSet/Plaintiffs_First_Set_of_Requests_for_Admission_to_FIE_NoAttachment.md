@@ -23,6 +23,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
+**"The February 18, 2022 Settlement Package"** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned "Settlement Notice," the one-page "BUILDING LOSS WORKSHEET" headed "This is a complete recap of your claim," and the eight-page estimate that follows, identified on its face as Estimate "YIBIAO_LU2," bearing "Claim Number: 3013539499-1-1" and setting out numbered line items 1 through 32.
+
 **"The Policy"** means homeowner's Policy 98055-49-65 (shown on Defendant's correspondence as 0980554965), including all endorsements, in force on July 13, 2024.
 
 **"The Policy Form"** means the Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition, as listed in the Declarations of The Policy effective October 22, 2023.
@@ -357,17 +359,17 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *K. The 2020 Claim*
 
-**REQUEST FOR ADMISSION NO. 125:** Admit that line item 1 of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") reads "R&R Wood window - casement, 12-23 sf" and states a quantity of 2.00 EA.
+**REQUEST FOR ADMISSION NO. 125:** Admit that line item 1 of the estimate within The February 18, 2022 Settlement Package reads "R&R Wood window - casement, 12-23 sf" and states a quantity of 2.00 EA.
 
-**REQUEST FOR ADMISSION NO. 126:** Admit that the only line items in Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") that refer to windows are line items 1 ("R&R Wood window - casement, 12-23 sf"), 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
+**REQUEST FOR ADMISSION NO. 126:** Admit that the only line items of the estimate within The February 18, 2022 Settlement Package that refer to windows are line items 1 ("R&R Wood window - casement, 12-23 sf"), 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
 
-**REQUEST FOR ADMISSION NO. 127:** Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") states "Type of Loss: Hail."
+**REQUEST FOR ADMISSION NO. 127:** Admit that the estimate within The February 18, 2022 Settlement Package states "Type of Loss: Hail."
 
 **REQUEST FOR ADMISSION NO. 128:** Admit that You made payment to Plaintiff Yibiao Lu on The 2020 Claim.
 
-**REQUEST FOR ADMISSION NO. 129:** Admit that Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2") does not identify the location at The Property of the item or items addressed by line item 1.
+**REQUEST FOR ADMISSION NO. 129:** Admit that the estimate within The February 18, 2022 Settlement Package does not identify the location at The Property of the item or items addressed by line item 1.
 
-**REQUEST FOR ADMISSION NO. 130:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of Your February 18, 2022 estimate for The 2020 Claim (estimate "YIBIAO_LU2").
+**REQUEST FOR ADMISSION NO. 130:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of the estimate within The February 18, 2022 Settlement Package.
 
 **REQUEST FOR ADMISSION NO. 131:** Admit that Your claim records for The Property identify no hail loss with a date of loss after September 5, 2020, other than The Claim.
 
