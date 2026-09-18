@@ -553,6 +553,14 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 202:** Admit that You have no written policy, procedure, or guideline describing the "peer review" referred to in paragraph 24 of Your Answer.
 
+*Z. The October 29, 2025 message — additional text*
+
+**REQUEST FOR ADMISSION NO. 203:** Admit that the message identified in Request No. 165 also stated, "If you need information as to why additional windows were not included in the award then you will need to contact your appraiser to obtain that information."
+
+*AA. Work product and the pre-suit claim file*
+
+**REQUEST FOR ADMISSION NO. 204:** Admit that no document in Your claim file for The Claim created before July 8, 2026 was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d).
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.

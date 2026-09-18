@@ -1,6 +1,6 @@
 # Interrogatories, First Set: Review After the RFP and RFA Updates
 
-**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a, F-8, F-9, R-2, R-3, R-4, R-6, R-7, I-8 and I-9 applied; **old Ints. 2, 3 and 6 deleted; the set runs 1–16**; fair count **30**; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
+**Date:** September 17, 2026 · **Tracker last updated:** September 18, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a, F-8, F-9, R-2, R-3, R-4, R-6, R-7, R-8, R-9, R-10, R-11, R-12, R-13, R-15, R-16, R-17, R-18, I-8 and I-9 applied; **old Ints. 2, 3 and 6 deleted; the set runs 1–16**; fair count **30**; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
 **Document reviewed:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` (the operative file; the `.docx` and the "as of 09-15" copies were identical to it when this review was written). It had 18 interrogatories and 12 instructions when reviewed — **19 after F-3** — and has **not been served**.
 **Working rule:** changes are applied to the `.md` only. The `.docx` is generated once, at the end (W-1).
 **Checked against:**
@@ -53,9 +53,16 @@
 | R-4 | Int. 2 (old 4): neutral wording — **how the scope came to be limited** — particulars folded; "Plaintiffs had reported" and "were Plaintiffs informed" dropped | Int. 2 | 0 (FIE's count −2) | ✅ Applied 9/17/2026 | Paired with new RFA No. 201 |
 | R-6 | **Old Int. 6 (engineer-rule communications) deleted** — premise already reframed by FIE; covered by RFA 132, Answer ¶¶24–26, Int. 12, RFPs 11, 36, 43 and depositions | Int. 6 | **−1** | ✅ Applied 9/17/2026 | Set now **31**; RFA No. 202 added |
 | R-7 | Int. 4 (old 7): drop the destruction particulars (now in Int. 11) and merge the "basis for the 10/10/2025 statement" with the search question | Int. 4 | **−1** | ✅ Applied 9/17/2026 | 135 words → 85 |
-| R-8 | Int. 8: match the quotation's capitalization to the email | Int. 8 | 0 | ⬜ Open | |
-| R-11 | Int. 11: trim to (a) and (d) | Int. 11 | −2 | ⬜ Open | Same as I-24 |
-| R-15 | Int. 15: add "whether considered in any coverage decision and, if not, why not" | Int. 15 | 0 | ⬜ Open | |
+| R-8 | Int. 5 (old 8): capitalization fixed against the source email; "to whom" dropped; the 10/10/2025 statement now quoted in full | Int. 5 | 0 | ✅ Applied 9/17/2026 | Paired with RFA No. 203 |
+| R-9 | Int. 6 (old 9): yes/no framing for supervisory or quality-control review; **added "identify who authorized each letter to be issued"** | Int. 6 | **+1** | ✅ Applied 9/18/2026 | See the fallback note if the clause is ever dropped |
+| R-10 | Int. 7: add "Debris" to the enumerated award items; trim the closing clause | Int. 7 | 0 | ✅ Applied 9/18/2026 | Found when the award was read (see R-3) |
+| R-11 | Int. 8 (old 11): collapse the four lettered subparts to one claim-specific question plus a policy clause | Int. 8 | **−2** | ✅ Applied 9/18/2026 | Set now **29**; general practice → Rule 30(b)(6) topic |
+| R-12 | Int. 9 (old 12): add "identify each count … to which the failure-to-state allegation is directed" | Int. 9 | 0 | ✅ Applied 9/18/2026 | Person-vs-subject-matter clause rejected — RFAs 188–189 cover it |
+| R-13 | Int. 10 (old 13): drop the unbounded "any fact at issue in this action" lead-in and promote the subject list | Int. 10 | 0 | ✅ Applied 9/18/2026 | 55 words → 42 |
+| R-15 | Int. 12 (old 15): "state what You did with it" replaces "reviewed on its merits"; adds "whether it was considered in any decision on The Claim" | Int. 12 | 0 | ✅ Applied 9/18/2026 | 110 words → 85 |
+| R-16 | Int. 13 (old 16): add "the person who first recorded it"; compress the middle clause; match the "Your answer to paragraph…" phrasing | Int. 13 | 0 | ✅ Applied 9/18/2026 | 140 words → 110 |
+| R-17 | Int. 14 (old 17): drop the duplicative "categories of protected documents" clause (privilege log covers it); add the litigation-hold date | Int. 14 | 0 | ✅ Applied 9/18/2026 | Paired with RFA No. 204 |
+| R-18 | Int. 16: add "This interrogatory does not seek compensation, performance, or disciplinary information" | Int. 16 | 0 | ✅ Applied 9/18/2026 | Matches RFP 52's disclaimer; forecloses a personnel-file objection |
 
 ### Instructions and form (§4)
 
@@ -171,6 +178,12 @@ Two more problems:
 
 > **INTERROGATORY NO. 10:** State each fact supporting any contention that The Claim was "resolved or confirmed by arbitration or appraisal" under Minn. Stat. § 604.18, subd. 4(c); and, for each item submitted to or addressed in the appraisal — including windows "F1.7" and "B1.2," "Siding & Paint," and each item in Plaintiffs' August 3, 2025 appraisal demand — state whether You contend The Appraisal Award determined its actual value and loss, and identify the document supporting that contention.
 
+**Second look, 9/18/2026 (R-10).** Two changes after reading the award itself: **"Debris" added** to the enumerated items — the award's item column has three lines (Siding & Paint; Windows F1.7 B1.2; **Debris**), and Debris shows $0 RCV / $0 ACV with "Hail" in the Causation column, the same oddity as siding — and "and identify the document supporting that contention" trimmed to "with the document supporting that contention." Count unchanged. Final text:
+
+> **INTERROGATORY NO. 7:** State each fact supporting any contention that The Claim was "resolved or confirmed by arbitration or appraisal" under Minn. Stat. § 604.18, subd. 4(c); and, for each item submitted to or addressed in the appraisal — including "Windows F1.7 B1.2," "Siding & Paint," "Debris," and each item in Plaintiffs' August 3, 2025 appraisal demand — state whether You contend The Appraisal Award determined its actual value and loss, with the document supporting that contention.
+
+**Why the § 604.18 half is kept even though the claim is not pleaded.** Subd. 4(a) means the claim arrives by motion to amend; subd. 4(c) is the bar FIE will raise in opposition. Getting its facts now means briefing that motion knowing the theory, rather than meeting it for the first time in opposition. Expect a prematurity objection — Rule 33.02 answers it, and deferral takes a court order.
+
 **Count.** Fair count **2**, the same as the old version, so F-2 costs nothing. Two questions: the facts behind the contention, and the per-item position. FIE's aggressive count is about **3**, one *lower* than the two-list alternative discussed below, because the statutory disjunction sits inside a quotation and there is a single enumeration rather than two lists.
 
 #### Why "for each item … state whether," rather than two lists (Bill's question, 9/17/2026)
@@ -213,11 +226,30 @@ Affirmative Defense 1 reads, in full: "Affirmatively alleges that, pursuant to R
 
 No. **Verified, Minn. R. Civ. P. 33.02:** a contention interrogatory "is not necessarily objectionable merely because its answer involves an opinion or contention that relates to fact or the application of law to fact, but **the court may order** that such an interrogatory need not be answered until after designated discovery has been completed" — so deferral takes a **court order on FIE's motion**; FIE cannot self-defer. Work product under Rule 26.02(d) covers documents and tangible things and the mental impressions in them, not the underlying facts; privilege covers communications, not facts. FIE's Answer also carries the § 549.211 acknowledgment. A proper answer may say that the failure-to-state half asserts no facts and is directed at the pleading — which is useful, because it forecloses a later factual version. If FIE stonewalls: Rule 33.01(c) requires grounds stated with particularity, Instruction 9 requires it to say whether anything is withheld, and Rule 37.01(c) treats an evasive or incomplete answer as a failure to answer. On the party question, a refusal is itself the good-cause showing for a Rule 111.04 motion to extend the 11/16 joinder deadline.
 
+#### Int. 16 second look (R-18, 9/18/2026)
+
+**Applied:** the personnel disclaimer, matching RFP 52 — "This interrogatory does not seek compensation, performance, or disciplinary information." RFP 52 already disclaimed those records; the interrogatory did not, leaving room for a privacy or personnel-file objection that would cost a meet-and-confer cycle there is no time for before 11/16/2026. Count unchanged at 1.
+
+**Dodges already foreclosed:** "Farmers Insurance" (Instruction 12's second sentence requires the specific legal entity and rejects collective attribution — item I-4); "these individuals acted on behalf of FIE" (the question asks who **employed or engaged**, not on whose behalf); answering only for the three named people (Instruction 13 plus the catch-all); "not reasonably available" (Rule 33.01(d) — an employer's own payroll relationship is available information).
+
+**Held at +1, not applied:** "and, if different, the entity that assigned or directed that person's work on The Claim." In a reciprocal exchange the exchange often has no employees and the work may be assigned by the attorney-in-fact's affiliate or a third-party administrator. Held back because the employer is the decisive fact for joinder, Int. 9 already asks whom FIE says should be a defendant, and RFP 52's staffing and claim-system user records will reveal an assigning entity if one exists.
+
+**Using the answer.** Read it against FIE's responses to RFAs 8–10, 142–146, 170 and 176: a denial there plus a new entity name here is the joinder trigger. Check any new name against Minnesota Department of Commerce licensing and Secretary of State assumed-name filings (RFA 175 may already cover the trade-name half). Answers land about 10/21/2026, leaving roughly three and a half weeks to move under Rule 21 before **11/16/2026**.
+
 #### Why Int. 19 earns a slot, and why option A (Bill's questions, 9/17/2026)
 
 **Why it is needed at all.** RFAs 8–10, 142–146, 170 and 176 can only be admitted or denied; a denial never yields the employing entity's name. RFP 52 seeks "documents sufficient to show" the same thing (due 10/15) but is unsworn and easy to answer thinly. Rule 26.01(a) initial disclosures (due 9/25) do not require anyone's employing entity. The 9/15 meet-and-confer letter, item 5 (answer due 10/9), is the fastest route but is not compellable. **The decisive point is timing:** RFAs served now are answered about 10/19, so a follow-up interrogatory served 10/20 comes back 11/19 — three days after the joinder deadline. There is no second chance before 11/16.
 
 **Why these three names.** Brau (the 9/6/2024 inspection, the 11/4/2024 denial, the missing notes, the 10/29/2025 email) and Monson (the supervisor behind the engineer rule) are the two that drive the joinder call. Dudley was kept because he signed the 9/3/2024 letter and the email that delivered it — the representation behind Consumer Fraud subparagraph (a) — and because a **catastrophe** representative with a 913 area code is the name most likely to come back with a *different* entity, which is the fact that would prove the multi-entity structure. Zorphlon Miller, Jillian Bell and Peter Pietila were dropped: they appear only in post-appraisal correspondence, Pietila is covered by RFP 53 and RFA 177, and every one of them is still inside the catch-all ("each person who acted for You in handling The Claim").
+
+**Second look, 9/18/2026 (R-12).** One clause added and one idea rejected:
+
+- **Added:** "and identify each count of the Complaint to which the failure-to-state allegation is directed." Nothing else asks which counts FIE is aiming at, and the target matters — a Rule 12.02(e) attack on Count IV (Consumer Fraud) is a different problem from one aimed at the contract count, and FIE's Answer already gestures at the MCFA count oddly, asserting that Plaintiffs' own allegations constitute "prohibited conduct" under § 325F.69. It rides inside the facts question, so the count stays at **2**.
+- **Rejected:** making FIE specify whether the missing jurisdiction is over the person or the subject matter. **RFAs 188 and 189** already do that for free — a denial of either identifies the live theory at no cost to the cap.
+
+Final text:
+
+> **INTERROGATORY NO. 9:** State each fact supporting Your First Affirmative Defense, which alleges that "pursuant to Rule 12, Minn. R. Civ. P., there exists a lack of jurisdiction over Defendant FIE and Plaintiffs have failed to state a claim upon which relief can be granted," and identify each count of the Complaint to which the failure-to-state allegation is directed; and, if You contend that any person should be a defendant in this action in place of or in addition to Fire Insurance Exchange, or that Fire Insurance Exchange is misnamed or misdescribed in the caption, identify that person by legal name, form, and state of organization.
 
 **Dependencies.** Int. 12 needs the broader "Person" definition (**F-6d**) to reach an attorney-in-fact or another exchange. Int. 19 depends on **Instruction 12** staying as written (**I-4**); its second sentence is what stops an answer of "Farmers" collectively.
 
@@ -413,18 +445,178 @@ An interrogatory about FIE's expert cannot be answered after 3/15/2027, and FIE 
 | 3 (5) | RFA 125–130; RFP 2, 23, 44–45 | See F-5 | **Rewritten** | F-5 | ✅ Applied 9/17/2026 |
 | **deleted** (6) | RFA 6, 132, 202; RFP 11, 36, 43 | **Deleted 9/17/2026 (R-6).** Weakest slot in the set. Answer ¶24 admits Monson spoke "**in part**" about a peer-reviewed engineer's report, and ¶25 admits the voicemail. RFA 132 now tests the exact statement. | **Replace** with a question that uses the "in part" admission: "State everything Bradlee Monson told Plaintiff Yibiao Lu during their February 3, 2025 telephone call concerning the evidence FIE would or would not consider, and identify each person who directed, approved, or was informed of that position." Or cut it (−1). | R-6 | ⬜ Open |
 | 4 (7) | RFA 137–139, 147–149; RFP 3, 21 | Strong; highest evidentiary decay | **Trimmed** (R-7) | R-7 | ✅ Applied 9/17/2026 |
-| 5 (8) | RFA 165–168 | Good. The RFA capitalizes the quotation ("All the information…"). | Match the capitalization to the email. | R-8 | ⬜ Open |
-| 6 (9) | RFP 30 | Fine. Answer ¶53 refers to a "**September 4, 2024** claim outcome correspondence," and RFP 46 asks for it. Instruction 11 (dates) covers it if FIE meant 9/3. | None | — | No change |
-| 7 (10) | RFA 19–27; RFP 38 | See F-2 | **Rewritten** | F-2 | ✅ Applied 9/17/2026 |
-| 8 (11) | RFP 31, 32 | (a)–(c) repeat what RFP 31 asks for in documents. Only (d), the review actually performed, needs a sworn answer. | **Trim to (a) and (d)** (−2). Same conclusion as 9/15 (I-24). | R-11 | ⬜ Open |
-| 9 (12) | RFA 7–18, 142–146, 170–177, 180–189; RFP 34, 52–53 | See F-3 | **Rewritten** | F-3 | ✅ Applied 9/17/2026 |
-| 10 (13) | Initial disclosures (due **9/25**) | Broader than Rule 26.01(a), and costs 1. | Keep | — | No change |
+| 5 (8) | RFA 165–168, 203 | The contradiction with the 10/10/2025 statement | **Rewritten** | R-8 | ✅ Applied 9/17/2026 |
+| 6 (9) | RFP 30 | Presupposed that a review happened; no question on who authorized each letter | **Rewritten** (R-9) | R-9 | ✅ Applied 9/18/2026 |
+| 7 (10) | RFA 19–27, 198–200; RFP 38 | See F-2 | **Rewritten** (F-2; "Debris" added 9/18 as R-10) | F-2, R-10 | ✅ Applied 9/18/2026 |
+| 8 (11) | RFP 31, 32; RFA 202 | Four lettered subparts = 4 fair; (a)–(c) narrate documents RFP 31 already demands | **Rewritten** | R-11 | ✅ Applied 9/18/2026 |
+| 9 (12) | RFA 7–18, 142–146, 170–177, 180–189; RFP 34, 52–53 | See F-3 | **Rewritten** (F-3; counts clause added 9/18 as R-12) | F-3, R-12 | ✅ Applied 9/18/2026 |
+| 10 (13) | Initial disclosures (due **9/25**); RFP 19, 21 | Broader than Rule 26.01(a); the unbounded lead-in invited an objection | **Tightened** (R-13) | R-13 | ✅ Applied 9/18/2026 |
 | 11 (14) | RFP Instr. 6, RFP 3, 14 | See F-8 | **Rewritten** | F-8 | ✅ Applied 9/17/2026 |
-| 12 (15) | RFA 133–136; RFP 43 | Good. "Reviewed on its merits" is soft; FIE will answer "yes." | Add: "…and state whether the submission was considered in any coverage decision and, if not, why not." | R-15 | ⬜ Open |
-| 13 (16) | RFA 160, 178–179; RFP 42 | Good. This is the only affirmative fact FIE volunteered in its Answer. | None | — | No change |
-| 14 (17) | RFA 52–53, 150–151; RFP 14 | Strong; it must be answered before any privilege log exists. | None | — | No change |
+| 12 (15) | RFA 133–136; RFP 43 | The cleanest *Peterson* prong-one question; carries more weight since old Int. 4 was deleted | **Rewritten** | R-15 | ✅ Applied 9/18/2026 |
+| 13 (16) | RFA 160, 178–179; RFP 42 | The only affirmative fact FIE volunteered in its Answer | **Tightened** (R-16) | R-16 | ✅ Applied 9/18/2026 |
+| 14 (17) | RFA 52–53, 150–151, 204; RFP 14 | Fixes the work-product boundary; a pincer either way | **Rewritten** (R-17) | R-17 | ✅ Applied 9/18/2026 |
 | 15 (18) | RFA 20–24, 29–32; Answer ¶33 | Highest-value interrogatory in the set | **Rewritten** | F-7a | ✅ Applied 9/17/2026 |
-| **16 (new)** | RFA 8–10, 142–146, 170, 176; RFP 52 | The only sworn route to the employing entity if FIE denies the RFAs | Added | F-3 | ✅ Applied 9/17/2026 |
+| **16 (new)** | RFA 8–10, 142–146, 170, 176; RFP 52 | The only sworn route to the employing entity if FIE denies the RFAs | Added (F-3); personnel disclaimer added 9/18 (R-18) | F-3, R-18 | ✅ Applied 9/18/2026 |
+
+---
+
+### R-17. Int. 14 (old 17): anticipation of litigation and the hold date
+
+**Status:** ✅ Applied 9/18/2026. Count **0** (stays 2 fair). Paired with new **RFA No. 204**.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 14:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination and what prompted it; and state the date any litigation hold or preservation instruction concerning The Claim was issued, and to whom it was directed.
+
+**Why it is a pincer.** Rule 26.02(d) protects only what was prepared "in anticipation of litigation or for trial," so FIE's chosen date bounds every work-product objection it can make. **A late date** (e.g. the July 2026 suit) means nothing in the claim file is work product — the Prieve engagement, claim notes and internal correspondence are all discoverable, and RFAs 52–53 become near-automatic. **An early date** (e.g. autumn 2024) means the preservation duty attached then, while RFAs 150–151 ask FIE to admit it had issued **no** hold as of 9/6/2024 and 11/4/2024 — anticipating litigation with no hold, against Brau's unaccounted-for notes, is the spoliation argument in one line.
+
+**The swap.** Out: "identify each category of document created after that date that You contend is protected" — Instruction 4 and Rule 26.02(f) already compel a privilege log describing what is withheld, so the clause paid for what the rules require. In: the **litigation-hold date**, which nothing else reliably produces — RFP 14 asks for "documents sufficient to show" it, and if no hold exists there are no documents; RFAs 150–151 fix only two dates in 2024, so a hold issued in 2025 would escape both.
+
+**Dodges and answers.** Work-product objection to the date itself — the date is foundational, not protected content, and it is what makes the objection assessable under 26.02(f). "Legal conclusion" — Rule 33.02. "At various times" or "on advice of counsel" — Instruction 13 and Rule 37.01(c). "See the privilege log to be served" — Instruction 3 as amended (I-9) requires FIE to say the answer rests on incomplete work and to supplement. Answering only the first clause — same.
+
+**Does the "no protective order at this time" email affect this? (Bill, 9/18/2026) — No.** A Rule 26.03 protective order governs confidentiality and use; Rule 26.02(d) governs what need not be produced. Declining one waives no work product. What it does affect is the **form** of the 10/15/2026 production: with no order and no designation framework, the manuals (RFPs 10, 31), vendor and engagement files (RFPs 4, 5) and other-claims data (RFPs 9, 28) arrive unrestricted and Jeffrey Hu may review them. ⚠️ The "at this time" reservation is most likely to be exercised exactly when those responses come due — expect a proposed stipulated order, possibly with a claw-back clause, and treat it as a ¶4 conferral rather than an October fight.
+
+**Paired RFA (No. 204, new section AA):** "Admit that no document in Your claim file for The Claim created before July 8, 2026 was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d)." RFA 52 reaches only The Prieve Report; nothing reached the rest of the pre-suit file. An admission makes the whole pre-suit file discoverable; a denial forces a privilege log and must be squared with the date given here. July 8, 2026 is the service date — a line FIE itself has treated as significant.
+
+---
+
+### R-16. Int. 13 (old 16): the Hancock "adamantly advising" allegation
+
+**Status:** ✅ Applied 9/18/2026. Count **0** (stays 3 fair). 140 words → 110.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 13:** As to the allegation in Your answer to paragraph 14 of the Complaint that Plaintiffs "attempted to direct the claim-handling process by adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking," state who made and who received the statement, when and how, and identify each document recording it and the person who first recorded it; state whether Hancock's August 29, 2024 inspection was limited as a result and, if so, what was not inspected; and state whether You contend the statement was a basis for Your September 3, 2024 statement that "[t]here were no other damages observed."
+
+**Why it matters.** Paragraph 14 is the **only affirmative fact FIE volunteered** in the whole Answer; everything else is a denial or "speaks for itself." If the allegation holds, it is FIE's innocent explanation for a windows-only inspection and for "no other damages observed." If nothing supports it, FIE pleaded an accusation with nothing behind it and loses the excuse for the narrow scope.
+
+**Dodges, and what stops each.**
+
+| Dodge | Counter |
+|---|---|
+| "Based on information from Hancock; see the documents" | Instruction 12 (name the specific entity); Rule 33.01(d) (furnish information available to You); Hancock's file is within FIE's control per RFP 4 |
+| "The pleading speaks for itself" | Rule 33.02 — a contention interrogatory is not objectionable for applying law to fact |
+| Answer the first clause only | Instruction 13 plus Rule 37.01(c): an incomplete answer is a failure to answer |
+| "Oral and unrecorded" | That is the answer Plaintiffs want; RFP 42 already requires an express statement if no document records it |
+
+⚠️ **The dodge to watch.** The Hancock roof diagram in The September 3, 2024 Denial Package bears a contemporaneous note: "INSURED STATED ROOF DOES NOT NEED INSPECTION DUE TO CEDAR SHAKE ONKY BEING 2 YEARS OLD." Expect FIE to cite it as the record. It is not: it concerns the **roof** and the shake's age, not inspecting only the interior windows. The identification clause is what exposes the mismatch, which is why it must stay.
+
+**Why the middle clause is a trap either way.** If the inspection **was** limited by the alleged statement, FIE has admitted a deliberately incomplete inspection (*Peterson* prong one). If it was **not**, paragraph 14 is irrelevant and the narrow scope was FIE's own choice.
+
+**What changed.** "The person who first recorded it" added — RFP 42 seeks the document, this seeks the human. The middle clause compressed. "Your answer to paragraph 14" now matches the phrasing in Int. 15. Pair the answer with RFAs 178–179 (Grimm performed the inspection and was the only Hancock individual present) so a name attaches to it.
+
+---
+
+### R-15. Int. 12 (old 15): the three post-denial submissions
+
+**Status:** ✅ Applied 9/18/2026. Count **0** (stays 1 fair). 110 words → 85.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 12:** For each of Plaintiffs' submissions of January 31, 2025 (post-2020 storm activity and gutter replacement), February 10, 2025 (City of Eden Prairie permit records and the neighbor canvass), and May 28, 2025 (National Weather Service and Interactive Hail Maps material, through agent Peter Pietila), state what You did with it, identifying each person involved, when, the conclusion reached, each document recording it, and whether it was considered in any decision on The Claim; if nothing was done, state why.
+
+**Why it now carries more weight.** It was already the cleanest *Peterson* prong-one question — whether FIE "consider[ed] and weigh[ed] all of the facts" — and it inherited the engineer-rule theory when old Int. 4 was deleted (R-6). RFAs 133–135 establish receipt and RFA 136 non-reopening; nothing else asks what FIE **did** with the material. "Nothing" means the denial stood on an investigation that stopped in November 2024 while three rounds of contrary evidence arrived.
+
+**Two fixes.**
+
+1. **"Reviewed the submission on its merits" → "state what You did with it."** The characterization invited "all correspondence received is reviewed" — responsive-sounding and empty. Same fix as Int. 8.
+2. **R-15's addition, folded in:** "whether it was considered in any decision on The Claim." Receipt and review are not the target; the decision is. "If not, why not" was dropped as duplicative of the closing "if nothing was done, state why."
+
+**Counting.** One inquiry applied to three items. **Instruction 13** (item-by-item answers, I-8) is what prevents a single blended answer and defeats the "three separate questions" reading. The submission descriptions now track RFAs 133–135 word for word.
+
+**Considered and left out:** a separate question naming who decided not to reopen The Claim. "Each person involved" and "the conclusion reached" should surface it; if not, that is a meet-and-confer point rather than another interrogatory.
+
+---
+
+### R-13. Int. 10 (old 13): persons with knowledge
+
+**Status:** ✅ Applied 9/18/2026. Count **0** (stays 1 fair). 55 words → 42.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 10:** Identify each person known to You to have knowledge of the facts concerning The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or Your denial decisions, and state the subject matter of each person's knowledge.
+
+**Why it earns a slot even with the 9/25 initial disclosures.** Rule 26.01(a)(1)(A) requires only individuals FIE **may use to support its claims or defenses** — a self-selected list. This reaches everyone else, which in this case is where the witnesses are: Allen Banning (2020 claim representative), Robbie Bledsoe (the 2/18/2022 settlement notice), Twonda Miller (the 9/16/2025 award letter), Jed Jones, Jayden Grimm at Hancock, whoever authorized the denials, and whoever photographed for Prieve. The "Identify" definition also pulls each person's **employer**, feeding Int. 16 and the 11/16/2026 party question, and Rule 26.05 keeps the list current.
+
+**What changed.** "Knowledge of **any fact at issue in this action**" was doing no work — the "including without limitation" list that followed was the real scope — while inviting an overbreadth objection. The list is now the scope. "Known to You" stays, so FIE cannot object that it can't identify people it does not know of.
+
+**Considered and left out:** whether FIE has contacted or interviewed each person (a second question, better at deposition); who entered information into the claim file (RFP 19 for documents sufficient to identify everyone with a role, RFP 21 for the audit trail's user IDs); and excluding people already disclosed (one complete list is cleaner, and overlap costs FIE nothing).
+
+---
+
+### R-11. Int. 8 (old 11): what FIE did with the vendor reports
+
+**Status:** ✅ Applied 9/18/2026. **−2** (4 fair → 2) → set at 29. 105 words down to 51.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 8:** Describe what You did with the Hancock Claims Consultants and Prieve Engineering reports before relying on them in The Claim, identifying each person involved, what each did, and each document created; and state whether any written policy or procedure applied to those steps and, if so, identify it.
+
+**Why the old version was the most expensive question in the set.** It carried four lettered subparts — (a) who reviews such reports, (b) what independent review FIE performs, (c) whether an adjuster may accept, modify or reject a vendor's conclusions, (d) the review actually performed here. Rule 33.01(a)'s counting sentence is aimed at exactly that structure ("each subdivision of separate questions"), so it counted **4**, an eighth of the cap on one question.
+
+**Why (a)–(c) came out.** They ask FIE to narrate what its own documents say, and **RFP 31** already demands every policy, procedure, guideline, manual, training material and SOP governing the retention, review, evaluation and acceptance or rejection of vendor reports, including any quality-control or peer-review process; **RFP 32** demands the documents reflecting the actual review of the Hancock and Prieve reports; and **RFA 202** asks FIE to admit there is no written policy describing the "peer review" it invoked in its Answer. What remained uniquely interrogatory work is the claim-specific narrative with names, plus a yes/no on whether anything written applied.
+
+**Why the subject still matters.** FIE denied on an engineer's conclusion. Whether anyone at FIE evaluated that conclusion or simply adopted it is *Peterson* prong one, and the same defect as the windows-only scope.
+
+**Wording choices (Bill's questions, 9/18/2026).**
+
+- **"Describe what You did" rather than "describe the review."** The abstract noun invites a vagueness objection; the concrete verb invites a narrative.
+- **"those steps," not "that review."** Once the first clause stopped using the word "review," "that review" had no antecedent. "Those steps" points back to "what each did."
+- **"applied to," not "governed."** "Governed" lets FIE answer that nothing strictly governed the handling even though guidelines existed.
+- **"and, if so, identify it,"** so a yes is not a bare yes.
+
+**Answers to expect.** (a) Boilerplate with a concession — the reports were "received, reviewed and relied upon" by Brau, with no written policy: good, that is adoption without independent evaluation plus a prong-one fact. (b) A Rule 33.03 "see the claim file" answer: burden is not substantially the same for both sides, and Instruction 5 requires specification. (c) A real narrative with dates and claim-note entries: the hardest answer, but testable against the audit trail (RFP 21) and impeachable if the notes are not in the production. (d) "FIE relies on the expertise of its retained engineer and performs no independent analysis": the best outcome for prong one and for the Rule 702 attack.
+
+**Objections to expect:** vagueness (addressed by the verb change) and work product (fails on timing — the question is limited to what FIE did *before relying on the reports in The Claim*, in 2024, and Instruction 8 carves out litigation counsel).
+
+⚠️ **Fallback for the general-practice material:** a Rule 30(b)(6) topic — "FIE's practices for reviewing and accepting or rejecting third-party inspection and engineering reports on Minnesota property claims." Free, and a designee must prepare. Log it in `../../OffenseStrategies/Deposition/1.4Rule30b6_CorporateDesignee.md`.
+
+---
+
+### R-9. Int. 6 (old 9): supervisory review and who authorized each denial
+
+**Status:** ✅ Applied 9/18/2026. Count **+1** (1 → 2 fair) → set at 31.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 6:** For each of Your September 3, 2024 and November 4, 2024 letters to Plaintiffs, state whether any supervisory or quality-control review was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
+
+**Two fixes.**
+
+1. **Yes/no framing.** "Describe the supervisory review performed" presupposed a review and invited "the letters issued in the ordinary course." Asking *whether* one was performed makes "none" an explicit admission — which is the answer that matters, because a denial issued with no check is an organizational failure, not one adjuster's error.
+2. **"Quality-control"** now matches RFP 30's wording, so the document request and the interrogatory describe the same thing.
+
+**Why the authorization clause is worth a count.**
+
+- **§ 604.18 prong two is about who knew.** The person who approved the September 3 letter approved "[t]here were no other damages observed" — three days before FIE's own adjuster identified dents at the house.
+- **It aims the depositions.** If the approver is Monson, the engineer-rule supervisor and the denials run through one witness.
+- **It feeds the party question.** An approver employed by an entity other than Fire Insurance Exchange means a different entity made the coverage decision (Int. 16; 11/16/2026 joinder deadline).
+- **The two letters rest on incompatible theories** — no damage on 9/3, damage but wear and tear on 11/4. One approver for both is the pretext point in a single fact.
+
+**Expected weak answer:** that no one authorized anything — the letter issued from the claim system on the adjuster's coverage decision. That still helps, as an automated denial with no human check feeds prong one.
+
+⚠️ **Fallback if this clause is ever dropped.** Add a Rule 30(b)(6) deposition topic: *"the person or persons who approved the issuance of the September 3, 2024 and November 4, 2024 letters to Plaintiffs, and any supervisory or quality-control review of those letters."* Depositions do not count against the Rule 33.01(a) cap and a corporate designee must prepare on noticed topics; the cost is timing — the answer arrives months later and only if the deposition happens. Record the same topic in `../../OffenseStrategies/Deposition/1.4Rule30b6_CorporateDesignee.md` if the clause comes out.
+
+**Checked and left out:** Answer ¶53's reference to a "September 4, 2024 claim outcome correspondence." RFP 46 already demands it and requires FIE to state expressly if no such document exists.
+
+---
+
+### R-8. Int. 5 (old 8): the October 29, 2025 statement
+
+**Status:** ✅ Applied 9/17/2026. Count **0** (stays 2 fair). Paired with new **RFA No. 203**.
+
+**Text as applied:**
+
+> **INTERROGATORY NO. 5:** State the basis for Nicholas Brau's October 29, 2025 statement that "All the information we can release has already been sent to you," identifying what had been released and when, and which of his observations from the September 6, 2024 inspection that release includes; and state whether You contend that statement is consistent with Your October 10, 2025 statement that "the file does not contain a report on the requested date," and if so, why.
+
+**Why it matters.** The two statements cannot both be innocent: either records exist and were not released, or the October 29 statement was false. RFA 168 asks FIE to admit that information existed which it had not released; this interrogatory makes it explain either answer, and a "yes, the statements are consistent" answer is the one to cross-examine.
+
+**Verified against the source (9/17/2026).** `EventDocuments/2025-10-29-BrauEmail.pdf` — October 29, 2025, 9:43 a.m., from myadjuster@farmersinsurance.com, signed Nicholas Brau, Claims Spec Rep Prop, (651) 587-3157, Fire Insurance Exchange. The sentence begins with a capital **"All"** (R-8's point). Two further sentences in the same email were not captured anywhere:
+
+1. "The claim was settled per the binding appraisal award received. **The loss is under your deductible.**" — **not added as an RFA** (Bill, 9/17/2026): the proposition is already carried by RFAs 27 and 196 and by the 9/16/2025 Settlement Notice.
+2. "**If you need information as to why additional windows were not included in the award then you will need to contact your appraiser to obtain that information.**" — **added as RFA No. 203** (new section Z). It carries a point nothing else does: FIE refuses to explain its own coverage position (§ 604.18 prong one), and it is direct evidence that the parties disagree about what the award decided — the *Herll*/*Rymer* ambiguity behind Count III, hard to square with Affirmative Defense 2.
+
+**Other changes:** "to whom" dropped (the only recipient is Plaintiffs), and the October 10 statement is now quoted inside this interrogatory so it stands on its own.
 
 ---
 
@@ -560,8 +752,6 @@ An admission ends the coverage-provision branch of the case. A denial shows a li
 |---|---:|---|---|
 | Current set | 37 | — | — |
 | Int. 1: source wording, date, prior-claim particulars | 0 | F-4 | ✅ Applied 9/17/2026 |
-| Int. 3: add the period (part of the cause question) | +0 | R-3 | ⬜ Open |
-| Int. 11: trim to (a) and (d) | −2 | R-11 | ⬜ Open |
 | Int. 19 (new): employer identity — Int. 12's own rewrite costs 0 | +1 | F-3 | ✅ Applied 9/17/2026 |
 
 | Int. 5: line-item mapping only (documented-but-unpaid clause held) | −1 | F-5 | ✅ Applied 9/17/2026 |
@@ -570,7 +760,9 @@ An admission ends the coverage-provision branch of the case. A denial shows a li
 | Old Int. 3 merged into Int. 1 (R-3) | −2 | R-3 | ✅ Applied 9/17/2026 |
 | Old Int. 6 deleted (R-6) | −1 | R-6 | ✅ Applied 9/17/2026 |
 | Int. 4 trimmed (R-7) | −1 | R-7 | ✅ Applied 9/17/2026 |
-| **Total** | **30 (fair)**, leaving **15** under the cap, **5** of which are reserved for experts | W-2 | ⬜ Open |
+| Int. 6 authorization clause (R-9) | +1 | R-9 | ✅ Applied 9/18/2026 |
+| Int. 8 collapsed (R-11) | −2 | R-11 | ✅ Applied 9/18/2026 |
+| **Total** | **29 (fair)** | — | 21 under the 50-interrogatory cap; **19** after the 2 reserved for experts (F-9) |
 
 Folding the particulars of Ints. 2 and 4 into one sentence each also takes about 6 off FIE's aggressive count, which brings that count safely under 50.
 
