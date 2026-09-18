@@ -19,7 +19,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 
-**"The Claim"** means Farmers claim number 7007986837-1-1, arising from the July 13, 2024 hail loss.
+**"The Claim"** means Farmers claim number 7007986837-1-1, date of loss July 13, 2024.
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
 
@@ -29,17 +29,19 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The Property"** means the insured dwelling at 17756 George Moran Dr., Eden Prairie, Minnesota 55347.
 
-**"The Prieve Report"** means the report of Prieve Engineering, LLC, File \#241008, together with all drafts thereof.
+**"The Prieve Report"** means the seven-page report of Prieve Engineering, LLC titled “Evaluation of Condition of Windows as Relates to Hail,” File Number 241008, report date November 4, 2024, as transmitted with Your November 4, 2024 letter to Plaintiffs.
 
 **“Photo Appendix A”** means the 110-page photographic appendix to The Prieve Report, titled “PHOTO APPENDIX A” and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217.
 
-**"The Appraisal Award"** means the appraisal award entered September 12, 2025 under Minn. Stat. § 65A.01.
+**“The Coverage Outcome Attachment”** means the document titled “Coverage Outcome – Policy Provisions” transmitted with Your November 4, 2024 letter to Plaintiffs.
+
+**"The Appraisal Award"** means the written appraisal award concerning The Claim dated on or about September 12, 2025.
 
 **"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, drawings, graphs, charts, photographs, sound and video recordings, images, and other data or data compilations — including electronically stored information ("ESI") — stored in any medium from which information can be obtained, together with all metadata and all non-identical drafts and copies.
 
 **"Communication"** means any transmission or exchange of information of any kind, whether oral, written, or electronic, including email, text message, voicemail, letter, memorandum, and claim-system note.
 
-**"Person"** means any natural person or any business, legal, or governmental entity.
+**"Person" and "person"** mean any natural person or group of natural persons, and any business, legal, or governmental entity of any form, whether or not incorporated, including any corporation, partnership, limited liability company, association, reciprocal or interinsurance exchange, attorney-in-fact, trust, or joint venture.
 
 **"Identify"** when used with respect to a person, means to state the person’s full name, last known title or role, employer, and last known business address, telephone number, and email address; when used with respect to a document, means to state its type, date, author(s), recipient(s), general subject matter, and present custodian.
 
@@ -77,7 +79,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 1:** For each window other than “F1.7” and “B1.2” at which The Prieve Report or Photo Appendix A records a dent, mark, scrape, or indentation, state the cause and approximate date You attribute to it, the facts supporting that attribution (including, for any condition attributed to a prior claim, that claim’s number and the estimate line item You contend paid for it), any policy exclusion or limitation You contend applies, and any portion of The Appraisal Award You contend determined the question for that window.
 
-**INTERROGATORY NO. 2:** For each policy provision cited in the November 4, 2024 denial letter and its “Coverage Outcome – Policy Provisions” attachment as a ground for denying The Claim, state: the provision by section and number; whether You contend it operates as an exclusion or as a limitation on the grant of coverage; the specific factual basis on which You contend it applies to The Claim; the documents and witnesses on which You rely to support its application; and the person who decided to include it in the letter.
+**INTERROGATORY NO. 2:** For each policy provision cited in Your November 4, 2024 letter to Plaintiffs or in The Coverage Outcome Attachment as a ground for denying The Claim, state: the provision by section and number; whether You contend it operates as an exclusion or as a limitation on the grant of coverage; the specific factual basis on which You contend it applies to The Claim; the documents and witnesses on which You rely to support its application; and the person who decided to include it in the letter.
 
 **INTERROGATORY NO. 3:** Identify each non-window component of The Property (including without limitation downspouts, flashing, siding, trim board, doors, and screens) that the Prieve Report’s Photo Appendix A documents as dented, marked, or otherwise damaged, and for each such component state the cause You attribute to the damage and whether You contend that any policy exclusion or limitation applies.
 
@@ -109,7 +111,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 17:** State the date on which You contend You first anticipated litigation concerning The Claim, identify the person who made that determination and the event or communication that prompted it, and identify each category of document created after that date that You contend is protected from discovery on that basis.
 
-**INTERROGATORY NO. 18:** Identify each portion of The Appraisal Award that You contend states the actual value and the loss separately for each item, specifying for each awarded item the actual value and the loss You contend the award states and the location on the award where each appears; and if You contend the award states a value or loss for any item other than the two awarded windows, identify that item and the amount.
+**INTERROGATORY NO. 18:** Your answer to paragraph 33 of the Complaint denies “that the Appraisal Award does not state actual value and loss separately to each item.” For each item, identify the actual value and the loss You contend the award states and where on the award each appears; and identify any item other than the windows designated “F1.7” and “B1.2” for which You contend the award states a value or loss.
 
 **INTERROGATORY NO. 19:** Identify the legal entity that employed or engaged each person who acted for You in handling The Claim, including Christian Dudley, Nicholas Brau, and Bradlee Monson, at the time of that person’s involvement.
 

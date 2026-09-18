@@ -1,6 +1,6 @@
 # Interrogatories, First Set: Review After the RFP and RFA Updates
 
-**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5 and I-8 applied; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
+**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a and I-8 applied; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
 **Document reviewed:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` (the operative file; the `.docx` and the "as of 09-15" copies were identical to it when this review was written). It had 18 interrogatories and 12 instructions when reviewed — **19 after F-3** — and has **not been served**.
 **Working rule:** changes are applied to the `.md` only. The `.docx` is generated once, at the end (W-1).
 **Checked against:**
@@ -34,12 +34,12 @@
 | F-3 | Rewrite Int. 12 (verbatim quotation of Affirmative Defense 1; substitute, added, or misnamed party) **and split the employer question into a new Int. 19** | Ints. 12, 19 | +1 (Int. 12 +0, Int. 19 +1) | ✅ Applied 9/17/2026 | Joinder deadline is 11/16; Int. 19 uses option A (three names) |
 | F-4 | Rewrite Int. 1: source wording, approximate date, prior-claim attribution (the rear-garage window went to a **held** Second Set item, H-1) | Int. 1 | **0** | ✅ Applied 9/17/2026 | Additions ride as particulars |
 | F-5 | Rewrite Int. 5: new definition **"The February 18, 2022 Settlement Package"**; ask only the line-item mapping; delete the argumentative last sentence | Definitions, Int. 5 | **−1** | ✅ Applied 9/17/2026 | Documented-but-unpaid clause held as H-2 |
-| F-6a | "The Claim" → "date of loss July 13, 2024" | Definitions | 0 | ⬜ Open | |
-| F-6b | "The Appraisal Award" → the RFA wording | Definitions | 0 | ⬜ Open | |
-| F-6c | "The Prieve Report" → the RFA wording (no drafts) | Definitions | 0 | ⬜ Open | |
-| F-6d | "Person" → the RFA 9/17 wording | Definitions | 0 | ⬜ Open | Needed for F-3 |
-| F-6e | Add "The Coverage Outcome Attachment" and use it in Int. 2 | Definitions, Int. 2 | 0 | ⬜ Open | |
-| F-7 | Int. 18: add the "Siding & Paint" / $0 clause | Int. 18 | 0 | ⬜ Open | |
+| F-6a | "The Claim" → "date of loss July 13, 2024" | Definitions | 0 | ✅ Applied 9/17/2026 | |
+| F-6b | "The Appraisal Award" → the RFA wording | Definitions | 0 | ✅ Applied 9/17/2026 | |
+| F-6c | "The Prieve Report" → the RFA wording (no drafts) | Definitions | 0 | ✅ Applied 9/17/2026 | |
+| F-6d | "Person" → the RFA 9/17 wording | Definitions | 0 | ✅ Applied 9/17/2026 | Needed for F-3 |
+| F-6e | Add "The Coverage Outcome Attachment" and use it in Int. 2 | Definitions, Int. 2 | 0 | ✅ Applied 9/17/2026 | |
+| F-7 | **Superseded by Int. 10.** Instead: Int. 18 re-anchored in FIE's own denial (Answer ¶33) and trimmed | Int. 18 | 0 | ✅ Applied 9/17/2026 as F-7a | The Siding & Paint ask lives in Int. 10 |
 | F-8 | Int. 14: replace "Plaintiffs' First Sets"; phrase it as one "for each" question; **keep it as an interrogatory** | Int. 14 | −1 | ⬜ Open | Differs from the 9/15 count file, item 3 |
 | F-9 | Keep 5 interrogatories in reserve for expert interrogatories | Planning | — | ⬜ Open | Decision only; no text change |
 
@@ -99,8 +99,8 @@ The set is still sound, and most of its interrogatories now line up well with RF
 | F-3 | **Int. 12 lagged behind RFAs 172–175 and Affirmative Defense 1.** It did not ask about adding a party, misnomer, or the "failure to state a claim" half of the defense, and nothing got a sworn answer on who employed the claim handlers. | High, because of the **11/16 joinder deadline** | ✅ Applied 9/17/2026 (Ints. 12 and 19) |
 | F-4 | **Int. 1's source wording and attribution questions.** It covered only windows "Photo Appendix A depicts" and did not pin the date or the prior claim relied on. The rear-garage window was moved to held item **H-1** rather than forced into Int. 1. | High | ✅ Applied 9/17/2026 |
 | F-5 | **Int. 5 named a document imprecisely and assumed a 2020 inspection.** It covered "each line item" of the whole estimate (roof, chimney, scaffolding) and assumed a "2020 inspection"; the estimate's "Date Inspected" field is blank. | Medium-high | ✅ Applied 9/17/2026 |
-| F-6 | **Several definitions do not match the corrected RFA versions:** "The Claim" (contains "hail loss"), "The Appraisal Award" ("entered … under § 65A.01"), "The Prieve Report" ("all drafts"), and "Person." | Medium | ⬜ Open |
-| F-7 | **"Siding & Paint" is missing from Ints. 10 and 18.** RFAs 31–32 show that the award lists **Hail** as the cause but **$0** for siding, and Answer ¶30 admits siding was submitted to appraisal. | Medium | ⬜ Open |
+| F-6 | **Several definitions did not match the corrected RFA versions:** "The Claim" ("hail loss"), "The Appraisal Award" ("entered … under § 65A.01"), "The Prieve Report" ("all drafts"), "Person"; and "The Coverage Outcome Attachment" was missing. | Medium | ✅ Applied 9/17/2026 (F-6a–e) |
+| F-7 | **"Siding & Paint" was missing from Ints. 10 and 18.** Int. 10 now names it (F-2, applied), which makes the Int. 18 half redundant; Int. 18 was instead re-anchored in FIE's Answer ¶33 denial. | Medium | ✅ Applied 9/17/2026 (as F-7a) |
 | F-8 | **Int. 14 refers to "Plaintiffs' First Sets."** That term is undefined, and the sets are now being served separately. | Medium | ⬜ Open |
 | F-9 | **No room is kept for expert interrogatories.** Scheduling Order ¶3 contemplates "expert interrogatories," and those count toward the same 50-interrogatory cap. | Medium (planning) | ⬜ Open |
 
@@ -261,29 +261,58 @@ Line 1 is "R&R Wood window - casement, 12-23 sf," 2.00 EA; line 4 is "Scaffoldin
 
 ### F-6. Definitions: adopt the RFA corrections
 
-**Status:** ⬜ Open (tracked as F-6a to F-6e)
+**Status:** ✅ F-6a to F-6e all applied 9/17/2026. F-6f (the 2020 claim-number variant) is **no longer needed** — the February 18, 2022 Settlement Package definition carries it.
 
 Each set defines its own terms, so the served RFP does not bind this set.
 
 | ID | Term | Current | Change to | Why | Status |
 |---|---|---|---|---|---|
-| F-6a | The Claim | "…arising from the July 13, 2024 **hail loss**" | "…date of loss July 13, 2024" | FIE denies hail damage (Answer ¶¶2, 12). With the current wording, every answer that uses the term can be qualified. (RFA DI-1) | ⬜ Open |
-| F-6b | The Appraisal Award | "…**entered** September 12, 2025 **under Minn. Stat. § 65A.01**" | "the written appraisal award concerning The Claim dated on or about September 12, 2025" | The current wording is a legal characterization that Ints. 10 and 18 ask FIE to address. (RFA DI-7) | ⬜ Open |
-| F-6c | The Prieve Report | "…together with all drafts thereof" | The RFA definition (7-page report dated 11/4/2024, as transmitted) | Ints. 1, 3, and 11 ask about what the report says, and drafts make that ambiguous. RFP 5 already covers the drafts. | ⬜ Open |
-| F-6d | Person | "any natural person or any business, legal, or governmental entity" | The RFA 9/17 definition (…reciprocal or interinsurance exchange, attorney-in-fact…) | Int. 12 (F-3) and Int. 13 depend on it. | ⬜ Open |
-| F-6e | *(new)* The Coverage Outcome Attachment | — | Copy from the RFAs | There are **two** different "Coverage Outcome – Policy Provisions" documents (9/3 and 11/4). Int. 2 names the 11/4 one only indirectly. | ⬜ Open |
+| F-6a | The Claim | "…arising from the July 13, 2024 **hail loss**" | "…date of loss July 13, 2024" | FIE denies hail damage (Answer ¶¶2, 12). With the current wording, every answer that uses the term can be qualified. (RFA DI-1) | ✅ Applied 9/17/2026 |
+| F-6b | The Appraisal Award | "…**entered** September 12, 2025 **under Minn. Stat. § 65A.01**" | "the written appraisal award concerning The Claim dated on or about September 12, 2025" | The current wording is a legal characterization that Ints. 10 and 18 ask FIE to address. (RFA DI-7) | ✅ Applied 9/17/2026 |
+| F-6c | The Prieve Report | "…together with all drafts thereof" | The RFA definition (7-page report dated 11/4/2024, as transmitted) | Ints. 1, 3, and 11 ask about what the report says, and drafts make that ambiguous. RFP 5 already covers the drafts. | ✅ Applied 9/17/2026 |
+| F-6d | Person | "any natural person or any business, legal, or governmental entity" | The RFA 9/17 definition (…reciprocal or interinsurance exchange, attorney-in-fact…) | Int. 12 (F-3) and Int. 13 depend on it. | ✅ Applied 9/17/2026 |
+| F-6e | *(new)* The Coverage Outcome Attachment | — | Copy from the RFAs | There are **two** different "Coverage Outcome – Policy Provisions" documents (9/3 and 11/4). Int. 2 names the 11/4 one only indirectly. | ✅ Applied 9/17/2026 |
+
+**Text as applied (9/17/2026),** each word for word from the RFA First Set so the two sets cannot be read apart:
+
+> **"The Claim"** means Farmers claim number 7007986837-1-1, date of loss July 13, 2024.
+>
+> **"The Prieve Report"** means the seven-page report of Prieve Engineering, LLC titled "Evaluation of Condition of Windows as Relates to Hail," File Number 241008, report date November 4, 2024, as transmitted with Your November 4, 2024 letter to Plaintiffs.
+>
+> **"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with Your November 4, 2024 letter to Plaintiffs.
+>
+> **"The Appraisal Award"** means the written appraisal award concerning The Claim dated on or about September 12, 2025.
+>
+> **"Person" and "person"** mean any natural person or group of natural persons, and any business, legal, or governmental entity of any form, whether or not incorporated, including any corporation, partnership, limited liability company, association, reciprocal or interinsurance exchange, attorney-in-fact, trust, or joint venture.
+
+The new "The Coverage Outcome Attachment" definition sits after "Photo Appendix A," and **Int. 2** now reads "For each policy provision cited in Your November 4, 2024 letter to Plaintiffs or in The Coverage Outcome Attachment…" — no longer "the November 4, 2024 denial letter and its 'Coverage Outcome – Policy Provisions' attachment," which could be read to reach the differently-worded document of the same title that came with the September 3, 2024 letter. Int. 2's internal structure is untouched; that is item R-2a, still open.
+
+**Count effect: none.** Definitions are not interrogatories, and no question was added or split.
+
+**Where the drafts went.** Dropping "together with all drafts thereof" from "The Prieve Report" costs nothing: RFP 5 (served) already demands "every draft of the report and the final report," and no interrogatory asks about drafts.
 
 **Keep as is:** the broad "You" definition, with "attorneys" and "former" employees. For interrogatories, a party must furnish information available to it, including information held by its agents and attorneys (Rule 33.01(d): "furnish such information as is available"). The RFA narrowing (DI-5) was driven by Rule 36's admit-or-deny format and does not apply here. Instruction 8 already carves out litigation counsel.
 
-### F-7. Int. 18: name the "Siding & Paint" line
+### F-7 / F-7a. Int. 18: re-anchored in FIE's own denial
 
-**Status:** ⬜ Open
+**Status:** ✅ Applied 9/17/2026 as **F-7a**. The original F-7 (add a "Siding & Paint" clause) is **superseded by Int. 10**.
 
 RFA 31: $0 RCV and $0 ACV. RFA 32: "Hail" in the Causation column. The last clause of Int. 18 technically reaches this line, but FIE can answer "no value was stated" and stop. A hail finding with $0 awarded is the clearest sign of a coverage or scope determination made inside the award. Verified § 65A.01, subd. 3: the appraisers must state "separately actual value and loss to each item," and "an award in writing, **so itemized**," determines the amount.
 
-**Replacement text** for the last clause:
+**Text as applied (9/17/2026)** — fair count **2**, unchanged, so F-7a costs nothing:
 
-> …and, for the item "Siding & Paint" and any other item for which the award states a cause of loss but a value or loss of $0, state what You contend the award determined as to that item and the basis for that contention.
+> **INTERROGATORY NO. 18:** Your answer to paragraph 33 of the Complaint denies "that the Appraisal Award does not state actual value and loss separately to each item." For each item, identify the actual value and the loss You contend the award states and where on the award each appears; and identify any item other than the windows designated "F1.7" and "B1.2" for which You contend the award states a value or loss.
+
+**Why the interrogatory exists.** Verified, Minn. Stat. § 65A.01, subd. 3: the appraisers "shall then appraise the loss, **stating separately actual value and loss to each item**," and "an award in writing, **so itemized**, of any two when filed with this company shall determine the amount of actual value and loss." Count III turns on the award not being so itemized. FIE has denied that in writing — Answer ¶33: "FIE **denies** that the Appraisal Award does not state actual value and loss separately to each item. The Appraisal Award speaks for itself." Affirmative Defense 2 rests on that denial. Int. 18 makes FIE support it, and every answer helps: pointing to the single line "Windows F1.7 B1.2 / $12,800 / $6,400" (RFA 21) concedes the two windows are not separately valued, and any other claim of itemization can be tested against the document.
+
+**Two changes, both free.**
+
+1. **Anchored in FIE's own words** rather than in an abstract contention, so the premise cannot be disputed — the same technique used in Ints. 7, 8, 12 and 16.
+2. **Redundancy cut.** "Identify each portion … specifying … and the location on the award where each appears" asked the same thing twice. 85 words down to 70.
+
+**Why the original F-7 was dropped.** Int. 10, as rewritten under F-2, already asks per item — naming "Siding & Paint" — whether FIE contends the award determined its actual value and loss. Repeating it here would spend count on a duplicate. The one question neither asks is *why* the panel awarded $0 after stating "Hail" as the cause (RFAs 31–32); FIE is not the panel and will say the award speaks for itself. That answer belongs to Tomes, Foster and Roos, whose files are sought by RFPs 16 and 17 and who can be asked at deposition, where questions are free.
+
+**Considered and not used.** A statute-anchored lead-in ("If You contend that The Appraisal Award states separately the actual value and the loss for each item, as Minn. Stat. § 65A.01, subd. 3 requires…") invites a clean "we do not so contend," which would help Count III, but it also gives FIE an easy exit from answering at all. The denial-anchored version was chosen (Bill, 9/17/2026) because FIE has already committed to the position.
 
 ### F-8. Int. 14 and Instruction 6
 
@@ -315,7 +344,7 @@ Scheduling Order ¶3(a)–(c) sets deadlines for "expert interrogatories, disclo
 | Int. | Related RFP / RFA | Assessment | Action | ID | Status |
 |---|---|---|---|---|---|
 | 1 | RFA 64, 80–81, 83–124; RFP 6, 49 | See F-4 | **Rewritten** | F-4 | ✅ Applied 9/17/2026 |
-| 2 | RFA 40–51; RFP 30, 37 | Good. The sworn "exclusion vs. limitation" answer complements RFAs 48–51, which cover the marring hail exception. Its gap between a fair count and FIE's count is 2 vs. 5. | Fold the particulars into one sentence: "…state, for each, its section and number, whether You contend it operates as an exclusion or a limitation, the facts, documents, and witnesses on which You rely, and who decided to cite it." Optionally add the provisions cited in the 9/3 letter (Building structure/Water) to expose the change of theory; that adds about 1 to the count. | R-2a, R-2b | ⬜ Open |
+| 2 | RFA 40–51; RFP 30, 37 | Good. **F-6e applied 9/17/2026:** it now cites "Your November 4, 2024 letter to Plaintiffs or … The Coverage Outcome Attachment," which removes the risk of pointing at the September 3 document of the same title. The sworn "exclusion vs. limitation" answer complements RFAs 48–51, which cover the marring hail exception. Its gap between a fair count and FIE's count is 2 vs. 5. | Fold the particulars into one sentence: "…state, for each, its section and number, whether You contend it operates as an exclusion or a limitation, the facts, documents, and witnesses on which You rely, and who decided to cite it." Optionally add the provisions cited in the 9/3 letter (Building structure/Water) to expose the change of theory; that adds about 1 to the count. | R-2a, R-2b | ⬜ Open |
 | 3 | RFA 65–79; RFP 7, 51 | Good. Answer ¶22(c) alleges the gutters and downspouts were replaced after 9/13/2021, and RFA 131 says there was no hail loss after 9/5/2020 other than The Claim. | **Add "and the date or period in which You contend it occurred."** If FIE dates the downspout dents after 2021, its own records leave 7/13/2024 as the only hail event. | R-3 | ⬜ Open |
 | 4 | RFA 14, 58; RFP 7 | The phrase "that Plaintiffs **had reported** as damaged" states a fact FIE can dispute, and FIE can deny the whole interrogatory on that premise. | **Neutral wording:** "…to limit the Prieve engagement to the condition of the windows rather than also evaluating the siding, downspouts, flashing, and doors…". Fold the four particulars into one clause. | R-4 | ⬜ Open |
 | 5 | RFA 125–130; RFP 2, 23, 44–45 | See F-5 | **Rewritten** | F-5 | ✅ Applied 9/17/2026 |
@@ -331,7 +360,7 @@ Scheduling Order ¶3(a)–(c) sets deadlines for "expert interrogatories, disclo
 | 15 | RFA 133–136; RFP 43 | Good. "Reviewed on its merits" is soft; FIE will answer "yes." | Add: "…and state whether the submission was considered in any coverage decision and, if not, why not." | R-15 | ⬜ Open |
 | 16 | RFA 160, 178–179; RFP 42 | Good. This is the only affirmative fact FIE volunteered in its Answer. | None | — | No change |
 | 17 | RFA 52–53, 150–151; RFP 14 | Strong; it must be answered before any privilege log exists. | None | — | No change |
-| 18 | RFA 20–24, 29–32; Answer ¶33 | Highest-value interrogatory in the set | See F-7 | F-7 | ⬜ Open |
+| 18 | RFA 20–24, 29–32; Answer ¶33 | Highest-value interrogatory in the set | **Rewritten** | F-7a | ✅ Applied 9/17/2026 |
 | **19 (new)** | RFA 8–10, 142–146, 170, 176; RFP 52 | The only sworn route to the employing entity if FIE denies the RFAs | Added | F-3 | ✅ Applied 9/17/2026 |
 
 ---
@@ -372,8 +401,8 @@ Folding the particulars of Ints. 2 and 4 into one sentence each also takes about
 ## 6. Recommended order of work (today)
 
 1. ✅ Delete the certification paragraph and the reservation sentence (F-1, F-1a). *Applied 9/17/2026.*
-2. ⬜ Update the definitions (F-6) and fix the Int. 14 reference (F-8).
-3. ⬜ Add the Siding & Paint clause to Int. 18 (F-7) and make the smaller edits to Ints. 3, 4, 6, 11, and 15 — **Ints. 1 (F-4), 5 (F-5), 10 (F-2), 12 and 19 (F-3) done 9/17/2026**.
+2. ⬜ Fix the Int. 14 reference (F-8) — **definitions (F-6a–e) done 9/17/2026**.
+3. ⬜ Make the smaller edits to Ints. 3, 4, 6, 11, and 15 — **Ints. 1 (F-4), 5 (F-5), 10 (F-2), 12 and 19 (F-3), 18 (F-7a) done 9/17/2026**.
 4. ⬜ **Once every change above is applied**, generate the `.docx` from the `.md` according to the Formatting Standard, and confirm that the two match and that the numbers run 1–18 with no gaps. Do not rebuild the `.docx` change by change.
 5. ⬜ Serve by email **before 5:00 p.m. on 9/17 or 9/18** (answers due 10/19), and log the service.
 
