@@ -545,6 +545,14 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 200:** Admit that The Appraisal Award states "Hail" in the Causation column for the item "Debris."
 
+*X. The scope of the Prieve engagement*
+
+**REQUEST FOR ADMISSION NO. 201:** Admit that You did not retain Prieve Engineering, LLC to evaluate the condition of the siding at The Property.
+
+*Y. The "peer review" referred to in Your Answer*
+
+**REQUEST FOR ADMISSION NO. 202:** Admit that You have no written policy, procedure, or guideline describing the "peer review" referred to in paragraph 24 of Your Answer.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
