@@ -80,7 +80,8 @@
 
 | ID | Step | Status |
 |---|---|---|
-| W-1 | **After every change is applied:** generate the `.docx` from the final `.md` per the Formatting Standard; confirm they match and Nos. 1–18 run without gaps | ⬜ Open |
+| W-1 | **After every change is applied:** generate the `.docx` from the final `.md` per the Formatting Standard; confirm they match and Nos. 1–16 run without gaps | ✅ Applied 9/18/2026 — rebuilt from the `.md` after the final-review fixes below; text matches the `.md` paragraph for paragraph (caption, signature blocks and certificate included); one hanging-indent variant (0.5", −0.4", 8 pt, 49 items); Nos. 1–16 without gaps; 8 pages. Preview PDF: `Claude outputs/Interrogatories_First_Set_preview_2026-09-18.pdf` |
+| W-1a | **Final-review fixes (9/18/2026), applied to the `.md` before the rebuild:** (i) deleted the orphaned definition "The Coverage Outcome Attachment" (its only use was old Int. 2, deleted under R-2); (ii) Instruction 12 — cut the undefined "or the Exchange" (now: attributing the act to "Farmers" or "Defendant" collectively is not a complete answer); (iii) all double quotation marks made straight per Formatting Standard §6, apostrophes untouched; stray blank lines removed. Also evened the spacing in Jie Hu's signature block to match Yibiao Lu's | ✅ Applied 9/18/2026 |
 | W-2 | Recount after the edits and update §5 | ⬜ Open |
 | W-3 | Serve and log (answers due 30 days later; 10/19/2026 if served 9/17 or 9/18) | ⬜ Open |
 
