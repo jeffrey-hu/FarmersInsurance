@@ -121,7 +121,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 19:** Admit that The Appraisal Award identified hail as the cause of loss for the two windows it awarded.
 
-**REQUEST FOR ADMISSION NO. 20:** Admit that The Appraisal Award identifies the two awarded windows only by the designations “F1.7” and “B1.2.”
+**REQUEST FOR ADMISSION NO. 20:** Admit that The Appraisal Award identifies the two awarded windows only by the designations "F1.7" and "B1.2."
 
 **REQUEST FOR ADMISSION NO. 21:** Admit that The Appraisal Award states a Replacement Cost Value of $12,800 and an Actual Cash Value of $6,400 on a single line, the item description of which reads "Windows F1.7 B1.2."
 
@@ -129,7 +129,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 23:** Admit that The Appraisal Award does not state separately an actual value or a loss for the window designated "B1.2."
 
-**REQUEST FOR ADMISSION NO. 24:** Admit that The Appraisal Award does not state an actual value or a loss for any window at The Property other than the two windows designated “F1.7” and “B1.2.”
+**REQUEST FOR ADMISSION NO. 24:** Admit that The Appraisal Award does not state an actual value or a loss for any window at The Property other than the two windows designated "F1.7" and "B1.2."
 
 **REQUEST FOR ADMISSION NO. 25:** Admit that You are bound by The Appraisal Award's determination that hail was the cause of loss to the windows designated "F1.7" and "B1.2."
 
@@ -149,7 +149,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *D. The September 3, 2024 denial*
 
-**REQUEST FOR ADMISSION NO. 33:** Admit that Your September 3, 2024 letter to Plaintiffs stated, “There were no other damages observed.”
+**REQUEST FOR ADMISSION NO. 33:** Admit that Your September 3, 2024 letter to Plaintiffs stated, "There were no other damages observed."
 
 **REQUEST FOR ADMISSION NO. 34:** Admit that on September 6, 2024, Your Senior Claim Adjuster Nicholas Brau observed dents on multiple windows at The Property.
 
@@ -167,21 +167,21 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 39:** Admit that Your November 4, 2024 letter transmitted The Prieve Report to Plaintiffs as a basis for Your denial of The Claim.
 
-**REQUEST FOR ADMISSION NO. 40:** Admit that The Coverage Outcome Attachment cites Section I.A.4 and Section I.B.6, “Inherent Vice or Latent Defect.”
+**REQUEST FOR ADMISSION NO. 40:** Admit that The Coverage Outcome Attachment cites Section I.A.4 and Section I.B.6, "Inherent Vice or Latent Defect."
 
-**REQUEST FOR ADMISSION NO. 41:** Admit that The Coverage Outcome Attachment cites Section I.A.7, “Wear and tear or mechanical breakdown.”
+**REQUEST FOR ADMISSION NO. 41:** Admit that The Coverage Outcome Attachment cites Section I.A.7, "Wear and tear or mechanical breakdown."
 
-**REQUEST FOR ADMISSION NO. 42:** Admit that The Coverage Outcome Attachment cites Section I.A.8, “Marring.”
+**REQUEST FOR ADMISSION NO. 42:** Admit that The Coverage Outcome Attachment cites Section I.A.8, "Marring."
 
-**REQUEST FOR ADMISSION NO. 43:** Admit that The Coverage Outcome Attachment cites Section I.A.9 and Section I.B.9, “Corrosion, Deterioration, Decay or Rust.”
+**REQUEST FOR ADMISSION NO. 43:** Admit that The Coverage Outcome Attachment cites Section I.A.9 and Section I.B.9, "Corrosion, Deterioration, Decay or Rust."
 
-**REQUEST FOR ADMISSION NO. 44:** Admit that The Coverage Outcome Attachment cites Section I.B.4, “Neglect or Lack of Maintenance or Failure to Make Repairs.”
+**REQUEST FOR ADMISSION NO. 44:** Admit that The Coverage Outcome Attachment cites Section I.B.4, "Neglect or Lack of Maintenance or Failure to Make Repairs."
 
-**REQUEST FOR ADMISSION NO. 45:** Admit that The Coverage Outcome Attachment cites Section I.B.5, “Faulty, Inadequate, Defective or Incomplete Planning, Zoning, Maintenance, Repairs, Renovation, Manufacture or Construction.”
+**REQUEST FOR ADMISSION NO. 45:** Admit that The Coverage Outcome Attachment cites Section I.B.5, "Faulty, Inadequate, Defective or Incomplete Planning, Zoning, Maintenance, Repairs, Renovation, Manufacture or Construction."
 
-**REQUEST FOR ADMISSION NO. 46:** Admit that The Coverage Outcome Attachment cites Section I.B.8, “Wear and Tear, Deterioration or Mechanical Breakdown.”
+**REQUEST FOR ADMISSION NO. 46:** Admit that The Coverage Outcome Attachment cites Section I.B.8, "Wear and Tear, Deterioration or Mechanical Breakdown."
 
-**REQUEST FOR ADMISSION NO. 47:** Admit that the definition of “Marring” set out at paragraph 16 of The Coverage Outcome Attachment lists “denting” among its examples of marring.
+**REQUEST FOR ADMISSION NO. 47:** Admit that the definition of "Marring" set out at paragraph 16 of The Coverage Outcome Attachment lists "denting" among its examples of marring.
 
 *F. The Marring provision and its hail exception*
 
@@ -209,11 +209,11 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 56:** Admit that Your November 4, 2024 letter to Plaintiffs was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
 
-**REQUEST FOR ADMISSION NO. 57:** Admit that Your November 4, 2024 letter to Plaintiffs stated, "Our investigation found the condition of the window and components to be from wear/tear as referrenced in the attached engineer report."
+**REQUEST FOR ADMISSION NO. 57:** Admit that Your November 4, 2024 letter to Plaintiffs stated, "Our investigation found the condition of the window and components to be from wear/tear as referrenced [sic] in the attached engineer report."
 
 *H. The Prieve Report and Photo Appendix A*
 
-**REQUEST FOR ADMISSION NO. 58:** Admit that You retained Prieve Engineering, LLC to “evaluate the condition of windows in the home as relates to hail.”
+**REQUEST FOR ADMISSION NO. 58:** Admit that You retained Prieve Engineering, LLC to "evaluate the condition of windows in the home as relates to hail."
 
 **REQUEST FOR ADMISSION NO. 59:** Admit that The Prieve Report states: "Similar past estimated hail appears in a summary from the NOAA Storm Events Database with most recent hail in Eden Prairie reported in 2020."
 
@@ -271,7 +271,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 83:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Rounded dents were observed at sashes of this window unit" were present at The Property on October 9, 2024.
 
-**REQUEST FOR ADMISSION NO. 84:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long the left side of the left sash as shown in photograph A-45" were present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 84:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long [sic] the left side of the left sash as shown in photograph A-45" were present at The Property on October 9, 2024.
 
 **REQUEST FOR ADMISSION NO. 85:** Admit that the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64" was present at The Property on October 9, 2024.
 
@@ -321,7 +321,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 > Each Request in this section concerns Your claim file for The 2020 Claim and a dent or indentation identified by the sentence of The Prieve Report quoted in the Request. To be read with Requests Nos. 83 through 102 and 125 through 131.
 
-**REQUEST FOR ADMISSION NO. 107:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long the left side of the left sash as shown in photograph A-45."
+**REQUEST FOR ADMISSION NO. 107:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long [sic] the left side of the left sash as shown in photograph A-45."
 
 **REQUEST FOR ADMISSION NO. 108:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64."
 
@@ -551,7 +551,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *Y. The "peer review" referred to in Your Answer*
 
-**REQUEST FOR ADMISSION NO. 202:** Admit that You have no written policy, procedure, or guideline describing the "peer review" referred to in paragraph 24 of Your Answer.
+**REQUEST FOR ADMISSION NO. 202:** Admit that You have no written policy, procedure, or guideline describing the peer review referred to in Your answer to paragraph 24 of the Complaint.
 
 *Z. The October 29, 2025 message — additional text*
 
