@@ -1,6 +1,6 @@
 # Interrogatories, First Set: Review After the RFP and RFA Updates
 
-**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a and I-8 applied; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
+**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a, F-8, I-8 and I-9 applied; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
 **Document reviewed:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` (the operative file; the `.docx` and the "as of 09-15" copies were identical to it when this review was written). It had 18 interrogatories and 12 instructions when reviewed — **19 after F-3** — and has **not been served**.
 **Working rule:** changes are applied to the `.md` only. The `.docx` is generated once, at the end (W-1).
 **Checked against:**
@@ -40,7 +40,7 @@
 | F-6d | "Person" → the RFA 9/17 wording | Definitions | 0 | ✅ Applied 9/17/2026 | Needed for F-3 |
 | F-6e | Add "The Coverage Outcome Attachment" and use it in Int. 2 | Definitions, Int. 2 | 0 | ✅ Applied 9/17/2026 | |
 | F-7 | **Superseded by Int. 10.** Instead: Int. 18 re-anchored in FIE's own denial (Answer ¶33) and trimmed | Int. 18 | 0 | ✅ Applied 9/17/2026 as F-7a | The Siding & Paint ask lives in Int. 10 |
-| F-8 | Int. 14: replace "Plaintiffs' First Sets"; phrase it as one "for each" question; **keep it as an interrogatory** | Int. 14 | −1 | ⬜ Open | Differs from the 9/15 count file, item 3 |
+| F-8 | Int. 14: **re-scoped by subject matter** (The Claim, The 2020 Claim, The Property) instead of by RFP request; one "identify" question; **kept as an interrogatory** | Int. 14 | −1 | ✅ Applied 9/17/2026 | Differs from the 9/15 count file, item 3; timing fix, see below |
 | F-9 | Keep 5 interrogatories in reserve for expert interrogatories | Planning | — | ⬜ Open | Decision only; no text change |
 
 ### Interrogatory-by-interrogatory edits (§3)
@@ -101,7 +101,7 @@ The set is still sound, and most of its interrogatories now line up well with RF
 | F-5 | **Int. 5 named a document imprecisely and assumed a 2020 inspection.** It covered "each line item" of the whole estimate (roof, chimney, scaffolding) and assumed a "2020 inspection"; the estimate's "Date Inspected" field is blank. | Medium-high | ✅ Applied 9/17/2026 |
 | F-6 | **Several definitions did not match the corrected RFA versions:** "The Claim" ("hail loss"), "The Appraisal Award" ("entered … under § 65A.01"), "The Prieve Report" ("all drafts"), "Person"; and "The Coverage Outcome Attachment" was missing. | Medium | ✅ Applied 9/17/2026 (F-6a–e) |
 | F-7 | **"Siding & Paint" was missing from Ints. 10 and 18.** Int. 10 now names it (F-2, applied), which makes the Int. 18 half redundant; Int. 18 was instead re-anchored in FIE's Answer ¶33 denial. | Medium | ✅ Applied 9/17/2026 (as F-7a) |
-| F-8 | **Int. 14 refers to "Plaintiffs' First Sets."** That term is undefined, and the sets are now being served separately. | Medium | ⬜ Open |
+| F-8 | **Int. 14 referred to "Plaintiffs' First Sets"** — undefined, and tied to an RFP timetable FIE controls. Now scoped by subject matter. | Medium | ✅ Applied 9/17/2026 |
 | F-9 | **No room is kept for expert interrogatories.** Scheduling Order ¶3 contemplates "expert interrogatories," and those count toward the same 50-interrogatory cap. | Medium (planning) | ⬜ Open |
 
 **Timing.** Served by email **before 5:00 p.m. today (9/17) or tomorrow (9/18)**, the answers are due **Monday, October 19, 2026**. The 30th day falls on a weekend, and Rule 6.01(a) moves it to the next business day. Served Monday 9/21, they are due **10/21**. Either way, that leaves less than four weeks before the 11/16 joinder deadline. **The fixes below are all quick edits; make them and serve this week.**
@@ -314,15 +314,27 @@ RFA 31: $0 RCV and $0 ACV. RFA 32: "Hail" in the Causation column. The last clau
 
 **Considered and not used.** A statute-anchored lead-in ("If You contend that The Appraisal Award states separately the actual value and the loss for each item, as Minn. Stat. § 65A.01, subd. 3 requires…") invites a clean "we do not so contend," which would help Count III, but it also gives FIE an easy exit from answering at all. The denial-anchored version was chosen (Bill, 9/17/2026) because FIE has already committed to the position.
 
-### F-8. Int. 14 and Instruction 6
+### F-8. Int. 14: scope, and the timing problem
 
-**Status:** ⬜ Open
+**Status:** ✅ Applied 9/17/2026, together with **I-9** (Instruction 3).
 
 "Plaintiffs' First Sets" is undefined. The RFAs will be served separately, and requests for admission do not call for documents or information in any case.
 
-**Replacement text:**
+**Text as applied (9/17/2026)** — fair count **1**, down from 2:
 
-> …responsive to Plaintiffs' First Set of Requests for Production of Documents (served September 15, 2026) or to these interrogatories…
+> **INTERROGATORY NO. 14:** Identify each document or item of information concerning The Claim, The 2020 Claim, or The Property that You contend no longer exists or cannot be located, stating for each its type, date, author, and subject matter, when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
+
+**Why the interrogatory is kept.** It is the only place FIE must state **under oath** what is missing. Its target is Brau's September 6, 2024 inspection notes — FIE said on 10/10/2025 that "the file does not contain a report on the requested date," while Brau said on 10/29/2025 that everything releasable had been sent (RFAs 137–139, 147–149). A sworn inventory with dates, authorization and custodians is the foundation for a spoliation argument and any adverse-inference request. The other channels do not produce it: RFP Instruction 6 asks for the same information in a response signed by counsel, not sworn; RFP 3, 14 and 21 ask for documents; Int. 7 covers Brau alone.
+
+**The timing problem (Bill, 9/17/2026), and the fix.** The first draft scoped the interrogatory to "documents responsive to Plaintiffs' First Set of Requests for Production." That handed FIE an easy answer — "our review of your requests is ongoing; nothing is presently known to be missing" — and FIE controls that timetable: a Rule 34.02 **response** (due 10/15) need only state whether inspection will be permitted, so the **production** can come later, while these answers are due about 10/19. **Scoping by subject matter instead — The Claim, The 2020 Claim, The Property — removes the dependency**, because FIE does not need Plaintiffs' requests to search its own files. Instruction 1 bounds the period (1/1/2020 forward; 10/22/2014 for the policy and prior claims), which controls the breadth.
+
+**Paired with I-9.** Instruction 3 now requires FIE to say expressly when an answer rests on an incomplete search, to identify what remains, and to supplement on completion. That turns "the search is ongoing" from a shield into a disclosure, and it binds every answer at no count cost.
+
+**Follow-up to calendar (not in the text).** When FIE's production actually lands, send a short letter demanding a supplemental answer to Int. 14 within a stated time. Rule 26.05 and Instruction 3 already require it; the letter makes the refusal provable.
+
+**Why serve it now rather than hold it until after production.** The cost is one interrogatory either way. An early sworn answer is worth more than a better-informed one: "nothing is missing," answered about 10/19, is impeachment if Brau's notes surface later, and any listed item gives the spoliation foundation months before the 3/15/2027 close. Serving now also starts the Rule 26.05 duty, so later silence becomes a failure to correct.
+
+⚠️ **Where I disagree with the 9/15 count file (item 3), which recommends converting this to an instruction.** An instruction cannot create a duty to answer under oath, and the sworn character is the point. Rule 37.01(c) (evasive or incomplete answer = failure to answer) is what gives the answer teeth.
 
 ⚠️ **Where I disagree with the 9/15 count file (item 3), which recommends turning Int. 14 into an instruction.** Keep it as an interrogatory:
 - RFP Instruction 6 already asks for this information, but document responses are **not sworn**. Int. 14 is the only place FIE must state under oath what was destroyed and on whose authority. That sworn statement is the foundation for any spoliation argument about Brau's notes.
@@ -356,7 +368,7 @@ Scheduling Order ¶3(a)–(c) sets deadlines for "expert interrogatories, disclo
 | 11 | RFP 31, 32 | (a)–(c) repeat what RFP 31 asks for in documents. Only (d), the review actually performed, needs a sworn answer. | **Trim to (a) and (d)** (−2). Same conclusion as 9/15 (I-24). | R-11 | ⬜ Open |
 | 12 | RFA 7–18, 142–146, 170–177, 180–189; RFP 34, 52–53 | See F-3 | **Rewritten** | F-3 | ✅ Applied 9/17/2026 |
 | 13 | Initial disclosures (due **9/25**) | Broader than Rule 26.01(a), and costs 1. | Keep | — | No change |
-| 14 | RFP Instr. 6, RFP 3, 14 | See F-8 | Fix the "First Sets" reference | F-8 | ⬜ Open |
+| 14 | RFP Instr. 6, RFP 3, 14 | See F-8 | **Rewritten** | F-8 | ✅ Applied 9/17/2026 |
 | 15 | RFA 133–136; RFP 43 | Good. "Reviewed on its merits" is soft; FIE will answer "yes." | Add: "…and state whether the submission was considered in any coverage decision and, if not, why not." | R-15 | ⬜ Open |
 | 16 | RFA 160, 178–179; RFP 42 | Good. This is the only affirmative fact FIE volunteered in its Answer. | None | — | No change |
 | 17 | RFA 52–53, 150–151; RFP 14 | Strong; it must be answered before any privilege log exists. | None | — | No change |
@@ -377,6 +389,7 @@ Scheduling Order ¶3(a)–(c) sets deadlines for "expert interrogatories, disclo
 | I-6 | Signature and certificate dates are blank. | Fill them in at service. Send before 5:00 p.m. and log the service in `Service_Log.md`. | ⬜ Open |
 | I-7 | Two identical copies ("as of 09-15" and the unlabeled one), plus a Word lock file (`~$…`). | Pick one file to serve, and label the other `[Superseded 2026-09-17]` according to Formatting Standard §8. | ⬜ Open |
 | I-8 | No instruction requires item-by-item answers, so a "for each" interrogatory (1, 3, 5, 10, 19) can be met with one collective answer. | **New Instruction 13:** "Item-by-item answers. Where an interrogatory asks about each of several windows, items, or persons, answer separately as to each. A single collective answer that does not address each one is not responsive." Costs no count and binds every set. | ✅ Applied 9/17/2026 |
+| I-9 | Nothing required FIE to disclose an incomplete search, so "our search is ongoing" could shield a thin answer — especially on Int. 14, whose subject FIE learns about through its own RFP review. | **Added to Instruction 3:** "If any answer is based on an incomplete search or review, state so expressly in that answer, identify what remains to be searched, and serve a supplemental answer promptly upon completion." Costs no count; binds every answer. | ✅ Applied 9/17/2026 |
 
 ---
 
@@ -391,7 +404,7 @@ Scheduling Order ¶3(a)–(c) sets deadlines for "expert interrogatories, disclo
 | Int. 19 (new): employer identity — Int. 12's own rewrite costs 0 | +1 | F-3 | ✅ Applied 9/17/2026 |
 | Int. 6: cut (or replace at a cost of 1) | −1 (or 0) | R-6 | ⬜ Open |
 | Int. 5: line-item mapping only (documented-but-unpaid clause held) | −1 | F-5 | ✅ Applied 9/17/2026 |
-| Int. 14: single "for each" question | −1 | F-8 | ⬜ Open |
+| Int. 14: one "identify" question, re-scoped | −1 | F-8 | ✅ Applied 9/17/2026 |
 | **Total** | **≈ 35 (fair)**, leaving **15** under the cap, **5** of which are reserved for experts | W-2 | ⬜ Open |
 
 Folding the particulars of Ints. 2 and 4 into one sentence each also takes about 6 off FIE's aggressive count, which brings that count safely under 50.
@@ -401,7 +414,7 @@ Folding the particulars of Ints. 2 and 4 into one sentence each also takes about
 ## 6. Recommended order of work (today)
 
 1. ✅ Delete the certification paragraph and the reservation sentence (F-1, F-1a). *Applied 9/17/2026.*
-2. ⬜ Fix the Int. 14 reference (F-8) — **definitions (F-6a–e) done 9/17/2026**.
+2. ✅ Definitions (F-6a–e) and Int. 14 (F-8) done 9/17/2026, with Instruction 3 updated (I-9).
 3. ⬜ Make the smaller edits to Ints. 3, 4, 6, 11, and 15 — **Ints. 1 (F-4), 5 (F-5), 10 (F-2), 12 and 19 (F-3), 18 (F-7a) done 9/17/2026**.
 4. ⬜ **Once every change above is applied**, generate the `.docx` from the `.md` according to the Formatting Standard, and confirm that the two match and that the numbers run 1–18 with no gaps. Do not rebuild the `.docx` change by change.
 5. ⬜ Serve by email **before 5:00 p.m. on 9/17 or 9/18** (answers due 10/19), and log the service.

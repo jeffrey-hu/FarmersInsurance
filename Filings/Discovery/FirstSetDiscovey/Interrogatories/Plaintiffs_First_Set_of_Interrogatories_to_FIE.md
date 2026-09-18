@@ -53,7 +53,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **2.** Manner of answer. Each interrogatory must be answered separately, fully, in writing, and under oath, and the answers must be signed by the person making them, pursuant to Minn. R. Civ. P. 33.01(d).
 
-**3.** Continuing duty. These interrogatories are continuing. You must seasonably supplement or correct Your answers pursuant to Minn. R. Civ. P. 26.05.
+**3.** Continuing duty. These interrogatories are continuing. You must seasonably supplement or correct Your answers pursuant to Minn. R. Civ. P. 26.05. If any answer is based on an incomplete search or review, state so expressly in that answer, identify what remains to be searched, and serve a supplemental answer promptly upon completion.
 
 **4.** Privilege. If You withhold any information on a claim of privilege or protection, expressly state the claim and provide a privilege log describing the nature of the withheld material in a manner sufficient to enable Plaintiffs to assess the claim, pursuant to Minn. R. Civ. P. 26.02(f).
 
@@ -103,7 +103,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 13:** Identify each person known to You to have knowledge of any fact at issue in this action, including without limitation facts relating to The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or the denial decisions, and state the subject matter of each person’s knowledge.
 
-**INTERROGATORY NO. 14:** For each document or item of information responsive to any discovery request in Plaintiffs’ First Sets that You contend no longer exists or cannot be located, identify the document or information by type, date, author, and subject matter; state the date and manner of its destruction or loss; identify the person who authorized or caused it and the retention policy or schedule under which it occurred; and identify each person who had custody of it.
+**INTERROGATORY NO. 14:** Identify each document or item of information concerning The Claim, The 2020 Claim, or The Property that You contend no longer exists or cannot be located, stating for each its type, date, author, and subject matter, when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
 
 **INTERROGATORY NO. 15:** For each of the following submissions by Plaintiffs — (i) the January 31, 2025 response and its attachments concerning post-2020 storm activity and gutter replacement; (ii) the February 10, 2025 second response containing City of Eden Prairie permit records and the neighbor canvass; and (iii) the May 28, 2025 National Weather Service and Interactive Hail Maps material delivered through agent Peter Pietila — state whether any person acting for You reviewed the submission on its merits, and if so identify that person, the date of the review, the conclusion reached, and each claim-file note or other document recording it; and if no such review occurred, state so and the reason.
 
