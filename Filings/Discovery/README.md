@@ -35,12 +35,13 @@ FirstSetDiscovey/
   Interrogatories/
     Plaintiffs_First_Set_of_Interrogatories_to_FIE.docx   ← operative
     Plaintiffs_First_Set_of_Interrogatories_to_FIE.md
+    [Superseded 2026-09-15] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md / .docx   ← baseline
+    [Original 2026-09-08] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md / .docx   ← baseline, see note 2
     Interrogatories_First_Set_Review_2026-09-11.md
     Proposed_Changes_Interrogatories_First_Set_2026-09-11.md
   Request For Production/
     Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.docx   ← operative
     [Current] Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.md
-    [Oirignal] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md   ← see note 2
     RFP_First_Set_Review_2026-09-08.md
     Proposed_Changes_RFP_First_Set_2026-09-08.md
     Redline_RFP_First_Set_2026-09-10.md
@@ -54,7 +55,7 @@ Cross-references in `FIE_Answer_Analysis_and_Next_Steps.md` and in the second-se
 **Three things to fix when convenient:**
 
 1. **The RFP Markdown twin was renamed** to `[Current] Plaintiffs_First_Set_of_Requests_for_Production_to_FIE.md`. The `.docx` remains the operative document and the `.md` is regenerated from it (see `Filings/Document_Formatting_Standard.md` § 8). The bracketed prefix means a regeneration under the plain filename would silently create a **third** copy. Either keep the bracketed name and regenerate to that exact path, or rename it back to match the `.docx`.
-2. **`[Oirignal] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` is in the `Request For Production/` folder.** Its contents are genuinely the **interrogatories** — 17 interrogatories, 7 instructions, no Rule 5.04(b) cite, no § 358.116 certificate, no contact details — i.e. a pre-September-10 snapshot. It is correctly labelled but filed in the wrong folder, and "Oirignal" is a typo for "Original". Suggest moving it to `Interrogatories/` and renaming to `[Original 2026-09-08] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` so it is unmistakably a baseline and not the version to serve.
+2. **Resolved 2026-09-18.** The misfiled `[Oirignal] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` — interrogatories sitting in the `Request For Production/` folder under a misspelled prefix — has been moved to `Interrogatories/` and renamed `[Original 2026-09-08] Plaintiffs_First_Set_of_Interrogatories_to_FIE.md`; its Word twin (formerly `[Original] …docx`) was renamed to match. It is a pre-September-10 baseline — 17 interrogatories, 7 instructions, no Rule 5.04(b) cite, no § 358.116 certificate, no contact details — and is **not** the version to serve. The `2026-09-08` in the name is this README's own attribution of the snapshot, not a verified date; the file's timestamp records only when it was added to the repository.
 3. **This README's Section A is out of date** — see the status note there.
 
 ---

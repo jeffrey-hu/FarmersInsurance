@@ -51,15 +51,15 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **1.** Time period. Unless a particular interrogatory specifies otherwise, each interrogatory covers the period January 1, 2020 through the present, except that as to The Policy, its issuance and underwriting, and all claims made at The Property before The Claim, each interrogatory covers the period October 22, 2014 through the present.
 
-**2.** Manner of answer. Each interrogatory must be answered separately, fully, in writing, and under oath, and the answers must be signed by the person making them, pursuant to Minn. R. Civ. P. 33.01(d).
+**2.** Manner of answer. Each interrogatory must be answered separately and fully, in writing, and signed under oath or penalty of perjury by an officer or managing agent of Defendant, who must furnish the information available to Defendant. A declaration signed under penalty of perjury must be in the form Minn. Stat. § 358.116 requires. Restate each interrogatory immediately preceding its answer. Minn. R. Civ. P. 33.01(d).
 
-**3.** Continuing duty. These interrogatories are continuing. You must seasonably supplement or correct Your answers pursuant to Minn. R. Civ. P. 26.05. If any answer is based on an incomplete search or review, state so expressly in that answer, identify what remains to be searched, and serve a supplemental answer promptly upon completion.
+**3.** Continuing duty. These interrogatories are continuing. You must supplement or correct Your answers in a timely manner as Minn. R. Civ. P. 26.05 requires. If any answer is based on an incomplete search or review, state so expressly in that answer, identify what remains to be searched, and serve Your supplemental answer promptly upon completion.
 
 **4.** Privilege. If You withhold any information on a claim of privilege or protection, expressly state the claim and provide a privilege log describing the nature of the withheld material in a manner sufficient to enable Plaintiffs to assess the claim, pursuant to Minn. R. Civ. P. 26.02(f).
 
 **5.** Option to produce records. If You elect to answer any interrogatory by producing business records under Minn. R. Civ. P. 33.03, specify the records to be produced in sufficient detail to permit Plaintiffs to locate and identify them as readily as You could.
 
-**6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but is no longer available, state that in Your answer to the interrogatory concerned, identify the information, and provide as to it each particular called for by Interrogatory 11 (destroyed or unlocatable information).
+**6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but no longer exists or cannot be located, state that in the answer, identify the information, and state when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
 
 **7.** Construction. The words "and" and "or" are both conjunctive and disjunctive; "each" includes "every"; and the singular includes the plural and vice versa, as necessary to bring within the scope of each interrogatory all answers that might otherwise be construed to be outside its scope.
 
