@@ -535,6 +535,16 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 196:** Admit that You do not contend that any provision of The Policy, other than the windstorm/hail deductible, bars, limits, or reduces recovery for damage caused by hail to the windows or other exterior components of The Property.
 
+**REQUEST FOR ADMISSION NO. 197:** Admit that You have not at any time obtained any engineering analysis, engineering report, or engineering opinion concerning the cause of the conditions depicted at photographs A-42, A-92, A-93, A-98, A-99, A-103, and A-141 of Photo Appendix A.
+
+*W. The items listed on The Appraisal Award*
+
+**REQUEST FOR ADMISSION NO. 198:** Admit that the only items listed in the item column of The Appraisal Award are "Siding & Paint," "Windows F1.7 B1.2," and "Debris."
+
+**REQUEST FOR ADMISSION NO. 199:** Admit that The Appraisal Award states a Replacement Cost Value of $0 and an Actual Cash Value of $0 for the item "Debris."
+
+**REQUEST FOR ADMISSION NO. 200:** Admit that The Appraisal Award states "Hail" in the Causation column for the item "Debris."
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.

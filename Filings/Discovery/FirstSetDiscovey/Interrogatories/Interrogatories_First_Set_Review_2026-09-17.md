@@ -1,6 +1,6 @@
 # Interrogatories, First Set: Review After the RFP and RFA Updates
 
-**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a, F-8, F-9, R-2, I-8 and I-9 applied; **old Int. 2 deleted and the set renumbered 1–18**; fair count **34**; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
+**Date:** September 17, 2026 · **Tracker last updated:** September 17, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a, F-8, F-9, R-2, R-3, I-8 and I-9 applied; **old Ints. 2 and 3 deleted; the set now runs 1–17**; fair count **32**; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
 **Document reviewed:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` (the operative file; the `.docx` and the "as of 09-15" copies were identical to it when this review was written). It had 18 interrogatories and 12 instructions when reviewed — **19 after F-3** — and has **not been served**.
 **Working rule:** changes are applied to the `.md` only. The `.docx` is generated once, at the end (W-1).
 **Checked against:**
@@ -49,7 +49,7 @@
 |---|---|---|---:|---|---|
 | R-2a | **Superseded — Int. 2 deleted** 9/17/2026 as redundant of the RFAs | Int. 2 | **−2** | ❌ Superseded 9/17/2026 | See §R-2 below; RFA No. 196 added instead |
 | R-2b | *(Optional)* Add the provisions cited in the 9/3/2024 letter | — | — | ❌ Superseded 9/17/2026 | Moot with Int. 2 deleted; the change-of-theory point rests on RFAs 3, 33 and Int. 8 |
-| R-3 | Int. 3: add "the date or period in which You contend it occurred" | Int. 3 | 0 | ⬜ Open | |
+| R-3 | **Merged old Int. 3 (non-window components) into Int. 1 and deleted it**; date and prior-claim particulars carried over | Ints. 1, 3 | **−2** | ✅ Applied 9/17/2026 | Set now **32**; four RFAs added instead (Nos. 197–200) |
 | R-4 | Int. 4: neutral wording (drop "Plaintiffs had reported"); fold the particulars | Int. 4 | FIE's count −3 | ⬜ Open | |
 | R-6 | Int. 6: replace with the Monson "in part" question, **or** cut it | Int. 6 | 0 / −1 | ⬜ Open | Decide which |
 | R-8 | Int. 8: match the quotation's capitalization to the email | Int. 8 | 0 | ⬜ Open | |
@@ -84,11 +84,12 @@ Old Int. 2 (the exclusion audit) was **deleted** and the set renumbered **1–18
 |---:|---:|---|
 | 1 | **1** | Per-window causation, date, prior claim, exclusions, award reliance |
 | 2 | — | *Deleted 9/17/2026 (R-2)* |
-| 3–19 | **2–18** | Each shifts down by one |
+| 3 | — | *Merged into Int. 1 and deleted 9/17/2026 (R-3)* |
+| 4–19 | **2–17** | Each shifts down by two |
 
-Specifically: 3→2 (non-window components), 4→3 (Prieve scoping), 5→4 (2020 line items), 6→5 (engineer-rule communications), 7→6 (Brau records), 8→7 (the 10/29/2025 statement), 9→8 (supervisory review), 10→9 (§ 604.18 subd. 4(c)), 11→10 (third-party report review), 12→11 (Affirmative Defense 1), 13→12 (persons with knowledge), 14→13 (destroyed or unlocatable), 15→14 (the three submissions), 16→15 (the Hancock allegation), 17→16 (anticipation of litigation), 18→17 (award itemization), 19→18 (employing entity).
+Specifically: 4→2 (Prieve scoping), 5→3 (2020 line items), 6→4 (engineer-rule communications), 7→5 (Brau records), 8→6 (the 10/29/2025 statement), 9→7 (supervisory review), 10→8 (§ 604.18 subd. 4(c)), 11→9 (third-party report review), 12→10 (Affirmative Defense 1), 13→11 (persons with knowledge), 14→12 (destroyed or unlocatable), 15→13 (the three submissions), 16→14 (the Hancock allegation), 17→15 (anticipation of litigation), 18→16 (award itemization), 19→17 (employing entity).
 
-**Cross-reference fixed:** Instruction 6 now points to **Interrogatory 13**, not 14.
+**Cross-reference fixed:** Instruction 6 now points to **Interrogatory 12** (destroyed or unlocatable information), formerly 14.
 
 ### Held — not in this set
 
@@ -387,23 +388,23 @@ An interrogatory about FIE's expert cannot be answered after 3/15/2027, and FIE 
 |---|---|---|---|---|---|
 | 1 (1) | RFA 64, 80–81, 83–124; RFP 6, 49 | See F-4 | **Rewritten** | F-4 | ✅ Applied 9/17/2026 |
 | **deleted** | RFA 40–51; RFP 30, 37 | Good. **F-6e applied 9/17/2026:** it now cites "Your November 4, 2024 letter to Plaintiffs or … The Coverage Outcome Attachment," which removes the risk of pointing at the September 3 document of the same title. The sworn "exclusion vs. limitation" answer complements RFAs 48–51, which cover the marring hail exception. Its gap between a fair count and FIE's count is 2 vs. 5. | Fold the particulars into one sentence: "…state, for each, its section and number, whether You contend it operates as an exclusion or a limitation, the facts, documents, and witnesses on which You rely, and who decided to cite it." Optionally add the provisions cited in the 9/3 letter (Building structure/Water) to expose the change of theory; that adds about 1 to the count. | R-2a, R-2b | ⬜ Open |
-| 2 (3) | RFA 65–79; RFP 7, 51 | Good. Answer ¶22(c) alleges the gutters and downspouts were replaced after 9/13/2021, and RFA 131 says there was no hail loss after 9/5/2020 other than The Claim. | **Add "and the date or period in which You contend it occurred."** If FIE dates the downspout dents after 2021, its own records leave 7/13/2024 as the only hail event. | R-3 | ⬜ Open |
-| 3 (4) | RFA 14, 58; RFP 7 | The phrase "that Plaintiffs **had reported** as damaged" states a fact FIE can dispute, and FIE can deny the whole interrogatory on that premise. | **Neutral wording:** "…to limit the Prieve engagement to the condition of the windows rather than also evaluating the siding, downspouts, flashing, and doors…". Fold the four particulars into one clause. | R-4 | ⬜ Open |
-| 4 (5) | RFA 125–130; RFP 2, 23, 44–45 | See F-5 | **Rewritten** | F-5 | ✅ Applied 9/17/2026 |
-| 5 (6) | RFA 6, 132; RFP 11, 36, 43 | Still the weakest interrogatory. Answer ¶24 admits Monson spoke "**in part**" about a peer-reviewed engineer's report, and ¶25 admits the voicemail. RFA 132 now tests the exact statement. | **Replace** with a question that uses the "in part" admission: "State everything Bradlee Monson told Plaintiff Yibiao Lu during their February 3, 2025 telephone call concerning the evidence FIE would or would not consider, and identify each person who directed, approved, or was informed of that position." Or cut it (−1). | R-6 | ⬜ Open |
-| 6 (7) | RFA 137–139, 147–149; RFP 3, 21 | Strong. It is timed to preserve spoliation arguments. | None | — | No change |
-| 7 (8) | RFA 165–168 | Good. The RFA capitalizes the quotation ("All the information…"). | Match the capitalization to the email. | R-8 | ⬜ Open |
-| 8 (9) | RFP 30 | Fine. Answer ¶53 refers to a "**September 4, 2024** claim outcome correspondence," and RFP 46 asks for it. Instruction 11 (dates) covers it if FIE meant 9/3. | None | — | No change |
-| 9 (10) | RFA 19–27; RFP 38 | See F-2 | **Rewritten** | F-2 | ✅ Applied 9/17/2026 |
-| 10 (11) | RFP 31, 32 | (a)–(c) repeat what RFP 31 asks for in documents. Only (d), the review actually performed, needs a sworn answer. | **Trim to (a) and (d)** (−2). Same conclusion as 9/15 (I-24). | R-11 | ⬜ Open |
-| 11 (12) | RFA 7–18, 142–146, 170–177, 180–189; RFP 34, 52–53 | See F-3 | **Rewritten** | F-3 | ✅ Applied 9/17/2026 |
-| 12 (13) | Initial disclosures (due **9/25**) | Broader than Rule 26.01(a), and costs 1. | Keep | — | No change |
-| 13 (14) | RFP Instr. 6, RFP 3, 14 | See F-8 | **Rewritten** | F-8 | ✅ Applied 9/17/2026 |
-| 14 (15) | RFA 133–136; RFP 43 | Good. "Reviewed on its merits" is soft; FIE will answer "yes." | Add: "…and state whether the submission was considered in any coverage decision and, if not, why not." | R-15 | ⬜ Open |
-| 15 (16) | RFA 160, 178–179; RFP 42 | Good. This is the only affirmative fact FIE volunteered in its Answer. | None | — | No change |
-| 16 (17) | RFA 52–53, 150–151; RFP 14 | Strong; it must be answered before any privilege log exists. | None | — | No change |
-| 17 (18) | RFA 20–24, 29–32; Answer ¶33 | Highest-value interrogatory in the set | **Rewritten** | F-7a | ✅ Applied 9/17/2026 |
-| **18 (new)** | RFA 8–10, 142–146, 170, 176; RFP 52 | The only sworn route to the employing entity if FIE denies the RFAs | Added | F-3 | ✅ Applied 9/17/2026 |
+| **deleted → merged into Int. 1** | RFA 65–79; RFP 7, 51 | Answer ¶22(c) alleges the gutters and downspouts were replaced after 9/13/2021, and RFA 131 says there was no hail loss after 9/5/2020 other than The Claim. | **Add "and the date or period in which You contend it occurred."** If FIE dates the downspout dents after 2021, its own records leave 7/13/2024 as the only hail event. | R-3 | ⬜ Open |
+| 2 (4) | RFA 14, 58; RFP 7 | The phrase "that Plaintiffs **had reported** as damaged" states a fact FIE can dispute, and FIE can deny the whole interrogatory on that premise. | **Neutral wording:** "…to limit the Prieve engagement to the condition of the windows rather than also evaluating the siding, downspouts, flashing, and doors…". Fold the four particulars into one clause. | R-4 | ⬜ Open |
+| 3 (5) | RFA 125–130; RFP 2, 23, 44–45 | See F-5 | **Rewritten** | F-5 | ✅ Applied 9/17/2026 |
+| 4 (6) | RFA 6, 132; RFP 11, 36, 43 | Still the weakest interrogatory. Answer ¶24 admits Monson spoke "**in part**" about a peer-reviewed engineer's report, and ¶25 admits the voicemail. RFA 132 now tests the exact statement. | **Replace** with a question that uses the "in part" admission: "State everything Bradlee Monson told Plaintiff Yibiao Lu during their February 3, 2025 telephone call concerning the evidence FIE would or would not consider, and identify each person who directed, approved, or was informed of that position." Or cut it (−1). | R-6 | ⬜ Open |
+| 5 (7) | RFA 137–139, 147–149; RFP 3, 21 | Strong. It is timed to preserve spoliation arguments. | None | — | No change |
+| 6 (8) | RFA 165–168 | Good. The RFA capitalizes the quotation ("All the information…"). | Match the capitalization to the email. | R-8 | ⬜ Open |
+| 7 (9) | RFP 30 | Fine. Answer ¶53 refers to a "**September 4, 2024** claim outcome correspondence," and RFP 46 asks for it. Instruction 11 (dates) covers it if FIE meant 9/3. | None | — | No change |
+| 8 (10) | RFA 19–27; RFP 38 | See F-2 | **Rewritten** | F-2 | ✅ Applied 9/17/2026 |
+| 9 (11) | RFP 31, 32 | (a)–(c) repeat what RFP 31 asks for in documents. Only (d), the review actually performed, needs a sworn answer. | **Trim to (a) and (d)** (−2). Same conclusion as 9/15 (I-24). | R-11 | ⬜ Open |
+| 10 (12) | RFA 7–18, 142–146, 170–177, 180–189; RFP 34, 52–53 | See F-3 | **Rewritten** | F-3 | ✅ Applied 9/17/2026 |
+| 11 (13) | Initial disclosures (due **9/25**) | Broader than Rule 26.01(a), and costs 1. | Keep | — | No change |
+| 12 (14) | RFP Instr. 6, RFP 3, 14 | See F-8 | **Rewritten** | F-8 | ✅ Applied 9/17/2026 |
+| 13 (15) | RFA 133–136; RFP 43 | Good. "Reviewed on its merits" is soft; FIE will answer "yes." | Add: "…and state whether the submission was considered in any coverage decision and, if not, why not." | R-15 | ⬜ Open |
+| 14 (16) | RFA 160, 178–179; RFP 42 | Good. This is the only affirmative fact FIE volunteered in its Answer. | None | — | No change |
+| 15 (17) | RFA 52–53, 150–151; RFP 14 | Strong; it must be answered before any privilege log exists. | None | — | No change |
+| 16 (18) | RFA 20–24, 29–32; Answer ¶33 | Highest-value interrogatory in the set | **Rewritten** | F-7a | ✅ Applied 9/17/2026 |
+| **17 (new)** | RFA 8–10, 142–146, 170, 176; RFP 52 | The only sworn route to the employing entity if FIE denies the RFAs | Added | F-3 | ✅ Applied 9/17/2026 |
 
 ---
 
@@ -430,6 +431,29 @@ An admission ends the coverage-provision branch of the case. A denial shows a li
 **R-2b (adding the September 3, 2024 provisions) is moot.** The change-of-theory point rests on RFA 3, RFA 33 and Int. 8 (supervisory review of both denials), none of which needs a provision-by-provision answer.
 
 **What was given up, and where it went.** The "who decided to cite it" question — pretext evidence — moves to deposition, where questions are free. The exclusion-versus-limitation characterization will surface in summary-judgment briefing, where FIE has to take a position anyway.
+
+---
+
+### R-3. Old Int. 3 (non-window components): merged into Int. 1
+
+**Status:** ✅ Applied 9/17/2026 (Bill's decision). **−2** → set at 32. Replaced in part by RFAs **197–200**.
+
+**Text as applied — Int. 1 now covers every component:**
+
+> **INTERROGATORY NO. 1:** For each window or other component of The Property — including downspouts, gutters, flashing, siding, trim board, doors, and screens — at which The Prieve Report or Photo Appendix A records a dent, mark, scrape, or indentation, other than the windows designated "F1.7" and "B1.2," state the cause and approximate date You attribute to it, the facts supporting that attribution (including, for any condition attributed to a prior claim, that claim's number and the estimate line item You contend paid for it), any policy exclusion or limitation You contend applies, and any portion of The Appraisal Award You contend determined the question.
+
+**Why merge rather than keep a separate interrogatory.** A standalone non-window question invites the answer Bill predicted: "the 11/4/2024 denial rests on The Prieve Report; we performed no inspection after 10/9/2024; we then followed the appraisal." Merged, the same universe costs nothing extra and keeps the part that answer cannot dodge — a **dated** attribution. The gutters and downspouts were replaced after **September 13, 2021** (contractor texts), FIE's 2020 scope paid for gutter guards and downspouts, and RFA 131 asks FIE to admit its records show no hail loss after 9/5/2020 other than The Claim. A dated attribution for a component installed in late 2021 therefore either names 7/13/2024 or contradicts FIE's own file.
+
+**The gap the merge does not close, and the free requests that do.** The appraisal demand submitted windows and siding (Answer ¶30), so downspouts, gutters, flashing, trim and screens were never before the panel — which is the reserved-items theory under *Quade*. Four requests were appended to the RFA set (Rule 36 has no cap; nothing renumbered):
+
+- **No. 197** — no engineering analysis, at any time, of the conditions at A-42, A-92, A-93, A-98, A-99, A-103 and A-141. Fills the gap left by Nos. 36 and 37, which stop at 9/3/2024, and No. 58, which only fixes Prieve's scope.
+- **Nos. 198–200** — the award's item column lists only "Siding & Paint," "Windows F1.7 B1.2" and "Debris"; "Debris" shows $0 / $0; and its Causation column reads "Hail."
+
+**Verified against the award (9/17/2026).** `EventDocuments/2025-09-16-SettlementNotice.pdf`, page 4 — the award itself, transmitted with a September 16, 2025 Settlement Notice signed by **Twonda Miller**, Senior General Claims Adjuster, cc Peter Pietila. Line items: Siding & Paint 0/0 Hail; Windows F1.7 B1.2 12,800/6,400 Hail; **Debris 0/0 Hail**; a "Permit is to be Paid When Incurred" row with no values; Total 12,800/6,400. The header states Loss Date 7/13/2024 and Loss Cause Hail. Foster and Roos signed and dated the certification block; **Tomes' certification line is blank**, and his only signature is in the umpire-appointment block — confirming RFAs 29 and 30.
+
+**Not added (Bill, 9/17/2026):** a request that the award states "7/13/2024" as the Loss Date and "Hail" as the Loss Cause. Those header fields are claim information carried over from FIE's file, not panel findings. The Causation column entries are findings and are covered by RFAs 19, 32 and new No. 200.
+
+⚠️ **Flagged for the deposition plan.** The award's fine print states that panel deliberations are "confidential and exempt from depositions or suit" where the agreement is challenged or a bad-faith or breach claim is filed, and that no party will assert claims against the appraisers or umpire. Plaintiffs did not sign that document and a private form cannot strip a party's discovery rights, but expect FIE to raise it against the Tomes, Foster and Roos depositions. Analyze before the deposition plan is finalized.
 
 ---
 
@@ -462,7 +486,8 @@ An admission ends the coverage-provision branch of the case. A denial shows a li
 | Int. 5: line-item mapping only (documented-but-unpaid clause held) | −1 | F-5 | ✅ Applied 9/17/2026 |
 | Int. 14: one "identify" question, re-scoped | −1 | F-8 | ✅ Applied 9/17/2026 |
 | Int. 2 deleted (R-2) | −2 | R-2 | ✅ Applied 9/17/2026 |
-| **Total** | **34 (fair)**, leaving **15** under the cap, **5** of which are reserved for experts | W-2 | ⬜ Open |
+| Old Int. 3 merged into Int. 1 (R-3) | −2 | R-3 | ✅ Applied 9/17/2026 |
+| **Total** | **32 (fair)**, leaving **15** under the cap, **5** of which are reserved for experts | W-2 | ⬜ Open |
 
 Folding the particulars of Ints. 2 and 4 into one sentence each also takes about 6 off FIE's aggressive count, which brings that count safely under 50.
 
@@ -472,7 +497,7 @@ Folding the particulars of Ints. 2 and 4 into one sentence each also takes about
 
 1. ✅ Delete the certification paragraph and the reservation sentence (F-1, F-1a). *Applied 9/17/2026.*
 2. ✅ Definitions (F-6a–e) and Int. 14 (F-8) done 9/17/2026, with Instruction 3 updated (I-9).
-3. ⬜ Make the smaller edits to old Ints. 3, 4, 6, 11 and 15 (**new 2, 3, 5, 10, 14**) — **old Ints. 1, 5, 10, 12, 14, 18, 19 done 9/17/2026; old Int. 2 deleted (R-2)**.
+3. ⬜ Make the smaller edits to old Ints. 4, 6, 11 and 15 (**new 2, 4, 9, 13**) — **old Ints. 1, 5, 10, 12, 14, 18, 19 done; old Int. 2 deleted (R-2); old Int. 3 merged into Int. 1 (R-3)**.
 4. ⬜ **Once every change above is applied**, generate the `.docx` from the `.md` according to the Formatting Standard, and confirm that the two match and that the numbers run 1–18 with no gaps. Do not rebuild the `.docx` change by change.
 5. ⬜ Serve by email **before 5:00 p.m. on 9/17 or 9/18** (answers due 10/19), and log the service.
 
