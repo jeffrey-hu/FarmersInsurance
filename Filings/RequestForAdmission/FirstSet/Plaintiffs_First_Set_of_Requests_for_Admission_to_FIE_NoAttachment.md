@@ -531,6 +531,10 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 195:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
 
+*V. Coverage provisions and limitations*
+
+**REQUEST FOR ADMISSION NO. 196:** Admit that You do not contend that any provision of The Policy, other than the windstorm/hail deductible, bars, limits, or reduces recovery for damage caused by hail to the windows or other exterior components of The Property.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
