@@ -163,6 +163,36 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
+### 2021-10-12-ApprovalForFirstExtension.pdf
+**Type:** Farmers letter granting an extension of the replacement-cost deadline on the 2020 hail claim (1 page, delivered by email)
+**Date:** October 12, 2021 — "Delivered by email to: BILL_Y_LU@YAHOO.COM"
+**Claim Number:** 3013539499-1 | **Loss Date:** 9/5/2020 | **Subject line:** "Time extension"
+**Signed:** Fire Insurance Exchange (contact number 913-227-2311 — Robbie Bledsoe's line)
+**Significance:** The **first** of the two COVID-era extension requests, and the one Farmers granted. Verbatim: *"On October 7, 2021, we received your request for an extension of time to complete your repairs or replacement and recover Replacement Cost benefits under your policy. We're happy to extend your replacement cost deadline to February 15, 2022. Please complete the work and send the invoices to our office on or before this date."*
+
+- Fixes the date the family asked (10/7/2021), the date Farmers answered (10/12/2021), and the new deadline (2/15/2022) — the same date the February 18, 2022 Settlement Notice later recites as the cutoff for submitting invoices.
+- Signed for **Fire Insurance Exchange**, which is useful on the entity questions: the Exchange itself is the party granting claim relief.
+- Read with `2022-02-17-SecondExtensionResponse.pdf` and `FinalDocument_2020.pdf`: extension granted → second extension refused → claim closed out with Window Work (Lines 1–4) recorded as "work … not completed."
+
+---
+
+### 2022-02-17-SecondExtensionResponse.pdf
+**Type:** Farmers email refusing a further extension of the replacement-cost deadline on the 2020 hail claim (1 page, printed with full header block)
+**Date:** February 17, 2022, 4:27 p.m. — from myadjuster@farmersinsurance.com to BILL_Y_LU@yahoo.com
+**Subject line:** "Claim # 3013539499-1, Loss Date 09/05/2020, Important Claim Information [5S2PPPD03]"
+**Author:** Robbie Bledsoe, Office Claims Representative, Fire Insurance Exchange
+**Significance:** The **second** extension request, refused — two days before the claim was closed out by the February 18, 2022 Settlement Notice. Verbatim: *"I received your e-mail and have requested information from your contractor. As you recall I was able to get an extra-contractual extension approved on this claim through 02/15. Extensions such as that rare and are never guaranteed and I would have to say extensions on top of extensions are even more so. I am unable to ask for additional time without detailed information as to why the work was not able to be completed in the timeline provided by the contractor. I actually got an additional month added on to the end of that to account for any delays due to weather."*
+
+**Why the pair matters to the 2024 claim:**
+- The window work under the 2020 claim was **never performed** — the contractor could not find anyone to do it before the deadline, and Farmers refused to extend again. The Building Loss Worksheet in `FinalDocument_2020.pdf` records it as "Window Work (Lines 1-4)" under "Description of Work **Not** Completed," RCV $2,922.08 with $1,740.44 of recoverable depreciation, under a footnote reading "This section is a recap from your estimate and represents work, which has not been completed."
+- That is the factual answer to Prieve's Conclusion 1 — that the two windows were "already included and **we understand** paid for." Farmers' own file shows the scope was never installed and the replacement-cost holdback was never released.
+- It also explains the physical record without helping Farmers: those two sashes still carry their 2020 dents because nobody replaced them. That says nothing about the twenty-plus other windows the Prieve report documents.
+- Sequence for any § 604.18 presentation: one COVID-era extension granted (10/12/2021) → second refused (2/17/2022) → claim closed the next day (2/18/2022) → the unrepaired condition of those windows later used as a reason to pay nothing on the 2024 claim.
+- Note the shared-mailbox pattern: the refusal comes from `myadjuster@farmersinsurance.com` with a bracketed routing token, the same practice seen in the October 29, 2025 Brau message.
+- Proposed requests for admission built on both documents are drafted at §5C of `Filings/RequestForAdmission/FirstSet/RFA_First_Set_Adversarial_Review_2026-09-18.md` (items K-1 to K-8).
+
+---
+
 ### 11-19-complaint-to-dept-of-commerce.pdf
 **Type:** Formal complaint letter to the Minnesota Department of Commerce, with photo evidence and claim timeline (13 pages)
 **Date:** November 19, 2024
@@ -344,7 +374,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 > ### ⚠️ EventDocuments files not yet catalogued in this index (as of September 19, 2026)
 >
-> `2022-02-17-SecondExtensionResponse.pdf` · `2025-07-10-DeadlineInquery-Email.pdf` · `2025-07-11-DeadlineInquery-FollowUpEmail.pdf` · `2025-07-11-DeadlineInquery.pdf` · `2025-09-16-SettlementNotice.pdf` (carries the appraisal award at p. 4) · `2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf` · `2025-10-21-EmailResponse.pdf` · `2025-10-29-BrauEmail.pdf` · `2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf` · `Garage-RearWindow-1.HEIC`, plus the analysis notes (`2025-10-10_Letter_Package_Analysis_2026-09-15.md`, `2025-10-21_Reply_and_Adjuster_Sequence_Analysis_2026-09-15.md`, `2025-10-29_Brau_Email_Analysis_2026-09-15.md`, `Missing_Originals_and_Preservation_Note_2026-09-12.md`) and the `Appraisal Documents/`, `CommunicationWithPureConstruction/` subfolders.
+> `2025-07-10-DeadlineInquery-Email.pdf` · `2025-07-11-DeadlineInquery-FollowUpEmail.pdf` · `2025-07-11-DeadlineInquery.pdf` · `2025-09-16-SettlementNotice.pdf` (carries the appraisal award at p. 4) · `2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf` · `2025-10-21-EmailResponse.pdf` · `2025-10-29-BrauEmail.pdf` · `2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf` · `Garage-RearWindow-1.HEIC`, plus the analysis notes (`2025-10-10_Letter_Package_Analysis_2026-09-15.md`, `2025-10-21_Reply_and_Adjuster_Sequence_Analysis_2026-09-15.md`, `2025-10-29_Brau_Email_Analysis_2026-09-15.md`, `Missing_Originals_and_Preservation_Note_2026-09-12.md`) and the `Appraisal Documents/`, `CommunicationWithPureConstruction/` subfolders.
 >
 > Several of these are heavily relied on in the discovery sets. Backfilling entries for them is worth doing; it is not done here.
 
