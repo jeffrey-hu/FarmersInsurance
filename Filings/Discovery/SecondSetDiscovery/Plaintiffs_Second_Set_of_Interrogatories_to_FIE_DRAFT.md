@@ -135,6 +135,38 @@ Rewrite the opening clause to quote the engagement document, drop "how the scope
 
 ---
 
+## Draft Interrogatory No. 4 — reconciling the October 10 and October 29, 2025 statements
+
+**Added September 18, 2026.** Removed from the First Set before service (it was Interrogatory No. 4 under the 9/18 numbering; the First Set now runs **1–14**).
+
+> **DRAFT TEXT — as it read in the First Set.** Rewrite the opening clause on service to quote FIE's actual answers to Requests for Admission 147, 148 and 168.
+>
+> State the basis for Nicholas Brau’s October 29, 2025 statement that "All the information we can release has already been sent to you," identifying what had been released and when, and which of his observations from the September 6, 2024 inspection that release includes; and state whether You contend that statement is consistent with Your October 10, 2025 statement that "the file does not contain a report on the requested date," and if so, why.
+
+### Why this one is held
+
+**Almost everything in it is pinned harder elsewhere, and by admissions rather than answers.** RFAs 137–139 fix the October 10, 2025 statement, that its "requested date" was September 6, 2024, and that no report has been produced. **RFA 147** asks FIE to admit Brau made handwritten notes, measurements or sketches at that inspection; **RFA 148** that those records were in its possession, custody or control **on October 29, 2025**; **RFA 168** that unreleased claim information existed that day. RFAs 165 and 203 fix the October 29 message's text. RFP 3 seeks the records themselves. Under Minn. R. Civ. P. 36.02 an admission is conclusively established — an interrogatory answer is not.
+
+**Its one unique clause is the reconciliation** — whether FIE contends "the file does not contain a report on the requested date" (October 10) is consistent with "all the information we can release has already been sent to you" (October 29), and if so, why. That is a contention question.
+
+**Served with the First Set it would have been answered alongside the admissions, not after them.** Both sets carry the same 30-day clock, so FIE would see the reconciliation question and its own RFA answers at the same time and could write one coordinated story across both. Served second, FIE has already committed on 147, 148 and 168, and this interrogatory asks it to support what it said.
+
+**It also overlapped First Set Interrogatory No. 3**, which already asks for an inventory of every record of the September 6, 2024 inspection and for the search behind the October 10 statement — custodians, systems, dates, and who searched. That interrogatory stays in the First Set; no document request or admission can produce a search narrative.
+
+### Trigger conditions
+
+1. **The First Set responses are in hand** — RFP 3's production and the answers to RFAs 147, 148, 165 and 168.
+2. Then draft to the branch:
+   - **FIE admits 148 and 168** — the contradiction is conceded. Ask it to explain, in a question that recites the admissions. This is § 604.18 knowledge evidence: records in hand on the day the insured was told everything releasable had been sent.
+   - **FIE denies either** — quote the denial and ask for every fact and document supporting it.
+   - **Evasive answers** — meet and confer first; the interrogatory follows the letter.
+
+**Target service: the week of November 2, 2026**, with Draft Interrogatories 2 and 3. **Backstop: February 12, 2027.**
+
+**Not idle in the meantime.** The Brau deposition request went to Kennedy on September 14, 2026 (`../Deposition_Request_Letter_Brau_to_Kennedy_2026-09-14.md`). If that deposition happens before this set is served, the reconciliation is a live question for Brau himself, and the interrogatory may be unnecessary.
+
+---
+
 ## Other candidates for this set
 
 Items earmarked in the First Set proposal's reserve table that would land here if triggered. Keep this list current, and check it against the budget tally before drafting:
