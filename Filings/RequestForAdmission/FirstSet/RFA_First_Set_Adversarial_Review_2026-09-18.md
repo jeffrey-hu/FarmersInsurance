@@ -257,6 +257,80 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 
 **Numbering consequence.** These insert mid-set, so they trigger the Option A renumbering recorded in `RFA_Renumbering_Map_2026-09-16_Final.md`. Apply them together with every other settled change, renumber **once**, then rebuild the `.docx` once.
 
+## 5B. Queued for application — Prieve methodology, the hail diagnostic, and two fallbacks (Bill, 9/19/2026)
+
+**Status: approved to queue, NOT yet applied.** Eleven requests (Q-3 to Q-13) in three placements, numbered Q-3 to Q-13 here to match the review list of 9/19/2026; all take their final numbers in the single Option A renumbering pass.
+
+| Requests | Placement |
+|---|---|
+| **Q-3 to Q-11** | immediately after current **No. 106**, at the end of section I (what The Prieve Report does not state) |
+| **Q-12** | in section S, immediately after current **No. 183** — it is the fallback for that request |
+| **Q-13** | in section T, immediately before current **No. 187** — the fact reads first, then the § 45.028 effectiveness request, then the two contention locks at Nos. 188–189 |
+
+### The Prieve Report's missing method (Q-3 to Q-9)
+
+> **Q-3.** Admit that The Prieve Report does not state the criteria used to determine whether a dent is consistent with hail.
+>
+> **Q-4.** Admit that The Prieve Report does not state the size, depth, or dimensions of any dent, mark, or indentation described in it.
+>
+> **Q-5.** Admit that The Prieve Report does not state the date on which any dent described in it was caused.
+>
+> **Q-6.** Admit that The Prieve Report does not identify any publication, study, or test method in support of any opinion stated in it.
+>
+> **Q-7.** Admit that The Prieve Report does not identify the "customary and usual standards" referred to on page 2 of The Prieve Report.
+>
+> **Q-8.** Admit that The Prieve Report does not state any wind speed at The Property on July 13 or 14, 2024.
+>
+> **Q-9.** Admit that the most recent hail event identified in the "Weather Records" section of The Prieve Report is September 6, 2020.
+
+### Prieve's own hail diagnostic (Q-10, Q-11) — the highest-value pair
+
+> **Q-10.** Admit that page 6 of The Prieve Report states: "No smooth or rounded dents were observed in the frame or sashes."
+>
+> **Q-11.** Admit that page 6 of The Prieve Report states: "No hail dents appear at sashes or frames of kitchen windows."
+
+### Two fallbacks (Q-12 — section S; Q-13 — section T)
+
+> **Q-12.** Admit that the homeowner's policy form in force for The Policy on July 13, 2024 was Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition.
+>
+> **Q-13.** Admit that You received the Summons and Complaint in this action on or before July 8, 2026.
+
+✅ **Placement settled (Bill, 9/19/2026).** Q-12 and Q-13 were first queued after No. 106 with the rest; on review they were moved to their topical homes — Q-12 to section S beside No. 183, Q-13 to section T ahead of No. 187. Nothing inside the set points into either range by relative phrase ("the preceding request" appears at Nos. 49, 81, 136, 138 and 166 only), so both insertions are safe; the renumbering pass carries the rest.
+
+### Why each one
+
+| ID | What it does |
+|---|---|
+| Q-3 | The report says "consistent with hail" or "not consistent with hail" more than twenty times and never says what the phrase means. This is the request that turns the recital problem in Nos. 83–102 around: the phrase becomes an undefined conclusion rather than a finding. |
+| Q-4 | An engineer who classified twenty-plus dents by type without recording a single dimension. |
+| Q-5 | Kills the timing half of the pre-existing-damage theory. Conclusion 1 says prior-claim dents are "similar to" those observed — "similar to" is not a date. |
+| Q-6 | No authority for either the "scrape marks → blunt object" framework or the "smooth or rounded → hail" diagnostic. |
+| Q-7 | The report invokes "customary and usual standards" on page 2 and never names one. |
+| Q-8 | The causation opinion never mentions wind. Pairs with No. 61 (the 48 mph gust at "Eden Prairie AP" at 1:00 a.m. on July 14, 2024) and with the wind-driven oblique-impact material in `../../../HailShapes/RebuttalToFarmersDenial.md` § 2(a). |
+| Q-9 | An engineer retained to evaluate a July 13, 2024 hail loss whose weather review stops at September 6, 2020. |
+| Q-10 | **The keystone.** At the rear/east garage window Prieve ruled out hail *because* no smooth or rounded dents were observed — which makes smooth or rounded dents his own indicator **of** hail. Read with **No. 83** ("Rounded dents were observed at sashes of this window unit," page 4) and **No. 98** ("Two dents appear at the lower left corner of the left casement which are generally smooth," page 5), the argument closes using nothing but FIE's admissions, with no witness required. It also fixes the text before the deposition so the § 2.6.A sequence in `../../../OffenseStrategies/Deposition/2.1Prieve_Nathan.md` cannot be derailed by "the report speaks for itself." |
+| Q-11 | Page 6 uses the category "hail dents" three more times ("No hail dents appear at sashes or frames of kitchen windows"; "No hail dents were observed at the window sash or frame"; "No hail marks or dents were observed at this window at the frame or sashes"). Quoting one of them blocks the answer that Q-10's sentence was specific to the garage window. |
+| Q-12 | Fallback for No. 183, the single point of failure under every Policy Form quote, while RFP 24 (the operative form) is outstanding. |
+| Q-13 | A fact, where No. 187 is a legal conclusion a denial costs FIE nothing. |
+
+### Verified 9/19/2026 against `EventDocuments/FarmersDenyLetter-11-4.pdf` (7 pp.)
+
+- **Q-4:** the word "inches" appears exactly once in the report, in the Weather Records paragraph. No dent, sash, groove or frame dimension is stated anywhere.
+- **Q-6:** the report contains no references section and cites no literature. ACTIVITIES lists the 2020 Minnesota Residential Code, four Farmers claim documents, the owner's window summary, "Weather Records," and the site visit.
+- **Q-7:** page 2 — "This evaluation and report have been prepared within customary and usual standards and budgetary constraints based on information provided to our office."
+- **Q-8:** no wind speed anywhere in the report. Conclusion 4 refers to storms "moving from west to east with hail originating from a westerly direction," with no velocity.
+- **Q-9:** the Weather Records section lists 1.25" on June 19, 2015; 1.75" on July 25, 2017; 1" on September 6, 2020; and multiple reports of 1–2" on August 9, 2020 — nothing after September 6, 2020, and nothing for the loss date.
+- **Q-10, Q-11:** both sentences appear on page 6 (after the "Page 6 of 7" footer marker), quoted character for character.
+
+### Decisions recorded with this batch
+
+- ❌ **Not added (Bill, 9/19/2026):** a request quoting the October 29, 2025 message's further sentence, "The claim was settled per the binding appraisal award received." Proposed as insurance against FIE ever disclaiming the award; declined. Answer ¶48 ("FIE admits that the Appraisal Award is binding") and ¶32 already carry the point.
+- 🚫 **Withdrawn (my error, 9/19/2026):** a proposed request that the report "does not identify the 'Weather Records' listed under ACTIVITIES." Wrong — page 6 has a Weather Records section naming stormersite and the NOAA Storm Events Database. **Q-9 replaces it.**
+- ⏸ **Flagged, not recommended:** a request quoting the report's own hail-size history (1.75" in 2017; 1–2" in August 2020) against its "not of sufficient size" opinion. Sharp impeachment, but it supplies FIE's prior-storm causation story inside Plaintiffs' own request. Keep it for the Prieve deposition, where he has to explain it live.
+- ✅ **Already in the set:** the award-scope request proposed at §5 was added by Bill as **No. 205** on 9/18/2026.
+
+**Numbering consequence.** Same as §5A: these insert mid-set, so they ride the single Option A renumbering pass recorded in `RFA_Renumbering_Map_2026-09-16_Final.md`. Apply §5A and §5B together with every other settled change, renumber once, rebuild the `.docx` once.
+
 ## 6. What I would do before serving
 
 1. **Split the set.** Hold **107–124 and 130** for a Second Set served after the October 15 production. That removes the only requests that ask FIE to build a pre-existing-damage record, and takes the set to 186.
@@ -264,7 +338,7 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 3. **Trim two words in 135** ("Your agent") and reconsider "all" in **160**.
 4. **Narrow 204** to documents created before September 3, 2024.
 5. **Write the J6944 waiver argument now**, so a denial of 196 meets a prepared response.
-6. Apply the two queued measuring requests in §5A after No. 34.
+6. Apply the two queued measuring requests in §5A after No. 34; Q-3 to Q-11 of §5B after No. 106; Q-12 after No. 183; Q-13 before No. 187.
 7. Any of 1–4 or 6 changes the `.md`; renumber once (Option A), then rebuild the `.docx` once, afterward.
 
 > **Numbering decision (Bill, 9/18/2026):** if requests are removed, the set is **renumbered contiguously — Option A, no gaps**. Recorded with the mechanics in `RFA_Renumbering_Map_2026-09-16_Final.md` ("Decision — how the next renumbering will be done"). Renumber once, after every substantive change is settled. **Nothing has been applied yet.**
