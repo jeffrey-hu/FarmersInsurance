@@ -167,6 +167,33 @@ Rewrite the opening clause to quote the engagement document, drop "how the scope
 
 ---
 
+## Draft Interrogatory No. 5 — the § 604.18, subd. 4(c) appraisal bar
+
+**Added September 18, 2026.** Removed from the First Set before service (it was the first clause of Interrogatory No. 5; the rest of that interrogatory was merged with the Answer ¶33 itemization question and stays in the First Set).
+
+> **DRAFT TEXT — as it read in the First Set.**
+>
+> State each fact supporting any contention that The Claim was "resolved or confirmed by arbitration or appraisal" under Minn. Stat. § 604.18, subd. 4(c).
+
+### Why this one is held
+
+**The claim it defends against has not been made yet.** Minn. Stat. § 604.18, subd. 4(a) bars pleading taxable costs in the initial complaint; they are sought later, by motion to amend supported by affidavits. The Complaint follows that — it reserves the right to seek taxable costs "by post-pleading motion under Minn. Stat. § 604.18, Subd. 4(a)" and pleads no § 604.18 count. Subd. 4(b) then puts the taxable-costs determination in a proceeding **after** the fact finder determines what the insured is owed.
+
+Subd. 4(c) reads: *"An award of taxable costs under this section is not available in any claim that is resolved or confirmed by arbitration or appraisal."* FIE has not invoked it — its three affirmative defenses are Rule 12, the binding award, and a general denial. Asked now, the likely answer is "Defendant makes no such contention at this time": one line, one slot spent, on the same reasoning that holds Draft Interrogatory No. 1 (J6944).
+
+**Nothing is lost by waiting.** Whether the appraisal "resolved" The Claim is the same question the award-scope requests already work on — **RFAs 19–32, 198–200 and 205–207** — and those answers will be in hand first.
+
+### Trigger conditions — serve after either
+
+1. **FIE invokes the appraisal against the taxable-costs claim** — in an amended answer, a discovery response, opposition to the subd. 4(a) motion, or a mediation or summary-judgment position; **or**
+2. **Plaintiffs file the subd. 4(a) motion to amend**, at which point FIE's position on subd. 4(c) becomes live and its facts are fair game.
+
+**Timing.** Motions must be **heard** by May 14, 2027 and discovery closes March 15, 2027, so the practical window to serve this is the same as for the rest of the Second Set — target the week of November 2, 2026 if a trigger has fired by then, backstop **February 12, 2027**.
+
+**If it is served, pair it with:** a request that FIE identify which items of The Claim it contends the appraisal resolved, which it contends it did not, and the facts distinguishing them. The bar is claim-wide by its text ("in any claim that is resolved or confirmed"), so the scope fight and the subd. 4(c) fight are the same fight — and FIE's answers to Draft Interrogatory No. 2 will already have narrowed it.
+
+---
+
 ## Other candidates for this set
 
 Items earmarked in the First Set proposal's reserve table that would land here if triggered. Keep this list current, and check it against the budget tally before drafting:

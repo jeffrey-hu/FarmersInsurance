@@ -39,6 +39,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The Appraisal Award"** means the written appraisal award concerning The Claim dated on or about September 12, 2025.
 
+**"The Appraisal Demand"** means Plaintiffs' Demand for Appraisal concerning The Claim, dated August 3, 2025.
+
 **"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, drawings, graphs, charts, photographs, sound and video recordings, images, and other data or data compilations — including electronically stored information ("ESI") — stored in any medium from which information can be obtained, together with all metadata and all non-identical drafts and copies.
 
 **"Communication"** means any transmission or exchange of information of any kind, whether oral, written, or electronic, including email, text message, voicemail, letter, memorandum, and claim-system note.
@@ -87,7 +89,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 4:** For each of Your September 3, 2024 and November 4, 2024 letters to Plaintiffs, state whether any supervisory or quality-control review was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
 
-**INTERROGATORY NO. 5:** State each fact supporting any contention that The Claim was "resolved or confirmed by arbitration or appraisal" under Minn. Stat. § 604.18, subd. 4(c); and, for each item submitted to or addressed in the appraisal — including "Windows F1.7 B1.2," "Siding & Paint," "Debris," and each item in Plaintiffs’ August 3, 2025 appraisal demand — state whether You contend The Appraisal Award determined its actual value and loss, with the document supporting that contention.
+**INTERROGATORY NO. 5:** Your Answer to paragraph 33 of the Complaint denies Plaintiffs’ allegation that The Appraisal Award does not state actual value and loss separately to each item. For each item listed on The Appraisal Award, and for each item Plaintiffs submitted in The Appraisal Demand, state the actual value and the loss You contend The Appraisal Award states for that item and where on The Appraisal Award each appears; state whether You contend the actual value and loss stated for the item "Windows F1.7 B1.2" were determined separately for each of those two windows and, if so, the amount attributable to each; identify any item other than those two windows for which You contend The Appraisal Award states a value or loss; and state whether You contend The Appraisal Award states separately actual value and loss to each item within the meaning of Minn. Stat. § 65A.01, subd. 3.
 
 **INTERROGATORY NO. 6:** Describe what You did with the Hancock Claims Consultants and Prieve Engineering reports before relying on them in The Claim, identifying each person involved, what each did, and each document created; and state whether any written policy or procedure applied to those steps and, if so, identify it.
 
@@ -103,9 +105,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 12:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination and what prompted it; and state the date any litigation hold or preservation instruction concerning The Claim was issued, and to whom it was directed.
 
-**INTERROGATORY NO. 13:** Your answer to paragraph 33 of the Complaint denies "that the Appraisal Award does not state actual value and loss separately to each item." For each item, identify the actual value and the loss You contend the award states and where on the award each appears; and identify any item other than the windows designated "F1.7" and "B1.2" for which You contend the award states a value or loss.
-
-**INTERROGATORY NO. 14:** Identify the legal entity that employed or engaged each person who acted for You in handling The Claim, including Christian Dudley, Nicholas Brau, and Bradlee Monson, at the time of that person’s involvement. This interrogatory does not seek compensation, performance, or disciplinary information.
+**INTERROGATORY NO. 13:** Identify the legal entity that employed or engaged each person who acted for You in handling The Claim, including Christian Dudley, Nicholas Brau, and Bradlee Monson, at the time of that person’s involvement. This interrogatory does not seek compensation, performance, or disciplinary information.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
 
