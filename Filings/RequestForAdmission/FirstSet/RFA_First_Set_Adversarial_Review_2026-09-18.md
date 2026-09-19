@@ -244,6 +244,8 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 5. **Write the J6944 waiver argument now**, so a denial of 196 meets a prepared response.
 6. Any of 1–4 changes the `.md`; rebuild the `.docx` once, afterward.
 
+> **Numbering decision (Bill, 9/18/2026):** if requests are removed, the set is **renumbered contiguously — Option A, no gaps**. Recorded with the mechanics in `RFA_Renumbering_Map_2026-09-16_Final.md` ("Decision — how the next renumbering will be done"). Renumber once, after every substantive change is settled. **Nothing has been applied yet.**
+
 ---
 
 **Sources:** the set as revised 9/18/2026 · `EventDocuments/FarmersDenyLetter_09_03_2024.pdf` (74 pp., photograph counts re-verified by extraction 9/18/2026) · `EventDocuments/FarmersDenyLetter-11-4.pdf` and `-AppendixA.pdf` (217 captions extracted; Nos. 73–79 and 80 verified) · `EventDocuments/2025-10-29-BrauEmail.pdf` · `EventDocuments/FinalDocument_2020.pdf` · `HomePolicy/2014_newBusiness_policy.pdf`, `2023_Renewal.pdf` · Defendant's Answer ¶¶2, 5, 23, 24 · Minn. R. Civ. P. 26.03, 36.01, 36.02, 37.03(b).

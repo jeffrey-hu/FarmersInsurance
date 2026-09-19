@@ -12,6 +12,21 @@
 
 > **Not legal advice.** Working record. Once the set is served, these numbers are fixed: withdraw a request by letter and leave the gap; never renumber (`../../Document_Formatting_Standard.md` § 7).
 
+## Decision — how the next renumbering will be done (September 18, 2026)
+
+**Decision (Bill, 9/18/2026): Option A — renumber the set contiguously; do not leave gaps.**
+
+Context: the adversarial review of 9/18/2026 (`RFA_First_Set_Adversarial_Review_2026-09-18.md`) recommends holding Nos. 107–124 and 130 for a later set, and proposes other changes. Removing requests before service leaves a choice between renumbering to a contiguous 1–n and leaving the removed numbers vacant. **Contiguous renumbering was chosen.** Gaps remain the correct technique only *after* service (`../../Document_Formatting_Standard.md` § 7).
+
+**No change has been applied yet.** Nothing in the set moves until Bill says which changes to apply. When that happens:
+
+1. Apply every substantive change first — renumber **once**, at the end, never twice.
+2. Renumber contiguously from 1, then rebuild the `.docx` **once**.
+3. Record the mapping as **Table F** in this file.
+4. Inside the served document, the numbering pass must fix: the "Request No. 165" citation used in Nos. 167 and 203; section note N ("Nos. 137 through 139"); the removal of section J and the relettering of the sections after it. Instruction 8 (→ No. 60), the pointer under No. 64 (→ Nos. 82–106) and the pointer under No. 140 (→ No. 27) sit below any planned cut, but re-check them anyway.
+5. Outside the document, update the live files that cite First Set numbers above the cut: `../README.md`, `../SecondSet/Plaintiffs_Second_Set_of_Requests_for_Admission_to_FIE_DRAFT.md`, `../../Discovery/FirstSetDiscovey/Interrogatories/Interrogatories_First_Set_Review_2026-09-17.md`, `../../Discovery/InitialDisclosure/Plaintiffs_Initial_Disclosures.md` (Nos. 191, 195), `RFA_2020SettlementPackage_Definition_Impact_2026-09-17.md`, `RFA_First_Set_Adversarial_Review_2026-09-18.md`, and `../../Discovery/Service_Log.md`. `RFA_First_Set_Independent_Review_2026-09-16.md` keeps the numbering in force on each entry's date and is converted through Table F, not rewritten. Below-the-cut citations — the Prieve deposition plan (No. 104) and `KeyDecisions.md` (Nos. 29–30) — do not move.
+6. Verify by script: every request's text at its new number must equal its text at the old number, the numbers must run 1–n with no duplicates or gaps, and every internal reference must resolve.
+
 ## What the pass did
 
 - **Removed:** the vacant-slot notes for working Nos. 63, 97 and 98, the empty "J. The insured windows" heading, and every "See also" pointer whose target now sits next to it. Two pointers remain: under final No. 63 (→ Nos. 81–105) and under final No. 139 (→ No. 27).
