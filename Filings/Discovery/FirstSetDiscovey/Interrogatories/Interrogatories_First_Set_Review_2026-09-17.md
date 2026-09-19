@@ -1,5 +1,8 @@
 # Interrogatories, First Set: Review After the RFP and RFA Updates
 
+> ⚠️ **Numbering note (September 19, 2026).** Every First Set request number in this file predates the September 19, 2026 pass, which took the set from 1–207 to **1–200**. Convert with **Table F** of `../../../RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`. Old Nos. 107–124 and 130 are no longer in the First Set — they are Second Set Nos. 18–36. Old Nos. 128, 161, 181, 184, 185 and 196 were deleted.
+
+
 **Date:** September 17, 2026 · **Tracker last updated:** September 18, 2026 (F-1 through F-11, R-2 through R-18, I-1 through I-9 and W-1 applied or decided; **old Ints. 2, 3 and 6 deleted, and the 9/17 Int. 2 and the 9/18 Int. 4 held for the Second Set, and old Ints. 5 and 13 merged — the set runs 1–13**, with **23 definitions** and **13 instructions**; fair count **about 25** of the 50-interrogatory cap, 2 reserved for expert work, working ceiling **48**; I-5, I-6, W-2 and W-3 open)
 **Document reviewed:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` (the operative file; the `.docx` and the copies now named `[Superseded 2026-09-15] …` were identical to it when this review was written). It had 18 interrogatories and 12 instructions when reviewed — **19 after F-3** — and has **not been served**.
 **Working rule:** changes are applied to the `.md` only. The `.docx` is generated once, at the end (W-1).

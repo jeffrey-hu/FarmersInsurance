@@ -1,5 +1,18 @@
 # Adversarial Review of the First Set of RFAs — what helps FIE
 
+> ## ✅ APPLIED — September 19, 2026
+>
+> Every decision in §§5A–5G was applied in one scripted pass. **The set now runs Nos. 1–200 in sections A–T**, and the `.docx` was rebuilt once from the `.md` and verified against it.
+>
+> **What changed:** +18 requests (§5A 2, §5B 11, §5C 5) · −6 deleted (§5D) · −19 moved to the Second Set as its **Part 5, Nos. 18–36** (§5F) · 6 reworded (§5E) · 11 relocated (§5G) · sections relettered A–T · old section C retitled.
+>
+> **Verified:** every retained request's text is identical at its new number; numbering contiguous 1–200 with no duplicates; every internal cross-reference resolves; the `.docx` carries 200 requests, 20 section headings and a single hanging-indent variant, and matches the `.md` paragraph for paragraph apart from the certificate ¶1 internal note (deliberately `.md`-only) and the signature-rule length.
+>
+> **Numbers in §§1–5G below are the pre-pass 1–207 numbers.** Convert with **Table F** of `RFA_Renumbering_Map_2026-09-16_Final.md`. Landmarks: old 82 → **93** · old 106 → **117** · old 165 → **170** · old 60 → **70** (Instruction 8 now cites No. 70) · old 204 → **62** · old 202 → **138** · old 197 → **90** · old 205–207 → **27, 19, 20**.
+>
+> **Still to do before service:** sync the Second Set's definitions; fill dates; sign; PDF; serve before 5:00 p.m.; log it. The items under §6 that are not part of this pass (the J6944 waiver argument, the contention interrogatory replacing No. 196, the 2020 payment ledger, and whether Prieve's two 2020 windows are the panel's F1.7 and B1.2) remain open.
+
+
 **Reviewed:** September 18, 2026 · **Document:** `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md` (Nos. 1–204, as revised 9/18/2026) and the `.docx` rebuilt the same day
 **Question asked:** not "is it accurate" (that is §§10–12 of `RFA_First_Set_Independent_Review_2026-09-16.md`) but **"what in this set gives FIE an advantage, or costs Plaintiffs something."**
 **Status:** not yet served.
@@ -237,7 +250,7 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 
 ## 5A. Queued for application — the September 6, 2024 measuring requests (Bill, 9/19/2026)
 
-**Status: approved to queue, NOT yet applied.** Two requests, to be inserted **immediately after current No. 34**, in section D (the September 3, 2024 denial), where the Brau inspection facts sit.
+**Status: ✅ APPLIED 9/19/2026.** Two requests, to be inserted **immediately after current No. 34**, in section D (the September 3, 2024 denial), where the Brau inspection facts sit.
 
 > **(a)** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau measured one or more windows at The Property.
 >
@@ -259,7 +272,7 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 
 ## 5B. Queued for application — Prieve methodology, the hail diagnostic, and two fallbacks (Bill, 9/19/2026)
 
-**Status: approved to queue, NOT yet applied.** Eleven requests (Q-3 to Q-13) in three placements, numbered Q-3 to Q-13 here to match the review list of 9/19/2026; all take their final numbers in the single Option A renumbering pass.
+**Status: ✅ APPLIED 9/19/2026.** Eleven requests (Q-3 to Q-13) in three placements, numbered Q-3 to Q-13 here to match the review list of 9/19/2026; all take their final numbers in the single Option A renumbering pass.
 
 | Requests | Placement |
 |---|---|
@@ -333,7 +346,7 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 
 ## 5C. Proposed — the 2020 replacement-cost extensions and the window work that was never done (9/19/2026)
 
-**Status: PROPOSED, awaiting Bill's selection. Nothing applied.** Placement: section K (The 2020 Claim), after current No. 131. **No. 128 is to be DELETED** (Bill, 9/19/2026); that decision and the deletion of No. 161 are recorded together at **§5D**.
+**Status: ✅ APPLIED 9/19/2026** (K-1 to K-4 and K-9; K-5 to K-8 rejected). Placement: section K (The 2020 Claim), after current No. 131. **No. 128 is to be DELETED** (Bill, 9/19/2026); that decision and the deletion of No. 161 are recorded together at **§5D**.
 
 ### The facts, verified 9/19/2026
 
@@ -403,7 +416,7 @@ Nothing in the First Set will pin the Building Loss Worksheet's **"Description o
 
 ## 5D. Deletions approved — Nos. 128, 161, 181, 184, 185 and 196 (Bill, 9/19/2026)
 
-**Status: approved, NOT yet applied.** All six are removals from the operative set; they ride the single Option A renumbering with everything else.
+**Status: ✅ APPLIED 9/19/2026.** All six were removals from the operative set; they ride the single Option A renumbering with everything else.
 
 | Request | Text as it stands | Why it goes |
 |---|---|---|
@@ -481,7 +494,7 @@ Considered for deletion in the same pass and **kept**. It quotes the October 10,
 
 ## 5E. Rewordings approved — Nos. 18, 135, 160, 204, 206 and 207 (Bill, 9/19/2026)
 
-**Status: approved, NOT yet applied.** Wording changes only; no request is added or removed, so these do not affect the count. Nos. 206–207 come from reading the Demand for Appraisal; No. 18 follows from the §5D deletions; Nos. 135, 160 and 204 are items B.3, B.4 and B.5 of the 9/19/2026 decision sheet.
+**Status: ✅ APPLIED 9/19/2026.** Wording changes only; no request is added or removed, so these do not affect the count. Nos. 206–207 come from reading the Demand for Appraisal; No. 18 follows from the §5D deletions; Nos. 135, 160 and 204 are items B.3, B.4 and B.5 of the 9/19/2026 decision sheet.
 
 **Source finally verified.** `EventDocuments/Appraisal Documents/AppraisalDemand.pdf` is a scanned image with no extractable text, so Nos. 206–207 had only ever been checked against the `DocumentIndex.md` summary. The four pages were read on 9/19/2026.
 
@@ -561,7 +574,7 @@ So the only unique effect of the July 8, 2026 version is to invite FIE to announ
 
 ## 5F. Move approved — Nos. 107–124 and 130 go to the Second Set (Bill, 9/19/2026)
 
-**Status: approved, NOT yet applied.** All eighteen requests of **section J** ("The 2020 claim file and the dents recorded in The Prieve Report"), **plus No. 130 from section K**, come out of the First Set and are held for the Second Set — **nineteen requests in total**. This is the §1 item 1 recommendation, adopted in full.
+**Status: ✅ APPLIED 9/19/2026.** All eighteen requests of **section J** ("The 2020 claim file and the dents recorded in The Prieve Report"), **plus No. 130 from section K**, come out of the First Set and are held for the Second Set — **nineteen requests in total**. This is the §1 item 1 recommendation, adopted in full.
 
 ### Why
 
@@ -596,9 +609,9 @@ The earlier version of this section left **No. 130** in the First Set because Bi
 | **First Set as served** | **200**, renumbered 1–200 |
 | Second Set | +19 requests, numbered from 1 in that set |
 
-## 5G. Recommended — relocate Nos. 197–207 into their topical sections (9/19/2026)
+## 5G. Approved — relocate Nos. 197–207 into their topical sections (Bill, 9/19/2026)
 
-**Status: RECOMMENDATION, awaiting Bill's decision. Nothing applied.** Nos. 197–207 were all appended at the end of the set as they were drafted (sections V through BB), which is why the tail of the document reads as a list of afterthoughts. Since the set is being renumbered contiguously anyway (Option A), moving them into their topical homes costs nothing beyond the one pass. **No. 196 is deleted per §5D and is not relocated.**
+**Status: ✅ APPLIED 9/19/2026.** Relocation only — no request is added or removed, so there is no count change. Nos. 197–207 were all appended at the end of the set as they were drafted (sections V through BB), which is why the tail of the document reads as a list of afterthoughts. Since the set is being renumbered contiguously anyway (Option A), moving them into their topical homes costs nothing beyond the one pass. **No. 196 is deleted per §5D and is not relocated.**
 
 ### Where each one belongs
 
@@ -643,7 +656,7 @@ The set is served on an opposing lawyer and read by a judge on a motion to compe
 
 ### The case against
 
-Every relocation is another chance to put a request in the wrong place or break a reference. If the pass is done by hand, that risk is real; if it is scripted with the verification described in the §5D decision block (each request's text must equal its text at the old number, contiguous numbering, every internal reference resolving), it is close to zero. **Recommend: do it, scripted and verified.**
+Every relocation is another chance to put a request in the wrong place or break a reference. If the pass is done by hand, that risk is real; if it is scripted with the verification described in the §5D decision block (each request's text must equal its text at the old number, contiguous numbering, every internal reference resolving), it is close to zero. **Recommend: do it, scripted and verified.** ✅ Approved by Bill, 9/19/2026.
 
 ## 6. What I would do before serving
 
@@ -654,7 +667,7 @@ Every relocation is another chance to put a request in the wrong place or break 
 5. **Write the J6944 waiver argument now**, so a denial of 196 meets a prepared response.
 6. Apply the two queued measuring requests in §5A after No. 34; Q-3 to Q-11 of §5B after No. 106; Q-12 after No. 183; Q-13 before No. 187; apply §5C's K-1 to K-4 and K-9 after No. 131 (K-5 to K-8 rejected); delete Nos. 128, 161, 181, 184, 185 and 196 per §5D.
 7. Apply the §5E rewordings of Nos. 18, 135, 160, 204, 206 and 207 (no count change).
-8. Decide §5G (relocating Nos. 197–207 into sections C, G, H, L and P) — recommended, not yet approved.
+8. Apply §5G — relocate Nos. 197–207 into sections C, G, H, L and P, reword section C's heading, and rewrite the section notes for G, H, L and P.
 9. Any of 1–4 or 6–8 changes the `.md`; renumber once (Option A), then rebuild the `.docx` once, afterward.
 
 > **Numbering decision (Bill, 9/18/2026):** if requests are removed, the set is **renumbered contiguously — Option A, no gaps**. Recorded with the mechanics in `RFA_Renumbering_Map_2026-09-16_Final.md` ("Decision — how the next renumbering will be done"). Renumber once, after every substantive change is settled. **Nothing has been applied yet.**

@@ -525,3 +525,115 @@ Context: the adversarial review of 9/18/2026 (`RFA_First_Set_Adversarial_Review_
 
 **Not changed:** the served RFP set and the interrogatory set (neither cites RFA numbers). Older review and proposal files that cite pre-September-16 numbers are historical records.
 
+
+---
+
+## Table F — the September 19, 2026 pass (1–207 → 1–200)
+
+**Applied September 19, 2026.** One pass, scripted and verified: every retained request's text was checked to be identical at its new number, the numbering was checked contiguous 1–200 with no duplicates, and every internal cross-reference was checked to resolve. Decisions and reasoning: §§5A–5G of `RFA_First_Set_Adversarial_Review_2026-09-18.md`.
+
+**What the pass did.** +18 requests (§5A 2, §5B 11, §5C 5) · −6 deleted (§5D: old Nos. 128, 161, 181, 184, 185, 196) · −19 moved to the Second Set (§5F: old Nos. 107–124 and 130, now Second Set Nos. 18–36) · 6 reworded (§5E: old Nos. 18, 135, 160, 204, 206, 207) · 11 relocated into topical sections (§5G: old Nos. 197–207) · sections relettered **A–T** (was A–BB; old section J removed and old V–BB dissolved) · old section C retitled *"The appraisal: the Demand, and what the Award states."*
+
+**Cross-references updated in the served text:** Instruction 8 now cites **Request No. 70** (the National Weather Service request, old No. 60). Old Nos. 167 and 203 now cite **Request No. 170** (old No. 165). Section notes F, G, I, M and N were rewritten to the new numbers, as were the pointers under new Nos. 79 and 145.
+
+### F.1 Old → new
+
+| Old | New | | Old | New | | Old | New |
+|---|---|---|---|---|---|---|---|
+| 1 | 1 | | 70 | 80 | | 139 | 145 |
+| 2 | 2 | | 71 | 81 | | 140 | 146 |
+| 3 | 3 | | 72 | 82 | | 141 | 147 |
+| 4 | 4 | | 73 | 83 | | 142 | 148 |
+| 5 | 5 | | 74 | 84 | | 143 | 149 |
+| 6 | 6 | | 75 | 85 | | 144 | 150 |
+| 7 | 7 | | 76 | 86 | | 145 | 151 |
+| 8 | 8 | | 77 | 87 | | 146 | 152 |
+| 9 | 9 | | 78 | 88 | | 147 | 153 |
+| 10 | 10 | | 79 | 89 | | 148 | 154 |
+| 11 | 11 | | 80 | 91 | | 149 | 155 |
+| 12 | 12 | | 81 | 92 | | 150 | 156 |
+| 13 | 13 | | 82 | 93 | | 151 | 157 |
+| 14 | 14 | | 83 | 94 | | 152 | 158 |
+| 15 | 15 | | 84 | 95 | | 153 | 159 |
+| 16 | 16 | | 85 | 96 | | 154 | 160 |
+| 17 | 17 | | 86 | 97 | | 155 | 161 |
+| 18 | 18 — reworded (§5E) | | 87 | 98 | | 156 | 162 |
+| 19 | 21 | | 88 | 99 | | 157 | 163 |
+| 20 | 22 | | 89 | 100 | | 158 | 164 |
+| 21 | 23 | | 90 | 101 | | 159 | 165 |
+| 22 | 24 | | 91 | 102 | | 160 | 166 — reworded (§5E) |
+| 23 | 25 | | 92 | 103 | | 161 | — — **deleted** (§5D) |
+| 24 | 26 | | 93 | 104 | | 162 | 167 |
+| 25 | 28 | | 94 | 105 | | 163 | 168 |
+| 26 | 29 | | 95 | 106 | | 164 | 169 |
+| 27 | 30 | | 96 | 107 | | 165 | 170 |
+| 28 | 31 | | 97 | 108 | | 166 | 171 |
+| 29 | 32 | | 98 | 109 | | 167 | 172 — internal citation updated |
+| 30 | 33 | | 99 | 110 | | 168 | 174 |
+| 31 | 35 | | 100 | 111 | | 169 | 175 |
+| 32 | 36 | | 101 | 112 | | 170 | 176 |
+| 33 | 39 | | 102 | 113 | | 171 | 177 |
+| 34 | 40 | | 103 | 114 | | 172 | 178 |
+| 35 | 43 | | 104 | 115 | | 173 | 179 |
+| 36 | 44 | | 105 | 116 | | 174 | 180 |
+| 37 | 45 | | 106 | 117 | | 175 | 181 |
+| 38 | 46 | | 107 | — — **moved to the Second Set** as No. 18 (§5F) | | 176 | 182 |
+| 39 | 47 | | 108 | — — **moved to the Second Set** as No. 19 (§5F) | | 177 | 183 |
+| 40 | 48 | | 109 | — — **moved to the Second Set** as No. 20 (§5F) | | 178 | 184 |
+| 41 | 49 | | 110 | — — **moved to the Second Set** as No. 21 (§5F) | | 179 | 185 |
+| 42 | 50 | | 111 | — — **moved to the Second Set** as No. 22 (§5F) | | 180 | 186 |
+| 43 | 51 | | 112 | — — **moved to the Second Set** as No. 23 (§5F) | | 181 | — — **deleted** (§5D) |
+| 44 | 52 | | 113 | — — **moved to the Second Set** as No. 24 (§5F) | | 182 | 187 |
+| 45 | 53 | | 114 | — — **moved to the Second Set** as No. 25 (§5F) | | 183 | 188 |
+| 46 | 54 | | 115 | — — **moved to the Second Set** as No. 26 (§5F) | | 184 | — — **deleted** (§5D) |
+| 47 | 55 | | 116 | — — **moved to the Second Set** as No. 27 (§5F) | | 185 | — — **deleted** (§5D) |
+| 48 | 56 | | 117 | — — **moved to the Second Set** as No. 28 (§5F) | | 186 | 190 |
+| 49 | 57 | | 118 | — — **moved to the Second Set** as No. 29 (§5F) | | 187 | 192 |
+| 50 | 58 | | 119 | — — **moved to the Second Set** as No. 30 (§5F) | | 188 | 193 |
+| 51 | 59 | | 120 | — — **moved to the Second Set** as No. 31 (§5F) | | 189 | 194 |
+| 52 | 60 | | 121 | — — **moved to the Second Set** as No. 32 (§5F) | | 190 | 195 |
+| 53 | 61 | | 122 | — — **moved to the Second Set** as No. 33 (§5F) | | 191 | 196 |
+| 54 | 63 | | 123 | — — **moved to the Second Set** as No. 34 (§5F) | | 192 | 197 |
+| 55 | 64 | | 124 | — — **moved to the Second Set** as No. 35 (§5F) | | 193 | 198 |
+| 56 | 65 | | 125 | 127 | | 194 | 199 |
+| 57 | 66 | | 126 | 128 | | 195 | 200 |
+| 58 | 67 | | 127 | 129 | | 196 | — — **deleted** (§5D) |
+| 59 | 69 | | 128 | — — **deleted** (§5D) | | 197 | 90 — relocated (§5G) |
+| 60 | 70 | | 129 | 130 | | 198 | 34 — relocated (§5G) |
+| 61 | 71 | | 130 | — — **moved to the Second Set** as No. 36 (§5F) | | 199 | 37 — relocated (§5G) |
+| 62 | 72 | | 131 | 131 | | 200 | 38 — relocated (§5G) |
+| 63 | 73 | | 132 | 137 | | 201 | 68 — relocated (§5G) |
+| 64 | 74 | | 133 | 139 | | 202 | 138 — relocated (§5G) |
+| 65 | 75 | | 134 | 140 | | 203 | 173 — relocated (§5G); internal citation updated |
+| 66 | 76 | | 135 | 141 — reworded (§5E) | | 204 | 62 — reworded (§5E); relocated (§5G) |
+| 67 | 77 | | 136 | 142 | | 205 | 27 — relocated (§5G) |
+| 68 | 78 | | 137 | 143 | | 206 | 19 — reworded (§5E); relocated (§5G) |
+| 69 | 79 | | 138 | 144 | | 207 | 20 — reworded (§5E); relocated (§5G) |
+
+### F.2 New requests added in this pass
+
+| Proposal ID | New No. | Source |
+|---|---|---|
+| A1 | **41** | §5A |
+| A2 | **42** | §5A |
+| Q3 | **118** | §5B |
+| Q4 | **119** | §5B |
+| Q5 | **120** | §5B |
+| Q6 | **121** | §5B |
+| Q7 | **122** | §5B |
+| Q8 | **123** | §5B |
+| Q9 | **124** | §5B |
+| Q10 | **125** | §5B |
+| Q11 | **126** | §5B |
+| Q12 | **189** | §5B |
+| Q13 | **191** | §5B |
+| K1 | **132** | §5C |
+| K2 | **133** | §5C |
+| K3 | **134** | §5C |
+| K4 | **135** | §5C |
+| K9 | **136** | §5C |
+
+### F.3 Converting older working numbers
+
+Entries in `RFA_First_Set_Independent_Review_2026-09-16.md` cite the numbering in force on the date of each entry. Convert with Tables A–E to reach the 1–207 numbering, then with Table F above to reach the served numbering. `RFA_First_Set_Adversarial_Review_2026-09-18.md` cites 1–207 numbers throughout and converts through Table F alone.
+

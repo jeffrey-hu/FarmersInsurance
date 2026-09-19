@@ -1,5 +1,8 @@
 # Impact Analysis — Adding "The February 18, 2022 Settlement Package" to the First Set of RFAs
 
+> ⚠️ **Numbering note (September 19, 2026).** Every First Set request number in this file predates the September 19, 2026 pass, which took the set from 1–207 to **1–200**. Convert with **Table F** of `RFA_Renumbering_Map_2026-09-16_Final.md`. Old Nos. 107–124 and 130 are no longer in the First Set — they are Second Set Nos. 18–36. Old Nos. 128, 161, 181, 184, 185 and 196 were deleted.
+
+
 **Date:** September 17, 2026 · **Status:** ✅ P-1 to P-5 and P-11 to P-15 applied 9/17/2026; P-6 to P-10 declined; P-16 (`.docx`) pending
 **Trigger:** the definition was added to the First Set of Interrogatories on 9/17/2026 (item F-5 of `../../Discovery/FirstSetDiscovey/Interrogatories/Interrogatories_First_Set_Review_2026-09-17.md`). The First Set of RFAs is **not yet served**, so its text can still change freely.
 

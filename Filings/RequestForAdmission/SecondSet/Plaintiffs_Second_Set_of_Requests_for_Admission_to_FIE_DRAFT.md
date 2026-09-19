@@ -179,6 +179,54 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 17:** Admit that The Prieve Report was prepared in the ordinary course of Your adjustment of The Claim.
 
+*Part 5 — The 2020 claim file and the dents recorded in The Prieve Report*
+
+> **Moved here from the First Set on September 19, 2026 (First Set Nos. 107–124 and 130, pre-renumbering).** These nineteen requests were pulled out of the First Set before service because each one instructs FIE to search its 2020 claim file — including the **October 13, 2020 photographs Plaintiffs have never seen** — for one specific Prieve dent, and to answer under oath. If any dent is visible in that log, the answer is a sworn, document-cited denial assembled at Plaintiffs' own request. The Prieve Report already says the A-53 chip "is visible in prior photo logs … dated October 13, 2020." Rationale and decision: §5F of `../FirstSet/RFA_First_Set_Adversarial_Review_2026-09-18.md`.
+>
+> **⚠️ DO NOT SERVE until FIE's production under First Set RFPs 2, 22, 23 and 33 has been received and read** (response due **October 15, 2026**). Then work through the October 13, 2020 photograph log request by request: drop any request the log answers against Plaintiffs, keep those it leaves open, and consider replacing others with affirmative requests where the log shows **no** dent at a location Prieve attributes to 2020. This is the same review the Part 3 checklist above requires — do them together.
+>
+> **⚠️ Request 36 (was First Set No. 130) is the one to draft last.** It sweeps the whole 2020 file rather than one dent, so a denial is broader and more damaging than any single answer in this Part. Once the log has been read, narrow it to what the log actually contains.
+>
+> **⚠️ Definitions must be synced first.** These requests depend on "The Prieve Report," "The 2020 Claim" and "Document" carrying the First Set's meanings as revised by items DI-1 to DI-10 — see the Part 4 note above. Serving them against this set's current definitions is how the two sets get played against each other.
+
+**REQUEST FOR ADMISSION NO. 18:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long [sic] the left side of the left sash as shown in photograph A-45."
+
+**REQUEST FOR ADMISSION NO. 19:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64."
+
+**REQUEST FOR ADMISSION NO. 20:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107."
+
+**REQUEST FOR ADMISSION NO. 21:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the indentation described on page 5 of The Prieve Report in the sentence "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113."
+
+**REQUEST FOR ADMISSION NO. 22:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 5 of The Prieve Report in the sentence "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents."
+
+**REQUEST FOR ADMISSION NO. 23:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent with marks present appears in the face of the drip cap of the upper center window unit."
+
+**REQUEST FOR ADMISSION NO. 24:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 25:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the left accessory groove of the southeast facing window not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 26:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 27:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 5 of The Prieve Report in the sentence "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 28:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the bottom accessory groove not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 29:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 30:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dents described on page 5 of The Prieve Report in the sentence "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166."
+
+**REQUEST FOR ADMISSION NO. 31:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174."
+
+**REQUEST FOR ADMISSION NO. 32:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the window not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 33:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 5 of The Prieve Report in the sentence "A scrape mark and dent appear at the right side of the east facing window not consistent with hail."
+
+**REQUEST FOR ADMISSION NO. 34:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove similar to those observed elsewhere."
+
+**REQUEST FOR ADMISSION NO. 35:** Admit that no document in Your claim file for The 2020 Claim, including the inspection photographs dated October 13, 2020, records the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove at the lower corner of the window."
+
+**REQUEST FOR ADMISSION NO. 36:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of the estimate within The February 18, 2022 Settlement Package.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
