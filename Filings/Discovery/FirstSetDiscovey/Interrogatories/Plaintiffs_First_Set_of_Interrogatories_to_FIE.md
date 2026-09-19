@@ -37,6 +37,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"Photo Appendix A"** means the 110-page photographic appendix to The Prieve Report, titled "PHOTO APPENDIX A" and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217.
 
+**"The Recorded Conditions"** means each dent, mark, scrape, or indentation that The Prieve Report or Photo Appendix A records at a window or other component of The Property, including downspouts, gutters, flashing, siding, trim board, doors, and screens.
+
 **"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with The November 4, 2024 Claim Outcome Letter.
 
 **"The Vendors"** means Hancock Claims Consultants, Prieve Engineering, LLC, and any other person You engaged to inspect, evaluate, test, or report on The Property, The Claim, or The 2020 Claim.
@@ -89,7 +91,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **Interrogatories**
 
-**INTERROGATORY NO. 1:** The November 4, 2024 Claim Outcome Letter states, "Our investigation found the condition of the window and components to be from wear/tear as referrenced \[sic\] in the attached engineer report." For each window and each other component of The Property — including downspouts, gutters, flashing, siding, trim board, doors, and screens — at which The Prieve Report or Photo Appendix A records a dent, mark, scrape, or indentation, state the cause and approximate date You attributed to that condition when You made the decision communicated in that letter; each fact and document You relied on for that attribution, including, for any condition You attributed to a prior claim, that claim’s number and the estimate line item You contend paid for it; and each provision identified in The Coverage Outcome Attachment that You applied to it. Answer separately as to each window and component.
+**INTERROGATORY NO. 1:** The November 4, 2024 Claim Outcome Letter states, "Our investigation found the condition of the window and components to be from wear/tear as referrenced \[sic\] in the attached engineer report." For each of The Recorded Conditions, state the basis on which You concluded that condition was not covered in the decision communicated in that letter, including the cause and approximate date You attributed to it, each fact and document You relied on, any prior claim and the estimate line item You contend paid for it, and each provision identified in The Coverage Outcome Attachment that You applied.
 
 **INTERROGATORY NO. 2:** For line item 1 ("R&R Wood window - casement, 12-23 sf," quantity 2.00 EA) of the estimate within The February 18, 2022 Settlement Package, identify, based on all information available to You, the window or sash it covers by location and elevation, and state whether it covers a whole window unit or one or more individual sashes.
 
