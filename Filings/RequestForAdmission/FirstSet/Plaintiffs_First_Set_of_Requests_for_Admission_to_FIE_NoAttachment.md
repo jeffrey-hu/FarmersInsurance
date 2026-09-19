@@ -537,6 +537,26 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 200:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
 
+*U. The September 24, 2025 message and its signer*
+
+> Requests 201 through 204 concern Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu, and are to be read with Requests Nos. 31 and 177.
+
+**REQUEST FOR ADMISSION NO. 201:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu was signed by Twonda Miller, Senior General Claims Adjuster, Fire Insurance Exchange.
+
+**REQUEST FOR ADMISSION NO. 202:** Admit that Twonda Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
+
+**REQUEST FOR ADMISSION NO. 203:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu stated, "Unfortunately, the umpire did not provide a report or estimate."
+
+**REQUEST FOR ADMISSION NO. 204:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu stated, "Our only recommendation is to refer you to your appraiser for any additional details he may have in his file."
+
+*V. The October 7, 2025 request for Nicholas Brau’s inspection report or notes*
+
+> Requests 205 and 206 concern Plaintiff Yibiao Lu’s October 7, 2025 electronic mail message, and are to be read with Requests Nos. 42 and 143 through 145.
+
+**REQUEST FOR ADMISSION NO. 205:** Admit that on October 7, 2025, Plaintiff Yibiao Lu sent an electronic mail message to myadjuster@farmersinsurance.com stating, "We request to have a copy of the inspection report/notes from Nic Brau. He came to the property on 9/6/2024 to perform the inspection."
+
+**REQUEST FOR ADMISSION NO. 206:** Admit that Your October 10, 2025 letter to Plaintiffs was sent in response to the message identified in the preceding request.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
