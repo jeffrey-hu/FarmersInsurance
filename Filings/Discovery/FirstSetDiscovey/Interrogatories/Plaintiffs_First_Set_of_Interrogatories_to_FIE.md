@@ -31,15 +31,23 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The November 4, 2024 Claim Outcome Letter"** means Your letter to Plaintiffs dated November 4, 2024, captioned "Claim Outcome Letter," signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange, concerning The Claim.
 
+**"The Denial Letters"** means Your September 3, 2024 letter to Plaintiffs captioned "Claim Outcome Letter" and The November 4, 2024 Claim Outcome Letter.
+
 **"The Prieve Report"** means the seven-page report of Prieve Engineering, LLC titled "Evaluation of Condition of Windows as Relates to Hail," File Number 241008, report date November 4, 2024, as transmitted with The November 4, 2024 Claim Outcome Letter.
 
 **"Photo Appendix A"** means the 110-page photographic appendix to The Prieve Report, titled "PHOTO APPENDIX A" and bearing File Number 241008 and site visit date October 9, 2024, containing photographs numbered A-1 through A-217.
 
 **"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with The November 4, 2024 Claim Outcome Letter.
 
+**"The Vendors"** means Hancock Claims Consultants, Prieve Engineering, LLC, and any other person You engaged to inspect, evaluate, test, or report on The Property, The Claim, or The 2020 Claim.
+
 **"The Appraisal Award"** means the written appraisal award concerning The Claim dated on or about September 12, 2025.
 
 **"The Appraisal Demand"** means Plaintiffs' Demand for Appraisal concerning The Claim, dated August 3, 2025.
+
+**"The Appraisal"** means the appraisal proceeding concerning The Claim commenced by The Appraisal Demand and concluded by The Appraisal Award, including the appraisers John Foster and Greg Tomes and the umpire Wade Roos.
+
+**"Handling,"** when used with respect to a claim, means the receipt, investigation, evaluation, adjustment, supervision, quality-control or peer review, appraisal, payment, and denial of that claim, and includes deciding or approving coverage or payment, setting or approving the scope of any engagement of The Vendors, communicating with The Vendors or any appraiser, and searching for or collecting records concerning that claim.
 
 **"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, drawings, graphs, charts, photographs, sound and video recordings, images, and other data or data compilations — including electronically stored information ("ESI") — stored in any medium from which information can be obtained, together with all metadata and all non-identical drafts and copies.
 
@@ -47,7 +55,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"Person" and "person"** mean any natural person or group of natural persons, and any business, legal, or governmental entity of any form, whether or not incorporated, including any corporation, partnership, limited liability company, association, reciprocal or interinsurance exchange, attorney-in-fact, trust, or joint venture.
 
-**"Identify"** when used with respect to a person, means to state the person’s full name, last known title or role, employer, and last known business address, telephone number, and email address; when used with respect to a document, means to state its type, date, author(s), recipient(s), general subject matter, and present custodian.
+**"Identify"** when used with respect to a person, means to state the person’s full name, last known title or role, the legal entity that employed or engaged the person at the relevant time, and last known business address, telephone number, and email address, except that for a person presently employed by You it is sufficient to state that person’s name, title, employing entity, and that contact is to be made through Your counsel; when used with respect to a document, means to state its type, date, author(s), recipient(s), general subject matter, and present custodian.
 
 **"Relating to," "concerning," and "regarding"** mean referring to, describing, evidencing, constituting, reflecting, or in any way logically or factually connected with the subject matter of the request.
 
@@ -87,7 +95,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 3:** State whether Nicholas Brau created any record of his September 6, 2024 inspection of The Property — including handwritten notes, sketches, measurements, photographs, voice memos, and claim-system or portal entries — and for each, its type, date, present location and custodian; and state the basis for Your October 10, 2025 statement that "the file does not contain a report on the requested date," including the search performed, the custodians and systems searched, when, and by whom.
 
-**INTERROGATORY NO. 4:** For each of Your September 3, 2024 and November 4, 2024 letters to Plaintiffs, state whether any supervisory or quality-control review was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
+**INTERROGATORY NO. 4:** For each of The Denial Letters, state whether any supervisory or quality-control review was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
 
 **INTERROGATORY NO. 5:** Your Answer to paragraph 33 of the Complaint denies Plaintiffs’ allegation that The Appraisal Award does not state actual value and loss separately to each item. For each item listed on The Appraisal Award, and for each item Plaintiffs submitted in The Appraisal Demand, state the actual value and the loss You contend The Appraisal Award states for that item and where on The Appraisal Award each appears; state whether You contend the actual value and loss stated for the item "Windows F1.7 B1.2" were determined separately for each of those two windows and, if so, the amount attributable to each; identify any item other than those two windows for which You contend The Appraisal Award states a value or loss; and state whether You contend The Appraisal Award states separately actual value and loss to each item within the meaning of Minn. Stat. § 65A.01, subd. 3.
 
@@ -95,9 +103,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 7:** State each fact supporting Your First Affirmative Defense, which alleges that "pursuant to Rule 12, Minn. R. Civ. P., there exists a lack of jurisdiction over Defendant FIE and Plaintiffs have failed to state a claim upon which relief can be granted," and identify each count of the Complaint to which the failure-to-state allegation is directed; and, if You contend that any person should be a defendant in this action in place of or in addition to Fire Insurance Exchange, or that Fire Insurance Exchange is misnamed or misdescribed in the caption, identify that person by legal name, form, and state of organization.
 
-**INTERROGATORY NO. 8:** Identify each person known to You to have knowledge of the facts concerning The Claim, The 2020 Claim, any inspection of The Property, the appraisal, or Your denial decisions, and state the subject matter of each person’s knowledge.
+**INTERROGATORY NO. 8:** Identify each person known to You to have knowledge of facts concerning the Handling of The Claim or The 2020 Claim, any inspection of The Property, The Appraisal, or The Denial Letters, whether or not that person is presently employed by You, and state the subject matter of each person’s knowledge and the period of that person’s involvement. This interrogatory is not limited to persons You may use to support Your claims or defenses within the meaning of Minn. R. Civ. P. 26.01(a)(1)(A).
 
-**INTERROGATORY NO. 9:** Identify each document or item of information concerning The Claim, The 2020 Claim, or The Property that You contend no longer exists or cannot be located, stating for each its type, date, author, and subject matter, when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
+**INTERROGATORY NO. 9:** Identify each document or other information concerning The Claim, The 2020 Claim, or The Property — including any record of Nicholas Brau’s September 6, 2024 inspection of The Property — that You contend no longer exists or cannot be located, stating for each its type, date, author, and subject matter, when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
 
 **INTERROGATORY NO. 10:** For each of Plaintiffs’ submissions of January 31, 2025 (post-2020 storm activity and gutter replacement), February 10, 2025 (City of Eden Prairie permit records and the neighbor canvass), and May 28, 2025 (National Weather Service and Interactive Hail Maps material, through agent Peter Pietila), state what You did with it, identifying each person involved, when, the conclusion reached, each document recording it, and whether it was considered in any decision on The Claim; if nothing was done, state why.
 
