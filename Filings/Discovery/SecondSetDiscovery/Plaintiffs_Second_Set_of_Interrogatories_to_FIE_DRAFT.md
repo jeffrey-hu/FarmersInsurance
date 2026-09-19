@@ -67,6 +67,74 @@ There is **no substantial-completion-of-production milestone** in the Order. Int
 
 ---
 
+## Draft Interrogatory No. 2 — The Appraisal Award's scope, and any change in FIE's position
+
+**Added September 18, 2026.** Held out of the First Set deliberately; see "Why this one is held," below.
+
+> **DRAFT TEXT.** Renumber on service, and rewrite the opening clause to quote FIE's actual answers once they arrive.
+>
+> Separately for each window and component identified in Your answer to Interrogatory No. 1 of Plaintiffs' First Set of Interrogatories, state whether Your present contention as to the cause of that condition differs from the attribution stated in Your answer to that interrogatory and, if so, how and on what facts; and state whether You contend The Appraisal Award determined any question concerning that window or component, quoting the language of The Appraisal Award You rely on and identifying each fact and document showing that the appraisal panel inspected or evaluated it.
+
+### Why this one is held
+
+First Set Interrogatory No. 1 is anchored to the decision FIE communicated in The November 4, 2024 Claim Outcome Letter — ten months before the September 12, 2025 Appraisal Award existed. FIE therefore cannot answer it by invoking the award, and any answer that does is non-responsive on its face. That closes the door for round one.
+
+This interrogatory asks the other half: what FIE contends **now**, and whether it claims the award reached items it does not name. Asked in the First Set it is an open-ended contention interrogatory, exposed to a Rule 33.02 objection ("need not be answered until after designated discovery has been completed") and answerable in generalities. Asked after the First Set responses, it can quote FIE's own answers and denials back at it and demand the facts behind them.
+
+**The award-scope work in round one is carried by Requests for Admission 205–207** (added September 18, 2026), with Requests 19–32 and 198–200 on the award's face. Under Minn. R. Civ. P. 36.01 an unanswered request is admitted, and under Rule 36.02 an admission is conclusively established. If FIE admits 205–207, this interrogatory shrinks to its first clause or disappears.
+
+### Trigger conditions — serve after (1) and (2)
+
+1. **The First Set responses are in hand** — the Requests for Production (served September 15, 2026; responses due **October 15, 2026**), the Interrogatories, and the Requests for Admission.
+2. **FIE has either denied Requests for Admission 205, 206 or 207, answered them evasively, or answered First Set Interrogatory No. 1 in a way that invokes The Appraisal Award.** If it admits all three without qualification, drop the second clause and keep only the change-of-position clause — or drop the interrogatory and spend the slot elsewhere.
+
+**Target service: the week of November 2, 2026** — roughly two weeks after the First Set responses land, with answers back in early December, well before the appraiser depositions.
+
+**Backstop: February 12, 2027.** Discovery closes March 15, 2027, and a served set needs 30 days for answers plus room for a meet-and-confer and a Rule 37 motion. Do not let it slip to the backstop; the answers exist to set up the Foster, Roos and Tomes depositions, which must also finish before March 15.
+
+### Watch item — an early dispositive motion
+
+FIE's anticipated move is summary judgment on the binding-award theory (`../../SummonsAndComplaint/AnswerFromFIE/FIE_Defense_Strategy_and_Anticipated_Motions.md`). Motions need only be **heard** by May 14, 2027, so FIE has no structural reason to move early — but if a motion is noticed before these answers are in, serve this set that week and support the opposition with a Minn. R. Civ. P. 56.04 affidavit ("If a nonmovant shows by affidavit that, for specified reasons, it cannot present facts essential to justify its opposition, the court may: (a) defer considering the motion or deny it; (b) allow time to obtain affidavits or to take discovery…"). A pending interrogatory aimed at the movant's own theory is the showing the rule contemplates.
+
+### Supporting authority
+
+- *Quade v. Secura Ins.*, 814 N.W.2d 703 (Minn. 2012) — an appraiser's assessment of the amount of loss "necessarily includes a determination of the cause of the loss," but coverage questions "are legal questions for the court," and "an appraisal award does not preclude the insurer from subsequently having its liability on the policy judicially determined." The award binds as to what it determined; it says nothing about items it never addressed.
+- *Herll v. Auto-Owners Ins. Co.*, 879 F.3d 293 (8th Cir. 2018) — a Minnesota window-hail award ambiguous as to which windows it covered is returned to the panel for clarification, not resolved by the insurer's reading of it.
+- Plaintiffs' August 3, 2025 Demand for Appraisal submitted windows, siding (repaint) and siding (replace and remove) only. The panel had no jurisdiction over downspouts, gutters, non-siding flashing, exterior doors or screens. RFAs 206–207 pin this.
+
+> **Note on the timing section above.** It predates two changes: the parties agreed to service by email on September 15, 2026, so **no days are added** to a response period (Minn. Gen. R. Prac. 14.03(e); Minn. R. Civ. P. 6.01(e)), not the 3 days recited there; and the First Set was renumbered again on September 17, 2026 and now runs **1–16**, at a fair count of about 30 against the 50-interrogatory cap. Use the tally in `../README.md`.
+
+---
+
+## Draft Interrogatory No. 3 — how the Prieve engagement came to be scoped to the windows
+
+**Added September 18, 2026.** Removed from the First Set before service (it was Interrogatory No. 2; the First Set was renumbered to a contiguous **1–15**).
+
+> **DRAFT TEXT — as it read in the First Set.** Rewrite on service to quote whatever the engagement documents actually say.
+>
+> State how the scope of Prieve Engineering's engagement came to be limited to the condition of the windows, identifying when and by whom that scope was set, whether Prieve asked to expand it and with what result, and, if no document records the reason, the reason and each person with knowledge of it.
+
+### Why this one is held
+
+**The premise is contestable.** The question assumes the engagement was limited to windows. The support for that is real — The Prieve Report's BACKGROUND states, "Our office was retained to evaluate the condition of windows in the home as relates to hail and to provide recommendations for repairs for purposes of valuation," and **RFA 58** asks FIE to admit that language — but the report's **Conclusion 4 opines on the siding penetration at the rear upper level**, and Photo Appendix A carries Prieve's own captions for downspouts, deck flashing and trim board. FIE can therefore answer, "the engagement was not limited to windows — see Conclusion 4," and the slot is spent on a denial.
+
+**It also duplicates a request already served.** **RFP 7** (served 9/15/2026) seeks all documents and communications reflecting the decision to scope the engagement to "windows only," including who made it and when, whether it preceded or followed Plaintiffs' reports of damage to siding, downspouts, flashing and doors, and any request by Prieve to expand the scope. **RFP 5** seeks the engagement letter, retainer and scope of work, the field notes, every draft, and the communications. Asked now, the interrogatory buys a narrative of documents Plaintiffs do not yet have.
+
+**Asked second, its one unique clause becomes the whole point.** No document request can force an answer where no document exists. If RFP 7 produces nothing, "if no document records the reason, state the reason and each person with knowledge of it" is a question FIE cannot answer by pointing to its file — and an engagement scoped to windows only, with nothing in writing explaining why, is itself a § 604.18 fact.
+
+### Trigger conditions
+
+1. **RFP 5 and RFP 7 are responded to** (responses due **October 15, 2026**) — then draft against what was produced, or against the absence of it.
+2. **RFA 58 and RFA 201 are answered.** If FIE admits both (retained to evaluate windows as relates to hail; not retained to evaluate the siding), the premise is conclusively established under Rule 36.02 and the interrogatory can state it as fact rather than assume it. If FIE denies either, quote the denial and ask for the facts behind it.
+
+**Target service: the week of November 2, 2026**, with Draft Interrogatory No. 2. **Backstop: February 12, 2027.**
+
+### If the documents do arrive
+
+Rewrite the opening clause to quote the engagement document, drop "how the scope came to be limited," and ask only what the documents do not show — typically who decided, when, against what alternative, and whether Prieve asked to expand. A question built on a produced document is not vulnerable to a premise denial.
+
+---
+
 ## Other candidates for this set
 
 Items earmarked in the First Set proposal's reserve table that would land here if triggered. Keep this list current, and check it against the budget tally before drafting:

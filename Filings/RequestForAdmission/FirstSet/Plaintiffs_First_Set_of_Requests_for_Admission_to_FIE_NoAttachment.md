@@ -561,6 +561,14 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 204:** Admit that no document in Your claim file for The Claim created before July 8, 2026 was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d).
 
+*BB. What The Appraisal Award does not address, and what was submitted to the appraisal panel*
+
+**REQUEST FOR ADMISSION NO. 205:** Admit that The Appraisal Award does not state, as to any window at The Property other than the windows designated "F1.7" and "B1.2," whether hail caused damage to that window.
+
+**REQUEST FOR ADMISSION NO. 206:** Admit that the only items Plaintiffs submitted in their August 3, 2025 Demand for Appraisal were windows, siding (repaint), and siding (replace and remove).
+
+**REQUEST FOR ADMISSION NO. 207:** Admit that the downspouts, gutters, flashing, exterior doors, and screens at The Property were not submitted to the appraisal panel.
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.

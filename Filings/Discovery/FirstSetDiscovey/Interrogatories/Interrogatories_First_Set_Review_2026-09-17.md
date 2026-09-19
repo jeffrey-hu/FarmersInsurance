@@ -1,6 +1,6 @@
 # Interrogatories, First Set: Review After the RFP and RFA Updates
 
-**Date:** September 17, 2026 · **Tracker last updated:** September 18, 2026 (F-1, F-1a, F-2, F-3, F-4, F-5, F-6, F-7a, F-8, F-9, R-2, R-3, R-4, R-6, R-7, R-8, R-9, R-10, R-11, R-12, R-13, R-15, R-16, R-17, R-18, I-1, I-2, I-8 and I-9 applied; **old Ints. 2, 3 and 6 deleted; the set runs 1–16**; fair count **30**; the set now has **19** interrogatories and **13** instructions; fair count **37**; all other items open)
+**Date:** September 17, 2026 · **Tracker last updated:** September 18, 2026 (F-1 through F-11, R-2 through R-18, I-1 through I-9 and W-1 applied or decided; **old Ints. 2, 3 and 6 deleted, and the 9/17 Int. 2 held for the Second Set — the set runs 1–15**, with **18 definitions** and **13 instructions**; fair count **about 29** of the 50-interrogatory cap, 2 reserved for expert work, working ceiling **48**; I-5, I-6, W-2 and W-3 open)
 **Document reviewed:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` (the operative file; the `.docx` and the copies now named `[Superseded 2026-09-15] …` were identical to it when this review was written). It had 18 interrogatories and 12 instructions when reviewed — **19 after F-3** — and has **not been served**.
 **Working rule:** changes are applied to the `.md` only. The `.docx` is generated once, at the end (W-1).
 **Checked against:**
@@ -42,6 +42,10 @@
 | F-7 | **Superseded by Int. 10.** Instead: Int. 18 re-anchored in FIE's own denial (Answer ¶33) and trimmed | Int. 18 | 0 | ✅ Applied 9/17/2026 as F-7a | The Siding & Paint ask lives in Int. 10 |
 | F-8 | Int. 14: **re-scoped by subject matter** (The Claim, The 2020 Claim, The Property) instead of by RFP request; one "identify" question; **kept as an interrogatory** | Int. 14 | −1 | ✅ Applied 9/17/2026 | Differs from the 9/15 count file, item 3; timing fix, see below |
 | F-9 | **Reserve 2** interrogatories for expert work (not 5) — the post-disclosure window does not exist unless the expert stipulation creates one | Planning | — | ✅ Decided 9/17/2026 | Working ceiling **48**; ⚠️ revisit when the stipulation resolves. Research: `../../Expert/Expert_Discovery_and_Challenge_Research_2026-09-17.md` |
+| F-10 | **Int. 1 re-anchored to The November 4, 2024 Claim Outcome Letter** — the interrogatory now asks what FIE attributed each dented window and component to **when it made the decision communicated in that letter**, the facts and documents it relied on, and the Coverage Outcome Attachment provision it applied. The trailing "any portion of The Appraisal Award You contend determined the question" clause is **deleted**, and the F1.7/B1.2 carve-out is **dropped** | Int. 1, Definitions | +1 | ✅ Applied 9/18/2026 | Raised by Bill 9/18: as drafted, FIE could answer the whole interrogatory with "the award is binding and awarded two windows." The 11/4/2024 decision predates the 9/12/2025 award by ten months, so the award cannot answer it. Also a historical rather than a contention question, so Rule 33.02 deferral does not reach it, and it is the § 604.18 record at the time of denial. See `KeyDecisions.md` Decision 7 |
+| F-10a | **Three definitions:** new **"The November 4, 2024 Claim Outcome Letter"** (date-anchored — the 9/3/2024 letter carries the same "Claim Outcome Letter" caption **and** its own "Coverage Outcome – Policy Provisions" attachment, verified from both PDFs 9/18/2026); **"The Coverage Outcome Attachment"** restored and anchored to it; **"The Prieve Report"** transmittal clause restated through it (premise admitted at Answer ¶20) | Definitions | 0 | ✅ Applied 9/18/2026 | The RFA set keeps its own "Your November 4, 2024 letter" phrasing in its two definitions and in RFAs 12, 39, 56 and 57 — same referent, no edit needed. The served RFP's broad "Prieve Report" definition ("together with all drafts thereof") is a deliberate difference |
+| F-11 | **Award-scope contention interrogatory held for the Second Set**, not added here | Planning | 0 | ✅ Decided 9/18/2026 | Parked as Draft Interrogatory No. 2 at `../../SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md` with triggers. Target service the week of 11/2/2026; backstop 2/12/2027. Round one is carried by **RFAs 205–207** (added 9/18/2026) under Rule 36.01/36.02 |
+| F-12 | **Old Int. 2 (how the Prieve engagement came to be scoped to the windows) removed from this set and held for the Second Set**; the set renumbered **1–15** | Int. 2 | **−2** | ✅ Applied 9/18/2026 | Raised by Bill 9/18. The premise — that the engagement was limited to windows — is contestable: the report's BACKGROUND says Prieve was "retained to evaluate the condition of windows in the home as relates to hail" (RFA 58 quotes it), but **Conclusion 4 opines on the siding penetration** and Photo Appendix A carries Prieve's captions for downspouts, flashing and trim, so FIE can answer with a denial. It also duplicates **RFP 7** (the scoping decision and any request by Prieve to expand) and **RFP 5** (engagement letter, retainer, scope of work), both served 9/15. Its one unique clause — "if no document records the reason, the reason and each person with knowledge" — is far stronger after RFP 7 comes back thin. Parked as Draft Interrogatory No. 3 at `../../SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md`; triggers are the RFP 5/7 production and the RFA 58/201 answers |
 
 ### Interrogatory-by-interrogatory edits (§3)
 
@@ -80,9 +84,9 @@
 
 | ID | Step | Status |
 |---|---|---|
-| W-1 | **After every change is applied:** generate the `.docx` from the final `.md` per the Formatting Standard; confirm they match and Nos. 1–16 run without gaps | ✅ Applied 9/18/2026 — rebuilt from the `.md` after the final-review fixes below; text matches the `.md` paragraph for paragraph (caption, signature blocks and certificate included); one hanging-indent variant (0.5", −0.4", 8 pt, 49 items); Nos. 1–16 without gaps; 8 pages. Preview PDF: `Claude outputs/Interrogatories_First_Set_preview_2026-09-18.pdf` |
+| W-1 | **After every change is applied:** generate the `.docx` from the final `.md` per the Formatting Standard; confirm they match and Nos. 1–15 run without gaps | ✅ Applied 9/18/2026 (rebuilt three times: after the final-review fixes, after F-10/F-10a, and after F-12). **Interrogatories:** text matches the `.md` paragraph for paragraph (87 paragraphs, caption, signature blocks and certificate included); one hanging-indent variant (0.5", −0.4", 8 pt, 50 items); Nos. 1–15 without gaps; no curly double quotes; 8 pages; preview `Claude outputs/Interrogatories_First_Set_preview_2026-09-18.pdf`. **Requests for Admission:** rebuilt the same way — 318 paragraphs matching the `.md`, 240 hanging items, Nos. 1–207 without gaps, 23 pages; preview `Claude outputs/RFA_First_Set_preview_2026-09-18.pdf` |
 | W-1a | **Final-review fixes (9/18/2026), applied to the `.md` before the rebuild:** (i) deleted the orphaned definition "The Coverage Outcome Attachment" (its only use was old Int. 2, deleted under R-2); (ii) Instruction 12 — cut the undefined "or the Exchange" (now: attributing the act to "Farmers" or "Defendant" collectively is not a complete answer); (iii) all double quotation marks made straight per Formatting Standard §6, apostrophes untouched; stray blank lines removed. Also evened the spacing in Jie Hu's signature block to match Yibiao Lu's | ✅ Applied 9/18/2026 |
-| W-2 | Recount after the edits and update §5 | ⬜ Open |
+| W-2 | Recount after the edits and update §5 | ⬜ Open — running fair count is **about 29** after F-10 (+1) and F-12 (−2); §5's table still shows the pre-9/17 arithmetic |
 | W-3 | Serve and log (answers due 30 days later; 10/19/2026 if served 9/17 or 9/18) | ⬜ Open |
 
 ### Renumbering, September 17, 2026
@@ -112,6 +116,18 @@ Three interrogatories are gone — old No. 2 (exclusion audit, R-2), old No. 3 (
 | 19 | **16** | Employing entity of each claim handler |
 
 **Cross-reference fixed:** Instruction 6 now points to **Interrogatory 11** (destroyed or unlocatable information).
+
+### Second renumbering, September 18, 2026
+
+Old Int. 2 (the Prieve scoping question) was removed under F-12 and the set renumbered again. **The set now runs 1–15.** Numbers used in this review before this line are the 9/17 numbers; convert here.
+
+| 9/17 No. | Final No. | Subject |
+|---:|---:|---|
+| 1 | **1** | Per-component attribution as of The November 4, 2024 Claim Outcome Letter (F-10) |
+| 2 | — | *Held for the Second Set (F-12)* |
+| 3–16 | **2–15** | Each shifted down by one |
+
+No cross-references to interrogatory numbers remain in the document (I-3), so nothing else needed changing.
 
 ### Held — not in this set
 

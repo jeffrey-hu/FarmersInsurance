@@ -201,4 +201,38 @@ If nothing arrives by **September 30, 2026**, send a short follow-up email. An u
 
 ---
 
-*Last updated: 2026-09-16 — Decision 4 status note: RFA 23 blocker resolved (now First Set Nos. 29–30); add new decisions below as they are made.*
+## Decision 7: Interrogatory No. 1 Anchored to the November 4, 2024 Decision; the Award-Scope Contention Held for the Second Set
+
+**Decision: First Set Interrogatory No. 1 asks what FIE decided on November 4, 2024 and why. The question of what FIE contends today — and whether it claims The Appraisal Award reached items it does not name — is held for the Second Set. September 18, 2026.**
+
+**Status:** ✅ Confirmed.
+
+### The problem
+
+Interrogatory No. 1 as previously drafted asked, for each dented window and component, the cause FIE attributes to it and "any portion of The Appraisal Award You contend determined the question." That trailing clause let FIE answer the whole interrogatory in one sentence — the award is binding, it awarded two windows, nothing else is hail — supplying no per-item cause, no dates, no facts and no exclusions, and converting the award's **silence** into a determination. That is the "evaluated-but-rejected" scenario identified at `OffenseStrategies/AppraisalAwardStrategy/06_Addendum_EvaluatedButRejected.md` as the case's weakest point.
+
+### What was done instead
+
+**Interrogatory No. 1 is now anchored to The November 4, 2024 Claim Outcome Letter** and its sentence, "Our investigation found the condition of the window and components to be from wear/tear as referrenced [sic] in the attached engineer report." The decision it asks about was made **ten months before the September 12, 2025 award existed**, so the award cannot answer it and any answer invoking the award is non-responsive on its face. The question is historical rather than contention-based, which also puts it beyond a Rule 33.02 request to defer, and it builds the § 604.18 record, which measures the absence of a reasonable basis **at the time of denial**.
+
+The F1.7/B1.2 carve-out was **dropped**: on November 4, 2024 FIE attributed both of those windows to the 2020 claim (Prieve Conclusion 1, "these 2 windows have already been included and we understand paid for due to prior storm activity"), and its own panel later entered "Hail" for them. Answering as to all windows sets FIE's file against its own panel. Nothing about answering a historical question disturbs the award's binding effect; RFAs 25–27 hold that line.
+
+Three definitions support it: **"The November 4, 2024 Claim Outcome Letter"** (new — date-anchored because the September 3, 2024 letter carries the same "Claim Outcome Letter" caption and its own "Coverage Outcome – Policy Provisions" attachment), **"The Coverage Outcome Attachment"** (restored, now anchored to the defined letter) and **"The Prieve Report"** (transmittal clause restated through the defined letter; the premise is admitted at Answer ¶20).
+
+### Why the contention half waits
+
+The award-scope question — what FIE contends now, and what facts show the panel evaluated an item — is parked at `Filings/Discovery/SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md` as **Draft Interrogatory No. 2**. Asked in the First Set it is open-ended and exposed to Rule 33.02 deferral; asked after the First Set responses it can quote FIE's own answers and denials back at it. **Target service: the week of November 2, 2026. Backstop: February 12, 2027** (discovery closes March 15, 2027, and the appraiser depositions depend on these answers).
+
+**Round one is not left empty.** Requests for Admission **205–207** (added September 18, 2026) carry the award-scope work: what the award does not say about any other window, what the August 3, 2025 demand submitted, and what was never submitted to the panel. Rule 36.01 admits an unanswered request; Rule 36.02 makes an admission conclusive. Rule 36 has no numerical limit, so they cost nothing.
+
+**Watch item.** If FIE notices a dispositive motion on the binding-award theory before those answers are in, serve the Second Set that week and oppose with a Minn. R. Civ. P. 56.04 affidavit. Motions need only be *heard* by May 14, 2027, so FIE has no structural reason to move early.
+
+### Addendum, same day — old Interrogatory No. 2 also held
+
+The Prieve scoping interrogatory ("State how the scope of Prieve Engineering's engagement came to be limited to the condition of the windows…") was removed from the First Set for the same reason, on Bill's call: its premise is contestable (Conclusion 4 of The Prieve Report opines on siding), and **RFP 5 and RFP 7**, served September 15, 2026, already seek the engagement documents and the scoping decision. Held as Draft Interrogatory No. 3 in the Second Set, triggered by that production and by the answers to RFAs 58 and 201. **The First Set now runs 1–15**, at a fair count of about 29.
+
+**Authority:** *Quade v. Secura Ins.*, 814 N.W.2d 703 (Minn. 2012) (amount of loss "necessarily includes a determination of the cause of the loss"; coverage questions "are legal questions for the court"; "an appraisal award does not preclude the insurer from subsequently having its liability on the policy judicially determined") · *Herll v. Auto-Owners Ins. Co.*, 879 F.3d 293 (8th Cir. 2018) (ambiguous award returned to the panel for clarification) · Minn. R. Civ. P. 33.02, 36.01, 36.02, 37.01, 56.04 · Scheduling Order, September 8, 2026. Verified against primary sources September 18, 2026.
+
+---
+
+*Last updated: 2026-09-18 — Decision 7 added (with same-day addendum holding old Int. 2) (Interrogatory No. 1 re-anchored; award-scope contention held for the Second Set; RFAs 205–207 added). Decision 4's note that the Interrogatories are blocked by the Rule 33.01(a) certification is **superseded** — that paragraph was deleted September 17, 2026.*
