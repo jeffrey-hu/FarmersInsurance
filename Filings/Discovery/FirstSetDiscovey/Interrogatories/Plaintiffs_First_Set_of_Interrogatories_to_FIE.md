@@ -49,6 +49,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The Vendors"** means Hancock Claims Consultants, Prieve Engineering, LLC, and any other person You engaged to inspect, evaluate, test, or report on The Property, The Claim, or The 2020 Claim.
 
+**"The Vendor Reports"** means The Prieve Report and any report, photograph set, field notes, or written findings of Hancock Claims Consultants concerning its August 29, 2024 inspection of The Property.
+
 **"The Appraisal Award"** means the written appraisal award concerning The Claim dated on or about September 12, 2025.
 
 **"The Appraisal Demand"** means Plaintiffs' Demand for Appraisal concerning The Claim, dated August 3, 2025.
@@ -109,7 +111,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 5:** The Answer denies Plaintiffs’ allegation at paragraph 33 of the Complaint that The Appraisal Award does not state actual value and loss separately to each item. For each of The Appraisal Items, state the actual value and the loss You contend The Appraisal Award states and where on The Appraisal Award each appears — including, for the item "Windows F1.7 B1.2," whether those values were determined separately for each of the two windows and the amount attributable to each; and state whether You contend The Appraisal Award states separately actual value and loss to each item within the meaning of Minn. Stat. § 65A.01, subd. 3.
 
-**INTERROGATORY NO. 6:** Describe what You did with the Hancock Claims Consultants and Prieve Engineering reports before relying on them in The Claim, identifying each person involved, what each did, and each document created; and state whether any written policy or procedure applied to those steps and, if so, identify it.
+**INTERROGATORY NO. 6:** Describe what You did with each of The Vendor Reports before relying on it in The Claim, including each person involved and what each did, each document created, and any written policy or procedure that applied to those steps, identified by title and date.
 
 **INTERROGATORY NO. 7:** State each fact supporting Your First Affirmative Defense, which alleges that "pursuant to Rule 12, Minn. R. Civ. P., there exists a lack of jurisdiction over Defendant FIE and Plaintiffs have failed to state a claim upon which relief can be granted," and identify each count of the Complaint to which the failure-to-state allegation is directed; and, if You contend that any person should be a defendant in this action in place of or in addition to Fire Insurance Exchange, or that Fire Insurance Exchange is misnamed or misdescribed in the caption, identify that person by legal name, form, and state of organization.
 
