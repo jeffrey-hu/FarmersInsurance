@@ -10,6 +10,8 @@
 
 > ⚠️ **Revised later on September 16, 2026 (S-2, S-3, S-4).** Three compound requests were split, so the operative set became **Nos. 1–192**. ⚠️ **A trade-name request was then added as No. 173, making it Nos. 1–193; see Table D.** ⚠️ **On 9/17/2026, party-identity requests Nos. 173–174 were added, making it Nos. 1–195; see Table E.** Tables A and B below map to the intermediate **1–189** numbering; convert those numbers to the current ones with **Table C**. The "Final sections" table shows the current (1–192) ranges.
 
+> ⚠️ **Current numbering as of the later September 19, 2026 trim: Nos. 1–185.** Table F took the set from 1–207 to 1–200; Nos. 201–206 were then appended (recorded only in Table G's note); **Table G** took 1–206 to 1–185.
+
 > **Not legal advice.** Working record. Once the set is served, these numbers are fixed: withdraw a request by letter and leave the gap; never renumber (`../../Document_Formatting_Standard.md` § 7).
 
 ## Decision — how the next renumbering will be done (September 18, 2026)
@@ -635,5 +637,166 @@ Context: the adversarial review of 9/18/2026 (`RFA_First_Set_Adversarial_Review_
 
 ### F.3 Converting older working numbers
 
-Entries in `RFA_First_Set_Independent_Review_2026-09-16.md` cite the numbering in force on the date of each entry. Convert with Tables A–E to reach the 1–207 numbering, then with Table F above to reach the served numbering. `RFA_First_Set_Adversarial_Review_2026-09-18.md` cites 1–207 numbers throughout and converts through Table F alone.
+Entries in `RFA_First_Set_Independent_Review_2026-09-16.md` cite the numbering in force on the date of each entry. Convert with Tables A–E to reach the 1–207 numbering, then with Table F above to reach the served numbering. `RFA_First_Set_Adversarial_Review_2026-09-18.md` cites 1–207 numbers throughout and converts through Table F alone. ⚠️ After the later 9/19/2026 trim, continue from Table F through **Table G** to reach the current numbering (1–185).
 
+## Table G — the September 19, 2026 trim (1–206 → 1–185)
+
+**Applied September 19, 2026 (Jeffrey's review).** One pass, scripted and verified against the pre-trim file: every retained request's text is identical at its new number (the only change inside a request is the cross-reference in old No. 172), the numbering is contiguous 1–185 with no duplicates, none of the removed text remains, and every internal cross-reference and "preceding request" reference resolves to the right request. Decisions and reasoning: `jeffrey_9_19_review.md` in this folder. Pre-trim copy: `[Superseded 2026-09-19 before trim, Nos. 1-206] Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE_NoAttachment.md`.
+
+**What the pass did.** −21 requests removed (G.1) · 0 added · 0 reworded · 0 relocated · sections unchanged (**A–V**, none emptied) · renumbered once, contiguously (Option A).
+
+> ⚠️ **Gap in Table F, recorded here rather than by editing it.** Table F ends at **Nos. 1–200**. The file this pass started from had **206** requests: **Nos. 201–204** (section U, the September 24, 2025 message and its signer) and **Nos. 205–206** (section V, the October 7, 2025 request for Nicholas Brau's inspection report or notes) were appended after Table F was written and appear in no table. Appending them moved nothing, so Table F's numbers for 1–200 were still correct going into this pass. They are now **Nos. 180–183** and **184–185**.
+>
+> ⚠️ **Correction to Table F's note on pointers.** It says the "See also" pointers sit under new Nos. 79 and 145. In the 1–206 file they sat under **No. 74** (the twenty-five-windows request) and **No. 146** (nothing paid on The Claim). After this pass they sit under **Nos. 60 and 131**. The served text was never wrong; only the note.
+
+**Cross-references updated in the served text:**
+
+| Where | Was (1–206) | Now (1–185) |
+|---|---|---|
+| Instruction 8 | "…or to the publicly available National Weather Service web page identified by its address in Request No. 70." | Clause deleted (both NWS requests removed): "Each request refers to a term defined above or to a document or record in Defendant's own possession, custody, or control." |
+| Section F note | Requests 56 and 57 … 58 and 59 … Request No. 55 | Requests 44 and 45 … 46 and 47 … Request No. 43 |
+| Section G note | Requests 60 through 66 … Nos. 14, 47, and 67 through 75 | Requests 48 through 54 … Nos. 55 through 61 (old Nos. 14 and 47 removed) |
+| Pointer under old No. 74 (now No. 60) | Nos. 93 through 117 | Nos. 79 through 103 — converted number for number; **not** extended to cover the "does not state" requests added in the Table F pass (section I now ends at No. 112) |
+| Section I note | Nos. 67 through 75 | Nos. 55 through 61 |
+| Pointer under old No. 146 (now No. 131) | No. 30 | No. 22 |
+| Section M note | Requests 148 through 157 … Nos. 8 through 12, 40, and 143 through 145 | Requests 132 through 141 … Nos. 4 through 8, 29, 129, and 130 (old No. 145 removed) |
+| Old No. 172 (now No. 154) | "the message identified in Request No. 170" | "…Request No. 153" |
+| Section U note | Requests 201 through 204 …, and are to be read with Requests Nos. 31 and 177. | Requests 180 through 183 … — the "to be read with" clause is deleted (both requests it cited were removed) |
+| Section V note | Requests 205 and 206 … Nos. 42 and 143 through 145 | Requests 184 and 185 … Nos. 31, 129, and 130 (old No. 145 removed) |
+
+Left as is: the section P heading ("…and the handling of post-appraisal correspondence"), although the shared-mailbox request it referred to (old No. 177) is removed — Bill's call.
+
+### G.1 Removed in this pass (old numbers, 1–206)
+
+| Old No. | Text (abridged) | Why |
+|---|---|---|
+| **1** | The Policy was a valid and enforceable contract in force on July 13, 2024. | Already admitted — Answer ¶46 ("Admit"). |
+| **2** | the windstorm/hail deductible applicable to The Claim is $17,720. | Already admitted — Answer ¶2 (Farmers' own "deductible of $17,720.00"). |
+| **6** | The Policy contains no provision requiring that evidence supporting a claim be provided by an engineer. | Already admitted — Answer ¶26. |
+| **7** | Fire Insurance Exchange issued and underwrote The Policy. | Answer ¶2 admits "issued"; "underwrote" adds little and invites a partial denial. |
+| **14** | Fire Insurance Exchange retained Prieve Engineering, LLC to inspect The Property. | Already admitted — Answer ¶17. (The scope quote, now No. 55, stays.) |
+| **17** | Fire Insurance Exchange appointed Greg Tomes as its appraiser in the appraisal that resulted in The Appraisal Award. | Already admitted — Answer ¶¶29, 31. |
+| **19** | Plaintiffs' August 3, 2025 Demand for Appraisal listed three items to be considered by the appraisal panel: "Windows," "Siding (repaint)," and… | Already admitted — Answer ¶30, almost word for word. The "did not list" request (now No. 13) stays. |
+| **21** | The Appraisal Award identified hail as the cause of loss for the two windows it awarded. | Already admitted — Answer ¶¶2, 32. |
+| **31** | the appraisal umpire, Wade Roos, did not provide You with a written report or estimate. | Answer ¶34 admits it (slightly hedged); the 9/24/2025 email quote (now No. 182) carries the same fact. |
+| **37** | The Appraisal Award states a Replacement Cost Value of $0 and an Actual Cash Value of $0 for the item "Debris." | Low value — obvious on the face of the award; the three-items request (now No. 25) and the Siding & Paint pair (now Nos. 26–27) carry the point. |
+| **38** | The Appraisal Award states "Hail" in the Causation column for the item "Debris." | Low value — same as No. 37. |
+| **47** | Your November 4, 2024 letter transmitted The Prieve Report to Plaintiffs as a basis for Your denial of The Claim. | Already admitted — Answer ¶20. |
+| **70** | the National Weather Service Twin Cities/Chanhassen web page titled "Significant Wind and Hail in Minnesota July 13-14"… | Third-party document (NWS page): "cannot admit or deny" is a free answer; judicial notice is the better route. Lets Instruction 8 drop its NWS clause. |
+| **71** | the National Weather Service Twin Cities/Chanhassen web page titled "Significant Wind and Hail in Minnesota July 13-14" lists a 48 MPH wind gust at… | Same as No. 70. |
+| **145** | You have not produced to Plaintiffs any written report of Nicholas Brau's September 6, 2024 inspection. | Duplicate — the broader "no document … records Nicholas Brau's observations" request (now No. 139) covers it. |
+| **147** | You have made no payment of any kind to any contractor, repair firm, or other third party for the repair or replacement of any part of The Property… | Low value — nobody contends Farmers paid a third party; now Nos. 131 and 22 carry non-payment. |
+| **159** | The First Photo Set and The Second Photo Set together contain 138 numbered photographs of The Property. | Arithmetic on two definitions (38 + 100); the counts that matter are now Nos. 143–148. |
+| **171** | the message identified in the preceding request was sent from the address myadjuster@farmersinsurance.com and bore the subject line "Claim #… | Low value — sender address and subject line only; now Nos. 153–154 carry the substance. |
+| **173** | the message identified in Request No. 170 also stated, "If you need information as to why additional windows were not included in the award then you… | Already admitted — Answer ¶39, verbatim. ⚠️ Open question if ever re-added: Complaint ¶39 dates the statement October 21, 2025; the request attributed it to the October 29 message. |
+| **174** | Admit that, as of October 29, 2025, information relating to The Claim existed that You had not released to Plaintiffs. | Low value — trivially true for any insurer; now Nos. 137–139 are the pointed version. |
+| **177** | the electronic mail address myadjuster@farmersinsurance.com is used by more than one of Your employees or representatives to communicate with… | Low value — shared-mailbox fact; nothing turns on it. |
+
+### G.2 Old → new
+
+| Old | New | | Old | New | | Old | New |
+|---|---|---|---|---|---|---|---|
+| 1 | — removed (G.1) | | 70 | — removed (G.1) | | 139 | 125 |
+| 2 | — removed (G.1) | | 71 | — removed (G.1) | | 140 | 126 |
+| 3 | 1 | | 72 | 58 | | 141 | 127 |
+| 4 | 2 | | 73 | 59 | | 142 | 128 |
+| 5 | 3 | | 74 | 60 | | 143 | 129 |
+| 6 | — removed (G.1) | | 75 | 61 | | 144 | 130 |
+| 7 | — removed (G.1) | | 76 | 62 | | 145 | — removed (G.1) |
+| 8 | 4 | | 77 | 63 | | 146 | 131 |
+| 9 | 5 | | 78 | 64 | | 147 | — removed (G.1) |
+| 10 | 6 | | 79 | 65 | | 148 | 132 |
+| 11 | 7 | | 80 | 66 | | 149 | 133 |
+| 12 | 8 | | 81 | 67 | | 150 | 134 |
+| 13 | 9 | | 82 | 68 | | 151 | 135 |
+| 14 | — removed (G.1) | | 83 | 69 | | 152 | 136 |
+| 15 | 10 | | 84 | 70 | | 153 | 137 |
+| 16 | 11 | | 85 | 71 | | 154 | 138 |
+| 17 | — removed (G.1) | | 86 | 72 | | 155 | 139 |
+| 18 | 12 | | 87 | 73 | | 156 | 140 |
+| 19 | — removed (G.1) | | 88 | 74 | | 157 | 141 |
+| 20 | 13 | | 89 | 75 | | 158 | 142 |
+| 21 | — removed (G.1) | | 90 | 76 | | 159 | — removed (G.1) |
+| 22 | 14 | | 91 | 77 | | 160 | 143 |
+| 23 | 15 | | 92 | 78 | | 161 | 144 |
+| 24 | 16 | | 93 | 79 | | 162 | 145 |
+| 25 | 17 | | 94 | 80 | | 163 | 146 |
+| 26 | 18 | | 95 | 81 | | 164 | 147 |
+| 27 | 19 | | 96 | 82 | | 165 | 148 |
+| 28 | 20 | | 97 | 83 | | 166 | 149 |
+| 29 | 21 | | 98 | 84 | | 167 | 150 |
+| 30 | 22 | | 99 | 85 | | 168 | 151 |
+| 31 | — removed (G.1) | | 100 | 86 | | 169 | 152 |
+| 32 | 23 | | 101 | 87 | | 170 | 153 |
+| 33 | 24 | | 102 | 88 | | 171 | — removed (G.1) |
+| 34 | 25 | | 103 | 89 | | 172 | 154 — cross-reference inside the request updated |
+| 35 | 26 | | 104 | 90 | | 173 | — removed (G.1) |
+| 36 | 27 | | 105 | 91 | | 174 | — removed (G.1) |
+| 37 | — removed (G.1) | | 106 | 92 | | 175 | 155 |
+| 38 | — removed (G.1) | | 107 | 93 | | 176 | 156 |
+| 39 | 28 | | 108 | 94 | | 177 | — removed (G.1) |
+| 40 | 29 | | 109 | 95 | | 178 | 157 |
+| 41 | 30 | | 110 | 96 | | 179 | 158 |
+| 42 | 31 | | 111 | 97 | | 180 | 159 |
+| 43 | 32 | | 112 | 98 | | 181 | 160 |
+| 44 | 33 | | 113 | 99 | | 182 | 161 |
+| 45 | 34 | | 114 | 100 | | 183 | 162 |
+| 46 | 35 | | 115 | 101 | | 184 | 163 |
+| 47 | — removed (G.1) | | 116 | 102 | | 185 | 164 |
+| 48 | 36 | | 117 | 103 | | 186 | 165 |
+| 49 | 37 | | 118 | 104 | | 187 | 166 |
+| 50 | 38 | | 119 | 105 | | 188 | 167 |
+| 51 | 39 | | 120 | 106 | | 189 | 168 |
+| 52 | 40 | | 121 | 107 | | 190 | 169 |
+| 53 | 41 | | 122 | 108 | | 191 | 170 |
+| 54 | 42 | | 123 | 109 | | 192 | 171 |
+| 55 | 43 | | 124 | 110 | | 193 | 172 |
+| 56 | 44 | | 125 | 111 | | 194 | 173 |
+| 57 | 45 | | 126 | 112 | | 195 | 174 |
+| 58 | 46 | | 127 | 113 | | 196 | 175 |
+| 59 | 47 | | 128 | 114 | | 197 | 176 |
+| 60 | 48 | | 129 | 115 | | 198 | 177 |
+| 61 | 49 | | 130 | 116 | | 199 | 178 |
+| 62 | 50 | | 131 | 117 | | 200 | 179 |
+| 63 | 51 | | 132 | 118 | | 201 | 180 |
+| 64 | 52 | | 133 | 119 | | 202 | 181 |
+| 65 | 53 | | 134 | 120 | | 203 | 182 |
+| 66 | 54 | | 135 | 121 | | 204 | 183 |
+| 67 | 55 | | 136 | 122 | | 205 | 184 |
+| 68 | 56 | | 137 | 123 | | 206 | 185 |
+| 69 | 57 | | 138 | 124 | |  |  |
+
+### G.3 Sections after this pass
+
+| Section | Was (1–206) | Now (1–185) | Removed here |
+|---|---|---|---|
+| A. The Policy and the coverage grant | 1–6 | 1–3 | 1, 2, 6 |
+| B. Identity and capacity of the acting entity | 7–18 | 4–12 | 7, 14, 17 |
+| C. The appraisal: the Demand, and what the Award states | 19–38 | 13–27 | 19, 21, 31, 37, 38 |
+| D. The September 3, 2024 denial | 39–46 | 28–35 | — |
+| E. The November 4, 2024 denial and the provisions it cited | 47–55 | 36–43 | 47 |
+| F. The Marring provision and its hail exception | 56–59 | 44–47 | — |
+| G. The Prieve engagement, the November 4, 2024 letter, and work product | 60–66 | 48–54 | — |
+| H. The Prieve Report and Photo Appendix A | 67–92 | 55–78 | 70, 71 |
+| I. Dents recorded in The Prieve Report, and what the report does not state | 93–126 | 79–112 | — |
+| J. The 2020 Claim | 127–136 | 113–122 | — |
+| K. The engineer-report requirement and Plaintiffs' submissions | 137–142 | 123–128 | — |
+| L. Missing records and non-payment | 143–147 | 129–131 | 145, 147 |
+| M. Claim handlers and the September 6, 2024 inspection records | 148–157 | 132–141 | — |
+| N. The September 3, 2024 Denial Package and its photograph logs | 158–169 | 142–152 | 159 |
+| O. The October 29, 2025 email | 170–174 | 153–154 | 171, 173, 174 |
+| P. The October 21, 2025 reply and the handling of post-appraisal correspondence | 175–177 | 155–156 | 177 |
+| Q. Party identity, agency, and the Hancock inspector | 178–185 | 157–164 | — |
+| R. The Policy's own provisions bearing on capacity, suit, and forum | 186–190 | 165–169 | — |
+| S. Service of process and jurisdiction | 191–194 | 170–173 | — |
+| T. Plaintiff Jie Hu's status under The Policy | 195–200 | 174–179 | — |
+| U. The September 24, 2025 message and its signer | 201–204 | 180–183 | — |
+| V. The October 7, 2025 request for Nicholas Brau’s inspection report or notes | 205–206 | 184–185 | — |
+
+### G.4 Converting older numbers
+
+The chain is now: Tables A–E → the 1–207 numbering → **Table F** → the 1–200 numbering (Nos. 201–206 appended afterward, see the note above) → **Table G** → the current **1–185** numbering. `RFA_First_Set_Adversarial_Review_2026-09-18.md` cites 1–207 numbers and converts through Tables F and G. `jeffrey_9_19_review.md` cites 1–206 numbers in its §§3–4 and converts through Table G (its §5 is the same map in range form).
+
+### G.5 Files not yet updated for this pass
+
+Updated 9/19/2026 to the 1–185 numbering: the served `.md`, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` (rebuilt by editing the prior file in place; all 253 body paragraphs verified against the `.md`), this map, the First Set citations in `../SecondSet/Plaintiffs_Second_Set_of_Requests_for_Admission_to_FIE_DRAFT.md`, and `../README.md`. **Still citing older numbers:** the files outside this folder listed in step 5 of the Decision section above.

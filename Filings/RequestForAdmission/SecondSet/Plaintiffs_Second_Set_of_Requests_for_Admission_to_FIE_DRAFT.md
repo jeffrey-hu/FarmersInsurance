@@ -26,7 +26,7 @@
 | **Part 1 — Authentication** | 1–5 | A clean, legible copy of the appraisal award has been obtained for Exhibit C. **Exhibits D and E are ready** — `../../../EventDocuments/2025-10-29-BrauEmail.pdf` for Exhibit E, and — `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page October 10, 2025 letter package (see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`). The September 3 and November 4, 2024 letters are already available as clean PDFs in `../../Discovery/Expert/Expert_Record_Packet/`. **No other condition.** |
 | **Part 2 — Matching / J6944** | 6–9, 16 (16 is held for decision) | **Mandatory:** FIE actually asserts J6944 or a matching limitation — in an amended answer, a discovery response, a denial of Request 1 of Part 2's predicate set, a mediation position paper, or summary-judgment briefing. **Without that, do not serve.** Helpful but not required: responses to First Set RFP Requests 24 and 40 (the endorsement, its drafting history, and FIE's matching guidance). |
 | **Part 3 — The 2020 claim file** | 10–15 | **Mandatory:** FIE has produced its 2020 claim file, October 13, 2020 photograph log and native 2020 estimate in response to First Set RFPs 2, 22, 23 and 33 (responses due October 15, 2026), **and those documents have been reviewed first.** See the checklist under Part 3 below. Added September 16, 2026 (tracker item R-12 in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md`). |
-| **Part 4 — The Prieve Report (ordinary course)** | 17 | FIE has answered First Set Nos. 52–53. Serve if FIE denied or qualified either one; otherwise optional. First sync the Definitions with the revised First Set (see the Part 4 note). |
+| **Part 4 — The Prieve Report (ordinary course)** | 17 | FIE has answered First Set Nos. 48–49. Serve if FIE denied or qualified either one; otherwise optional. First sync the Definitions with the revised First Set (see the Part 4 note). |
 
 > ### ⚠️ One request in Part 2 does **not** depend on the trigger — consider moving it up
 > **Request 7** (whether J6944 was delivered with the October 22, 2023 renewal) is not a matching contention. It is a delivery question, and it runs the other way: **if FIE cannot show it delivered the endorsement at that renewal, the endorsement may not be available to it at all** — which would make the rest of Part 2 unnecessary rather than merely premature. It is attachment-free and safe to serve now. Recommended: move Request 7 into the First Set before service, or serve it as a one-request supplement. RFP 35 (the complete policy as delivered at the 2023 renewal) is the document counterpart.
@@ -144,7 +144,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 > 1. Look for any written inspection report, adjuster notes, field notes, sketches, or window-condition summary for the 2020 claim.
 > 2. **If none was produced**, confirm that FIE's written RFP response says the production is complete (not "will supplement" or "subject to objections"). Then serve as drafted.
 > 3. **If such a document was produced**, do not serve as drafted. Either drop the request, or reword it to the specific gap the document leaves (for example, that it does not identify a dent on a named window).
-> 4. Compare the October 13, 2020 photographs with First Set Nos. 107–124. If any photograph shows one of those dents, note it and expect FIE to deny the matching request.
+> 4. Compare the October 13, 2020 photographs with Requests 18–35 of this set (Part 5; they were First Set Nos. 107–124 in the 1–207 numbering). If any photograph shows one of those dents, note it and expect FIE to deny the matching request.
 >
 > **Additional checklist for Requests 11–15 (added September 16, 2026). Plaintiffs' position is that the 2020 claim paid for two sashes, not two whole windows. Confirm it from FIE's documents before serving any of these:**
 > 5. **Native estimate (RFP 33):** does the Xactimate sketch, room list, line note, or revision history tie line item 1 to a location, elevation or window? Does line item 3 ("retrofit window, 24-40 sf") measure a whole window assembly?
@@ -153,7 +153,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 > 8. **Reword Requests 12 and 13** to the specific sash or unit the documents identify, and remove the bracketed placeholders. Drop Request 11 or 14 if the documents contradict it.
 > 9. **Request 15** can be served as drafted only if the review confirms that no 2020 document identifies the sash location.
 >
-> Request 10 is the companion to First Set Nos. 107–124, which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
+> Request 10 is the companion to Requests 18–35 of this set (Part 5; formerly First Set Nos. 107–124, 1–207 numbering), which ask whether the 2020 file records each Prieve dent. It was held back from the First Set because Plaintiffs have not yet seen the 2020 file.
 
 **REQUEST FOR ADMISSION NO. 10:** Admit that, other than the inspection photographs dated October 13, 2020, Your claim file for The 2020 Claim contains no written report or notes of an inspection of the windows at The Property.
 
@@ -169,11 +169,11 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *Part 4 — The Prieve Report: ordinary course of claim adjustment*
 
-> **Added September 16, 2026.** This is the positive companion to First Set Nos. 52–53. Those requests ask FIE to admit that it does not claim work-product protection for The Prieve Report under Minn. R. Civ. P. 26.02(d), and that Prieve was not retained in anticipation of litigation under 26.02(e)(2). This request states the underlying fact: a report made in the ordinary course of adjusting a claim is a business record, not work product. It stays linked to The Claim on purpose.
+> **Added September 16, 2026.** This is the positive companion to First Set Nos. 48–49. Those requests ask FIE to admit that it does not claim work-product protection for The Prieve Report under Minn. R. Civ. P. 26.02(d), and that Prieve was not retained in anticipation of litigation under 26.02(e)(2). This request states the underlying fact: a report made in the ordinary course of adjusting a claim is a business record, not work product. It stays linked to The Claim on purpose.
 >
 > **Before serving:**
-> 1. Review FIE's answers to First Set Nos. 52–53. If FIE admitted both, this request is optional. If FIE denied or qualified either one, serve it.
-> 2b. ⚠️ **J6944 watch (9/17/2026).** First Set **No. 196** asks FIE to admit it contends no provision other than the windstorm/hail deductible bars, limits or reduces recovery for hail damage. **A denial, or any later assertion of matching, is the trigger for Part 2 (Nos. 4–7).** Defendant's Answer pleads no matching defense, so also consider waiver of an unpleaded limitation.
+> 1. Review FIE's answers to First Set Nos. 48–49. If FIE admitted both, this request is optional. If FIE denied or qualified either one, serve it.
+> 2b. ⚠️ **J6944 watch (9/17/2026).** First Set **No. 196** asks FIE to admit it contends no provision other than the windstorm/hail deductible bars, limits or reduces recovery for hail damage. **A denial, or any later assertion of matching, is the trigger for Part 2 (Nos. 4–7).** Defendant's Answer pleads no matching defense, so also consider waiver of an unpleaded limitation. ⚠️ *Updated 9/19/2026: First Set No. 196 (1–207 numbering) was **deleted before service** (`../FirstSet/RFA_First_Set_Adversarial_Review_2026-09-18.md` §5D), so there will be no denial of it to act as a trigger. The remaining trigger is any assertion of matching by FIE.*
 > 2a. ⚠️ **Also add the First Set's September 17, 2026 definition** of **"The February 18, 2022 Settlement Package"** (verbatim), and reword **Requests 11, 14 and 15**, which still say "Your February 18, 2022 estimate for The 2020 Claim," to "the estimate within The February 18, 2022 Settlement Package." The same definition is in the First Set of Interrogatories, so all three sets must match word for word.
 > 2. ⚠️ **Sync this set's Definitions with the First Set as revised on September 16, 2026 (items DI-1 to DI-10).** In particular, this set still defines "The Prieve Report" as the report "together with all drafts thereof." Drafts would give FIE a reason to deny this request. Use the First Set definition instead: the seven-page report dated November 4, 2024, as transmitted with the November 4, 2024 letter.
 
@@ -311,7 +311,7 @@ Keep this list current. None of these is drafted above; each is held for the tri
 
 ### ⚠️ The larger backlog is not in this file (updated September 16, 2026)
 
-> First Set request numbers in this file follow the **final numbering of September 16, 2026, as revised the same day for the S-2 to S-4 splits** (Nos. 1–195, after the trade-name request and the party-identity requests Nos. 172–174 were added; the trade-name request is now No. 175). See `../FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md` for the conversion from working numbers.
+> First Set request numbers in this file follow the **current numbering, Nos. 1–185, as of the September 19, 2026 trim** (`../FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`, Table G). They were converted on 9/19/2026 from the 1–207 numbering these notes had still been using, and each converted number was checked against the text of the request it points to. References that are expressly historical ("was First Set No. …," "pre-renumbering," "working numbering," and the 34- and 63-request drafts) are left in the numbering they name.
 
 Most of the proposals once listed here have now been applied to the First Set, moved into this Second Set, held, or dropped. The master status is the tracker in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, and the per-item status is in the table at the top of `../FirstSet/Proposed_Changes_RFA_First_Set_2026-09-12.md`.
 
@@ -319,23 +319,23 @@ Most of the proposals once listed here have now been applied to the First Set, m
 
 | Item | What remains | Trigger / note |
 |---|---|---|
-| **A-7** [48]–[51] | Loss settlement and the deductible measure | After FIE produces the policy form (First Set RFP 24). [48] needs rework (it conflicts with [49]); [51] is largely covered by First Set No. 183. |
-| **A-8** [54] | "You contend no amount is owed" (optional contention lock) | [53] and [55] are now First Set Nos. 141 and 27; [52] is covered by First Set No. 140. |
+| **A-7** [48]–[51] | Loss settlement and the deductible measure | After FIE produces the policy form (First Set RFP 24). [48] needs rework (it conflicts with [49]); [51] is largely covered by First Set No. 167. |
+| **A-8** [54] | "You contend no amount is owed" (optional contention lock) | [55] is now First Set No. 22; [52] is covered by First Set No. 131. [53] (no third-party payments) was First Set No. 141 in the 1–207 numbering and was removed before service in the 9/19/2026 trim (renumbering map, Table G): low value, since nobody contends FIE paid a third party. |
 | **A-10** [61]–[63], [65] | Scope of replacement cost (blinds, trim, repaint; catch-all) | After a contractor or expert estimate. [64] (mold) is to be dropped. [65]'s cross-reference is stale. |
-| **A-13** [71] | Catch-all "You do not contend … undamaged" | Stale cross-references. If revived, aim it at the downspouts (First Set Nos. 67–70 and 74–77). [69] is to be dropped. |
+| **A-13** [71] | Catch-all "You do not contend … undamaged" | Stale cross-references. If revived, aim it at the downspouts (First Set Nos. 63–66 and 70–73). [69] is to be dropped. |
 | **A-3** [39] | The February 10, 2025 voicemail | Held. The draft misquotes the voicemail; requote it first (Complaint ¶25). |
 | **A-6** [41]–[47] | Defense-universe lock | Held — **do not serve**. It would point FIE to limitations and setoff defenses it has not pleaded. |
-| **A-5** | Clean copy of the appraisal award | Prerequisite for Request 3 of this set. (First Set Nos. 29 and 30 were verified by Bill on 9/16/2026 and no longer depend on it.) |
+| **A-5** | Clean copy of the appraisal award | Prerequisite for Request 3 of this set. (First Set Nos. 23 and 24 were verified by Bill on 9/16/2026 and no longer depend on it.) |
 
 A-1 [35] and A-2 [37] are Requests 4 and 5 of this set; their exhibits are ready (see the trigger table). **The earlier note that A-1 and A-2 "remain blocked" is withdrawn.** Exhibit D is Defendant's own October 10, 2025 letter package, and Exhibit E is the October 29, 2025 email with full headers (`../../../EventDocuments/2025-10-29-BrauEmail.pdf`). Export the native originals anyway before any motion that depends on them (`../../../EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md`).
 
 **Answer-mining items AM-8 to AM-16** (`../../Discovery/FirstSetDiscovey/Answer_Mined_for_Discovery_CONSOLIDATED_2026-09-14.md`). Only AM-9 has been applied item by item; the others have not been individually re-checked. As of September 16, 2026, several appear to be covered by First Set requests:
-- **AM-9** (Jie Hu's status): applied as First Set Nos. 190–195 (the two address requests were later removed).
-- **AM-8** (Hancock's "Damaged – No" tagging): appears covered by First Set Nos. 154–159.
-- **AM-10** (the award's $0 siding and debris lines): partly covered by First Set Nos. 31–32.
-- **AM-11** (hail causation for the two windows; loss date): causation is partly covered by First Set No. 25. The loss date has not been asked.
-- **AM-12** (the rear-garage window): appears covered by First Set Nos. 80–81.
-- **AM-14** (the "lack of jurisdiction" defense): appears covered by First Set Nos. 187–189.
+- **AM-9** (Jie Hu's status): applied as First Set Nos. 174–179 (the two address requests were later removed).
+- **AM-8** (Hancock's "Damaged – No" tagging): appears covered by First Set Nos. 143–148.
+- **AM-10** (the award's $0 siding and debris lines): partly covered by First Set Nos. 26–27 (the Siding & Paint line; the two Debris-line requests were removed in the 9/19/2026 trim).
+- **AM-11** (hail causation for the two windows; loss date): causation is partly covered by First Set No. 20. The loss date has not been asked.
+- **AM-12** (the rear-garage window): appears covered by First Set Nos. 77–78.
+- **AM-14** (the "lack of jurisdiction" defense): appears covered by First Set Nos. 171–173.
 - **AM-13, AM-15 and AM-16:** not yet reviewed.
 
 **Re-check each against the First Set before drafting anything from this list.**
