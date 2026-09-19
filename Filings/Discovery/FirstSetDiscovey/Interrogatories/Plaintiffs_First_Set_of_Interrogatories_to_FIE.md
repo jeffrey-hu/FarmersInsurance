@@ -19,6 +19,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"Plaintiffs"** means Yibiao Lu and Jie Hu.
 
+**"The Answer"** means Defendant’s Answer to the Complaint, dated and served August 10, 2026.
+
 **"The Claim"** means Farmers claim number 7007986837-1-1, date of loss July 13, 2024.
 
 **"The 2020 Claim"** means Farmers claim number 3013539499-1.
@@ -52,6 +54,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 **"The Appraisal Demand"** means Plaintiffs' Demand for Appraisal concerning The Claim, dated August 3, 2025.
 
 **"The Appraisal"** means the appraisal proceeding concerning The Claim commenced by The Appraisal Demand and concluded by The Appraisal Award, including the appraisers John Foster and Greg Tomes and the umpire Wade Roos.
+
+**"The Appraisal Items"** means each item listed in the item column of The Appraisal Award, each item Plaintiffs submitted in The Appraisal Demand, and any other item for which You contend The Appraisal Award states a value or a loss.
 
 **"Handling,"** when used with respect to a claim, means the receipt, investigation, evaluation, adjustment, supervision, quality-control or peer review, appraisal, payment, and denial of that claim, and includes deciding or approving coverage or payment, setting or approving the scope of any engagement of The Vendors, communicating with The Vendors or any appraiser, and searching for or collecting records concerning that claim.
 
@@ -101,9 +105,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 3:** State what You did in response to The Inspection-Record Requests, including the search performed, the custodians and systems searched, when the search was performed and by whom; each of The Brau Inspection Records that exists or has existed, with its type, date, present location and custodian; and, for any of them not provided to Plaintiffs, the reason it was not provided.
 
-**INTERROGATORY NO. 4:** For each of The Denial Letters, state whether any supervisory or quality-control review was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
+**INTERROGATORY NO. 4:** For each of The Denial Letters, state whether any review of the decision — including any supervisory, quality-control, or peer review — was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
 
-**INTERROGATORY NO. 5:** Your Answer to paragraph 33 of the Complaint denies Plaintiffs’ allegation that The Appraisal Award does not state actual value and loss separately to each item. For each item listed on The Appraisal Award, and for each item Plaintiffs submitted in The Appraisal Demand, state the actual value and the loss You contend The Appraisal Award states for that item and where on The Appraisal Award each appears; state whether You contend the actual value and loss stated for the item "Windows F1.7 B1.2" were determined separately for each of those two windows and, if so, the amount attributable to each; identify any item other than those two windows for which You contend The Appraisal Award states a value or loss; and state whether You contend The Appraisal Award states separately actual value and loss to each item within the meaning of Minn. Stat. § 65A.01, subd. 3.
+**INTERROGATORY NO. 5:** The Answer denies Plaintiffs’ allegation at paragraph 33 of the Complaint that The Appraisal Award does not state actual value and loss separately to each item. For each of The Appraisal Items, state the actual value and the loss You contend The Appraisal Award states and where on The Appraisal Award each appears — including, for the item "Windows F1.7 B1.2," whether those values were determined separately for each of the two windows and the amount attributable to each; and state whether You contend The Appraisal Award states separately actual value and loss to each item within the meaning of Minn. Stat. § 65A.01, subd. 3.
 
 **INTERROGATORY NO. 6:** Describe what You did with the Hancock Claims Consultants and Prieve Engineering reports before relying on them in The Claim, identifying each person involved, what each did, and each document created; and state whether any written policy or procedure applied to those steps and, if so, identify it.
 

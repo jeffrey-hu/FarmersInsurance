@@ -12,7 +12,7 @@
 | 1 | Per-condition basis for the November 4, 2024 non-coverage conclusion | 1 | **2** | 5 | **Restructured 9/19/2026:** one primary question — the **basis** on which each condition was held not covered — with cause, date, facts, documents, prior-claim particulars and the Coverage Outcome provision all riding as "including" particulars; the component list moved into the definition **"The Recorded Conditions"**; the trailing "Answer separately as to each window and component" dropped (Instruction 13 carries it). A second count only if FIE splits the provision clause back out |
 | 2 | 2020 estimate **line item 1** only | 1 | **2** | 4 | identification of the window or sash; whole unit vs. sashes. Narrowed 9/19/2026 — line items 2 ("Window blind … Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf") and 32 ("Window treatment repair") dropped: the interrogatory exists to locate the **window unit**, and blinds and window treatments are not window units |
 | 3 | Brau's September 6, 2024 records, and the search behind the October 10, 2025 statement | 2 | **3** | 11 | records inventory; basis for the statement; the search itself |
-| 4 | Supervisory review of The Denial Letters | 2 | **3** | 12 | review performed; who authorized; a third if they double for two letters |
+| 4 | Pre-issuance review of The Denial Letters | 2 | **3** | 12 | review performed; who authorized; a third if they double for two letters. **Broadened 9/19/2026** to "any review of the decision — including any supervisory, quality-control, or peer review" so FIE cannot answer only as to the categories named and stay silent on the **peer review** it pleaded at Answer ¶24 |
 | 5 | Award itemization (Answer ¶33) | 2 | **5** | 22 | per-item value and location; the two-window split; any other item; the § 65A.01 contention |
 | 6 | What FIE did with the Hancock and Prieve reports | 2 | **3** | 10 | the steps taken; the written policy; a third if they double for two reports |
 | 7 | First Affirmative Defense and party identity | 3 | **4** | 8 | facts for the defense; counts directed; substitute or added party; misnomer |
@@ -22,17 +22,17 @@
 | 11 | The Hancock "adamantly advising" allegation | 3 | **3** | 9 | the statement's particulars; whether the inspection was limited; whether it was a basis for the 9/3 statement |
 | 12 | Anticipation of litigation and the hold | 2 | **2** | 5 | the anticipation date; the hold |
 | 13 | Employing entity of each claim handler | 1 | **1** | 4 | one question |
-| | **Totals** | **22** | **36** | **116** | |
+| | **Totals** | **22** | **34** | **104** | |
 
 ## What the numbers mean
 
 **Fair count 22 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 26 for the Second Set.
 
-**Likely count 36 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **14**.
+**Likely count 34 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **16**.
 
-⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **52** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
+⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **50** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
 
-**Aggressive count 116.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 116 stick, but it can make it cost time. The whole exposure sits in **5, 10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
+**Aggressive count 104.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 104 stick, but it can make it cost time. The whole exposure now sits in **10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
 
 **Plaintiffs made no representation about the count.** The Rule 33.01(a) certification paragraph was deleted before service (review tracker F-1), so there is no sworn number for FIE to impeach and no admission to walk back. If a count is ever litigated, it is argued fresh.
 
