@@ -235,6 +235,28 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 | "Admit that the homeowner's policy form in force for The Policy on July 13, 2024 was Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition." | Fallback for No. 183, independent of the 2014 booklet comparison. |
 | "Admit that You received the Summons and Complaint in this action on or before July 8, 2026." | A fact, where No. 187 is a legal conclusion. Pairs with 188–189 and does not depend on § 45.028. |
 
+## 5A. Queued for application — the September 6, 2024 measuring requests (Bill, 9/19/2026)
+
+**Status: approved to queue, NOT yet applied.** Two requests, to be inserted **immediately after current No. 34**, in section D (the September 3, 2024 denial), where the Brau inspection facts sit.
+
+> **(a)** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau measured one or more windows at The Property.
+>
+> **(b)** Admit that on October 28, 2025, Plaintiff Yibiao Lu sent an electronic mail message to nic.brau@farmersinsurance.com stating, "We found dents together and you measured sizes of some damaged windows. Can we ask for a copy of the notes you took that day?"
+
+**Why (a).** No. 34 asks FIE to admit Brau *observed* dents — a perception FIE can deny for want of records. Measuring is conduct: an adjuster does not measure a window he has concluded is undamaged, and measuring is what scoping a replacement looks like. It runs directly against the September 3, 2024 letter's "There were no other damages observed" (No. 33). No. 147 already reaches "notes, measurements, or sketches," but disjunctively — FIE can deny the package without ever answering whether he measured.
+
+**Why (b).** It puts the assertion in FIE's hands in writing, fourteen hours before Brau's reply. Sequence: specific written request for the 9/6/2024 notes (b) → "All the information we can release has already been sent to you" (No. 165) → no written report ever produced (No. 139) → "The file does not contain a report on the requested date" (Nos. 137–138).
+
+**Source, verified 9/19/2026:** `EventDocuments/2025-10-28-EmailAskForNicNote.pdf` — sent October 28, 2025 at 7:19 p.m. from bill_y_lu@yahoo.com **to nic.brau@farmersinsurance.com**, copied to Peter Pietila, subject "Request for your inspection note." The quoted sentence is verbatim. Instruction 8 is satisfied: Plaintiffs can produce the original on request.
+
+**Drafting cautions.**
+- Keep (a) neutral — "measured one or more windows," **not** "damaged windows." The email says "damaged windows"; importing that word into the request gives FIE a characterization to deny the whole request on.
+- **Do not** ask FIE to admit the October 29, 2025 message was sent "in reply to" (b). It came from **myadjuster@farmersinsurance.com under a different subject line with no quoted thread** — a fresh message from the shared mailbox, not a threaded reply. The headers would give FIE a clean denial. Make the sequence argument in the brief instead.
+- **Do not** ask FIE to admit the reply "does not dispute" the measuring. That reads as argumentative and invites an objection. It is argument, not a request.
+- Keep in the brief, not in a request: Plaintiffs wrote to Brau's own address and the shared mailbox answered — which also gives No. 171 a concrete illustration.
+
+**Numbering consequence.** These insert mid-set, so they trigger the Option A renumbering recorded in `RFA_Renumbering_Map_2026-09-16_Final.md`. Apply them together with every other settled change, renumber **once**, then rebuild the `.docx` once.
+
 ## 6. What I would do before serving
 
 1. **Split the set.** Hold **107–124 and 130** for a Second Set served after the October 15 production. That removes the only requests that ask FIE to build a pre-existing-damage record, and takes the set to 186.
@@ -242,7 +264,8 @@ Legend: **✅** no material downside · **◐** watch it / expect a qualified an
 3. **Trim two words in 135** ("Your agent") and reconsider "all" in **160**.
 4. **Narrow 204** to documents created before September 3, 2024.
 5. **Write the J6944 waiver argument now**, so a denial of 196 meets a prepared response.
-6. Any of 1–4 changes the `.md`; rebuild the `.docx` once, afterward.
+6. Apply the two queued measuring requests in §5A after No. 34.
+7. Any of 1–4 or 6 changes the `.md`; renumber once (Option A), then rebuild the `.docx` once, afterward.
 
 > **Numbering decision (Bill, 9/18/2026):** if requests are removed, the set is **renumbered contiguously — Option A, no gaps**. Recorded with the mechanics in `RFA_Renumbering_Map_2026-09-16_Final.md` ("Decision — how the next renumbering will be done"). Renumber once, after every substantive change is settled. **Nothing has been applied yet.**
 

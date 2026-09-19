@@ -328,6 +328,28 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 ---
 
+### 2025-10-28-EmailAskForNicNote.pdf
+**Type:** Plaintiffs' outbound email to Farmers' adjuster requesting his September 6, 2024 inspection notes (1 page, printed from Mail with the full header block)
+**Date:** October 28, 2025, 7:19 p.m.
+**Author:** Yibiao Lu (bill_y_lu@yahoo.com) — **to** Nicholas Brau at nic.brau@farmersinsurance.com, **cc** Peter Pietila
+**Subject line:** "Request for your inspection note"
+**Significance:** The written request that Brau answered the next morning with "All the information we can release has already been sent to you" (`2025-10-29-BrauEmail.pdf`). Its body states, verbatim: *"You were at our property to help identify hail damages back on 9/6/2024 (Claim # 7007986837-1-1). We found dents together and you measured sizes of some damaged windows. Can we ask for a copy of the notes you took that day?"*
+
+- It is the only preserved original in which Plaintiffs tell Farmers, contemporaneously and in writing, that its own adjuster found dents **and measured windows** on 9/6/2024. Brau's reply did not correct either statement.
+- It completes the missing-notes sequence: specific written request (this document) → institutional brush-off 14 hours later (10/29/2025) → no written report ever produced → "The file does not contain a report on the requested date" (10/10/2025).
+- **Header detail worth keeping in view:** the request went to Brau's individual address; the answer came from the shared **myadjuster@farmersinsurance.com** mailbox, under a different subject line, with no quoted thread. It is therefore a fresh message rather than a threaded reply — relevant to how the sequence is described in any filing.
+- Cures one of the compilation-only gaps listed in `EventDocuments/Missing_Originals_and_Preservation_Note_2026-09-12.md` (see the September 19, 2026 update there).
+
+---
+
+> ### ⚠️ EventDocuments files not yet catalogued in this index (as of September 19, 2026)
+>
+> `2022-02-17-SecondExtensionResponse.pdf` · `2025-07-10-DeadlineInquery-Email.pdf` · `2025-07-11-DeadlineInquery-FollowUpEmail.pdf` · `2025-07-11-DeadlineInquery.pdf` · `2025-09-16-SettlementNotice.pdf` (carries the appraisal award at p. 4) · `2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf` · `2025-10-21-EmailResponse.pdf` · `2025-10-29-BrauEmail.pdf` · `2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf` · `Garage-RearWindow-1.HEIC`, plus the analysis notes (`2025-10-10_Letter_Package_Analysis_2026-09-15.md`, `2025-10-21_Reply_and_Adjuster_Sequence_Analysis_2026-09-15.md`, `2025-10-29_Brau_Email_Analysis_2026-09-15.md`, `Missing_Originals_and_Preservation_Note_2026-09-12.md`) and the `Appraisal Documents/`, `CommunicationWithPureConstruction/` subfolders.
+>
+> Several of these are heavily relied on in the discovery sets. Backfilling entries for them is worth doing; it is not done here.
+
+---
+
 ## EventDocuments/Appraisal Documents/
 
 ### AppraisalDemand.pdf
