@@ -15,24 +15,24 @@
 | 4 | Pre-issuance review of The Denial Letters | 2 | **3** | 12 | review performed; who authorized; a third if they double for two letters. **Broadened 9/19/2026** to "any review of the decision — including any supervisory, quality-control, or peer review" so FIE cannot answer only as to the categories named and stay silent on the **peer review** it pleaded at Answer ¶24 |
 | 5 | Award itemization (Answer ¶33) | 2 | **5** | 22 | per-item value and location; the two-window split; any other item; the § 65A.01 contention |
 | 6 | What FIE did with The Vendor Reports before relying on them | 1 | **2** | 8 | **Restructured 9/19/2026:** one primary question with persons, acts, documents and any written policy as "including" particulars; the two reports collapsed into the definition **"The Vendor Reports"**, which also covers whatever Hancock actually produced |
-| 7 | First Affirmative Defense and party identity | 3 | **4** | 8 | facts for the defense; counts directed; substitute or added party; misnomer |
+| 7 | First Affirmative Defense and party identity | 2 | **3** | 7 | **Restructured 9/19/2026:** the counts clause folded in as a particular, and a new particular asks whether the jurisdictional allegation means subject-matter, personal, or both. Two questions remain: the basis for the pleaded defense, and — conditionally — who the right party is. The "does FIE contend it" half is carried by **RFAs 178–180 and 194**; the interrogatory supplies the **name**, which no RFA can |
 | 8 | Persons with knowledge | 1 | **2** | 3 | the identification; subject matter and period ride with it, but they may split the Rule 26.01(a)(1)(A) sentence |
 | 9 | Destroyed or unlocatable information (now keyed to **The Brau Inspection Records**) | 1 | **3** | 8 | identification; when and how lost; who authorized and custody |
 | 10 | The three 2025 submissions | 2 | **4** | 19 | what was done; whether it was considered in any decision; why nothing was done; a fourth if they press per-submission |
 | 11 | The Hancock "adamantly advising" allegation | 3 | **3** | 9 | the statement's particulars; whether the inspection was limited; whether it was a basis for the 9/3 statement |
 | 12 | Anticipation of litigation and the hold | 2 | **2** | 5 | the anticipation date; the hold |
 | 13 | Employing entity of each claim handler | 1 | **1** | 4 | one question |
-| | **Totals** | **21** | **33** | **102** | |
+| | **Totals** | **20** | **32** | **101** | |
 
 ## What the numbers mean
 
-**Fair count 21 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 26 for the Second Set.
+**Fair count 20 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 26 for the Second Set.
 
-**Likely count 33 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **17**.
+**Likely count 32 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **18**.
 
-⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **49** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
+⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **48** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
 
-**Aggressive count 102.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 102 stick, but it can make it cost time. The whole exposure now sits in **10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
+**Aggressive count 101.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 101 stick, but it can make it cost time. The whole exposure now sits in **10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
 
 **Plaintiffs made no representation about the count.** The Rule 33.01(a) certification paragraph was deleted before service (review tracker F-1), so there is no sworn number for FIE to impeach and no admission to walk back. If a count is ever litigated, it is argued fresh.
 
