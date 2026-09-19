@@ -91,7 +91,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 1:** The November 4, 2024 Claim Outcome Letter states, "Our investigation found the condition of the window and components to be from wear/tear as referrenced \[sic\] in the attached engineer report." For each window and each other component of The Property — including downspouts, gutters, flashing, siding, trim board, doors, and screens — at which The Prieve Report or Photo Appendix A records a dent, mark, scrape, or indentation, state the cause and approximate date You attributed to that condition when You made the decision communicated in that letter; each fact and document You relied on for that attribution, including, for any condition You attributed to a prior claim, that claim’s number and the estimate line item You contend paid for it; and each provision identified in The Coverage Outcome Attachment that You applied to it. Answer separately as to each window and component.
 
-**INTERROGATORY NO. 2:** For each of line items 1, 2, 3, and 32 of the estimate within The February 18, 2022 Settlement Package, identify, based on all information available to You, the window or sash it covers by location and elevation, and state whether it covers a whole window unit or one or more individual sashes.
+**INTERROGATORY NO. 2:** For line item 1 ("R&R Wood window - casement, 12-23 sf," quantity 2.00 EA) of the estimate within The February 18, 2022 Settlement Package, identify, based on all information available to You, the window or sash it covers by location and elevation, and state whether it covers a whole window unit or one or more individual sashes.
 
 **INTERROGATORY NO. 3:** State whether Nicholas Brau created any record of his September 6, 2024 inspection of The Property — including handwritten notes, sketches, measurements, photographs, voice memos, and claim-system or portal entries — and for each, its type, date, present location and custodian; and state the basis for Your October 10, 2025 statement that "the file does not contain a report on the requested date," including the search performed, the custodians and systems searched, when, and by whom.
 
@@ -115,31 +115,11 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 13:** Identify the legal entity that employed or engaged each person who acted for You in handling The Claim, including Christian Dudley, Nicholas Brau, and Bradlee Monson, at the time of that person’s involvement. This interrogatory does not seek compensation, performance, or disciplinary information.
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
+Dated: September 19, 2026.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Yibiao Lu, Plaintiff *pro se*
-
-17756 George Moran Dr.
-
-Eden Prairie, MN 55347
-
-Telephone: 763-843-2859
-
-Email: bill\_y\_lu@yahoo.com
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Jie Hu, Plaintiff *pro se*
-
-17756 George Moran Dr.
-
-Eden Prairie, MN 55347
-
-Telephone: 763-843-2860
-
-Email: jie\_h\_hu@yahoo.com
+| | |
+| --- | --- |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>Yibiao Lu, Plaintiff *pro se*<br>17756 George Moran Dr.<br>Eden Prairie, MN 55347<br>Telephone: 763-843-2859<br>Email: bill\_y\_lu@yahoo.com | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>Jie Hu, Plaintiff *pro se*<br>17756 George Moran Dr.<br>Eden Prairie, MN 55347<br>Telephone: 763-843-2860<br>Email: jie\_h\_hu@yahoo.com |
 
 **CERTIFICATE OF SERVICE**
 
@@ -147,7 +127,7 @@ I, Yibiao Lu, state and declare as follows:
 
 1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2).
 
-2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at \_\_\_\_\_\_ \_\_.m. local Minnesota time, I served a true and correct copy of *Plaintiffs’ First Set of Interrogatories to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
+2\. On September 19, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Interrogatories to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
 
 > Kevin J. Kennedy (\#193872) — kkennedy@kennedylf.com
 > 
@@ -161,13 +141,13 @@ I, Yibiao Lu, state and declare as follows:
 > 
 > *Counsel for Defendant Fire Insurance Exchange*
 
-3\. The transmission was sent from bill_y_lu@yahoo.com. I did not receive any indication that the transmission failed or was undeliverable. I have retained a copy of the transmission.
+3\. The transmission was sent from bill_y_lu@yahoo.com.
 
 4\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
 
 I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
 
-Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at Eden Prairie, Hennepin County, Minnesota.
+Dated: September 19, 2026, at Eden Prairie, Hennepin County, Minnesota.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

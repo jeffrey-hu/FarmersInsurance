@@ -571,7 +571,7 @@ I, Yibiao Lu, state and declare as follows:
 
 1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2). *(The parties agreed to service by electronic mail on September 15, 2026 — see `KeyDecisions.md`, Decision 4.)*
 
-2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, at \_\_\_\_\_\_ \_\_.m. local Minnesota time, I served a true and correct copy of *Plaintiffs' First Set of Requests for Admission to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
+2\. On \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026, I served a true and correct copy of *Plaintiffs' First Set of Requests for Admission to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
 
 > Kevin J. Kennedy (\#193872) — kkennedy@kennedylf.com
 >
@@ -585,7 +585,7 @@ I, Yibiao Lu, state and declare as follows:
 >
 > *Counsel for Defendant Fire Insurance Exchange*
 
-3\. The transmission was sent from bill\_y\_lu@yahoo.com. I did not receive any indication that the transmission failed or was undeliverable. I have retained a copy of the transmission.
+3\. The transmission was sent from bill\_y\_lu@yahoo.com.
 
 4\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
 
