@@ -17,22 +17,22 @@
 | 6 | What FIE did with the Hancock and Prieve reports | 2 | **3** | 10 | the steps taken; the written policy; a third if they double for two reports |
 | 7 | First Affirmative Defense and party identity | 3 | **4** | 8 | facts for the defense; counts directed; substitute or added party; misnomer |
 | 8 | Persons with knowledge | 1 | **2** | 3 | the identification; subject matter and period ride with it, but they may split the Rule 26.01(a)(1)(A) sentence |
-| 9 | Destroyed or unlocatable information | 1 | **3** | 8 | identification; when and how lost; who authorized and custody |
+| 9 | Destroyed or unlocatable information (now keyed to **The Brau Inspection Records**) | 1 | **3** | 8 | identification; when and how lost; who authorized and custody |
 | 10 | The three 2025 submissions | 2 | **4** | 19 | what was done; whether it was considered in any decision; why nothing was done; a fourth if they press per-submission |
 | 11 | The Hancock "adamantly advising" allegation | 3 | **3** | 9 | the statement's particulars; whether the inspection was limited; whether it was a basis for the 9/3 statement |
 | 12 | Anticipation of litigation and the hold | 2 | **2** | 5 | the anticipation date; the hold |
 | 13 | Employing entity of each claim handler | 1 | **1** | 4 | one question |
-| | **Totals** | **23** | **37** | **120** | |
+| | **Totals** | **22** | **36** | **116** | |
 
 ## What the numbers mean
 
-**Fair count 23 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 25 for the Second Set.
+**Fair count 22 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 26 for the Second Set.
 
-**Likely count 37 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **13**, not 24.
+**Likely count 36 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **14**.
 
-⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **53** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
+⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **52** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
 
-**Aggressive count 120.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 120 stick, but it can make it cost time. The whole exposure sits in four interrogatories — **5, 10, 4 and 3** — all of which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
+**Aggressive count 116.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 116 stick, but it can make it cost time. The whole exposure sits in **5, 10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
 
 **Plaintiffs made no representation about the count.** The Rule 33.01(a) certification paragraph was deleted before service (review tracker F-1), so there is no sworn number for FIE to impeach and no admission to walk back. If a count is ever litigated, it is argued fresh.
 

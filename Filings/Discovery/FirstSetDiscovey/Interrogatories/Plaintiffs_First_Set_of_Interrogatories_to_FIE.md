@@ -39,6 +39,10 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The Recorded Conditions"** means each dent, mark, scrape, or indentation that The Prieve Report or Photo Appendix A records at a window or other component of The Property, including downspouts, gutters, flashing, siding, trim board, doors, and screens.
 
+**"The Brau Inspection Records"** means every Document recording Nicholas Brau’s September 6, 2024 inspection of The Property, including any report, handwritten notes, sketches, measurements, photographs, voice memos, and claim-system or portal entries.
+
+**"The Inspection-Record Requests"** means Plaintiff Yibiao Lu’s electronic mail message of October 7, 2025 to You at myadjuster@farmersinsurance.com requesting "a copy of the inspection report/notes from Nic Brau," and his electronic mail message of October 28, 2025 to Nicholas Brau at nic.brau@farmersinsurance.com requesting "a copy of the notes you took that day."
+
 **"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with The November 4, 2024 Claim Outcome Letter.
 
 **"The Vendors"** means Hancock Claims Consultants, Prieve Engineering, LLC, and any other person You engaged to inspect, evaluate, test, or report on The Property, The Claim, or The 2020 Claim.
@@ -95,7 +99,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 2:** For line item 1 ("R&R Wood window - casement, 12-23 sf," quantity 2.00 EA) of the estimate within The February 18, 2022 Settlement Package, identify, based on all information available to You, the window or sash it covers by location and elevation, and state whether it covers a whole window unit or one or more individual sashes.
 
-**INTERROGATORY NO. 3:** State whether Nicholas Brau created any record of his September 6, 2024 inspection of The Property — including handwritten notes, sketches, measurements, photographs, voice memos, and claim-system or portal entries — and for each, its type, date, present location and custodian; and state the basis for Your October 10, 2025 statement that "the file does not contain a report on the requested date," including the search performed, the custodians and systems searched, when, and by whom.
+**INTERROGATORY NO. 3:** State what You did in response to The Inspection-Record Requests, including the search performed, the custodians and systems searched, when the search was performed and by whom; each of The Brau Inspection Records that exists or has existed, with its type, date, present location and custodian; and, for any of them not provided to Plaintiffs, the reason it was not provided.
 
 **INTERROGATORY NO. 4:** For each of The Denial Letters, state whether any supervisory or quality-control review was performed before the letter issued and, if so, by whom, when, what it consisted of, and what documents it produced; and identify who authorized each letter to be issued.
 
@@ -107,7 +111,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 8:** Identify each person known to You to have knowledge of facts concerning the Handling of The Claim or The 2020 Claim, any inspection of The Property, The Appraisal, or The Denial Letters, whether or not that person is presently employed by You, and state the subject matter of each person’s knowledge and the period of that person’s involvement. This interrogatory is not limited to persons You may use to support Your claims or defenses within the meaning of Minn. R. Civ. P. 26.01(a)(1)(A).
 
-**INTERROGATORY NO. 9:** Identify each document or other information concerning The Claim, The 2020 Claim, or The Property — including any record of Nicholas Brau’s September 6, 2024 inspection of The Property — that You contend no longer exists or cannot be located, stating for each its type, date, author, and subject matter, when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
+**INTERROGATORY NO. 9:** Identify each document or other information concerning The Claim, The 2020 Claim, or The Property — including The Brau Inspection Records — that You contend no longer exists or cannot be located, stating for each its type, date, author, and subject matter, when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
 
 **INTERROGATORY NO. 10:** For each of Plaintiffs’ submissions of January 31, 2025 (post-2020 storm activity and gutter replacement), February 10, 2025 (City of Eden Prairie permit records and the neighbor canvass), and May 28, 2025 (National Weather Service and Interactive Hail Maps material, through agent Peter Pietila), state what You did with it, identifying each person involved, when, the conclusion reached, each document recording it, and whether it was considered in any decision on The Claim; if nothing was done, state why.
 
