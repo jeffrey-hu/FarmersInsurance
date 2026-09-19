@@ -125,8 +125,6 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 12:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination and what prompted it; and state the date any litigation hold or preservation instruction concerning The Claim was issued, and to whom it was directed.
 
-**INTERROGATORY NO. 13:** Identify the legal entity that employed or engaged each person who acted for You in handling The Claim, including Christian Dudley, Nicholas Brau, and Bradlee Monson, at the time of that person’s involvement. This interrogatory does not seek compensation, performance, or disciplinary information.
-
 Dated: September 19, 2026.
 
 | | |

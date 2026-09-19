@@ -1,4 +1,4 @@
-# Interrogatory Count — First Set as Served (Nos. 1–13)
+# Interrogatory Count — First Set as Served (Nos. 1–12)
 
 **Date:** September 19, 2026 · **Supersedes:** `Interrogatory_Count_and_Open_Items_2026-09-15.md` (written against the 18-interrogatory draft)
 **Document counted:** `Plaintiffs_First_Set_of_Interrogatories_to_FIE.md` / `.docx`, dated September 19, 2026.
@@ -21,18 +21,17 @@
 | 10 | The three 2025 submissions | 2 | **4** | 19 | what was done; whether it was considered in any decision; why nothing was done; a fourth if they press per-submission |
 | 11 | The Hancock "adamantly advising" allegation | 3 | **3** | 9 | the statement's particulars; whether the inspection was limited; whether it was a basis for the 9/3 statement |
 | 12 | Anticipation of litigation and the hold | 2 | **2** | 5 | the anticipation date; the hold |
-| 13 | Employing entity of each claim handler | 1 | **1** | 4 | one question |
-| | **Totals** | **20** | **32** | **101** | |
+| | **Totals** | **19** | **31** | **97** | |
 
 ## What the numbers mean
 
-**Fair count 20 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 26 for the Second Set.
+**Fair count 19 of 50.** With 2 reserved for expert interrogatories under Rule 26.02(e)(1)(A), that leaves about 26 for the Second Set.
 
-**Likely count 32 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **18**.
+**Likely count 31 of 50 — this is the number to plan against.** It counts as separate only those clauses that can be answered without answering the primary question, which is the test a court would actually apply. The set is still under the cap, and no single interrogatory is indefensible. But the headroom is **19**.
 
-⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **48** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
+⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **47** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
 
-**Aggressive count 101.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 101 stick, but it can make it cost time. The whole exposure now sits in **10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
+**Aggressive count 97.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 97 stick, but it can make it cost time. The whole exposure now sits in **10 and 4**, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
 
 **Plaintiffs made no representation about the count.** The Rule 33.01(a) certification paragraph was deleted before service (review tracker F-1), so there is no sworn number for FIE to impeach and no admission to walk back. If a count is ever litigated, it is argued fresh.
 
