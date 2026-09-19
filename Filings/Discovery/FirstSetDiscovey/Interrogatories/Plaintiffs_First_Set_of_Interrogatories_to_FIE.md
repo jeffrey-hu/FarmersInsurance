@@ -45,6 +45,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The Inspection-Record Requests"** means Plaintiff Yibiao Lu’s electronic mail message of October 7, 2025 to You at myadjuster@farmersinsurance.com requesting "a copy of the inspection report/notes from Nic Brau," and his electronic mail message of October 28, 2025 to Nicholas Brau at nic.brau@farmersinsurance.com requesting "a copy of the notes you took that day."
 
+**"The 2025 Submissions"** means Plaintiffs’ submissions to You of January 31, 2025 (post-2020 storm activity and gutter replacement), February 10, 2025 (City of Eden Prairie permit records and the neighbor canvass), and May 28, 2025 (National Weather Service and Interactive Hail Maps material, received directly or through Peter Pietila).
+
 **"The Coverage Outcome Attachment"** means the document titled "Coverage Outcome – Policy Provisions" transmitted with The November 4, 2024 Claim Outcome Letter.
 
 **"The Vendors"** means Hancock Claims Consultants, Prieve Engineering, LLC, and any other person You engaged to inspect, evaluate, test, or report on The Property, The Claim, or The 2020 Claim.
@@ -119,7 +121,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 9:** Identify each document or other information concerning The Claim, The 2020 Claim, or The Property — including The Brau Inspection Records — that You contend no longer exists or cannot be located, including for each its type, date, author, and subject matter, when and how it ceased to exist or became unlocatable, who authorized or caused that, each person who has had custody of it, and any records-retention policy or schedule under which it was not preserved.
 
-**INTERROGATORY NO. 10:** For each of Plaintiffs’ submissions of January 31, 2025 (post-2020 storm activity and gutter replacement), February 10, 2025 (City of Eden Prairie permit records and the neighbor canvass), and May 28, 2025 (National Weather Service and Interactive Hail Maps material, through agent Peter Pietila), state what You did with it, identifying each person involved, when, the conclusion reached, each document recording it, and whether it was considered in any decision on The Claim; if nothing was done, state why.
+**INTERROGATORY NO. 10:** State what You did with each of The 2025 Submissions, including each person involved, when, the conclusion reached, each document recording it, whether it was considered in any decision on The Claim, and, if nothing was done, why.
 
 **INTERROGATORY NO. 11:** As to the allegation in The Answer, responding to paragraph 14 of the Complaint, that Plaintiffs "attempted to direct the claim-handling process by adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking," state who made and who received the statement, when and how, and identify each document recording it and the person who first recorded it; state whether Hancock’s August 29, 2024 inspection was limited as a result and, if so, what was not inspected; and state whether You contend the statement was a basis for Your September 3, 2024 statement that "\[t\]here were no other damages observed."
 
