@@ -20,8 +20,8 @@
 | 9 | Destroyed or unlocatable information (keyed to **The Brau Inspection Records**) | 1 | **2** | 9 | **Revised 9/19/2026:** "stating for each" → "including for each," so the loss details read as particulars of the identification; "lost or destroyed" → "ceased to exist **or became unlocatable**," closing the gap that let FIE answer "not destroyed, merely not located"; and a records-retention policy field added — RFP 3 reaches the policy only for Brau's records, RFP Instruction 6 not at all |
 | 10 | The three 2025 submissions | 2 | **4** | 19 | what was done; whether it was considered in any decision; why nothing was done; a fourth if they press per-submission |
 | 11 | The Hancock "adamantly advising" allegation | 2 | **2** | 7 | **Restructured 9/19/2026:** whether the inspection was limited as a result folded in as a particular — it is the second half of the same allegation; the September 3 contention stays separate because it reaches a different document |
-| 12 | Anticipation of litigation and the hold | 2 | **2** | 5 | the anticipation date; the hold |
-| | **Totals** | **17** | **27** | **86** | |
+| 12 | Anticipation of litigation and the hold | 2 | **2** | 7 | **Sharpened 9/19/2026:** the anticipation date now carries "the **first** document" FIE contends was prepared in anticipation (singular — it tests the date without duplicating the privilege log or inviting a burden objection); the hold clause reaches "The Claim **or this action**" and asks **what it directed to be preserved**. Two questions, unchanged |
+| | **Totals** | **17** | **27** | **88** | |
 
 ## What the numbers mean
 
@@ -31,7 +31,7 @@
 
 ⚠️ **The five held Second Set drafts do not fit inside 12 on this count.** At their likely counts — J6944 3, award scope 4, Prieve scope 3, the October reconciliation 3, § 604.18 subd. 4(c) 1 — they total about **14**, and the 2 reserved expert interrogatories bring it to 16. Serving all of them would put the cumulative figure at roughly **43** on FIE's likely count. **Before the Second Set is drafted, pick three of the five**, or plan to seek a stipulation or leave under Rule 33.01(a) ("upon motion, notice and a showing of good cause"). The RFAs and the depositions can carry what is cut.
 
-**Aggressive count 86.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 86 stick, but it can make it cost time. The largest remaining single figures are Ints. 4 and 9, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
+**Aggressive count 88.** This is the multiplication theory — every data point times every enumerated item. The 1993 Advisory Committee Note to Rule 33 forecloses it directly: a question "asking about communications of a particular type should be treated as a single interrogatory even though it requests that the time, place, persons present, and contents be stated separately for each such communication." FIE cannot make 88 stick, but it can make it cost time. The largest remaining single figures are Ints. 4 and 9, which share the "for each item, state A, B, C, D" shape. Nothing else in the set is worth arguing about.
 
 **Plaintiffs made no representation about the count.** The Rule 33.01(a) certification paragraph was deleted before service (review tracker F-1), so there is no sworn number for FIE to impeach and no admission to walk back. If a count is ever litigated, it is argued fresh.
 

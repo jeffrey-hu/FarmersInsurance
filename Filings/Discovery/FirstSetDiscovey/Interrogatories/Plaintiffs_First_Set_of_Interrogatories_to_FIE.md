@@ -125,7 +125,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 11:** As to the allegation in The Answer, responding to paragraph 14 of the Complaint, that Plaintiffs "attempted to direct the claim-handling process by adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking," state who made and who received the statement, when and how, including each document recording it, the person who first recorded it, and whether Hancock’s August 29, 2024 inspection was limited as a result and, if so, what was not inspected; and state whether You contend the statement was a basis for Your September 3, 2024 statement that "\[t\]here were no other damages observed."
 
-**INTERROGATORY NO. 12:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination and what prompted it; and state the date any litigation hold or preservation instruction concerning The Claim was issued, and to whom it was directed.
+**INTERROGATORY NO. 12:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination, what prompted it, and the first document in Your claim file that You contend was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d); and state the date any litigation hold or preservation instruction concerning The Claim or this action was issued, to whom it was directed, and what it directed to be preserved.
 
 Dated: September 19, 2026.
 
