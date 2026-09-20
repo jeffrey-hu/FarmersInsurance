@@ -9,7 +9,7 @@
 
 **TO:** Defendant Fire Insurance Exchange, by and through its attorney-in-fact Fire Underwriters Association, and its attorneys of record.
 
-PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of Civil Procedure, Plaintiffs Yibiao Lu and Jie Hu serve the following interrogatories on Defendant, to be answered separately, fully, in writing, and under oath within thirty (30) days after service.
+PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of Civil Procedure, Plaintiffs Yibiao Lu and Jie Hu serve the following interrogatories on Defendant, to be answered separately, fully, in writing, and under oath or penalty of perjury within thirty (30) days after service.
 
 **Definitions**
 
@@ -23,7 +23,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **"The Claim"** means Farmers claim number 7007986837-1-1, date of loss July 13, 2024.
 
-**"The 2020 Claim"** means Farmers claim number 3013539499-1.
+**"The 2020 Claim"** means Farmers claim number 3013539499-1, also shown in Your documents as 3013539499-1-1.
 
 **"The February 18, 2022 Settlement Package"** means the 11-page document dated February 18, 2022 that You provided to Plaintiff Yibiao Lu concerning The 2020 Claim, consisting of Your two-page letter captioned "Settlement Notice," the one-page "BUILDING LOSS WORKSHEET" headed "This is a complete recap of your claim," and the eight-page estimate that follows, identified on its face as Estimate "YIBIAO_LU2," bearing "Claim Number: 3013539499-1-1" and setting out numbered line items 1 through 32.
 
@@ -87,7 +87,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **6.** No responsive information. If no information exists responsive to an interrogatory, state so expressly. If responsive information once existed but no longer exists or cannot be located, state that in the answer, identify the information, and state when and how it was lost or destroyed, who authorized or caused that, and who has had custody of it.
 
-**7.** Construction. The words "and" and "or" are both conjunctive and disjunctive; "each" includes "every"; and the singular includes the plural and vice versa, as necessary to bring within the scope of each interrogatory all answers that might otherwise be construed to be outside its scope.
+**7.** Construction. The words "and" and "or" are both conjunctive and disjunctive; "each" includes "every"; and the singular includes the plural and vice versa, as necessary to bring within the scope of each interrogatory all answers that might otherwise be construed to be outside its scope. A term defined in these interrogatories has its defined meaning wherever it appears, whether or not it is capitalized.
 
 **8.** Attorney-client communications and litigation counsel. No interrogatory seeks information protected by the attorney-client privilege or by Minn. R. Civ. P. 26.02(d). Communications solely between You and Your counsel of record in this action, dated on or after July 8, 2026, need not be described or logged. This paragraph does not excuse the identification or logging of any communication created before that date, including communications created in the handling, investigation, evaluation, or denial of The Claim.
 
@@ -123,7 +123,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 10:** State what You did with each of The 2025 Submissions, including each person involved, when, the conclusion reached, each document recording it, whether it was considered in any decision on The Claim, and, if nothing was done, why.
 
-**INTERROGATORY NO. 11:** As to the allegation in The Answer, responding to paragraph 14 of the Complaint, that Plaintiffs "attempted to direct the claim-handling process by adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking," state who made and who received the statement, when and how, including each document recording it, the person who first recorded it, and whether Hancock’s August 29, 2024 inspection was limited as a result and, if so, what was not inspected; and state whether You contend the statement was a basis for Your September 3, 2024 statement that "\[t\]here were no other damages observed."
+**INTERROGATORY NO. 11:** As to Your assertion in The Answer, responding to paragraph 14 of the Complaint, that Plaintiffs "attempted to direct the claim-handling process by adamantly advising Hancock Claims Consultants that the only thing that needed to be inspected was the windows on the inside where they were leaking," state who made and who received that statement, when and how, including each document recording it, the person who first recorded it, and whether Hancock’s August 29, 2024 inspection was limited as a result and, if so, what was not inspected; and state whether You contend that statement was a basis for Your September 3, 2024 statement that "\[t\]here were no other damages observed."
 
 **INTERROGATORY NO. 12:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination, what prompted it, and the first document in Your claim file that You contend was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d); and state the date any litigation hold or preservation instruction concerning The Claim or this action was issued, to whom it was directed, and what it directed to be preserved.
 

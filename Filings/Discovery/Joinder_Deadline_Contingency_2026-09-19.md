@@ -39,7 +39,7 @@ Two constraints run on different tracks, and the one everybody watches is the we
 
 | Date | Event |
 |---|---|
-| **October 21, 2026** | Interrogatory answers due (served 9/19 before 5:00 p.m.) |
+| **October 19, 2026** | Interrogatory answers due (served 9/19 before 5:00 p.m.; transmission after 5:00 p.m. moves it to October 20 — Minn. R. Civ. P. 6.01(e)) |
 | **30 days after RFA service** | RFA answers due — **serve the RFAs promptly**; the entity admissions (8, 9, 10, 148–151, 178–180, 182, 194, 201–202) are the fastest route to certainty |
 | **October 15, 2026** | RFP responses due (served 9/15). **Check RFP 15 and RFP 17** — see §8 |
 | **~October 26, 2026** | **Assess.** Do the answers name only FIE entities, or do they name or imply another? |
