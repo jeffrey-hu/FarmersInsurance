@@ -519,64 +519,26 @@ Plaintiffs reserve the right to serve additional requests for admission. Minn. R
 
 Dated: September 20, 2026.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Yibiao Lu, Plaintiff *pro se*
-
-17756 George Moran Dr.
-
-Eden Prairie, MN 55347
-
-Telephone: 763-843-2859
-
-Email: bill\_y\_lu@yahoo.com
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Jie Hu, Plaintiff *pro se*
-
-17756 George Moran Dr.
-
-Eden Prairie, MN 55347
-
-Telephone: 763-843-2860
-
-Email: jie\_h\_hu@yahoo.com
+| | |
+| --- | --- |
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>Yibiao Lu, Plaintiff *pro se*<br>17756 George Moran Dr.<br>Eden Prairie, MN 55347<br>Telephone: 763-843-2859<br>Email: bill\_y\_lu@yahoo.com | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>Jie Hu, Plaintiff *pro se*<br>17756 George Moran Dr.<br>Eden Prairie, MN 55347<br>Telephone: 763-843-2860<br>Email: jie\_h\_hu@yahoo.com |
 
 **CERTIFICATE OF SERVICE**
 
-I, Yibiao Lu, state and declare as follows:
-
-1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2).
-
-2\. On September 20, 2026, I served a true and correct copy of *Plaintiffs' First Set of Requests for Admission to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
+I, Yibiao Lu, Plaintiff *pro se*, state that on September 20, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Requests for Admission to Defendant Fire Insurance Exchange* upon Defendant's counsel of record, by electronic mail in the manner the parties have agreed, as a PDF attachment sent from bill_y_lu@yahoo.com to:
 
 > Kevin J. Kennedy — kkennedy@kennedylf.com
->
+> 
 > Mary J. Baskfield — mbaskfield@kennedylf.com
->
-> KENNEDY LAW FIRM P.C.
->
-> 7616 Currell Blvd., Suite 270
->
-> Woodbury, MN 55125
->
-> *Counsel for Defendant Fire Insurance Exchange*
+> 
+> KENNEDY LAW FIRM P.C., *Counsel for Defendant Fire Insurance Exchange*
 
-3\. The transmission was sent from bill\_y\_lu@yahoo.com.
-
-4\. These discovery requests are served, not filed, in accordance with Minn. R. Civ. P. 5.04(b).
+Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2). These discovery requests are served, not filed. Minn. R. Civ. P. 5.04(b).
 
 I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
 
 Dated: September 20, 2026, at Eden Prairie, Hennepin County, Minnesota.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-*Signature of person who served the documents*
-
-Name:  Yibiao Lu  
-Address:  17756 George Moran Dr.  
-City/State/Zip:  Eden Prairie, MN 55347  
-Telephone:  763-843-2859  
-E-mail address:  bill\_y\_lu@yahoo.com
+Yibiao Lu, Plaintiff *pro se*

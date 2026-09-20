@@ -133,6 +133,34 @@ Email service is complete on transmission (Minn. Gen. R. Prac. 14.03(e)), so the
 
 ~~The unverified RFA 23~~ is **resolved** (September 16, 2026). Checked against the award image, the old request ("Greg Tomes did not sign The Appraisal Award") was wrong as drafted: Tomes signed the umpire-appointment block, and left blank only his line under "We certify the amounts established above." The request was rewritten and is now **First Set No. 23**, with a companion at **No. 24** (renumbered twice on 9/19/2026: they were Nos. 29–30, became Nos. 32–33 in the first pass, and are Nos. 23–24 after the trim), under the numbering that descends from September 16, 2026 (`Filings/RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`). ✅ Both were verified by Bill against the award on September 16, 2026.
 
+## Decision 8: The Certificate of Service — Canonical Form
+
+**Decision: certify under penalty of perjury (Minn. Stat. § 358.116), never by sworn-affidavit preamble, and recite only what Rule 5.04(b) and § 358.116 require. Adopted September 20, 2026.**
+
+**Status:** ✅ Applied to the First Set Interrogatories and the First Set Requests for Admission, both `.md` and `.docx`. The canonical block lives at **§4 of `Filings/Document_Formatting_Standard.md`** — copy it from there.
+
+### What the rules require, and nothing more
+
+**Minn. R. Civ. P. 5.04(b)** prescribes the whole content: "the details of how and when service was accomplished," signed "under oath **or** penalty of perjury by the person effecting service." **Minn. Stat. § 358.116** adds the declaration sentence, the signature below it, and the **date, county and state** of signing. **Minn. Gen. R. Prac. 14** prescribes no certificate contents at all. Everything else that had accumulated — the over-18 recital, "personally made," the ¶1–¶4 numbering, attorney registration numbers, counsel's street address, and the `Name:` / `Address:` / `City/State/Zip:` / `Telephone:` / `E-mail address:` block — came from the Judicial Branch **affidavit of service** form, which exists for **Rule 4** service of process. Rule 4.02 requires a server "not less than 18 years of age **and not a party to the action**"; none of that governs Rule 5 service on an appearing party's counsel, which is why a pro se party may serve their own discovery. All of it was removed. 197 words → about 120.
+
+### Why: a sworn certificate should contain only what it can stand behind
+
+Everything in the certificate is sworn under penalty of perjury. A recital that is not required and does not prove service is one more thing to be accurate about for no gain — which is exactly how the **Baskfield registration-number problem** arose (see I-5). Where service is contested, the proof is the sent message and its full headers, so the certificate names the **sending address**, and the exact transmission time is recorded in `Filings/Discovery/Service_Log.md` rather than in a blank on a document signed before the send.
+
+### ⚠️ Never use "being first duly sworn on oath"
+
+That is a **jurat** formula and means something only where a notary administers the oath and signs below. Rule 5.04(b) offers oath **or** penalty of perjury; § 358.116 is the no-notary route these filings take. Combining the two puts a false recital of an oath into a document signed under penalty of perjury.
+
+FIE's own **Affidavit of Service of August 10, 2026** does exactly that: "Julie Parks, being first duly sworn on oath, deposes and states," with **no notary block, signature or seal**, then § 358.116 — and it omits the county and state of signing that § 358.116 requires. Bill raised it as a possible model on September 20, 2026; it is not one.
+
+### Companion formatting rule: signature blocks side by side
+
+**Decision: the two Plaintiffs' signature blocks sit side by side, not stacked. Adopted September 20, 2026.** Stacked, they consume half a page and can split across a page break; side by side they read as a single signature line in six. Built as a **borderless one-row, two-column table** in the `.docx` and a two-column pipe table in the `.md` twin. Applied to the First Set Interrogatories (9/19/2026) and the First Set Requests for Admission (9/20/2026). Mechanics at **§3 of `Filings/Document_Formatting_Standard.md`**.
+
+⚠️ **Page breaks in these documents live inside empty paragraphs** (`<w:br w:type="page"/>`), not in section breaks — that is what puts the certificate of service on its own page. Empty paragraphs are therefore not interchangeable, and duplicating one duplicates the break. Doing exactly that while building the RFA signature table turned a 20-page set into 22 pages with two blank pages; a paragraph-by-paragraph `.md`/`.docx` comparison showed **zero** mismatches throughout, because the offending paragraphs are empty. **Render to PDF and scan for blank pages after any change near the signature block or the certificate.**
+
+---
+
 ### Housekeeping
 
 The written agreement is preserved at `EventDocuments/2026-09-14-ConfirmOnEmailServiceAndProtectOrder.pdf`, with a pointer at `Filings/Discovery/CommunicationLogs/2026-09-14-EServiceAndProtectiveOrder/`. **The existence of the writing is what makes every subsequent email service valid** — if it is ever contested, that exchange is the proof.
@@ -246,4 +274,4 @@ Old Ints. 5 and 13 asked the same per-item question twice. They are now a single
 
 ---
 
-*Last updated: 2026-09-20 — service dates set to September 20, 2026 for both remaining First Set sets (both answers due October 20, 2026); RFA count corrected to Nos. 1–185 in sections A–V; the Tomes-signature requests renumbered to Nos. 23–24; the Interrogatories' Rule 33.01(a) blocker marked superseded in place. Earlier: 2026-09-18 — Decision 7 added (with same-day addendum holding old Int. 2) (Interrogatory No. 1 re-anchored; award-scope contention held for the Second Set; RFAs 205–207 added). Decision 4's note that the Interrogatories are blocked by the Rule 33.01(a) certification is **superseded** — that paragraph was deleted September 17, 2026.*
+*Last updated: 2026-09-20 — **Decision 8 added** (canonical certificate of service; no sworn-affidavit preamble; §4 of `Filings/Document_Formatting_Standard.md` is the source), with a companion rule putting the two Plaintiffs' signature blocks side by side (§3) and the page-break-in-an-empty-paragraph hazard recorded. Also: service dates set to September 20, 2026 for both remaining First Set sets (both answers due October 20, 2026); RFA count corrected to Nos. 1–185 in sections A–V; the Tomes-signature requests renumbered to Nos. 23–24; the Interrogatories' Rule 33.01(a) blocker marked superseded in place. Earlier: 2026-09-18 — Decision 7 added (with same-day addendum holding old Int. 2) (Interrogatory No. 1 re-anchored; award-scope contention held for the Second Set; RFAs 205–207 added). Decision 4's note that the Interrogatories are blocked by the Rule 33.01(a) certification is **superseded** — that paragraph was deleted September 17, 2026.*
