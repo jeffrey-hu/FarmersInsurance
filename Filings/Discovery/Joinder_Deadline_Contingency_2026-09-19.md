@@ -41,6 +41,7 @@ Two constraints run on different tracks, and the one everybody watches is the we
 |---|---|
 | **October 21, 2026** | Interrogatory answers due (served 9/19 before 5:00 p.m.) |
 | **30 days after RFA service** | RFA answers due — **serve the RFAs promptly**; the entity admissions (8, 9, 10, 148–151, 178–180, 182, 194, 201–202) are the fastest route to certainty |
+| **October 15, 2026** | RFP responses due (served 9/15). **Check RFP 15 and RFP 17** — see §8 |
 | **~October 26, 2026** | **Assess.** Do the answers name only FIE entities, or do they name or imply another? |
 | **~October 28, 2026** | If anything is thin or evasive: send the meet-and-confer **and** the stipulation request the same day (§6 below) |
 | **November 16, 2026** | Joinder deadline |
@@ -80,7 +81,35 @@ Send as a paragraph inside the meet-and-confer letter, not as a separate ask.
 4. **Third-party subpoenas** to Hancock Claims Consultants, Prieve Engineering and the appraisers — their engagement paperwork names the entity that retained them.
 5. **The letters themselves**, already pinned by RFAs: the September 3 letter (Dudley), November 4 (Brau), October 10 (Zorphlon Miller), September 24 (Twonda Miller) — each on Fire Insurance Exchange letterhead.
 
-## 8. If the answers are evasive — meet-and-confer skeleton
+## 8. Deferred requests for admission — the October 15, 2026 trigger
+
+**Held deliberately, not forgotten.** Two requests for admission were drafted on September 19, 2026 and *not* served with the First Set. They are recorded here so the decision is revisited on a date rather than remembered by accident.
+
+**What they were.** Draft text, verbatim as held:
+
+> **(a)** Admit that You have not received from Greg Tomes any estimate, valuation, worksheet, or other document stating an actual value or a loss for any item appraised in the appraisal that resulted in The Appraisal Award.
+
+> **(b)** Admit that You have not received from any appraiser or umpire any document that states or explains how the amounts stated in The Appraisal Award were determined, other than The Appraisal Award itself.
+
+**Why they were held.**
+
+1. **The documents are already demanded.** RFP 15 (all correspondence with Tomes, Foster and Roos) and RFP 17 (Tomes's complete appraiser file) cover the same ground, and RFP Instruction 6 requires an express statement where no responsive documents exist. FIE must therefore say "none" in writing by **October 15, 2026** — which is the same fact, obtained without spending a request.
+2. **The only marginal gain is procedural,** not informational: conclusiveness under **Rule 36.02** and cost-shifting for an unfounded denial under **Rule 37.03(b)**. Both remain available in the Second Set.
+3. **Volume risk.** The First Set was cut from 206 requests to 185 on September 19 specifically to blunt a **Rule 26.02(b)** proportionality objection before the November 16 deadline. Adding requests back cuts against that.
+4. **Jeffrey's test** — *do Plaintiffs lose anything by not asking this now?* Here, no: the deadline for the answer is the same either way, and asking later is strictly stronger (see below).
+
+**The trigger — do this on October 15, 2026.** Read FIE's responses to **RFP 15** and **RFP 17**. Serve the two requests with the **Second Set** in early November if **either** condition holds:
+
+- FIE produces **nothing from Tomes** (no estimate, valuation, worksheet or correspondence bearing values); **or**
+- FIE produces **nothing that explains how the amounts in The Appraisal Award were determined** — no worksheet, no line-item derivation, no appraiser exchange fixing the figures.
+
+**Why later is stronger.** After October 15 the requests can quote FIE's own response — "Defendant states that no responsive documents exist" — rather than asking FIE to admit a negative in the abstract. A denial then contradicts FIE's own signed discovery response, which is the posture Rule 37.03(b) is written for. **When drafting, quote the actual response language; do not paraphrase it.**
+
+**If instead FIE produces Tomes documents,** the requests are moot as drafted — replace them with requests directed at what the documents do and do not state (whether any of them states an actual value or a loss for each item, per **Minn. Stat. § 65A.01 subd. 3**), and reconcile against Answer ¶34, which admits only that FIE "confirmed that" the umpire provided no report while disclaiming knowledge of whether one was produced.
+
+**Cross-reference:** park the requests in `Filings/Discovery/SecondSetDiscovery/` once drafted, alongside the five held interrogatories (`Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md`), so the Second Set goes out as one package in early November. Related: Answer ¶30 (the appraisal demand's three items, cleanly admitted — no request needed) and Answer ¶34 (the umpire's report, **not** admitted).
+
+## 9. If the answers are evasive — meet-and-confer skeleton
 
 1. **Quote the request and the answer** side by side. No characterization.
 2. **Rule 36.01** for the denials: a denial "shall fairly meet the substance of the requested admission," lack of knowledge requires reasonable inquiry, and the court may "order either that the matter is admitted or that an amended answer be served."
@@ -91,6 +120,6 @@ Send as a paragraph inside the meet-and-confer letter, not as a separate ask.
 7. **Ask for the stipulation** in the same letter (§6).
 8. **Then Scheduling Order ¶4**: three-page letter to the Court requesting a conference call before any formal motion.
 
-## 9. Sources
+## 10. Sources
 
-Scheduling Order ¶1, September 8, 2026 · Minn. R. Civ. P. **15.01**, **15.03**, **16.02**, **21**, **8.03**, **30.02(f)**, **33.01(d)**, **36.01**, **37.01**, **37.03(a)** — verified at revisor.mn.gov, September 19, 2026 · `KeyDecisions.md` Decisions 1 and 2 · `Filings/SummonsAndComplaint/AnswerFromFIE/FIE_Answer_Analysis_and_Next_Steps.md` (three affirmative defenses; no limitations defense pleaded).
+Scheduling Order ¶1, September 8, 2026 · Minn. R. Civ. P. **15.01**, **15.03**, **16.02**, **21**, **8.03**, **30.02(f)**, **33.01(d)**, **36.01**, **36.02**, **37.01**, **37.03(a)**, **37.03(b)**, **26.02(b)** — verified at revisor.mn.gov, September 19, 2026 · `KeyDecisions.md` Decisions 1 and 2 · `Filings/SummonsAndComplaint/AnswerFromFIE/FIE_Answer_Analysis_and_Next_Steps.md` (three affirmative defenses; no limitations defense pleaded).
