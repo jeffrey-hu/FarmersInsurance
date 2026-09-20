@@ -127,7 +127,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 33 of the Minnesota Rules of C
 
 **INTERROGATORY NO. 12:** State the date You contend You first anticipated litigation concerning The Claim, identifying who made that determination, what prompted it, and the first document in Your claim file that You contend was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d); and state the date any litigation hold or preservation instruction concerning The Claim or this action was issued, to whom it was directed, and what it directed to be preserved.
 
-Dated: September 19, 2026.
+Dated: September 20, 2026.
 
 | | |
 | --- | --- |
@@ -139,7 +139,7 @@ I, Yibiao Lu, state and declare as follows:
 
 1\. I am over the age of 18 years and a Plaintiff in this action. I personally made the service described below by electronic mail, in the manner the parties have agreed. Minn. R. Civ. P. 5.02(b); Minn. Gen. R. Prac. 14.03(d)(2).
 
-2\. On September 19, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Interrogatories to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
+2\. On September 20, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Interrogatories to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
 
 > Kevin J. Kennedy — kkennedy@kennedylf.com
 > 
@@ -159,7 +159,7 @@ I, Yibiao Lu, state and declare as follows:
 
 I declare under penalty of perjury that everything I have stated in this document is true and correct. Minn. Stat. § 358.116.
 
-Dated: September 19, 2026, at Eden Prairie, Hennepin County, Minnesota.
+Dated: September 20, 2026, at Eden Prairie, Hennepin County, Minnesota.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
