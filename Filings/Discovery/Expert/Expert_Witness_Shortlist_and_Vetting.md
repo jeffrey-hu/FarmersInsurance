@@ -4,6 +4,8 @@
 **Purpose:** Candidate experts to prove hail causation/scope and rebut the Prieve report, plus how to vet and retain them.
 **Prepared:** August 2026
 
+> **⚠️ Extended September 19, 2026.** See `Expert_Witness_Shortlist_V2_2026-09-19.md` for additional candidates this list missed — a local AAMA-accredited **window testing laboratory** (Encompass, Inc., Minnetonka), a **Minnesota-based forensic meteorologist** (Susie Martin, CCM / Praedictix), fenestration specialists, and WJE's Minneapolis office — plus a material new finding on candidate A below (her public profile now reports **75 depositions or trials in the last 4 years**, which Rule 26.01(b)(2)(E) requires her to disclose). V2 also recommends a two-expert pairing rather than a single dual-credentialed expert, because this list is roof-oriented and the disputed components are windows.
+
 > **Important — please read.** I am not a lawyer and I cannot personally vouch for, endorse, or guarantee the reliability of any expert below. These are **real, credentialed candidates surfaced from public expert-witness directories** — a starting list to investigate, not a recommendation. An expert becomes "trustable" only after *you* (ideally with a Minnesota attorney) run the vetting checklist at the end: a clean conflict check, genuine independence, solid credentials, and a clean testifying record. Contact details change — confirm them on each firm's own website before relying on them.
 
 ---
