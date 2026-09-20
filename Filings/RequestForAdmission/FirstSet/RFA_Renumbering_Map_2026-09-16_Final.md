@@ -800,3 +800,78 @@ The chain is now: Tables A–E → the 1–207 numbering → **Table F** → the
 ### G.5 Files not yet updated for this pass
 
 Updated 9/19/2026 to the 1–185 numbering: the served `.md`, `Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` (rebuilt by editing the prior file in place; all 253 body paragraphs verified against the `.md`), this map, the First Set citations in `../SecondSet/Plaintiffs_Second_Set_of_Requests_for_Admission_to_FIE_DRAFT.md`, and `../README.md`. **Still citing older numbers:** the files outside this folder listed in step 5 of the Decision section above.
+
+---
+
+## Table G — the September 20, 2026 split (1–185 → 1–141)
+
+**Applied September 20, 2026.** Forty-four requests moved to the **Second Set as its Part 6, Nos. 37–80**: old Nos. **57, 60–76, 80–101, 106 and 110–112** — the Prieve dent findings, the photograph and caption requests, the report's own page-6 hail diagnostic, and the weather-records requests. Old **section I was dissolved**: its survivors (old Nos. 79 and 102–109) fold into **section H**, which now runs the engagement scope, the absent calculations, the un-photographed garage window, genuineness and the method gaps. Sections relettered **A–U** (21). The pointer that followed old No. 60 travelled with it and was rewritten to the Second Set's numbering.
+
+**Verified:** every retained request's text identical at its new number; 1–141 contiguous; `.docx` rebuilt and matched to the `.md` request for request; 21 section headings; one hanging-indent variant; PDF re-rendered at **17 pages** with no blank pages, certificate alone on the last page.
+
+**Cross-references updated:** section F note (Nos. 44–47, 43), section G note (now "Requests 48 through 54 … Nos. 55 through 58"), section L note, sections T and U notes, the two surviving pointers, and old No. 154's citation to old No. 153.
+
+| Old | New | | Old | New | | Old | New |
+|---|---|---|---|---|---|---|---|
+| 1 | 1 | | 63 | → Second Set No. 41 | | 125 | 81 |
+| 2 | 2 | | 64 | → Second Set No. 42 | | 126 | 82 |
+| 3 | 3 | | 65 | → Second Set No. 43 | | 127 | 83 |
+| 4 | 4 | | 66 | → Second Set No. 44 | | 128 | 84 |
+| 5 | 5 | | 67 | → Second Set No. 45 | | 129 | 85 |
+| 6 | 6 | | 68 | → Second Set No. 46 | | 130 | 86 |
+| 7 | 7 | | 69 | → Second Set No. 47 | | 131 | 87 |
+| 8 | 8 | | 70 | → Second Set No. 48 | | 132 | 88 |
+| 9 | 9 | | 71 | → Second Set No. 49 | | 133 | 89 |
+| 10 | 10 | | 72 | → Second Set No. 50 | | 134 | 90 |
+| 11 | 11 | | 73 | → Second Set No. 51 | | 135 | 91 |
+| 12 | 12 | | 74 | → Second Set No. 52 | | 136 | 92 |
+| 13 | 13 | | 75 | → Second Set No. 53 | | 137 | 93 |
+| 14 | 14 | | 76 | → Second Set No. 54 | | 138 | 94 |
+| 15 | 15 | | 77 | 59 | | 139 | 95 |
+| 16 | 16 | | 78 | 60 | | 140 | 96 |
+| 17 | 17 | | 79 | 61 | | 141 | 97 |
+| 18 | 18 | | 80 | → Second Set No. 55 | | 142 | 98 |
+| 19 | 19 | | 81 | → Second Set No. 56 | | 143 | 99 |
+| 20 | 20 | | 82 | → Second Set No. 57 | | 144 | 100 |
+| 21 | 21 | | 83 | → Second Set No. 58 | | 145 | 101 |
+| 22 | 22 | | 84 | → Second Set No. 59 | | 146 | 102 |
+| 23 | 23 | | 85 | → Second Set No. 60 | | 147 | 103 |
+| 24 | 24 | | 86 | → Second Set No. 61 | | 148 | 104 |
+| 25 | 25 | | 87 | → Second Set No. 62 | | 149 | 105 |
+| 26 | 26 | | 88 | → Second Set No. 63 | | 150 | 106 |
+| 27 | 27 | | 89 | → Second Set No. 64 | | 151 | 107 |
+| 28 | 28 | | 90 | → Second Set No. 65 | | 152 | 108 |
+| 29 | 29 | | 91 | → Second Set No. 66 | | 153 | 109 |
+| 30 | 30 | | 92 | → Second Set No. 67 | | 154 | 110 |
+| 31 | 31 | | 93 | → Second Set No. 68 | | 155 | 111 |
+| 32 | 32 | | 94 | → Second Set No. 69 | | 156 | 112 |
+| 33 | 33 | | 95 | → Second Set No. 70 | | 157 | 113 |
+| 34 | 34 | | 96 | → Second Set No. 71 | | 158 | 114 |
+| 35 | 35 | | 97 | → Second Set No. 72 | | 159 | 115 |
+| 36 | 36 | | 98 | → Second Set No. 73 | | 160 | 116 |
+| 37 | 37 | | 99 | → Second Set No. 74 | | 161 | 117 |
+| 38 | 38 | | 100 | → Second Set No. 75 | | 162 | 118 |
+| 39 | 39 | | 101 | → Second Set No. 76 | | 163 | 119 |
+| 40 | 40 | | 102 | 62 | | 164 | 120 |
+| 41 | 41 | | 103 | 63 | | 165 | 121 |
+| 42 | 42 | | 104 | 64 | | 166 | 122 |
+| 43 | 43 | | 105 | 65 | | 167 | 123 |
+| 44 | 44 | | 106 | → Second Set No. 77 | | 168 | 124 |
+| 45 | 45 | | 107 | 66 | | 169 | 125 |
+| 46 | 46 | | 108 | 67 | | 170 | 126 |
+| 47 | 47 | | 109 | 68 | | 171 | 127 |
+| 48 | 48 | | 110 | → Second Set No. 78 | | 172 | 128 |
+| 49 | 49 | | 111 | → Second Set No. 79 | | 173 | 129 |
+| 50 | 50 | | 112 | → Second Set No. 80 | | 174 | 130 |
+| 51 | 51 | | 113 | 69 | | 175 | 131 |
+| 52 | 52 | | 114 | 70 | | 176 | 132 |
+| 53 | 53 | | 115 | 71 | | 177 | 133 |
+| 54 | 54 | | 116 | 72 | | 178 | 134 |
+| 55 | 55 | | 117 | 73 | | 179 | 135 |
+| 56 | 56 | | 118 | 74 | | 180 | 136 |
+| 57 | → Second Set No. 37 | | 119 | 75 | | 181 | 137 |
+| 58 | 57 | | 120 | 76 | | 182 | 138 |
+| 59 | 58 | | 121 | 77 | | 183 | 139 |
+| 60 | → Second Set No. 38 | | 122 | 78 | | 184 | 140 |
+| 61 | → Second Set No. 39 | | 123 | 79 | | 185 | 141 |
+| 62 | → Second Set No. 40 | | 124 | 80 | |  |  |

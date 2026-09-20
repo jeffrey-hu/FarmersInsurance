@@ -77,7 +77,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *A. The Policy and the coverage grant*
 
-**REQUEST FOR ADMISSION NO. 1:** Admit that Your September 3, 2024 letter to Plaintiffs stated, "our investigation found your policy provides coverage for direct physical loss to insured property, less uninsured or excluded."
+**REQUEST FOR ADMISSION NO. 1:** Admit that The September 3, 2024 Denial Package to Plaintiffs stated, "our investigation found your policy provides coverage for direct physical loss to insured property, less uninsured or excluded."
 
 **REQUEST FOR ADMISSION NO. 2:** Admit that The Policy Form, at "Section I - Loss or Damage Insured," states: "We insure accidental direct physical loss or damage to that property described in Section I - Types of Property Insured."
 
@@ -93,7 +93,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 6:** Admit that Bradlee Monson was employed or engaged by Fire Insurance Exchange at the time of his involvement in The Claim.
 
-**REQUEST FOR ADMISSION NO. 7:** Admit that Fire Insurance Exchange made the coverage decision communicated in Your September 3, 2024 letter to Plaintiffs.
+**REQUEST FOR ADMISSION NO. 7:** Admit that Fire Insurance Exchange made the coverage decision communicated in The September 3, 2024 Denial Package to Plaintiffs.
 
 **REQUEST FOR ADMISSION NO. 8:** Admit that Fire Insurance Exchange made the coverage decision communicated in Your November 4, 2024 letter to Plaintiffs.
 
@@ -139,7 +139,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *D. The September 3, 2024 denial*
 
-**REQUEST FOR ADMISSION NO. 28:** Admit that Your September 3, 2024 letter to Plaintiffs stated, "There were no other damages observed."
+**REQUEST FOR ADMISSION NO. 28:** Admit that The September 3, 2024 Denial Package to Plaintiffs stated, "There were no other damages observed."
 
 **REQUEST FOR ADMISSION NO. 29:** Admit that on September 6, 2024, Your Senior Claim Adjuster Nicholas Brau observed dents on multiple windows at The Property.
 
@@ -147,13 +147,13 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 31:** Admit that on October 28, 2025, Plaintiff Yibiao Lu sent an electronic mail message to nic.brau@farmersinsurance.com stating, "We found dents together and you measured sizes of some damaged windows. Can we ask for a copy of the notes you took that day?"
 
-**REQUEST FOR ADMISSION NO. 32:** Admit that the inspection referred to in Your September 3, 2024 letter as "we had your home inspected" was the August 29, 2024 inspection performed by Hancock Claims Consultants.
+**REQUEST FOR ADMISSION NO. 32:** Admit that the inspection referred to in The September 3, 2024 Denial Package as "we had your home inspected" was the August 29, 2024 inspection performed by Hancock Claims Consultants.
 
-**REQUEST FOR ADMISSION NO. 33:** Admit that, in connection with The Claim, You did not obtain any engineering analysis, engineering report, or engineering opinion concerning The Property before issuing Your September 3, 2024 letter.
+**REQUEST FOR ADMISSION NO. 33:** Admit that, in connection with The Claim, You did not obtain any engineering analysis, engineering report, or engineering opinion concerning The Property before issuing The September 3, 2024 Denial Package.
 
 **REQUEST FOR ADMISSION NO. 34:** Admit that, in connection with The Claim, no licensed professional engineer inspected The Property on Your behalf before September 3, 2024.
 
-**REQUEST FOR ADMISSION NO. 35:** Admit that Nicholas Brau did not inspect The Property before Your September 3, 2024 letter was issued.
+**REQUEST FOR ADMISSION NO. 35:** Admit that Nicholas Brau did not inspect The Property before The September 3, 2024 Denial Package was issued.
 
 *E. The November 4, 2024 denial and the provisions it cited*
 
@@ -189,7 +189,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 *G. The Prieve engagement, the November 4, 2024 letter, and work product*
 
-> Requests 48 through 54 concern the engagement of Prieve Engineering, LLC, Your November 4, 2024 letter, and the work-product status of Your claim file, and are to be read with Requests Nos. 55 through 61.
+> Requests 48 through 54 concern the engagement of Prieve Engineering, LLC, Your November 4, 2024 letter, and the work-product status of Your claim file, and are to be read with Requests Nos. 55 through 58.
 
 **REQUEST FOR ADMISSION NO. 48:** Admit that You do not contend that The Prieve Report was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d).
 
@@ -211,311 +211,217 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 56:** Admit that You did not retain Prieve Engineering, LLC to evaluate the condition of the siding at The Property.
 
-**REQUEST FOR ADMISSION NO. 57:** Admit that The Prieve Report states: "Similar past estimated hail appears in a summary from the NOAA Storm Events Database with most recent hail in Eden Prairie reported in 2020."
+**REQUEST FOR ADMISSION NO. 57:** Admit that The Prieve Report contains no quantitative impact-force calculation.
 
-**REQUEST FOR ADMISSION NO. 58:** Admit that The Prieve Report contains no quantitative impact-force calculation.
+**REQUEST FOR ADMISSION NO. 58:** Admit that The Prieve Report contains no terminal-velocity calculation.
 
-**REQUEST FOR ADMISSION NO. 59:** Admit that The Prieve Report contains no terminal-velocity calculation.
+**REQUEST FOR ADMISSION NO. 59:** Admit that Photo Appendix A contains no photograph of the two-sash fixed window that is the only other window on the rear (east) elevation of the attached garage at The Property, south of the garage window depicted at photographs A-213 through A-217.
 
-**REQUEST FOR ADMISSION NO. 60:** Admit that The Prieve Report documents dents, marks, or indentations across at least twenty-five distinct windows at The Property.
+**REQUEST FOR ADMISSION NO. 60:** Admit that no person acting for You or retained by You has inspected the window described in the preceding request.
 
-*See also Requests for Admission Nos. 79 through 103.*
+**REQUEST FOR ADMISSION NO. 61:** Admit that The Prieve Report is a genuine copy of the report prepared by Prieve Engineering, LLC, File Number 241008.
 
-**REQUEST FOR ADMISSION NO. 61:** Admit that page 5 of The Prieve Report states: "A dent with a scrape mark present appears in the bottom screen frame of the east facing sliding door."
+**REQUEST FOR ADMISSION NO. 62:** Admit that The Prieve Report does not state the size of any hailstone that fell at The Property on July 13 or 14, 2024.
 
-**REQUEST FOR ADMISSION NO. 62:** Admit that photograph A-42 of Photo Appendix A depicts a dent in a downspout extension at The Property.
+**REQUEST FOR ADMISSION NO. 63:** Admit that The Prieve Report does not state the minimum hailstone size required to dent the window frames or sashes at The Property.
 
-**REQUEST FOR ADMISSION NO. 63:** Admit that photograph A-92 of Photo Appendix A depicts a dented downspout at The Property.
+**REQUEST FOR ADMISSION NO. 64:** Admit that The Prieve Report does not state the criteria used to determine whether a dent is consistent with hail.
 
-**REQUEST FOR ADMISSION NO. 64:** Admit that photograph A-93 of Photo Appendix A depicts a dented downspout at The Property.
+**REQUEST FOR ADMISSION NO. 65:** Admit that The Prieve Report does not state the size, depth, or dimensions of any dent, mark, or indentation described in it.
 
-**REQUEST FOR ADMISSION NO. 65:** Admit that photograph A-98 of Photo Appendix A depicts a dented downspout at The Property.
+**REQUEST FOR ADMISSION NO. 66:** Admit that The Prieve Report does not identify any publication, study, or test method in support of any opinion stated in it.
 
-**REQUEST FOR ADMISSION NO. 66:** Admit that photograph A-99 of Photo Appendix A depicts a dented downspout at The Property.
+**REQUEST FOR ADMISSION NO. 67:** Admit that The Prieve Report does not identify the "customary and usual standards" referred to on page 2 of The Prieve Report.
 
-**REQUEST FOR ADMISSION NO. 67:** Admit that photograph A-103 of Photo Appendix A depicts dented flashing at The Property.
+**REQUEST FOR ADMISSION NO. 68:** Admit that The Prieve Report does not state any wind speed at The Property on July 13 or 14, 2024.
 
-**REQUEST FOR ADMISSION NO. 68:** Admit that Photo Appendix A is a genuine copy of the photographic appendix prepared by Prieve Engineering, LLC, File Number 241008.
+*I. The 2020 Claim*
 
-**REQUEST FOR ADMISSION NO. 69:** Admit that "DOWNSPOUT EXTENSION AT FRONT, VIEW OF DENT AT UPPER EDGE" is the caption of photograph A-42 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 69:** Admit that line item 1 of the estimate within The February 18, 2022 Settlement Package reads "R&R Wood window - casement, 12-23 sf" and states a quantity of 2.00 EA.
 
-**REQUEST FOR ADMISSION NO. 70:** Admit that "VIEW OF DOWNSPOUT, DENT PRESENT" is the caption of photograph A-92 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 70:** Admit that the only line items of the estimate within The February 18, 2022 Settlement Package that refer to windows are line items 1 ("R&R Wood window - casement, 12-23 sf"), 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
 
-**REQUEST FOR ADMISSION NO. 71:** Admit that "ADJACENT AREA SHOWING DENT IN DOWNSPOUT" is the caption of photograph A-93 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 71:** Admit that the estimate within The February 18, 2022 Settlement Package states "Type of Loss: Hail."
 
-**REQUEST FOR ADMISSION NO. 72:** Admit that "DOWNSPOUT AT EASET [sic] SIDE SHOWING DENT" is the caption of photograph A-98 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 72:** Admit that the estimate within The February 18, 2022 Settlement Package does not identify the location at The Property of the item or items addressed by line item 1.
 
-**REQUEST FOR ADMISSION NO. 73:** Admit that "DENT IN DOWNSPOUT WITH CREASE PRESENT" is the caption of photograph A-99 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 73:** Admit that Your claim records for The Property identify no hail loss with a date of loss after September 5, 2020, other than The Claim.
 
-**REQUEST FOR ADMISSION NO. 74:** Admit that "VIEW OF DENTS IN FLASHING AT BASE OF WALL ALONG DECK" is the caption of photograph A-103 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 74:** Admit that on October 7, 2021, You received a request from Plaintiff Yibiao Lu for an extension of time to complete repairs or replacement and to recover replacement cost benefits on The 2020 Claim.
 
-**REQUEST FOR ADMISSION NO. 75:** Admit that "DENT IN SCREEN AT DOOR WINDOW SCRAPE MARK PRESENT" is the caption of photograph A-141 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 75:** Admit that Your October 12, 2021 letter to Plaintiff Yibiao Lu concerning The 2020 Claim stated: "We're happy to extend your replacement cost deadline to February 15, 2022."
 
-**REQUEST FOR ADMISSION NO. 76:** Admit that You have not at any time obtained any engineering analysis, engineering report, or engineering opinion concerning the cause of the conditions depicted at photographs A-42, A-92, A-93, A-98, A-99, A-103, and A-141 of Photo Appendix A.
+**REQUEST FOR ADMISSION NO. 76:** Admit that You did not extend the replacement cost deadline for The 2020 Claim beyond February 15, 2022.
 
-**REQUEST FOR ADMISSION NO. 77:** Admit that Photo Appendix A contains no photograph of the two-sash fixed window that is the only other window on the rear (east) elevation of the attached garage at The Property, south of the garage window depicted at photographs A-213 through A-217.
+**REQUEST FOR ADMISSION NO. 77:** Admit that Your February 17, 2022 electronic mail message to Plaintiff Yibiao Lu concerning The 2020 Claim stated: "I am unable to ask for additional time without detailed information as to why the work was not able to be completed in the timeline provided by the contractor."
 
-**REQUEST FOR ADMISSION NO. 78:** Admit that no person acting for You or retained by You has inspected the window described in the preceding request.
+**REQUEST FOR ADMISSION NO. 78:** Admit that before February 17, 2022, You received from Plaintiff Yibiao Lu a request for an extension of the replacement cost deadline on The 2020 Claim beyond February 15, 2022.
 
-*I. Dents recorded in The Prieve Report, and what the report does not state*
+*J. The engineer-report requirement and Plaintiffs' submissions*
 
-> The first Request in this section concerns the genuineness of The Prieve Report. The next twenty Requests each ask You to admit that a dent or indentation, identified by the sentence of The Prieve Report quoted in the Request, was present at The Property; they do not ask You to admit the cause of any dent or indentation. The remaining Requests in this section concern what The Prieve Report does not state or identify. To be read with Requests Nos. 55 through 61.
+**REQUEST FOR ADMISSION NO. 79:** Admit that on February 3, 2025, Your field claim supervisor Bradlee Monson told Plaintiff Yibiao Lu that You would not review evidence unless it was provided by an engineer.
 
-**REQUEST FOR ADMISSION NO. 79:** Admit that The Prieve Report is a genuine copy of the report prepared by Prieve Engineering, LLC, File Number 241008.
+**REQUEST FOR ADMISSION NO. 80:** Admit that You have no written policy, procedure, or guideline describing the peer review referred to in Your answer to paragraph 24 of the Complaint.
 
-**REQUEST FOR ADMISSION NO. 80:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Rounded dents were observed at sashes of this window unit" were present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 81:** Admit that You received Plaintiffs' January 31, 2025 submission concerning post-2020 storm activity and gutter replacement.
 
-**REQUEST FOR ADMISSION NO. 81:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long [sic] the left side of the left sash as shown in photograph A-45" were present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 82:** Admit that You received Plaintiffs' February 10, 2025 submission containing City of Eden Prairie permit records and a neighbor canvass.
 
-**REQUEST FOR ADMISSION NO. 82:** Admit that the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64" was present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 83:** Admit that You received, directly or through Peter Pietila, Plaintiffs' May 28, 2025 submission containing National Weather Service and Interactive Hail Maps material.
 
-**REQUEST FOR ADMISSION NO. 83:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107" was present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 84:** Admit that You did not reopen The Claim after receiving the submissions identified in the three preceding requests.
 
-**REQUEST FOR ADMISSION NO. 84:** Admit that the indentation described on page 5 of The Prieve Report in the sentence "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113" was present at The Property on October 9, 2024.
+*K. Missing records and non-payment*
 
-**REQUEST FOR ADMISSION NO. 85:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents" were present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 85:** Admit that Your October 10, 2025 letter to Plaintiffs stated, "The file does not contain a report on the requested date."
 
-**REQUEST FOR ADMISSION NO. 86:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with marks present appears in the face of the drip cap of the upper center window unit" was present at The Property on October 9, 2024.
+**REQUEST FOR ADMISSION NO. 86:** Admit that the "requested date" referred to in the statement quoted in the preceding request was September 6, 2024.
 
-**REQUEST FOR ADMISSION NO. 87:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail" was present at The Property on October 9, 2024.
+*See also Requests for Admission Nos. 140 and 141.*
 
-**REQUEST FOR ADMISSION NO. 88:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the left accessory groove of the southeast facing window not consistent with hail" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 89:** Admit that the dent described on page 5 of The Prieve Report in the sentence "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 90:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail" were present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 91:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the bottom accessory groove not consistent with hail" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 92:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 93:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166" were present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 94:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 95:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Two dents appear at the lower left corner of the left casement which are generally smooth" were present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 96:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the window not consistent with hail" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 97:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A scrape mark and dent appear at the right side of the east facing window not consistent with hail" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 98:** Admit that the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove similar to those observed elsewhere" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 99:** Admit that the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove at the lower corner of the window" was present at The Property on October 9, 2024.
-
-**REQUEST FOR ADMISSION NO. 100:** Admit that The Prieve Report does not identify any object, other than hail, that caused any dent or indentation described in The Prieve Report.
-
-**REQUEST FOR ADMISSION NO. 101:** Admit that The Prieve Report does not identify when, how, or by whom any dent described in The Prieve Report was caused "during or following installation of windows."
-
-**REQUEST FOR ADMISSION NO. 102:** Admit that The Prieve Report does not state the size of any hailstone that fell at The Property on July 13 or 14, 2024.
-
-**REQUEST FOR ADMISSION NO. 103:** Admit that The Prieve Report does not state the minimum hailstone size required to dent the window frames or sashes at The Property.
-
-**REQUEST FOR ADMISSION NO. 104:** Admit that The Prieve Report does not state the criteria used to determine whether a dent is consistent with hail.
-
-**REQUEST FOR ADMISSION NO. 105:** Admit that The Prieve Report does not state the size, depth, or dimensions of any dent, mark, or indentation described in it.
-
-**REQUEST FOR ADMISSION NO. 106:** Admit that The Prieve Report does not state the date on which any dent described in it was caused.
-
-**REQUEST FOR ADMISSION NO. 107:** Admit that The Prieve Report does not identify any publication, study, or test method in support of any opinion stated in it.
-
-**REQUEST FOR ADMISSION NO. 108:** Admit that The Prieve Report does not identify the "customary and usual standards" referred to on page 2 of The Prieve Report.
-
-**REQUEST FOR ADMISSION NO. 109:** Admit that The Prieve Report does not state any wind speed at The Property on July 13 or 14, 2024.
-
-**REQUEST FOR ADMISSION NO. 110:** Admit that the most recent hail event identified in the "Weather Records" section of The Prieve Report is September 6, 2020.
-
-**REQUEST FOR ADMISSION NO. 111:** Admit that page 6 of The Prieve Report states: "No smooth or rounded dents were observed in the frame or sashes."
-
-**REQUEST FOR ADMISSION NO. 112:** Admit that page 6 of The Prieve Report states: "No hail dents appear at sashes or frames of kitchen windows."
-
-*J. The 2020 Claim*
-
-**REQUEST FOR ADMISSION NO. 113:** Admit that line item 1 of the estimate within The February 18, 2022 Settlement Package reads "R&R Wood window - casement, 12-23 sf" and states a quantity of 2.00 EA.
-
-**REQUEST FOR ADMISSION NO. 114:** Admit that the only line items of the estimate within The February 18, 2022 Settlement Package that refer to windows are line items 1 ("R&R Wood window - casement, 12-23 sf"), 2 ("Window blind - horizontal or vertical - Detach & reset"), 3 ("Additional charge for a retrofit window, 24-40 sf"), and 32 ("Window treatment repair").
-
-**REQUEST FOR ADMISSION NO. 115:** Admit that the estimate within The February 18, 2022 Settlement Package states "Type of Loss: Hail."
-
-**REQUEST FOR ADMISSION NO. 116:** Admit that the estimate within The February 18, 2022 Settlement Package does not identify the location at The Property of the item or items addressed by line item 1.
-
-**REQUEST FOR ADMISSION NO. 117:** Admit that Your claim records for The Property identify no hail loss with a date of loss after September 5, 2020, other than The Claim.
-
-**REQUEST FOR ADMISSION NO. 118:** Admit that on October 7, 2021, You received a request from Plaintiff Yibiao Lu for an extension of time to complete repairs or replacement and to recover replacement cost benefits on The 2020 Claim.
-
-**REQUEST FOR ADMISSION NO. 119:** Admit that Your October 12, 2021 letter to Plaintiff Yibiao Lu concerning The 2020 Claim stated: "We're happy to extend your replacement cost deadline to February 15, 2022."
-
-**REQUEST FOR ADMISSION NO. 120:** Admit that You did not extend the replacement cost deadline for The 2020 Claim beyond February 15, 2022.
-
-**REQUEST FOR ADMISSION NO. 121:** Admit that Your February 17, 2022 electronic mail message to Plaintiff Yibiao Lu concerning The 2020 Claim stated: "I am unable to ask for additional time without detailed information as to why the work was not able to be completed in the timeline provided by the contractor."
-
-**REQUEST FOR ADMISSION NO. 122:** Admit that before February 17, 2022, You received from Plaintiff Yibiao Lu a request for an extension of the replacement cost deadline on The 2020 Claim beyond February 15, 2022.
-
-*K. The engineer-report requirement and Plaintiffs' submissions*
-
-**REQUEST FOR ADMISSION NO. 123:** Admit that on February 3, 2025, Your field claim supervisor Bradlee Monson told Plaintiff Yibiao Lu that You would not review evidence unless it was provided by an engineer.
-
-**REQUEST FOR ADMISSION NO. 124:** Admit that You have no written policy, procedure, or guideline describing the peer review referred to in Your answer to paragraph 24 of the Complaint.
-
-**REQUEST FOR ADMISSION NO. 125:** Admit that You received Plaintiffs' January 31, 2025 submission concerning post-2020 storm activity and gutter replacement.
-
-**REQUEST FOR ADMISSION NO. 126:** Admit that You received Plaintiffs' February 10, 2025 submission containing City of Eden Prairie permit records and a neighbor canvass.
-
-**REQUEST FOR ADMISSION NO. 127:** Admit that You received, directly or through Peter Pietila, Plaintiffs' May 28, 2025 submission containing National Weather Service and Interactive Hail Maps material.
-
-**REQUEST FOR ADMISSION NO. 128:** Admit that You did not reopen The Claim after receiving the submissions identified in the three preceding requests.
-
-*L. Missing records and non-payment*
-
-**REQUEST FOR ADMISSION NO. 129:** Admit that Your October 10, 2025 letter to Plaintiffs stated, "The file does not contain a report on the requested date."
-
-**REQUEST FOR ADMISSION NO. 130:** Admit that the "requested date" referred to in the statement quoted in the preceding request was September 6, 2024.
-
-*See also Requests for Admission Nos. 184 and 185.*
-
-**REQUEST FOR ADMISSION NO. 131:** Admit that You have paid Plaintiffs nothing on The Claim.
+**REQUEST FOR ADMISSION NO. 87:** Admit that You have paid Plaintiffs nothing on The Claim.
 
 *See also Request for Admission No. 22.*
 
-*M. Claim handlers and the September 6, 2024 inspection records*
+*L. Claim handlers and the September 6, 2024 inspection records*
 
-> Requests 132 through 141 concern the persons who handled The Claim and the records of the September 6, 2024 inspection, and are to be read with Requests Nos. 4 through 8, 29, 129, and 130.
+> Requests 88 through 97 concern the persons who handled The Claim and the records of the September 6, 2024 inspection, and are to be read with Requests Nos. 4 through 8, 29, 85, and 86.
 
-**REQUEST FOR ADMISSION NO. 132:** Admit that Christian Dudley acted on behalf of Fire Insurance Exchange in handling The Claim.
+**REQUEST FOR ADMISSION NO. 88:** Admit that Christian Dudley acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 133:** Admit that Nicholas Brau acted on behalf of Fire Insurance Exchange in handling The Claim.
+**REQUEST FOR ADMISSION NO. 89:** Admit that Nicholas Brau acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 134:** Admit that Bradlee Monson acted on behalf of Fire Insurance Exchange in handling The Claim.
+**REQUEST FOR ADMISSION NO. 90:** Admit that Bradlee Monson acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 135:** Admit that Zorphlon Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
+**REQUEST FOR ADMISSION NO. 91:** Admit that Zorphlon Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 136:** Admit that Jillian Bell acted on behalf of Fire Insurance Exchange in handling The Claim.
+**REQUEST FOR ADMISSION NO. 92:** Admit that Jillian Bell acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 137:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, measurements, or sketches concerning the windows at The Property.
+**REQUEST FOR ADMISSION NO. 93:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, measurements, or sketches concerning the windows at The Property.
 
-**REQUEST FOR ADMISSION NO. 138:** Admit that on October 29, 2025, notes, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
+**REQUEST FOR ADMISSION NO. 94:** Admit that on October 29, 2025, notes, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
 
-**REQUEST FOR ADMISSION NO. 139:** Admit that no document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection of The Property.
+**REQUEST FOR ADMISSION NO. 95:** Admit that no document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection of The Property.
 
-**REQUEST FOR ADMISSION NO. 140:** Admit that, as of September 6, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+**REQUEST FOR ADMISSION NO. 96:** Admit that, as of September 6, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
 
-**REQUEST FOR ADMISSION NO. 141:** Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
+**REQUEST FOR ADMISSION NO. 97:** Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim.
 
-*N. The September 3, 2024 Denial Package and its photograph logs*
+*M. The September 3, 2024 Denial Package and its photograph logs*
 
-**REQUEST FOR ADMISSION NO. 142:** Admit that You sent The September 3, 2024 Denial Package to Plaintiffs on or about September 3, 2024.
+**REQUEST FOR ADMISSION NO. 98:** Admit that You sent The September 3, 2024 Denial Package to Plaintiffs on or about September 3, 2024.
 
-**REQUEST FOR ADMISSION NO. 143:** Admit that each of the 38 photographs in The First Photo Set bears a No-Damage Caption.
+**REQUEST FOR ADMISSION NO. 99:** Admit that each of the 38 photographs in The First Photo Set bears a No-Damage Caption.
 
-**REQUEST FOR ADMISSION NO. 144:** Admit that 94 of the 100 photographs in The Second Photo Set bear a No-Damage Caption.
+**REQUEST FOR ADMISSION NO. 100:** Admit that 94 of the 100 photographs in The Second Photo Set bear a No-Damage Caption.
 
-**REQUEST FOR ADMISSION NO. 145:** Admit that The Second Photo Set contains 34 photographs whose captions begin with the word "Siding."
+**REQUEST FOR ADMISSION NO. 101:** Admit that The Second Photo Set contains 34 photographs whose captions begin with the word "Siding."
 
-**REQUEST FOR ADMISSION NO. 146:** Admit that each photograph in The Second Photo Set whose caption begins with the word "Siding" bears a No-Damage Caption.
+**REQUEST FOR ADMISSION NO. 102:** Admit that each photograph in The Second Photo Set whose caption begins with the word "Siding" bears a No-Damage Caption.
 
-**REQUEST FOR ADMISSION NO. 147:** Admit that photographs numbered 98, 99, and 100 of The Second Photo Set are photographs of downspouts at The Property.
+**REQUEST FOR ADMISSION NO. 103:** Admit that photographs numbered 98, 99, and 100 of The Second Photo Set are photographs of downspouts at The Property.
 
-**REQUEST FOR ADMISSION NO. 148:** Admit that each of photographs numbered 98, 99, and 100 of The Second Photo Set bears a No-Damage Caption.
+**REQUEST FOR ADMISSION NO. 104:** Admit that each of photographs numbered 98, 99, and 100 of The Second Photo Set bears a No-Damage Caption.
 
-**REQUEST FOR ADMISSION NO. 149:** Admit that The First Photo Set and The Second Photo Set were prepared by Hancock Claims Consultants in connection with its August 29, 2024 inspection of The Property.
+**REQUEST FOR ADMISSION NO. 105:** Admit that The First Photo Set and The Second Photo Set were prepared by Hancock Claims Consultants in connection with its August 29, 2024 inspection of The Property.
 
-**REQUEST FOR ADMISSION NO. 150:** Admit that, in a No-Damage Caption, the underscore and numeral following the word "No" distinguish multiple photographs bearing the same underlying caption and do not denote a different condition, assessment, or finding.
+**REQUEST FOR ADMISSION NO. 106:** Admit that, in a No-Damage Caption, the underscore and numeral following the word "No" distinguish multiple photographs bearing the same underlying caption and do not denote a different condition, assessment, or finding.
 
-**REQUEST FOR ADMISSION NO. 151:** Admit that Your October 10, 2025 letter to Plaintiffs was signed by Zorphlon Miller, Senior General Claims Adjuster.
+**REQUEST FOR ADMISSION NO. 107:** Admit that Your October 10, 2025 letter to Plaintiffs was signed by Zorphlon Miller, Senior General Claims Adjuster.
 
-**REQUEST FOR ADMISSION NO. 152:** Admit that Your October 10, 2025 letter to Plaintiffs stated, "I have attached the coverage position and photos sent by Mr. Dudley."
+**REQUEST FOR ADMISSION NO. 108:** Admit that Your October 10, 2025 letter to Plaintiffs stated, "I have attached the coverage position and photos sent by Mr. Dudley."
 
-*O. The October 29, 2025 email*
+*N. The October 29, 2025 email*
 
-**REQUEST FOR ADMISSION NO. 153:** Admit that on October 29, 2025, Nicholas Brau sent Plaintiffs an electronic mail message stating, "All the information we can release has already been sent to you."
+**REQUEST FOR ADMISSION NO. 109:** Admit that on October 29, 2025, Nicholas Brau sent Plaintiffs an electronic mail message stating, "All the information we can release has already been sent to you."
 
-**REQUEST FOR ADMISSION NO. 154:** Admit that the message identified in Request No. 153 was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 110:** Admit that the message identified in Request No. 109 was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange.
 
-*P. The October 21, 2025 reply and the handling of post-appraisal correspondence*
+*O. The October 21, 2025 reply and the handling of post-appraisal correspondence*
 
-**REQUEST FOR ADMISSION NO. 155:** Admit that Your October 21, 2025 electronic mail message to Plaintiffs was signed by Jillian Bell, Senior General Claims Adjuster, Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 111:** Admit that Your October 21, 2025 electronic mail message to Plaintiffs was signed by Jillian Bell, Senior General Claims Adjuster, Fire Insurance Exchange.
 
-**REQUEST FOR ADMISSION NO. 156:** Admit that Jillian Bell was employed or engaged by Fire Insurance Exchange on October 21, 2025.
+**REQUEST FOR ADMISSION NO. 112:** Admit that Jillian Bell was employed or engaged by Fire Insurance Exchange on October 21, 2025.
 
-*Q. Party identity, agency, and the Hancock inspector*
+*P. Party identity, agency, and the Hancock inspector*
 
-**REQUEST FOR ADMISSION NO. 157:** Admit that You do not contend that any person should be the defendant in this action in place of Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 113:** Admit that You do not contend that any person should be the defendant in this action in place of Fire Insurance Exchange.
 
-**REQUEST FOR ADMISSION NO. 158:** Admit that You do not contend that any person must be added as a defendant in this action.
+**REQUEST FOR ADMISSION NO. 114:** Admit that You do not contend that any person must be added as a defendant in this action.
 
-**REQUEST FOR ADMISSION NO. 159:** Admit that You do not contend that Fire Insurance Exchange is misnamed or misdescribed in the caption of this action.
+**REQUEST FOR ADMISSION NO. 115:** Admit that You do not contend that Fire Insurance Exchange is misnamed or misdescribed in the caption of this action.
 
-**REQUEST FOR ADMISSION NO. 160:** Admit that, in its dealings with Plaintiffs concerning The Policy and The Claim, Fire Insurance Exchange did business under the name "Farmers Insurance."
+**REQUEST FOR ADMISSION NO. 116:** Admit that, in its dealings with Plaintiffs concerning The Policy and The Claim, Fire Insurance Exchange did business under the name "Farmers Insurance."
 
-**REQUEST FOR ADMISSION NO. 161:** Admit that Zorphlon Miller was employed or engaged by Fire Insurance Exchange on October 10, 2025.
+**REQUEST FOR ADMISSION NO. 117:** Admit that Zorphlon Miller was employed or engaged by Fire Insurance Exchange on October 10, 2025.
 
-**REQUEST FOR ADMISSION NO. 162:** Admit that Peter Pietila acted as Your agent in connection with The Policy.
+**REQUEST FOR ADMISSION NO. 118:** Admit that Peter Pietila acted as Your agent in connection with The Policy.
 
-**REQUEST FOR ADMISSION NO. 163:** Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants.
+**REQUEST FOR ADMISSION NO. 119:** Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants.
 
-**REQUEST FOR ADMISSION NO. 164:** Admit that Jayden Grimm was the only individual who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024.
+**REQUEST FOR ADMISSION NO. 120:** Admit that Jayden Grimm was the only individual who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024.
 
-*R. The Policy's own provisions bearing on capacity, suit, and forum*
-
-> Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
-
-**REQUEST FOR ADMISSION NO. 165:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
-
-**REQUEST FOR ADMISSION NO. 166:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
-
-**REQUEST FOR ADMISSION NO. 167:** Admit that the text of The Policy Form in force on July 13, 2024 is identical to the text of Form 56-5543 2nd Edition (7-08) included in the "Home Insurance New Policy" documents for The Policy that You sent to Plaintiff Yibiao Lu under a cover letter dated December 8, 2014.
-
-**REQUEST FOR ADMISSION NO. 168:** Admit that the homeowner's policy form in force for The Policy on July 13, 2024 was Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition.
-
-**REQUEST FOR ADMISSION NO. 169:** Admit that the "Subscription Agreement Notice" included in Your renewal documents for The Policy for the policy period October 22, 2023 to October 22, 2024 designates Fire Underwriters Association as attorney-in-fact.
-
-*S. Service of process and jurisdiction*
+*Q. The Policy's own provisions bearing on capacity, suit, and forum*
 
 > Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
 
-**REQUEST FOR ADMISSION NO. 170:** Admit that You received the Summons and Complaint in this action on or before July 8, 2026.
+**REQUEST FOR ADMISSION NO. 121:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 15 ("Reciprocal provisions"), states: "We may sue or be sued in our own name, as though we were an individual, if necessary to enforce any claims which arise under this policy."
 
-**REQUEST FOR ADMISSION NO. 171:** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
+**REQUEST FOR ADMISSION NO. 122:** Admit that The Policy Form, at "General Conditions Applying to The Entire Policy," provision 11 ("What law will apply"), states: "The laws of the state where the residence premises is located shall govern any and all claims or disputes in any way related to this policy."
 
-**REQUEST FOR ADMISSION NO. 172:** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
+**REQUEST FOR ADMISSION NO. 123:** Admit that the text of The Policy Form in force on July 13, 2024 is identical to the text of Form 56-5543 2nd Edition (7-08) included in the "Home Insurance New Policy" documents for The Policy that You sent to Plaintiff Yibiao Lu under a cover letter dated December 8, 2014.
 
-**REQUEST FOR ADMISSION NO. 173:** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 124:** Admit that the homeowner's policy form in force for The Policy on July 13, 2024 was Farmers Next Generation Homeowners Policy Minnesota, Form 56-5543 2nd Edition.
 
-*T. Plaintiff Jie Hu's status under The Policy*
+**REQUEST FOR ADMISSION NO. 125:** Admit that the "Subscription Agreement Notice" included in Your renewal documents for The Policy for the policy period October 22, 2023 to October 22, 2024 designates Fire Underwriters Association as attorney-in-fact.
+
+*R. Service of process and jurisdiction*
+
+> Relevant to Defendant's First Affirmative Defense, which alleges "there exists a lack of jurisdiction over Defendant FIE."
+
+**REQUEST FOR ADMISSION NO. 126:** Admit that You received the Summons and Complaint in this action on or before July 8, 2026.
+
+**REQUEST FOR ADMISSION NO. 127:** Admit that service of the Summons and Complaint in this action upon Fire Insurance Exchange under Minn. Stat. § 45.028 was effective no later than July 8, 2026.
+
+**REQUEST FOR ADMISSION NO. 128:** Admit that You do not contend that service of the Summons and Complaint upon Fire Insurance Exchange was insufficient.
+
+**REQUEST FOR ADMISSION NO. 129:** Admit that You do not contend that this Court lacks personal jurisdiction over Fire Insurance Exchange.
+
+*S. Plaintiff Jie Hu's status under The Policy*
 
 > Relevant to Complaint ¶4, which Defendant's Answer did not admit as to Plaintiff Jie Hu, and to Defendant's First Affirmative Defense.
 
-**REQUEST FOR ADMISSION NO. 174:** Admit that The Policy Form, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
+**REQUEST FOR ADMISSION NO. 130:** Admit that The Policy Form, under "Definitions," states: "Throughout this policy, 'you' and 'your' mean the 'named insured' shown in the Declarations or renewal notice and your spouse or registered domestic partner under applicable state law if a resident of the same household with you."
 
-**REQUEST FOR ADMISSION NO. 175:** Admit that on July 13, 2024, Jie Hu was the spouse of Yibiao Lu.
+**REQUEST FOR ADMISSION NO. 131:** Admit that on July 13, 2024, Jie Hu was the spouse of Yibiao Lu.
 
-**REQUEST FOR ADMISSION NO. 176:** Admit that on July 13, 2024, Jie Hu resided at The Property in the same household as Yibiao Lu.
+**REQUEST FOR ADMISSION NO. 132:** Admit that on July 13, 2024, Jie Hu resided at The Property in the same household as Yibiao Lu.
 
-**REQUEST FOR ADMISSION NO. 177:** Admit that Jie Hu is an insured under The Policy with respect to The Claim.
+**REQUEST FOR ADMISSION NO. 133:** Admit that Jie Hu is an insured under The Policy with respect to The Claim.
 
-**REQUEST FOR ADMISSION NO. 178:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
+**REQUEST FOR ADMISSION NO. 134:** Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim.
 
-**REQUEST FOR ADMISSION NO. 179:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
+**REQUEST FOR ADMISSION NO. 135:** Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action.
 
-*U. The September 24, 2025 message and its signer*
+*T. The September 24, 2025 message and its signer*
 
-> Requests 180 through 183 concern Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu.
+> Requests 136 through 139 concern Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu.
 
-**REQUEST FOR ADMISSION NO. 180:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu was signed by Twonda Miller, Senior General Claims Adjuster, Fire Insurance Exchange.
+**REQUEST FOR ADMISSION NO. 136:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu was signed by Twonda Miller, Senior General Claims Adjuster, Fire Insurance Exchange.
 
-**REQUEST FOR ADMISSION NO. 181:** Admit that Twonda Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
+**REQUEST FOR ADMISSION NO. 137:** Admit that Twonda Miller acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 182:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu stated, "Unfortunately, the umpire did not provide a report or estimate."
+**REQUEST FOR ADMISSION NO. 138:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu stated, "Unfortunately, the umpire did not provide a report or estimate."
 
-**REQUEST FOR ADMISSION NO. 183:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu stated, "Our only recommendation is to refer you to your appraiser for any additional details he may have in his file."
+**REQUEST FOR ADMISSION NO. 139:** Admit that Your September 24, 2025 electronic mail message to Plaintiff Yibiao Lu stated, "Our only recommendation is to refer you to your appraiser for any additional details he may have in his file."
 
-*V. The October 7, 2025 request for Nicholas Brau’s inspection report or notes*
+*U. The October 7, 2025 request for Nicholas Brau’s inspection report or notes*
 
-> Requests 184 and 185 concern Plaintiff Yibiao Lu’s October 7, 2025 electronic mail message, and are to be read with Requests Nos. 31, 129, and 130.
+> Requests 140 and 141 concern Plaintiff Yibiao Lu’s October 7, 2025 electronic mail message, and are to be read with Requests Nos. 31, 85, and 86.
 
-**REQUEST FOR ADMISSION NO. 184:** Admit that on October 7, 2025, Plaintiff Yibiao Lu sent an electronic mail message to myadjuster@farmersinsurance.com stating, "We request to have a copy of the inspection report/notes from Nic Brau. He came to the property on 9/6/2024 to perform the inspection."
+**REQUEST FOR ADMISSION NO. 140:** Admit that on October 7, 2025, Plaintiff Yibiao Lu sent an electronic mail message to myadjuster@farmersinsurance.com stating, "We request to have a copy of the inspection report/notes from Nic Brau. He came to the property on 9/6/2024 to perform the inspection."
 
-**REQUEST FOR ADMISSION NO. 185:** Admit that Your October 10, 2025 letter to Plaintiffs was sent in response to the message identified in the preceding request.
+**REQUEST FOR ADMISSION NO. 141:** Admit that Your October 10, 2025 letter to Plaintiffs was sent in response to the message identified in the preceding request.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 

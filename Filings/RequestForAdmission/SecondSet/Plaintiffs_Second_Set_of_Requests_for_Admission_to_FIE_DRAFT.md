@@ -227,6 +227,106 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 36:** Admit that Your claim file for The 2020 Claim, including any inspection photographs dated October 13, 2020, identifies no dented window or sash at The Property other than the items addressed by line item 1 ("R&R Wood window - casement, 12-23 sf") of the estimate within The February 18, 2022 Settlement Package.
 
+*Part 6 — The Prieve Report: documented dents, photograph captions, and the report's own hail diagnostic*
+
+> **Moved here from the First Set on September 20, 2026** (First Set Nos. 57, 60–76, 80–101, 106 and 110–112 before that set was renumbered to 1–141). Unlike Parts 2, 3 and 5, **these requests wait on nothing** — they quote documents Defendant produced with its own November 4, 2024 denial. Serve them as soon as the set is ready.
+>
+> **⚠️ Serve before Nathan Prieve's deposition.** Nos. 79 and 80 quote page 6 of The Prieve Report ("No smooth or rounded dents were observed in the frame or sashes"; "No hail dents appear at sashes or frames of kitchen windows"). Read with Nos. 55 ("Rounded dents were observed at sashes of this window unit") and 70 (dents "generally smooth"), they close the internal-inconsistency argument using nothing but Defendant's admissions — and they exist so that the § 2.6.A sequence in `../../../OffenseStrategies/Deposition/2.1Prieve_Nathan.md` cannot be met with "the report speaks for itself." Admissions obtained after the deposition are worth materially less.
+>
+> **⚠️ Definitions must be synced first** — these requests depend on "The Prieve Report" and "Photo Appendix A" carrying the First Set's meanings (items DI-1 to DI-10; see the Part 4 note above).
+>
+> **First Set companions that did not move:** Nos. 55, 56, 58, 59, 77, 78, 79 and 102–109 of the First Set as renumbered — the engagement scope, the absent calculations, the un-photographed garage window, genuineness, and the method gaps.
+
+**REQUEST FOR ADMISSION NO. 37:** Admit that The Prieve Report states: "Similar past estimated hail appears in a summary from the NOAA Storm Events Database with most recent hail in Eden Prairie reported in 2020."
+
+**REQUEST FOR ADMISSION NO. 38:** Admit that The Prieve Report documents dents, marks, or indentations across at least twenty-five distinct windows at The Property.
+
+*See also Requests for Admission Nos. 55 through 76.*
+
+**REQUEST FOR ADMISSION NO. 39:** Admit that page 5 of The Prieve Report states: "A dent with a scrape mark present appears in the bottom screen frame of the east facing sliding door."
+
+**REQUEST FOR ADMISSION NO. 40:** Admit that photograph A-42 of Photo Appendix A depicts a dent in a downspout extension at The Property.
+
+**REQUEST FOR ADMISSION NO. 41:** Admit that photograph A-92 of Photo Appendix A depicts a dented downspout at The Property.
+
+**REQUEST FOR ADMISSION NO. 42:** Admit that photograph A-93 of Photo Appendix A depicts a dented downspout at The Property.
+
+**REQUEST FOR ADMISSION NO. 43:** Admit that photograph A-98 of Photo Appendix A depicts a dented downspout at The Property.
+
+**REQUEST FOR ADMISSION NO. 44:** Admit that photograph A-99 of Photo Appendix A depicts a dented downspout at The Property.
+
+**REQUEST FOR ADMISSION NO. 45:** Admit that photograph A-103 of Photo Appendix A depicts dented flashing at The Property.
+
+**REQUEST FOR ADMISSION NO. 46:** Admit that Photo Appendix A is a genuine copy of the photographic appendix prepared by Prieve Engineering, LLC, File Number 241008.
+
+**REQUEST FOR ADMISSION NO. 47:** Admit that "DOWNSPOUT EXTENSION AT FRONT, VIEW OF DENT AT UPPER EDGE" is the caption of photograph A-42 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 48:** Admit that "VIEW OF DOWNSPOUT, DENT PRESENT" is the caption of photograph A-92 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 49:** Admit that "ADJACENT AREA SHOWING DENT IN DOWNSPOUT" is the caption of photograph A-93 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 50:** Admit that "DOWNSPOUT AT EASET [sic] SIDE SHOWING DENT" is the caption of photograph A-98 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 51:** Admit that "DENT IN DOWNSPOUT WITH CREASE PRESENT" is the caption of photograph A-99 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 52:** Admit that "VIEW OF DENTS IN FLASHING AT BASE OF WALL ALONG DECK" is the caption of photograph A-103 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 53:** Admit that "DENT IN SCREEN AT DOOR WINDOW SCRAPE MARK PRESENT" is the caption of photograph A-141 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 54:** Admit that You have not at any time obtained any engineering analysis, engineering report, or engineering opinion concerning the cause of the conditions depicted at photographs A-42, A-92, A-93, A-98, A-99, A-103, and A-141 of Photo Appendix A.
+
+**REQUEST FOR ADMISSION NO. 55:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Rounded dents were observed at sashes of this window unit" were present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 56:** Admit that the dents described on page 4 of The Prieve Report in the sentence "Two dents with sharp marks/indentations appear long [sic] the left side of the left sash as shown in photograph A-45" were present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 57:** Admit that the dent described on page 4 of The Prieve Report in the sentence "A dent appears in a window sash with a scrape mark present inside the dent as shown in photograph A-64" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 58:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with scrape marks was observed in the frame of the upper southeast facing window as shown in photograph A-107" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 59:** Admit that the indentation described on page 5 of The Prieve Report in the sentence "An indentation appears on the left side of the center window accessory groove not consistent with hail along with a mark in the frame with loss of finishes as shown in photograph A-113" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 60:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Two dents appear in the face of the sash at the lower left corner of the main window with scrape marks present inside and around areas of dents" were present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 61:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent with marks present appears in the face of the drip cap of the upper center window unit" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 62:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the upper northeast facing window not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 63:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the left accessory groove of the southeast facing window not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 64:** Admit that the dent described on page 5 of The Prieve Report in the sentence "Various scrape marks and a dent appear along the bottom frame of the center window not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 65:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Dents with scrape marks appear at the lower left corner of the sash of the northeast facing window not consistent with hail" were present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 66:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears along the bottom accessory groove not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 67:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A similar dent appears along the left side as shown in photograph A-163 not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 68:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Scrape marks and dents with sharp marks appear at the southeast facing window as shown in photographs A-165 and A-166" were present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 69:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent was observed along the bottom accessory groove of the northeast facing window as shown in photograph A-174" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 70:** Admit that the dents described on page 5 of The Prieve Report in the sentence "Two dents appear at the lower left corner of the left casement which are generally smooth" were present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 71:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A dent appears in the bottom accessory groove of the window not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 72:** Admit that the dent described on page 5 of The Prieve Report in the sentence "A scrape mark and dent appear at the right side of the east facing window not consistent with hail" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 73:** Admit that the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove similar to those observed elsewhere" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 74:** Admit that the dent described on page 6 of The Prieve Report in the sentence "A dent appears in the left accessory groove at the lower corner of the window" was present at The Property on October 9, 2024.
+
+**REQUEST FOR ADMISSION NO. 75:** Admit that The Prieve Report does not identify any object, other than hail, that caused any dent or indentation described in The Prieve Report.
+
+**REQUEST FOR ADMISSION NO. 76:** Admit that The Prieve Report does not identify when, how, or by whom any dent described in The Prieve Report was caused "during or following installation of windows."
+
+**REQUEST FOR ADMISSION NO. 77:** Admit that The Prieve Report does not state the date on which any dent described in it was caused.
+
+**REQUEST FOR ADMISSION NO. 78:** Admit that the most recent hail event identified in the "Weather Records" section of The Prieve Report is September 6, 2020.
+
+**REQUEST FOR ADMISSION NO. 79:** Admit that page 6 of The Prieve Report states: "No smooth or rounded dents were observed in the frame or sashes."
+
+**REQUEST FOR ADMISSION NO. 80:** Admit that page 6 of The Prieve Report states: "No hail dents appear at sashes or frames of kitchen windows."
+
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
 Dated: \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2026.
