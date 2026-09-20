@@ -371,6 +371,8 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 130:** Admit that the "requested date" referred to in the statement quoted in the preceding request was September 6, 2024.
 
+*See also Requests for Admission Nos. 184 and 185.*
+
 **REQUEST FOR ADMISSION NO. 131:** Admit that You have paid Plaintiffs nothing on The Claim.
 
 *See also Request for Admission No. 22.*
