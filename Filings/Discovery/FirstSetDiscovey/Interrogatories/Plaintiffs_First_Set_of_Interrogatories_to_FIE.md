@@ -141,9 +141,9 @@ I, Yibiao Lu, state and declare as follows:
 
 2\. On September 19, 2026, I served a true and correct copy of *Plaintiffs’ First Set of Interrogatories to Defendant Fire Insurance Exchange* upon Defendant's counsel of record by transmitting it as a PDF attachment to an electronic mail message addressed as follows:
 
-> Kevin J. Kennedy (\#193872) — kkennedy@kennedylf.com
+> Kevin J. Kennedy — kkennedy@kennedylf.com
 > 
-> Mary J. Baskfield (\#0314572) — mbaskfield@kennedylf.com
+> Mary J. Baskfield — mbaskfield@kennedylf.com
 > 
 > KENNEDY LAW FIRM P.C.
 > 
