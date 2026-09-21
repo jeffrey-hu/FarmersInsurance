@@ -39,7 +39,7 @@ Two constraints run on different tracks, and the one everybody watches is the we
 
 | Date | Event |
 |---|---|
-| **October 20, 2026** | **Interrogatory and RFA answers both due** (both sets served 9/20 before 5:00 p.m.; transmission after 5:00 p.m. moves both to October 21 — Minn. R. Civ. P. 6.01(e)) |
+| **October 20, 2026** | **Interrogatory answers due** — served **September 20, 2026 at 2:43 p.m.**, before the 5:00 p.m. cutoff, so Rule 6.01(e) adds nothing (`Service_Log.md` Row 2). **The RFAs were not yet served as of that entry**; their 30-day clock runs from their own service date, so recalculate and add a row here when they go out |
 | *(folded into the row above)* | The entity admissions — now **Nos. 8, 9, 10, 148–151, 178–183** after the 9/19/2026 renumbering — are the fastest route to certainty on who employed the adjusters |
 | **October 15, 2026** | RFP responses due (served 9/15). **Check RFP 15 and RFP 17** — see §8 |
 | **~October 26, 2026** | **Assess.** Do the answers name only FIE entities, or do they name or imply another? |

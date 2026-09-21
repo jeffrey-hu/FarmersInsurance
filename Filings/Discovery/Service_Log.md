@@ -13,6 +13,7 @@
 | # | Document | Date served | Time (MN) | Manner | Served by | Response due | Proof |
 |---|---|---|---|---|---|---|---|
 | 1 | **Plaintiffs' First Set of Requests for Production of Documents to Defendant Fire Insurance Exchange** (53 requests) | **September 15, 2026** | **3:45 p.m.** | Email, PDF attachment, to kkennedy@ and mbaskfield@ | Yibiao Lu, from bill_y_lu@yahoo.com | **October 15, 2026** | Certificate of service within the served PDF; retained sent message |
+| 2 | **Plaintiffs' First Set of Interrogatories to Defendant Fire Insurance Exchange** (12 interrogatories, 30 definitions, 13 instructions, 9 pages) | **September 20, 2026** | **2:43 p.m.** | Email, PDF attachment, to kkennedy@ and mbaskfield@ | Yibiao Lu, from bill_y_lu@yahoo.com | **October 20, 2026** | Certificate of service within the served PDF; **retained sent message with full headers — see Row 2 detail** |
 
 ### Row 1 — detail
 
@@ -28,11 +29,30 @@
 
 ---
 
+### Row 2 — detail
+
+**Response deadline: Tuesday, October 20, 2026.** Minn. R. Civ. P. 33.01(b) allows 30 days after service. Transmission at **2:43 p.m.** is before the 5:00 p.m. cutoff, so Rule 6.01(e) adds nothing. Excluding the day of service (Rule 6.01(a)(1)(A)), the thirtieth day is Tuesday, October 20, 2026 — a business day, so Rule 6.01(a)(1)(C) adds nothing either.
+
+**The 45-day alternative does not apply.** Rule 33.01(b)'s "45 days after service of summons and complaint" option is available only to a defendant still inside that window. FIE was served in July 2026 and answered August 10, 2026, so the plain 30-day period governs.
+
+**Service on a Sunday is valid.** September 20, 2026 was a Sunday. Nothing in Minn. R. Civ. P. 5.02, Minn. Gen. R. Prac. 14.03 or Rule 6.01 requires service on a business day, and Rule 6.01(a)(1)(C)'s weekend rule reaches only the *last* day of a period, never the day of service. Email service is complete on transmission. Minn. Gen. R. Prac. 14.03(e).
+
+**⚠️ This row is the primary record of the transmission time.** The certificate of service deliberately carries **no clock time** — the time blank was removed on 9/19/2026 (review tracker F-22) because the certificate is signed before the message is sent, so a recited time could not be true at signing. That leaves two records of 2:43 p.m.: **this log entry** and **the sent message's own headers**. Export or archive that message with full headers and keep it; if the transmission time is ever contested, the headers are the objective proof and this row is the contemporaneous note.
+
+**What to watch:**
+
+- **Confirmation of receipt** was requested in the transmittal. If none arrives within a few days, send a short follow-up — service is complete regardless, but an acknowledged receipt is worth having.
+- **Attribution to a specific entity.** Instruction 12 requires FIE to name the specific legal entity and states that attributing an act to "Farmers" or "Defendant" collectively is not a complete answer. Interrogatories **7 and 8** are the joinder-relevant ones; a collective answer there is the trigger for the November 16 contingency plan (`Joinder_Deadline_Contingency_2026-09-19.md`).
+- **Rule 33.03 option to produce.** If FIE answers by tendering business records, Instruction 5 requires it to specify them in sufficient detail for Plaintiffs to locate them as readily as FIE could. A bare document dump is not an answer.
+- **Restatement.** Rule 33.01(d) and Instruction 2 both require each interrogatory to be restated immediately before its answer. Answers keyed only by number are harder to police and should be objected to early.
+- **If nothing arrives by October 20**, the sequence is a meet-and-confer letter, then Rule 37.01. An evasive or incomplete answer is treated as a failure to answer, with fees.
+
+---
+
 ## Prepared, not yet served
 
 | Document | Status | Before it goes out |
 |---|---|---|
-| **Plaintiffs' First Set of Interrogatories to FIE** (**12**; the Prieve-scope and October 29, 2025 interrogatories held for the Second Set and the two award-itemization interrogatories merged 9/18/2026; Int. 1 re-anchored to The November 4, 2024 Claim Outcome Letter on 9/18/2026 — `KeyDecisions.md` Decision 7) | ✅ Ready — `.docx` rebuilt from the final `.md` 9/18/2026 (review tracker W-1, W-1a, F-10, F-12, F-13, F-15, F-17–F-19; Nos. 1–12, 30 definitions; 9 pages) | **Dated 9/19/2026; signature-block and certificate dates filled; certificate trimmed (F-22) — no time blank remains.** Remaining: sign, export to PDF, send before 5:00 p.m., record the exact transmission time in the row above, and keep the sent message with full headers. **Dated September 20, 2026** (signature block and certificate) → served 9/20 before 5:00 p.m. gives **answers due Tuesday, October 20, 2026**; transmission after 5:00 p.m. Minnesota time adds a day under Rule 6.01(e) and makes it Wednesday, October 21 |
 | **Plaintiffs' First Set of Requests for Admission to FIE** (**Nos. 1–141**, sections A–U; split and renumbered 9/20/2026 — **44 requests moved to the Second Set as its Part 6, Nos. 37–80** (the Prieve dent findings, the photograph and caption requests, the page-6 hail diagnostic and the weather-records requests), and old section I dissolved into section H) | ✅ Ready — `.docx` rebuilt and verified against the `.md` 9/20/2026 (**141 requests, 17 pages**, numbering contiguous, 21 section headings, certificate per `../Document_Formatting_Standard.md` §4) | **Dated September 20, 2026** (signature block and certificate). Remaining: sign, export to PDF, serve before 5:00 p.m., add a row above with the exact transmission time. Served 9/20 before 5:00 p.m. gives **answers due Tuesday, October 20, 2026**; after 5:00 p.m., October 21. Old→new numbers: **Table G** of `../RequestForAdmission/FirstSet/RFA_Renumbering_Map_2026-09-16_Final.md`. ⚠️ **Second Set Part 6 should go out before Nathan Prieve's deposition.** Minn. R. Civ. P. 36 imposes no numerical limit |
 | **Plaintiffs' Second Set of Requests for Admission** | Draft only | Depends on interrogatory headroom; see the count file above. |
 

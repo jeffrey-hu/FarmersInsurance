@@ -48,9 +48,9 @@
 
 | Individual | Role | Contact | Status |
 |---|---|---|---|
-| **Zach Sexe** | Primary contact; developed the scope submitted to appraisal; identified the discontinued Semco units and comparable current-production equivalents; retained John Foster; instructed Plaintiffs on September 12, 2025 not to speak with the appraisers | (952) 292-8004 · zach.pureconstruction@gmail.com · c/o Pure Construction, above | ✅ |
+| **Zach Sexe** | Project Management. Primary contact; developed the scope submitted to appraisal; identified the discontinued Semco units and comparable current-production equivalents; retained John Foster; instructed Plaintiffs on September 12, 2025 not to speak with the appraisers | (952) 292-8004 · zach.pureconstruction@gmail.com · c/o Pure Construction, above | ✅ |
 | **Dan Traxler** | Window-replacement scope and estimate | 507-317-6839 · c/o Pure Construction, above | ✅ |
-| Jade [LAST NAME ❓] | Attended/handled the September 12, 2025 appraisal | c/o Pure Construction, above | ❓ |
+| **Jade Reicks** | Sales Manager. Attended the May 14, 2025 property visit with Zach Sexe; named by Sexe on September 12, 2025 as one of the two who would "take care of everything" at the appraisal | (763) 200-8054 · jade.pureconstruction@gmail.com · 2112 Deerwood Dr., North Mankato, MN 56003 | ✅ |
 | Records custodian | Scope-development file, appraisal submission, estimate workpapers | c/o Pure Construction, above | ✅ |
 
 > **Note.** The Pella quote lists Pure Construction's mobile as "(952) 292-8004 ext. Zach S" — the same number the client supplied for Zach Sexe on September 6, 2026. Independently corroborated.

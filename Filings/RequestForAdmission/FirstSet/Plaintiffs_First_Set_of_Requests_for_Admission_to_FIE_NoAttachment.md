@@ -143,7 +143,7 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 29:** Admit that on September 6, 2024, Your Senior Claim Adjuster Nicholas Brau observed dents on multiple windows at The Property.
 
-**REQUEST FOR ADMISSION NO. 30:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau measured one or more windows at The Property.
+**REQUEST FOR ADMISSION NO. 30:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau measured multiple windows at The Property.
 
 **REQUEST FOR ADMISSION NO. 31:** Admit that on October 28, 2025, Plaintiff Yibiao Lu sent an electronic mail message to nic.brau@farmersinsurance.com stating, "We found dents together and you measured sizes of some damaged windows. Can we ask for a copy of the notes you took that day?"
 
@@ -297,9 +297,9 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 
 **REQUEST FOR ADMISSION NO. 92:** Admit that Jillian Bell acted on behalf of Fire Insurance Exchange in handling The Claim.
 
-**REQUEST FOR ADMISSION NO. 93:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, measurements, or sketches concerning the windows at The Property.
+**REQUEST FOR ADMISSION NO. 93:** Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, photos, measurements, or sketches concerning the windows at The Property.
 
-**REQUEST FOR ADMISSION NO. 94:** Admit that on October 29, 2025, notes, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
+**REQUEST FOR ADMISSION NO. 94:** Admit that on October 29, 2025, notes, photos, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control.
 
 **REQUEST FOR ADMISSION NO. 95:** Admit that no document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection of The Property.
 
