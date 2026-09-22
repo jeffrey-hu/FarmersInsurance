@@ -47,7 +47,7 @@ Plaintiffs describe by category the documents, electronically stored information
 
 **7.** The 2020 claim-file materials (claim 3013539499-1), including the Xactimate estimate, building-loss worksheet, and settlement notice, to the extent in Plaintiffs’ possession.
 
-**8.** Contractor estimates, including the Pure Construction / Pella Reserve window-replacement estimate (Quote \#19678463) and siding estimates.
+**8.** Contractor estimates, including Pure Construction's Xactimate estimate X-252246_LU-1 (August 6, 2025); Pella Quote \#19753775 (July 17, 2025), incorporated in that estimate; and the earlier Pella Quote \#19678463 (June 26, 2025).
 
 **9.** Plaintiffs’ canvass of neighboring homeowners.
 
@@ -85,13 +85,12 @@ Plaintiffs compute their damages by category as set forth below. The computation
 
 | **Category of damages**                                                                                                                                                    | **Amount**                                       | **Basis**                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Window replacement — full-frame, with comparable current-production equivalents for the discontinued Semco windows                                                         | $303,820.78 (RCV)                                | Pure Construction / Pella Reserve estimate, Quote \#19678463 (June 26, 2025), including windows, interior casing/trim, installation labor, on-site lift, and 10% overhead and profit. |
-| Siding — repaint and replace-and-remove                                                                                                                                    | To be computed (contractor estimate; supplement) | Submitted in the August 3, 2025 appraisal demand; the appraisal award listed these items at $0.                                                                                       |
-| Consequential water-intrusion and mold remediation                                                                                                                         | To be computed (supplement)                      | Ongoing window leaks, most recently reported October 28, 2025.                                                                                                                        |
-| Additional incidental costs (window coverings/blinds; exterior repaint)                                                                                                    | To be computed (supplement)                      | Costs necessary to complete the window replacement.                                                                                                                                   |
-| Statutory and other relief — prejudgment and postjudgment interest; costs of investigation; attorney fees and taxable costs under Minn. Stat. §§ 325F.70 / 8.31 and 604.18 | To be determined                                 | As allowed by statute.                                                                                                                                                                |
-
-For reference, Plaintiffs’ sworn statement in proof of loss states a total claimed loss of $310,000 against Coverage A of $886,000, subject to the $17,720 windstorm/hail deductible.
+| Window and exterior door unit replacement — full-frame, with comparable current-production equivalents for the discontinued Semco windows | $349,742.59 (RCV) | Pure Construction Xactimate estimate X-252246_LU-1 (August 6, 2025), Windows section: Pella Quote \#19753775 (July 17, 2025) at $291,452.15, covering the window and door units, between-the-glass blinds, interior casing, installation labor, on-site lift, and custom arch tops; plus 10% overhead ($29,145.22) and 10% profit ($29,145.22). |
+| Siding — repaint and replace-and-remove | $14,967.00 (RCV) | Same estimate, Siding section ($14,363.31), including scaffold and its setup and takedown, and siding labor minimum ($603.69). |
+| Debris removal | $684.00 (RCV) | Same estimate, Debris Removal section. |
+| Interior painting | To be computed (supplement) | Interior painting necessitated by the window and door replacement; contractor estimate to be obtained. |
+| Consequential water-intrusion and mold remediation | Paid when incurred — to be computed (supplement) | Costs to be documented as incurred. |
+| Statutory and other relief — prejudgment and postjudgment interest; costs of investigation; costs and attorney fees under Minn. Stat. § 325F.70, subd. 3 and § 8.31, subd. 3a | To be determined                                 | As allowed by statute.                                                                                                                                                                |
 
 **D. Insurance agreements — Rule 26.01(a)(1)(D)**
 
@@ -99,7 +98,7 @@ Not applicable to Plaintiffs. Plaintiffs are not aware of any insurance agreemen
 
 **Reservation.**
 
-These disclosures are made on the basis of information reasonably available to Plaintiffs at this time. Plaintiffs’ investigation and discovery are ongoing, and Plaintiffs reserve the right to supplement or amend these disclosures, including the identification of expert witnesses under Rule 26.01(b) at the time set by the Court’s scheduling order.
+These disclosures are made on the basis of information reasonably available to Plaintiffs at this time. Plaintiffs’ investigation and discovery are ongoing, and Plaintiffs reserve the right to supplement or amend these disclosures, including the identification of expert witnesses under Rule 26.01(b) at the time set by the Court’s scheduling order. Plaintiffs further reserve the right to seek taxable costs under Minn. Stat. § 604.18 by motion under subdivision 4 of that section (Complaint ¶ 3; Prayer for Relief ¶ H). Because § 604.18, subd. 4(a) provides that the complaint must not seek that recovery, Plaintiffs do not claim it at this time; if leave to amend is granted, Plaintiffs will supplement these disclosures under Minn. R. Civ. P. 26.05.
 
 Pursuant to Minn. R. Civ. P. 26.07, the undersigned certify that, to the best of their knowledge, information, and belief formed after a reasonable inquiry, these disclosures are complete and correct as of the time made.
 
