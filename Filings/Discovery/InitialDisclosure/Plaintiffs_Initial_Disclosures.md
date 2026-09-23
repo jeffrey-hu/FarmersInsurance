@@ -60,7 +60,7 @@ Plaintiffs describe by category the documents, electronically stored information
 
 **7.** The 2020 claim-file materials (claim 3013539499-1), including the Xactimate estimate, building-loss worksheet, and settlement notice, to the extent in Plaintiffs’ possession.
 
-**8.** Contractor estimates, including Pure Construction's Xactimate estimate X-252246_LU-1 (August 5, 2025); Pella Quote \#19753775 (July 17, 2025), incorporated in that estimate; and the earlier Pella Quote \#19678463 (June 26, 2025).
+**8.** Contractor estimates, including Pure Construction's Xactimate estimate X-252246_LU-1 (August 5, 2025); Pella Quote \#19753775 (July 17, 2025), incorporated in that estimate; the earlier Pella Quote \#19678463 (June 26, 2025); and the Pearl Painting interior-painting proposal, Job ID 144309.
 
 **9.** Plaintiffs’ canvass of neighboring homeowners.
 
@@ -104,8 +104,7 @@ Plaintiffs compute their damages by category as set forth below. The computation
 | Siding — repaint and replace-and-remove | $14,967.00 (RCV) | Same estimate, Siding section and siding labor minimum. |
 | Downspouts and wall-base flashing | To be computed (supplement) | Contractor estimate to be obtained. |
 | Debris removal | $684.00 (RCV) | Same estimate, Debris Removal section. |
-| Interior painting | To be computed (supplement) | Interior painting necessitated by the window and door replacement; contractor estimate to be obtained. |
-| Consequential water-intrusion and mold remediation (Count IV) | Paid when incurred — to be computed (supplement) | Costs to be documented as incurred. |
+| Consequential water-intrusion and mold remediation (Count IV) | $10,659.16, plus further costs paid when incurred (supplement) | Repainting of leak-affected walls per Pearl Painting proposal, Job ID 144309; walls only, excluding ceiling. Remaining costs to be documented as incurred. |
 | Appraisal costs (Count IV) | $1,125.00 | Plaintiffs’ share of the umpire fee. Jade Claims LLC invoice \#25-391 (September 5, 2025); Plaintiffs’ record of payment. |
 | Costs of investigation (Count IV) | To be computed from receipts (supplement) |  |
 | Prejudgment interest | $73,630.60 through September 25, 2026, and $95.25 per day thereafter | 10% simple interest under Minn. Stat. § 549.09 from August 13, 2024 on $347,673.59 (contractor-estimate total, less the $17,720 deductible); subject to adjustment by the Court. |

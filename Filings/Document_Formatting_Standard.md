@@ -16,6 +16,24 @@
 | Margins | 1.0 in on all four sides |
 | Body font | Times New Roman, 12 pt |
 | Line spacing | Single |
+| Page numbers | Centered in the footer, as a `PAGE` field — not typed digits |
+| Header | None |
+
+### 1.1 Page numbers
+
+Every `.docx` prepared under this standard carries a **centered page number in the footer**, inserted as a Word `PAGE` field so it renumbers itself when the document grows. There is no header, no "Page X of Y", and no page number on the `.md` twin.
+
+The reference implementation is the footer of `Filings/Discovery/discoveryPlanAndInformationalStatement/Plaintiffs_Rule_26.06_Discovery_Plan_V5.docx`; the First Set Interrogatories and Requests for Admission carry the same field. The simplest way to reproduce it is to copy that footer wholesale:
+
+```python
+src = Document(V5).sections[0].footer
+dst = doc.sections[0].footer
+dst.is_linked_to_previous = False
+for el in list(dst._element): dst._element.remove(el)
+for el in src._element:       dst._element.append(copy.deepcopy(el))
+```
+
+**Verify by rendering to PDF** and reading the last line of a few pages — a `PAGE` field that failed to copy shows as a blank footer, which a paragraph-level `.md`/`.docx` comparison cannot see.
 
 ## 2. Paragraph indentation — the core rule
 
@@ -191,6 +209,7 @@ Markdown carries no indentation, so §2 changes are invisible in the `.md`. Rege
 
 | Date | Change |
 |---|---|
+| 2026-09-23 | **§1 and new §1.1: centered page-number footer adopted as the standard**, as a `PAGE` field copied from Discovery Plan V5. All three served First Sets already carried one; the rule had never been written down. Applied to the Initial Disclosures the same day. |
 | 2026-09-20 | **§3: the two Plaintiffs' signature blocks go side by side** in a borderless 1×2 table (`.docx`) and a two-column pipe table (`.md`), applied to the Interrogatories and the Requests for Admission. Recorded the page-break-in-an-empty-paragraph hazard and the render-and-scan check that catches it. |
 | 2026-09-20 | **§4 rewritten: canonical certificate of service adopted.** The over-18 recital, "personally made," the ¶1–¶4 numbering, attorney registration numbers, counsel's street address, and the Judicial Branch server-identification block were all removed as surplus to Rule 5.04(b) and § 358.116; the sworn-affidavit ("duly sworn on oath") preamble is prohibited without a notary. Applied to the First Set Interrogatories and Requests for Admission the same day. Stray "September 15, 2026" e-service agreement dates corrected to **September 14**. |
 | 2026-09-15 | Parties agreed to service by email (`KeyDecisions.md` Decision 4). §4 day-count warning replaced with a per-manner table; new §4.1 makes the email certificate the default and the mail certificate the exception. |
