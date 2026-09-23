@@ -34,7 +34,7 @@
 |---|---|---|
 | Mary [LAST NAME ❓] | Contacted Plaintiffs on August 9, 2024 to ask whether recent storms had caused damage; the contact that led to discovery of the leaking windows | Via Legacy Restoration LLC, above |
 | Jack [LAST NAME ❓] | Visited the Property on August 13, 2024; first independent observation of dents on the windows; assisted Plaintiffs in opening the claim | Via Legacy Restoration LLC, above |
-| **Patrick Flaten** ✅ | Assisted with Plaintiffs' administrative complaints; helped file the June 18, 2025 Consumer Assistance Request with the Minnesota Attorney General's Office (ID 6260735278129023664) | Direct: 608-633-8110 · pflaten@legacyrestorationllc.com · c/o Legacy Restoration LLC, above |
+| **Patrick Flaten** ✅ | Assisted with Plaintiffs' administrative complaints; helped file the June 18, 2025 Consumer Assistance Request with the Minnesota Attorney General's Office (ID 6260735278129023664) | Direct: 608-633-8110 · pflaten@legacyrestorationllc.com · 10291 Wayzata Blvd. #130, Minnetonka, MN 55305 |
 
 ### Pure Construction ✅
 
@@ -48,7 +48,7 @@
 
 | Individual | Role | Contact | Status |
 |---|---|---|---|
-| **Zach Sexe** | Project Management. Primary contact; developed the scope submitted to appraisal; identified the discontinued Semco units and comparable current-production equivalents; retained John Foster; instructed Plaintiffs on September 12, 2025 not to speak with the appraisers | (952) 292-8004 · zach.pureconstruction@gmail.com · c/o Pure Construction, above | ✅ |
+| **Zach Sexe** | Project Management. Primary contact; developed the scope submitted to appraisal; identified the discontinued Semco units and comparable current-production equivalents; retained John Foster; instructed Plaintiffs on September 12, 2025 not to speak with the appraisers | (952) 292-8004 · zach.pureconstruction@gmail.com · 9920 Wayzata Blvd., Apt. 209, St. Louis Park, MN 55426 | ✅ |
 | **Dan Traxler** | Window-replacement scope and estimate | 507-317-6839 · c/o Pure Construction, above | ✅ |
 | **Jade Reicks** | Sales Manager. Attended the May 14, 2025 property visit with Zach Sexe; named by Sexe on September 12, 2025 as one of the two who would "take care of everything" at the appraisal | (763) 200-8054 · jade.pureconstruction@gmail.com · 2112 Deerwood Dr., North Mankato, MN 56003 | ✅ |
 | Records custodian | Scope-development file, appraisal submission, estimate workpapers | c/o Pure Construction, above | ✅ |
@@ -75,8 +75,8 @@
 
 | Individual | Role | Contact | Status |
 |---|---|---|---|
-| John Foster | Plaintiffs' appraiser; signed the award; retained through Pure Construction at $2,200 (Plaintiffs paid $1,100) | 715-417-2307 · jjlmds@gmail.com | ✅ |
-| Wade Roos | Umpire; signed the award; produced no report or estimate | ❓ — **not on the award form**, which carries no contact information for any panel member. Look in: the appraisal correspondence, Pure Construction's file, or Defendant's production. No public listing found. | ❓ |
+| John Foster | Plaintiffs' appraiser; signed the award; retained through Pure Construction at $2,200 (Plaintiffs paid $1,100) | (715) 417-2307 · jjlmds@gmail.com · 1564 Southpoint Dr., Hudson, WI 54016 (business) | ✅ |
+| Wade Roos | Umpire; signed the award; produced no report or estimate | Jade Claims LLC · 8616 Oak Hill Cir, Prior Lake, MN 55372-9187 · (612) 283-9875 · waderoos@jadeclaims.com — from his invoice #25-391 dated 9/5/2025 (`EventDocuments/CommunicationWithPureConstruction/Lu Umpire Invoice - Policyholder.pdf`) | ✅ |
 | Greg Tomes | Defendant's appraiser; joined in appointing the umpire but **did not certify** the award amounts (see `OffenseStrategies/AppraisalAwardStrategy/09_AwardForm_Language_Findings.md` § 2) | ❓ — likely independent contractor; Rule 45 subpoena, or party notice if Defendant stipulates. Scheduling may be coordinated through Defendant's counsel | ❓ |
 
 ---
@@ -93,7 +93,7 @@
 | Christian Dudley | Catastrophe Claims Representative; signed the September 3, 2024 denial | Through Defendant's counsel |
 | Nicholas Brau | Senior Claim Adjuster; September 6, 2024 inspection; February 10, 2025 voicemail | Through Defendant's counsel |
 | Bradlee Monson | Field Claim Supervisor; February 3, 2025 "engineer's report only" instruction | Through Defendant's counsel |
-| Zorphion Miller | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |
+| Zorphlon Miller | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |
 | Twonda Miller | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |
 | Jed Jones | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |
 | Allen Banning | Adjusted the 2020 claim (3013539499-1) without an on-site inspection | Through counsel **if still employed**; if a former employee, contactable directly and a Rule 45 witness — employment status ❓ |
@@ -195,7 +195,7 @@ The correct name is **Legacy Restoration LLC**. Earlier case documents use "Lega
 | Legacy Restoration LLC; Patrick Flaten | Client-provided, September 6, 2026; company email domain `legacyrestorationllc.com` |
 | Pure Construction entity; Zach Sexe mobile | Pella quote #19678463 p. 1 (`EventDocuments/CommunicationWithPureConstruction/…FULL FRAME INSTALL-7-1-25.pdf`); client-confirmed September 6, 2026 |
 | Zach Sexe direct / email; Dan Traxler phone; Peter Pietila agency | Client-provided, September 6, 2026 |
-| John Foster | Appraisal Demand, per `DocumentIndex.md` |
+| John Foster | Phone and email: Appraisal Demand, per `DocumentIndex.md`; business address client-provided, September 22, 2026 |
 | Nathan Prieve — license number | Prieve report File #241008, certification page (`EventDocuments/FarmersDenyLetter-11-4.pdf`) |
 | Nathan Prieve — address, phone, email | [Prieve Engineering LLC contact page](https://sites.google.com/prieve-engineering.com/prieve-engineering/contact) |
 | Dept. of Commerce address | Farmers' November 4, 2024 denial letter, § 72A.201 notice paragraph |

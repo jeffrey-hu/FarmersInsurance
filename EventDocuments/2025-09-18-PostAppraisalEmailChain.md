@@ -9,7 +9,7 @@
 ## September 18, 2025 — Family → Farmers
 
 **From:** Yibiao Lu ("Bill")
-**To:** Farmers (Zorphlon/Zorphion Miller)
+**To:** Farmers (Zorphlon Miller)
 **Subject:** Questions about Appraisal Award
 
 > Hi Zorphlon,
@@ -196,12 +196,12 @@ The family visited agent Pete Pietila's office to seek help. Pete sent an email 
 
 ---
 
-## October 28, 2025 — Family → Farmers (Twonda Miller, Zorphion Miller, Jed Jones)
+## October 28, 2025 — Family → Farmers (Twonda Miller, Zorphlon Miller, Jed Jones)
 
 **From:** Yibiao Lu
-**To:** Twonda Miller, Zorphion Miller, Jed Jones (Farmers)
+**To:** Twonda Miller, Zorphlon Miller, Jed Jones (Farmers)
 
-> "Attn: Twonda Miller, Zorphion Miller, Jed Jones
+> "Attn: Twonda Miller, Zorphlon Miller, Jed Jones
 > Today is a rainy day and our windows are leaking due to hail damage. I went to our agent for help and he told us to work with you to get the issue resolved. As of now, 2 windows are approved: one 1-sash window at the corner of stairs facing front; and one 3-sash windows in family room facing back.
 > But pretty much all the windows were damaged, as evidenced by the photos submitted through the claim process. Why they are not covered?
 > Regards."
