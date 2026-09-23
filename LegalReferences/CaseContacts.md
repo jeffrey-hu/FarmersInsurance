@@ -92,7 +92,7 @@
 |---|---|---|
 | Christian Dudley | Catastrophe Claims Representative; signed the September 3, 2024 denial | Through Defendant's counsel |
 | Nicholas Brau | Senior Claim Adjuster; September 6, 2024 inspection; February 10, 2025 voicemail | Through Defendant's counsel |
-| Bradlee Monson | Field Claim Supervisor; February 3, 2025 "engineer's report only" instruction | Through Defendant's counsel |
+| Bradlee Monson | Field Claim Supervisor; February 3, 2025 "engineer's report only" instruction | Through Defendant's counsel · bradlee.1.monson@farmersinsurance.com · (913) 274-0816 — ⚠️ Defendant's July 11, 2025 letter to the Attorney General's Office spells the surname **"Munson"**; the Farmers email address confirms **Monson** |
 | Zorphlon Miller | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |
 | Twonda Miller | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |
 | Jed Jones | Post-appraisal correspondent, September–October 2025 | Through Defendant's counsel |

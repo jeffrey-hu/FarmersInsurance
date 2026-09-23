@@ -35,6 +35,7 @@ The following individuals are likely to have discoverable information that Plain
 | Zorphlon Miller, Senior General Claims Adjuster, Fire Insurance Exchange — through Defendant’s counsel | Defendant’s October 10, 2025 letter to Plaintiffs; the post-appraisal handling of the Claim. |
 | Jillian Bell, Senior General Claims Adjuster, Fire Insurance Exchange — through Defendant’s counsel | Defendant’s October 21, 2025 email to Plaintiffs; the post-appraisal handling of the Claim. |
 | Twonda Miller, Senior General Claims Adjuster, Fire Insurance Exchange — through Defendant’s counsel | Defendant’s September 24, 2025 email to Plaintiff Yibiao Lu; the post-appraisal handling of the Claim. |
+| Amy Spawr-Bardley, Customer Relations Senior Consultant, Claims Customer Relations, Fire Insurance Exchange — through Defendant’s counsel | Defendant’s July 11, 2025 written response to the Minnesota Attorney General’s Office (File No. PHW/2025/5428546/C). |
 | Records custodian and Rule 30.02(f) designee, Fire Insurance Exchange — through Defendant’s counsel | Defendant’s claim, policy, and underwriting records for the Property; the search for and custody of Nicholas Brau’s inspection records; the attorney-in-fact relationship with Fire Underwriters Association. |
 | Peter Pietila, Farmers agent, 3701 Shoreline Dr., Ste. 104A, Wayzata, MN 55391; 612-220-0342 | The Policy and its renewal; communications with Plaintiffs and with Defendant concerning the Claim. |
 | Jayden Grimm, Hancock Claims Consultants, c/o 6875 Shiloh Road East, Alpharetta, GA 30005; 507-327-2595 | The August 29, 2024 inspection of the Property and the photographs and captions produced from it. |
@@ -66,7 +67,7 @@ Plaintiffs describe by category the documents, electronically stored information
 
 **10.** City of Eden Prairie building-permit records obtained by Plaintiffs.
 
-**11.** Correspondence with Farmers’ agent (Peter Pietila), the Minnesota Department of Commerce (Complaint ID 93547), and the Minnesota Attorney General’s Office.
+**11.** Correspondence with Farmers’ agent (Peter Pietila), the Minnesota Department of Commerce (Complaint ID 93547), and the Minnesota Attorney General’s Office, including Defendant’s July 11, 2025 letter to that Office (File No. PHW/2025/5428546/C) with its enclosed engineering report, and that Office’s August 4, 2025 response.
 
 **12.** Plaintiffs’ communication logs.
 
