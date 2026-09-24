@@ -33,8 +33,10 @@
 | Individual | Role in this matter | Contact |
 |---|---|---|
 | Mary [LAST NAME ❓] | Contacted Plaintiffs on August 9, 2024 to ask whether recent storms had caused damage; the contact that led to discovery of the leaking windows | Via Legacy Restoration LLC, above |
-| Jack [LAST NAME ❓] | Visited the Property on August 13, 2024; first independent observation of dents on the windows; assisted Plaintiffs in opening the claim | Via Legacy Restoration LLC, above |
-| **Patrick Flaten** ✅ | Assisted with Plaintiffs' administrative complaints; helped file the June 18, 2025 Consumer Assistance Request with the Minnesota Attorney General's Office (ID 6260735278129023664) | Direct: 608-633-8110 · pflaten@legacyrestorationllc.com · 10291 Wayzata Blvd. #130, Minnetonka, MN 55305 |
+| **Jack Cook** ✅ | Visited the Property on August 13, 2024; first independent observation of dents on the windows; assisted Plaintiffs in opening the claim | Via Legacy Restoration LLC, above |
+| **Tailor Langsdorf** ✅ | Project manager, Legacy Restoration LLC — ⚠️ **no longer with Legacy**; last known contact is the company | Via Legacy Restoration LLC, above |
+| **Brandon Mutcher** ✅ | Supervisor; Tailor Langsdorf's supervisor at Legacy Restoration LLC | Via Legacy Restoration LLC, above |
+| **Patrick Flaten** ✅ | Assisted with Plaintiffs' administrative complaints; helped file the June 18, 2025 Consumer Assistance Request with the Minnesota Attorney General's Office (ID 6260735278129023664). ⚠️ **No longer with Legacy** — the `pflaten@legacyrestorationllc.com` address is presumed dead and was removed from the Initial Disclosures on September 23, 2026 | Direct: 608-633-8110 · 10291 Wayzata Blvd. #130, Minnetonka, MN 55305 |
 
 ### Pure Construction ✅
 
@@ -193,6 +195,7 @@ The correct name is **Legacy Restoration LLC**. Earlier case documents use "Lega
 | Entry | Source |
 |---|---|
 | Legacy Restoration LLC; Patrick Flaten | Client-provided, September 6, 2026; company email domain `legacyrestorationllc.com` |
+| Jack Cook; Tailor Langsdorf; Brandon Mutcher (surnames); Flaten and Langsdorf departures | **Plaintiff Yibiao Lu's in-person visit to the Legacy Restoration LLC office, September 23, 2026** — see `../Filings/Discovery/CommunicationLogs/2026-09-23-LegacyOfficeVisit.md` |
 | Pure Construction entity; Zach Sexe mobile | Pella quote #19678463 p. 1 (`EventDocuments/CommunicationWithPureConstruction/…FULL FRAME INSTALL-7-1-25.pdf`); client-confirmed September 6, 2026 |
 | Zach Sexe direct / email; Dan Traxler phone; Peter Pietila agency | Client-provided, September 6, 2026 |
 | John Foster | Phone and email: Appraisal Demand, per `DocumentIndex.md`; business address client-provided, September 22, 2026 |

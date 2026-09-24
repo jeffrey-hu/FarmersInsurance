@@ -194,12 +194,40 @@ Subd. 4(c) reads: *"An award of taxable costs under this section is not availabl
 
 ---
 
+## Draft Interrogatory No. 6 — the photographs behind the Attorney General statement
+
+> **Added September 23, 2026.** Companion to **Part 7 (Requests 81–89)** of `../../RequestForAdmission/SecondSet/Plaintiffs_Second_Set_of_Requests_for_Admission_to_FIE_DRAFT.md`. Source: `../../../EventDocuments/OfficeOfAttorneyGeneral/`.
+
+> **DRAFT TEXT. Renumber on service.**
+>
+> **INTERROGATORY NO. [ ]:** Identify, by photograph number and by photograph log, each photograph on which You rely in support of the statement in Your July 11, 2025 letter to the Minnesota Attorney General's Office that "it was determined that there was no exterior damage created by wind or hail to the windows for Mr. Lu's home," and for each such photograph state the component of the window unit it depicts.
+
+**Count: 1.** Check the running tally in `../README.md` Section A before serving.
+
+### Why this one is needed, and why it follows the admissions
+
+Requests 84–87 ask Defendant to admit that neither Hancock photograph log contains a photograph of a window sash or window frame. An admission ends the point. **A denial does not** — it leaves Defendant free to assert at summary judgment or at trial that some photograph did show the components, without ever having identified it.
+
+This interrogatory closes that gap. Defendant must either name photographs — which can then be tested one at a time against the captions already admitted in First Set Nos. 99–105 — or fail to name any, which is the same answer in substance. Under **Minn. R. Civ. P. 37.03(a)**, what Defendant identifies is what it may use later.
+
+It is also cheap: one interrogatory, aimed at a statement Defendant has already made in writing to a state regulator, so "Defendant makes no such contention" is not available as an answer.
+
+### Trigger conditions — serve after either
+
+1. **Defendant denies or qualifies any of Requests for Admission 84–87** (the preferred sequence — the denial is what makes the question bite); or
+2. Defendant admits them, but its answers to Requests 82–83 qualify which photographs the Attorney General statement referred to.
+
+If Defendant admits 82–87 cleanly, **do not serve this** — the point is established and the slot is worth more elsewhere.
+
+---
+
 ## Other candidates for this set
 
 Items earmarked in the First Set proposal's reserve table that would land here if triggered. Keep this list current, and check it against the budget tally before drafting:
 
 | Candidate | Count | Trigger | Source item |
 |---|---|---|---|
+| Photographs behind the Attorney General statement (drafted above as Draft Interrogatory No. 6) | 1 | Denial or qualification of Second Set RFAs 84–87 | Added 9/23/2026 |
 | Follow-up to Interrogatory 6, keyed to specific 2020 line items or photographs | 2 | Production of RFP 23's photo log and translation worksheet | I-30 |
 | Post-production gap follow-up, keyed to specific absences in the production | 2 | Review of FIE's document production | I-16 |
 | Basis for any denial of Requests for Admission 61–65 | 1 | FIE denying any of those requests | I-21 / A-10 |

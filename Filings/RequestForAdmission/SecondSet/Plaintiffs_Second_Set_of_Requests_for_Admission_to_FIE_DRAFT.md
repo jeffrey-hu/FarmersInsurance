@@ -26,6 +26,7 @@
 | **Part 1 — Authentication** | 1–5 | A clean, legible copy of the appraisal award has been obtained for Exhibit C. **Exhibits D and E are ready** — `../../../EventDocuments/2025-10-29-BrauEmail.pdf` for Exhibit E, and — `../../../EventDocuments/2025-10-10-DocFromFIE-ThroughLinkSentInEmail.pdf`, Defendant's own 75-page October 10, 2025 letter package (see `../../../EventDocuments/2025-10-10_Letter_Package_Analysis_2026-09-15.md`). The September 3 and November 4, 2024 letters are already available as clean PDFs in `../../Discovery/Expert/Expert_Record_Packet/`. **No other condition.** |
 | **Part 2 — Matching / J6944** | 6–9, 16 (16 is held for decision) | **Mandatory:** FIE actually asserts J6944 or a matching limitation — in an amended answer, a discovery response, a denial of Request 1 of Part 2's predicate set, a mediation position paper, or summary-judgment briefing. **Without that, do not serve.** Helpful but not required: responses to First Set RFP Requests 24 and 40 (the endorsement, its drafting history, and FIE's matching guidance). |
 | **Part 3 — The 2020 claim file** | 10–15 | **Mandatory:** FIE has produced its 2020 claim file, October 13, 2020 photograph log and native 2020 estimate in response to First Set RFPs 2, 22, 23 and 33 (responses due October 15, 2026), **and those documents have been reviewed first.** See the checklist under Part 3 below. Added September 16, 2026 (tracker item R-12 in `../FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md`). |
+| **Part 7 — The Attorney General letter and the Hancock photographs** | 81–89 | **No condition — serve with Part 6.** Both photograph logs are already in Plaintiffs' possession (pages 6–74 of the September 3, 2024 denial package) and The Attorney General Letter was received from the Attorney General's Office on August 4, 2025. Added September 23, 2026. |
 | **Part 4 — The Prieve Report (ordinary course)** | 17 | FIE has answered First Set Nos. 48–49. Serve if FIE denied or qualified either one; otherwise optional. First sync the Definitions with the revised First Set (see the Part 4 note). |
 
 > ### ⚠️ One request in Part 2 does **not** depend on the trigger — consider moving it up
@@ -87,6 +88,18 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **"Document" and "Documents"** have the broadest meaning permitted by Minn. R. Civ. P. 34.01 and include all writings, photographs, recordings, images, and electronically stored information stored in any medium, together with all metadata and non-identical drafts and copies.
 
 **"Endorsement J6944"** means the endorsement designated J6944, Limited Matching of Undamaged Property, referenced in Defendant's records as applicable to The Policy.
+
+**"The September 3, 2024 Denial Package"** means the 74-page PDF document dated September 3, 2024 that Plaintiffs received from You, consisting of Your September 3, 2024 letter to Plaintiffs (pages 1–2), a two-page document titled "Coverage Outcome – Policy Provisions" (pages 3–4; a different document from The Coverage Outcome Attachment), a one-page Hancock Claims Consultants roof diagram (page 5), and the two photograph logs defined below (pages 6–74).
+
+**"The Attorney General Letter"** means the letter dated July 11, 2025 from Fire Insurance Exchange to Paul Weig, Mediator, Minnesota Attorney General's Office, bearing File number PHW/2025/5428546/C, Claim Number 7007986837-1 and Date of Loss July 13, 2024, signed by Amy Spawr-Bardley, Customer Relations Senior Consultant, Claims Customer Relations.
+
+**"The First Photo Set"** means the 19-page photograph log at pages 6 through 24 of The September 3, 2024 Denial Package, bearing the page-footer date 8/30/2024 and containing photographs numbered 1 through 38.
+
+**"The Second Photo Set"** means the 50-page photograph log at pages 25 through 74 of The September 3, 2024 Denial Package, bearing the page-footer date 8/31/2024 and containing photographs numbered 1 through 100.
+
+**"Window Sash"** means the framed panel that holds the glazing of a window unit, whether operable or fixed, as distinct from the fixed perimeter frame in which it sits.
+
+**"Window Frame"** means the fixed perimeter members of a window unit, including the head, jambs and sill, in which a Window Sash or fixed glazing is mounted.
 
 **"Exhibit A," "Exhibit B," "Exhibit C," "Exhibit D," and "Exhibit E"** mean the documents so labeled in the exhibit packet served with this set.
 
@@ -326,6 +339,38 @@ PLEASE TAKE NOTICE that, pursuant to Rules 26 and 36 of the Minnesota Rules of C
 **REQUEST FOR ADMISSION NO. 79:** Admit that page 6 of The Prieve Report states: "No smooth or rounded dents were observed in the frame or sashes."
 
 **REQUEST FOR ADMISSION NO. 80:** Admit that page 6 of The Prieve Report states: "No hail dents appear at sashes or frames of kitchen windows."
+
+*Part 7 — The Attorney General letter and the Hancock photographs*
+
+> **Added September 23, 2026.** Source: `../../../EventDocuments/OfficeOfAttorneyGeneral/` (the Office's August 4, 2025 cover letter enclosing Defendant's July 11, 2025 response). See the analysis note in that folder.
+>
+> **Why these are needed.** In The Attorney General Letter, Defendant told a state regulator that "[u]pon review the photos obtained during an inspection conducted by Hancock Claims Consultants on August 29, 2024, it was determined that there was no exterior damage created by wind or hail to the windows for Mr. Lu's home." **Neither photograph log contains a photograph of a window sash or window frame.** The captions in both sets are wrap, siding, elevation and downspout captions. The purpose of Requests 81–89 is to establish, from Defendant's own documents, that the determination Defendant reported to the Attorney General rested on photographs that do not depict the components said to be undamaged. That supports Complaint ¶ 69(a) — the "no other damages observed" representation — and ¶ 69(g), the scope-limitation point.
+>
+> **Request 88 has separate value.** The same letter states that "[t]here was no opening created by the direct force of wind or hail allowing water to enter into the home and cause damages." That sentence tracks the trigger language of the Policy's **Limited water coverage** extension, which lists windstorm but **not hail** among the causes that may create the opening. Locking the statement now fixes Defendant's water-intrusion position before the water and mold category is litigated (Section C of Plaintiffs' Initial Disclosures).
+>
+> **These requests wait on nothing.** Both photograph logs came from Defendant's own September 3, 2024 denial package and are already in Plaintiffs' possession; The Attorney General Letter was received from the Attorney General's Office. **Serve with Part 6.**
+>
+> **⚠️ Companion interrogatory.** An admission can only produce "admit" or "deny." If Defendant denies Requests 84–87, it will not have said *which* photograph it claims shows a sash or frame. **Draft Interrogatory No. 6** in `../../Discovery/SecondSetDiscovery/Plaintiffs_Second_Set_of_Interrogatories_to_FIE_DRAFT.md` asks Defendant to identify those photographs by number, and should be served after these answers arrive.
+>
+> **⚠️ Before serving.** Confirm the photograph counts and the absence of any sash or frame photograph by reading both logs once more, request by request, and record the result. A single overlooked close-up would convert an admission into a supportable denial.
+
+**REQUEST FOR ADMISSION NO. 81:** Admit that Fire Insurance Exchange sent The Attorney General Letter to the Minnesota Attorney General's Office.
+
+**REQUEST FOR ADMISSION NO. 82:** Admit that The Attorney General Letter states: "Upon review the photos obtained during an inspection conducted by Hancock Claims Consultants on August 29, 2024, it was determined that there was no exterior damage created by wind or hail to the windows for Mr. Lu's home."
+
+**REQUEST FOR ADMISSION NO. 83:** Admit that the photographs referred to in the sentence quoted in Request for Admission No. 82 are The First Photo Set and The Second Photo Set.
+
+**REQUEST FOR ADMISSION NO. 84:** Admit that no photograph in The First Photo Set depicts a Window Sash at The Property.
+
+**REQUEST FOR ADMISSION NO. 85:** Admit that no photograph in The First Photo Set depicts a Window Frame at The Property.
+
+**REQUEST FOR ADMISSION NO. 86:** Admit that no photograph in The Second Photo Set depicts a Window Sash at The Property.
+
+**REQUEST FOR ADMISSION NO. 87:** Admit that no photograph in The Second Photo Set depicts a Window Frame at The Property.
+
+**REQUEST FOR ADMISSION NO. 88:** Admit that The Attorney General Letter states: "There was no opening created by the direct force of wind or hail allowing water to enter into the home and cause damages."
+
+**REQUEST FOR ADMISSION NO. 89:** Admit that Photo Appendix A was not enclosed with The Attorney General Letter.
 
 Plaintiffs reserve the right to serve additional requests for admission. Minn. R. Civ. P. 36 imposes no numerical limit on requests for admission.
 
