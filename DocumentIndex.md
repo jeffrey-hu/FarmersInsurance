@@ -276,6 +276,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 ### FarmersDenyLetter-11-4-AppendixA.pdf
 **Type:** Photo appendix to Prieve Engineering LLC report (photos only — not read)
 **Date:** November 4, 2024
+**How Plaintiffs received it:** separately from the denial letter — by electronic mail from Farmers agent **Peter Pietila** (client-stated, September 24, 2026; recorded in Section B item 3 of Plaintiffs' Initial Disclosures). ⚠️ The Commerce-complaint narrative below records 11/7/2024 as the date Pietila provided "the Prieve report **and** photo appendix" — reconcile, and retain the transmitting email.
 **Significance:** Contains the photographic evidence referenced throughout the Prieve Engineering report (photographs A-1 through A-212+). These photos document the conditions Prieve observed at each window during the October 9, 2024 site visit and form the visual basis for his "not consistent with hail" conclusions. In litigation, this appendix will likely be a key exhibit — both for Farmers (supporting their expert's conclusions) and potentially for the Lu family (to scrutinize whether Prieve's characterizations of individual marks and dents are accurate and whether any photos actually show hail-consistent damage that he dismissed).
 
 ---

@@ -25,7 +25,7 @@ The following individuals are likely to have discoverable information that Plain
 | Jade Reicks, Sales Manager, Pure Construction, 2112 Deerwood Dr., North Mankato, MN 56003; (763) 200-8054; jade.pureconstruction@gmail.com                    | The May 14, 2025 visit to the Property; the development of the window-replacement scope; and Pure Construction's conduct of the September 12, 2025 appraisal, including its handling of communications between Plaintiffs and the appraisal panel. |
 | John Foster, Plaintiffs’ appraiser, 1564 Southpoint Dr., Hudson, WI 54016; (715) 417-2307; jjlmds@gmail.com                                                   | The appraisal process and the panel’s hail-causation finding.                                                                                                   |
 | Katherine Toomajian, Minnesota Department of Commerce                                                                                                        | Plaintiffs’ regulatory complaint (ID 93547) and Farmers’ handling of it.                                                                                        |
-| Neighboring homeowners in the immediate Eden Prairie neighborhood (approximately 14, from Plaintiffs’ canvass) — identities and addresses to be supplemented | Hail-driven exterior repairs in the neighborhood after 2020.                                                                                                    |
+| Neighboring homeowners in the immediate Eden Prairie neighborhood canvassed by Plaintiffs; identities and addresses to be supplemented | Hail-driven exterior repairs in the neighborhood after 2020. |
 | Records custodian, City of Eden Prairie building/permit office                                                                                               | Building-permit records for the Property and the neighborhood.                                                                                                  |
 | Records custodian, National Weather Service / NOAA                                                                                                           | Weather records for the July 13–14, 2024 storm.                                                                                                                 |
 | Plaintiffs’ retained forensic engineering and/or meteorology expert(s) — to be identified and disclosed under Rule 26.01(b) per the scheduling order         | Hail causation, the scope of damage, and rebuttal of the Prieve Engineering report.                                                                             |
@@ -51,7 +51,7 @@ Plaintiffs describe by category the documents, electronically stored information
 
 **2.** The Farmers claim-file correspondence for claim 7007986837-1-1, including the September 3, 2024 and November 4, 2024 denial letters and related communications.
 
-**3.** The Prieve Engineering report (File \#241008) and its Photo Appendix A.
+**3.** The Prieve Engineering report (File \#241008), received with Defendant's November 4, 2024 denial letter, and its Photo Appendix A, received separately by electronic mail from Farmers agent Peter Pietila.
 
 **4.** The September 12, 2025 appraisal award, the August 3, 2025 appraisal demand, and Plaintiffs’ sworn statement in proof of loss.
 
