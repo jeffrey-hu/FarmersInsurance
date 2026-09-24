@@ -71,29 +71,7 @@ Plaintiffs describe by category the documents, electronically stored information
 
 **12.** Plaintiffs’ communication logs.
 
-**14.** The Jade Claims LLC umpire invoice \#25-391 (September 5, 2025) and Plaintiffs’ record of payment; Plaintiffs’ receipts for costs of investigation.
-
-> **⚠️ DRAFTER'S NOTE — Jie Hu's marriage and residence proof (added September 16, 2026). REMOVE THIS NOTE BEFORE SERVICE.**
->
-> **Action:** add the item below to this list, and produce the documents with these disclosures. They are due **September 25, 2026** (Scheduling Order ¶2(a)).
->
-> **Why:** First Set RFAs Nos. 131 (Jie Hu was Yibiao Lu's spouse on July 13, 2024), 132 (same-household residence) and 133 (Jie Hu is an insured) (numbering as applied 9/20/2026, Nos. 1–141) could draw a Rule 36.01 "cannot admit or deny after reasonable inquiry" answer, because FIE's policy records name only Yibiao Lu. Once FIE holds these documents, the facts are "readily obtainable" and that answer is hard to sustain. If FIE still refuses to admit, Plaintiffs can challenge the answer's sufficiency under Rule 36.01 and seek the expenses of proof under Rule 37.03(b). See `../../RequestForAdmission/FirstSet/RFA_First_Set_Independent_Review_2026-09-16.md` §0, tracker J-9.
->
-> **Proposed item (insert as No. 13, in the same style as items 1–12):**
->
-> > **13.** Documents showing that Plaintiff Jie Hu was the spouse of Plaintiff Yibiao Lu and resided with him at the Property on July 13, 2024, including the certificate of marriage and [the first page of Plaintiffs' 2024 joint federal or Minnesota income tax return / a statement or bill addressed to Jie Hu at the Property dated on or about July 2024].
->
-> **Gather (tracker J-9):**
-> 1. Marriage certificate (copy).
-> 2. First page of the 2024 joint federal or Minnesota tax return. It shows both marital status and the address. Black out SSNs, income figures and account numbers.
-> 3. At least one dated item in Jie Hu's name at 17756 George Moran Dr. from around July 2024: a bank or credit-card statement, utility bill, or voter-registration record.
-> 5. **To check (tracker J-10):** the auto-policy declarations page. FIE's 2023 home declarations show an "Auto/Home" discount. If the auto page names Jie Hu as spouse or driver at the Property for a period covering July 13, 2024, include it in item 13. It is a Farmers-issued document, and producing it puts the information in FIE's hands. Note which Farmers company issued it.
-> 4. Optional backup: Jie Hu's driver's license (black out the license number and date of birth). On its own it is weak proof of residence, because it shows the address only as of issue. Also optional: a short sworn declaration by Jie Hu (Minn. Stat. § 358.116 form).
->
-> **Before service:**
-> - Fill in the bracketed choice in item 13 to match what is actually produced.
-> - Update the `.docx` twin to match (`../../Document_Formatting_Standard.md`).
-> - ✅ **Certificate of service updated to the email form on September 22, 2026** (canonical block, `../../Document_Formatting_Standard.md` §4). Serve before 5:00 p.m. and record the transmission time in `../Service_Log.md`.
+**13.** The Jade Claims LLC umpire invoice \#25-391 (September 5, 2025) and Plaintiffs’ record of payment; Plaintiffs’ receipts for costs of investigation.
 
 **C. Computation of damages — Rule 26.01(a)(1)(C)**
 
