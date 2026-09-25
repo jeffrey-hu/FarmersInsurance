@@ -7,6 +7,8 @@
 
 ## Contents
 
+> 📋 **Added September 25, 2026: decision tracker.** `FirstSet/RFA_First_Set_Triage_Tracker_2026-09-25.md` has one row per request (Nos. 1–141) with a recommendation (Withdraw now / Offer to withdraw / Core / Lower priority), the reason, linked requests, and blank Decision and Status columns. It was prompted by FIE's 9/25/2026 25-RFA cap, its proper-party concession, and its production FIE 0001–0842.
+
 > ⚠️ **Updated September 19, 2026 (trim, Jeffrey's review).** Current state of this folder:
 >
 > - **First Set `.md`: 141 requests, Nos. 1–141, sections A–U — ✅ SERVED September 20, 2026, approx. 10:50 p.m. by email; responses due October 21, 2026.** Numbers are now fixed: withdraw by letter and leave the gap; never renumber. Bill's 9/19/2026 pass took the set from 1–207 to 1–200 (map Table F) and then appended Nos. 201–206; the trim removed 21 requests (mostly facts FIE's Answer already admits, duplicates, and low-value requests) and renumbered once, contiguously. Reasons: `FirstSet/jeffrey_9_19_review.md`. Old→new: map **Table G**.
