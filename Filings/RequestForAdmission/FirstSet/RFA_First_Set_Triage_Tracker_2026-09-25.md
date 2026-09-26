@@ -19,9 +19,9 @@
 | Recommendation | Meaning | Count |
 |---|---|---|
 | 🔴 **Withdraw now** | Withdraw by letter; the request is no longer accurate or useful | 1 |
-| 🟠 **Offer to withdraw** | Offer in the reply letter; FIE's own concession, disclosures or production make it unnecessary | 64 |
-| 🟢 **Core** | Insist on an answer by 10/21/2026; defend request by request on any ¶4 call | 40 |
-| 🟡 **Lower priority** | Keep, but offer FIE extra time; do not trade away without a reason | 36 |
+| 🟠 **Offer to withdraw** | Offer in the reply letter; FIE's own concession, disclosures or production make it unnecessary | 65 |
+| 🟢 **Core** | Insist on an answer by 10/21/2026; defend request by request on any ¶4 call | 38 |
+| 🟡 **Lower priority** | Keep, but offer FIE extra time; do not trade away without a reason | 37 |
 | | **Total** | **141** |
 
 **Reason codes:** (C) FIE's 9/25/2026 proper-party concession · (D) stated in FIE's initial disclosures · (P) proven by FIE's production FIE 0001–0842 · (S) the document speaks for itself and FIE produced it
@@ -108,9 +108,9 @@
 
 | No. | Request (verbatim) | Recommendation | Reason | Linked | Decision | Status |
 |---|---|---|---|---|---|---|
-| **48** | Admit that You do not contend that The Prieve Report was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d). | 🟢 Core | Not in anticipation of litigation → Prieve deposable as fact witness without Rule 26.02(e)(1)(B) order. |  |  |  |
-| **49** | Admit that neither Prieve Engineering, LLC nor Nathan Prieve was retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2). | 🟢 Core | Not in anticipation of litigation → Prieve deposable as fact witness without Rule 26.02(e)(1)(B) order. |  |  |  |
-| **50** | Admit that no document in Your claim file for The Claim created on or before November 4, 2024 was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d). | 🟢 Core | Not in anticipation of litigation → Prieve deposable as fact witness without Rule 26.02(e)(1)(B) order. |  |  |  |
+| **48** | Admit that You do not contend that The Prieve Report was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d). | 🟠 Offer to withdraw | (P) Overlaps No. 49. FIE produced the Prieve Report and relies on it, so any work-product claim over the report itself is moot. Prieve's underlying file is reached through No. 49 plus RFPs 5–7. |  |  |  |
+| **49** | Admit that neither Prieve Engineering, LLC nor Nathan Prieve was retained or specially employed by You in anticipation of litigation or preparation for trial within the meaning of Minn. R. Civ. P. 26.02(e)(2). | 🟢 Core | The one that matters: if Prieve was not retained in anticipation of litigation, his 2024 facts and opinions fall outside Rule 26.02(e), so he can be deposed as a fact witness without a court order. |  |  |  |
+| **50** | Admit that no document in Your claim file for The Claim created on or before November 4, 2024 was prepared in anticipation of litigation or for trial within the meaning of Minn. R. Civ. P. 26.02(d). | 🟡 Lower priority | Different target: the claim file (Brau notes, internal emails), not Prieve. 'No document' is easy for FIE to deny, and the fight will actually happen over FIE's Rule 26.02(f) privilege log. |  |  |  |
 | **51** | Admit that The Prieve Report states that Prieve Engineering, LLC visited The Property "Per the request of Nic Brau of Farmers Insurance." | 🟠 Offer to withdraw | (S)(P) Prieve report / 11/4/2024 letter contents, produced (FIE 0677–0686). |  |  |  |
 | **52** | Admit that The Prieve Report bears the report date November 4, 2024. | 🟠 Offer to withdraw | (S)(P) Prieve report / 11/4/2024 letter contents, produced (FIE 0677–0686). |  |  |  |
 | **53** | Admit that Your November 4, 2024 letter to Plaintiffs was signed by Nicholas Brau, Claims Spec Rep Prop, Fire Insurance Exchange. | 🟠 Offer to withdraw | (S)(P) Prieve report / 11/4/2024 letter contents, produced (FIE 0677–0686). |  |  |  |
@@ -122,8 +122,8 @@
 |---|---|---|---|---|---|---|
 | **55** | Admit that You retained Prieve Engineering, LLC to "evaluate the condition of windows in the home as relates to hail." | 🟢 Core | Prieve engagement limited to windows. |  |  |  |
 | **56** | Admit that You did not retain Prieve Engineering, LLC to evaluate the condition of the siding at The Property. | 🟢 Core | Prieve engagement limited to windows. |  |  |  |
-| **57** | Admit that The Prieve Report contains no quantitative impact-force calculation. | 🟠 Offer to withdraw | (S)(P) 'Prieve Report does not state X' — the report proves its own omissions; use at cross / Frye-Mack. |  |  |  |
-| **58** | Admit that The Prieve Report contains no terminal-velocity calculation. | 🟠 Offer to withdraw | (S)(P) 'Prieve Report does not state X' — the report proves its own omissions; use at cross / Frye-Mack. |  |  |  |
+| **57** | Admit that The Prieve Report contains no quantitative impact-force calculation. | 🟠 Offer to withdraw | (S)(P) As worded, the report proves its own omission. The substance (did Prieve *perform* any calculation?) is **not** withdrawn: it moves to the Prieve deposition, with reworded fallback RFA N6/N7 below. |  |  |  |
+| **58** | Admit that The Prieve Report contains no terminal-velocity calculation. | 🟠 Offer to withdraw | (S)(P) As worded, the report proves its own omission. The substance (did Prieve *perform* any calculation?) is **not** withdrawn: it moves to the Prieve deposition, with reworded fallback RFA N6/N7 below. |  |  |  |
 | **59** | Admit that Photo Appendix A contains no photograph of the two-sash fixed window that is the only other window on the rear (east) elevation of the attached garage at The Property, south of the garage window depicted at photographs A-213 through A-217. | 🟢 Core | Uninspected rear garage window. | predicate for 60 |  |  |
 | **60** | Admit that no person acting for You or retained by You has inspected the window described in the preceding request. | 🟢 Core | Uninspected rear garage window. | relies on 59 |  |  |
 | **61** | Admit that The Prieve Report is a genuine copy of the report prepared by Prieve Engineering, LLC, File Number 241008. | 🟠 Offer to withdraw | (P) Genuineness of Prieve report — FIE produced it and relies on it. |  |  |  |
@@ -276,9 +276,9 @@
 ## Quick lists (for the reply letter)
 
 - **🔴 Withdraw now** (1): 95
-- **🟠 Offer to withdraw** (64): 1, 2, 4, 5, 9, 10, 12, 13, 14, 15, 23, 24, 25, 26, 27, 28, 36, 37, 38, 39, 40, 41, 42, 51, 52, 53, 54, 57, 58, 61, 62, 63, 64, 65, 66, 67, 68, 88, 89, 91, 93, 98, 99, 100, 101, 102, 103, 104, 105, 106, 116, 117, 119, 121, 122, 123, 124, 125, 126, 127, 130, 131, 132, 137
-- **🟡 Lower priority** (36): 6, 7, 8, 11, 31, 32, 46, 47, 69, 70, 71, 72, 74, 75, 76, 77, 78, 90, 92, 96, 97, 107, 108, 109, 110, 111, 112, 120, 133, 134, 135, 136, 138, 139, 140, 141
-- **🟢 Core** (40): 3, 16, 17, 18, 19, 20, 21, 22, 29, 30, 33, 34, 35, 43, 44, 45, 48, 49, 50, 55, 56, 59, 60, 73, 79, 80, 81, 82, 83, 84, 85, 86, 87, 94, 113, 114, 115, 118, 128, 129
+- **🟠 Offer to withdraw** (65): 1, 2, 4, 5, 9, 10, 12, 13, 14, 15, 23, 24, 25, 26, 27, 28, 36, 37, 38, 39, 40, 41, 42, 48, 51, 52, 53, 54, 57, 58, 61, 62, 63, 64, 65, 66, 67, 68, 88, 89, 91, 93, 98, 99, 100, 101, 102, 103, 104, 105, 106, 116, 117, 119, 121, 122, 123, 124, 125, 126, 127, 130, 131, 132, 137
+- **🟡 Lower priority** (37): 6, 7, 8, 11, 31, 32, 46, 47, 50, 69, 70, 71, 72, 74, 75, 76, 77, 78, 90, 92, 96, 97, 107, 108, 109, 110, 111, 112, 120, 133, 134, 135, 136, 138, 139, 140, 141
+- **🟢 Core** (38): 3, 16, 17, 18, 19, 20, 21, 22, 29, 30, 33, 34, 35, 43, 44, 45, 49, 55, 56, 59, 60, 73, 79, 80, 81, 82, 83, 84, 85, 86, 87, 94, 113, 114, 115, 118, 128, 129
 
 ## Proposed Second Set additions (arising from the 9/25/2026 production)
 
@@ -289,9 +289,15 @@
 | N3 | FIE 0456–0506 was enclosed with FIE's August 13, 2025 letter to the appraisers (FIE 0308). | Supports 94; replaces 95 |  |  |
 | N4 | FIE 0687–0737 was in FIE's claim file on October 10, 2025. | Supports 85–86 |  |  |
 | N5 | FIE 0687–0737 was in FIE's claim file on October 29, 2025. | Supports 94, 109 |  |  |
+| N6 | *(Fallback — serve only after the Prieve deposition, and only if his answer is evasive.)* Admit that, in forming the opinions stated in The Prieve Report, neither Prieve Engineering, LLC nor Nathan Prieve calculated the impact force or kinetic energy of any hailstone. | Reworded successor to No. 57: process, not document text |  |  |
+| N7 | *(Fallback — same condition.)* Admit that, in forming the opinions stated in The Prieve Report, neither Prieve Engineering, LLC nor Nathan Prieve calculated the terminal velocity of any hailstone. | Reworded successor to No. 58 |  |  |
+
+> **Timing for N6–N7.** RFAs get 30 days to answer and discovery closes **3/15/2027**, so any fallback RFA must be served by about **2/12/2027**. Schedule the Prieve deposition early enough to leave that room.
 
 ## Change log
 
 | Date | Change |
 |---|---|
 | 9/25/2026 | Tracker created from the triage in the initial-disclosures analysis |
+| 9/26/2026 | No. 48 → Offer to withdraw; No. 50 → Lower priority; No. 49 stays Core. No. 49 alone carries the Prieve fact-witness point (Bill's review) |
+| 9/26/2026 | Nos. 57–58: remain Offer to withdraw as worded. Substance moved to the Prieve deposition, with reworded fallback RFAs N6–N7 (not a verbatim move to the Second Set) |
