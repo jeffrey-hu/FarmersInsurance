@@ -138,7 +138,7 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 
 ### Tier 3: Offer to withdraw (67 requests)
 
-> ⚠️ **Conditional answer set (added 9/26):** 22 entity/identity requests (Nos. 4, 5, 6, 7, 8, 9, 10, 11, 12, 88, 89, 90, 91, 92, 112, 116, 117, 121, 125, 126, 127, 137) must be answered by 10/21/2026 **if FIE denies any of Nos. 113–115, 128 or 129**. If FIE admits all five, it need not answer them. Re-serving after a denial would miss the 11/16/2026 joinder deadline. Details and letter wording are in the tracker.
+> ⚠️ **Conditional answer lists (added 9/26):** **List A** (trigger: FIE denies any of Nos. 113, 114, 115; party identity/joinder) requires answers by 10/21/2026 to Nos. 4, 5, 6, 7, 8, 9, 10, 11, 12, 88, 89, 90, 91, 92, 112, 116, 117, 121, 125, 126, 137. **List B** (trigger: FIE denies No. 128 or 129; service/jurisdiction) requires answers to Nos. 126, 127. No. 126 is in both (Rule 15.03 relation-back notice before the 7/13/2026 limitation date). A 128–129 denial is answered by a Rule 12.04 application, not by the entity requests. Details and letter wording are in the tracker.
 
 | RFAs | Ground | Detail |
 |---|---|---|
