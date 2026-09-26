@@ -98,14 +98,16 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 
 | RFAs | Why they stay |
 |---|---|
-| **16–19** | Award does not itemize F1.7/B1.2 or any other window. Count III, now reinforced by FIE 0309 |
+| **16–17** | Award does not itemize F1.7/B1.2 separately. Count III, now reinforced by FIE 0309. *(Revised 9/26: No. 18 → Tier 3, No. 19 → Tier 2.)* |
 | **20–22** | FIE is bound by the "Hail" causation finding; no exclusion applies to F1.7/B1.2; the deductible is the only reason for non-payment. The heart of Counts I–II |
 | **29, 30** | Brau observed dents and measured windows. Disputed, central, and now testable against 0687–0737 |
 | **33–35** | No engineer before the 9/3 denial; Brau had not inspected yet |
-| **43–45** | "Marring" includes denting, but hail-caused marring is covered. Answers the marring exclusion on its own terms |
+| **43, 47** | "Marring" includes denting (43), and the Coverage Outcome Attachment shows "8. Marring." followed only by "…" (47). *(Revised 9/26: Nos. 44–46 withdrawn; see below.)* |
 | **49** | Prieve was **not** retained in anticipation of litigation. **Higher priority after the expert-deposition point:** this admission lets you depose him as a fact witness without a Rule 26.02(e)(1)(B) order. *(Revised 9/26: No. 48 → Tier 3, No. 50 → Tier 2.)* |
 | **55, 56** | Prieve scope limited to windows |
 | **59, 60** | Uninspected rear garage window |
+| **69, 70** | The 2020 estimate paid for 2 casement windows (line 1), and lines 1, 2, 3 and 32 are its only window lines. FIE's Answer ¶23 pleaded no knowledge of its own 2020 file; Rule 36.01 requires reasonable inquiry. *(Revised 9/26)* |
+| **72** | The 2020 estimate does not identify where the two paid casement windows are. Without locations, FIE cannot tie the 2020 payment to F1.7/B1.2 or any window now claimed (Prieve Conclusion 1). *(Revised 9/26)* |
 | **73** | No hail loss after 9/5/2020 other than this claim. Tests the prior-payment theory FIE left out of its disclosures |
 | **79, 80** | "Engineer-only" rule; no written peer-review policy |
 | **81–84** | Receipt of your three submissions and no reopening. 84 cross-refers to 81–83, so all four stay |
@@ -114,7 +116,7 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | **135** | FIE does not contend Jie Hu is not a proper plaintiff. The Answer (¶4) conspicuously declines to admit her spouse/insured status. *(Revised 9/26)* |
 | **113–115, 128, 129** | Lock in the proper-party concession and retire Affirmative Defense 1 (jurisdiction/service). Costs FIE nothing if its letter is true |
 
-### Tier 2: Keep, but lower priority (you can offer FIE extra time on these) (37 requests)
+### Tier 2: Keep, but lower priority (you can offer FIE extra time on these) (33 requests)
 
 | RFAs | Why |
 |---|---|
@@ -123,14 +125,14 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 11 | FIE holds the 2020 claim file, which it has not produced |
 | 31, 107–111, 136, 138–141 | Communications **not** in FIE's production. Admission substitutes for authenticating your own captures. 110 cross-refers to 109, and 141 to 140 |
 | 32 | The 9/3 "we had your home inspected" means Hancock |
-| 46, 47 | The Coverage Outcome Attachment omits the marring "however we do insure" sentence. Bad-faith color |
-| 69–72 | 2020 settlement estimate lines. The 2020 file is not produced, so admissions help |
+| 71 | 2020 estimate 'Type of Loss: Hail.' FIE's own theory already treats the 2020 loss as hail |
 | 74–78 | 2020 replacement-cost extension history. Expect FIE's "appraisal-only" relevance objection here; argue it, but these can wait |
 | 92, 112 | Jillian Bell. Not in FIE's disclosures |
 | 96, 97 | No litigation hold as of 9/6 and 11/4/2024. Less urgent now that the Brau record turned up |
 | 120 | Grimm was the only Hancock inspector |
 | 133, 134 | Jie Hu is an insured and has standing under the policy. The 9/25 letter did not concede this |
 | 93 | Brau made notes, photos, measurements or sketches. Postponed: No. 30 (Core) covers the measuring; revisit if FIE denies No. 30. *(Revised 9/26)* |
+| 19 | Award is silent on hail causation for other windows. Useful as a contention probe (a denial forces FIE to commit to 'silence = $0'), but not worth a ¶4 fight *(Revised 9/26)* |
 | 50 | Claim file up to 11/4/2024 not work product. This is a different target from No. 49; the privilege log is the better tool |
 
 ### Tier 3: Offer to withdraw (67 requests)
@@ -142,6 +144,7 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 10 | (C)(D) | FIE maintains the claim file. The disclosures refer to "the remainder of the claim file" in FIE's possession |
 | 12, 116, 121, 125 | (C) | Attorney-in-fact, d/b/a "Farmers," "may sue or be sued." All went to entity identity, which is conceded |
 | 126, 127 | (C) | Service date. FIE answered and appeared; 128–129 carry the jurisdiction point |
+| 18 | (S)(P) | The award states no value for other windows. It is visible on the face of FIE 0673–0676, the same ground as Nos. 14, 15 and 25–27 *(Revised 9/26)* |
 | 3 | (S)(P) | Item 26 (wind/hail) reaches only sand/dust damage to personal property, watercraft, and awnings/greenhouses/antennas, never dwelling windows. FIE never invoked it; No. 21 carries the point. *(Revised 9/26)* |
 | 1, 2, 28 | (S)(P) | Quotations from the 9/3 package and policy, both produced (0051–0124, 0001–0050) |
 | 13 | (S)(P) | Your own Demand for Appraisal, produced at 0304–0307 |
@@ -156,16 +159,19 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 48 | (P) | The Prieve Report is not work product. It overlaps No. 49, and FIE produced the report and relies on it |
 | 98–104, 106 | (S)(P) | Sending of the 9/3 package, and Hancock caption counts and meaning. The photos are produced at 0125–0193 and speak for themselves |
 | 119 | (P) | Grimm performed the Hancock inspection. Stated on the Hancock report ("Prepared by Hancock Claims Consultants Jayden Grimm") |
-| 122–124 | (P) | Choice-of-law text and form identity. The certified policy (0001–0050) settles them |
+| 122, 124 | (P) | Choice-of-law text and form label. The certified policy (0001–0050) settles them |
 | 130–132 | (S) | Policy definition of "you," and Jie Hu's marriage and residence. Your own testimony proves these; 133–135 carry the legal point |
 
-### Withdraw now (1 request)
+### Withdraw now (5 requests)
 
 | RFA | Why |
 |---|---|
 | **95** | "No document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection." It was true when served on 9/20. **FIE 0687–0737 made it false on 9/25.** FIE will deny it correctly, and leaving it in looks careless. Withdraw it, and let RFA 94 plus the new Second Set requests in §3.1 carry the point |
+| **44, 45** | Drafted against the 2014 form. FIE's certified loss-date policy (FIE 0022–0023, same '56-5543 2nd Edition 7-08' label) moved the marring give-back from item 8 to a new item 14, so No. 44 misquotes it and No. 45 depends on it. Replaced by Second Set N11 |
+| **46** | Its premise (a 'However, we do insure marring' sentence in item 8) is absent from the certified policy. Replaced by N12–N13, aimed at the elided item 14 heading in the Coverage Outcome Attachment (FIE 0625) |
+| **123** | 'Identical to the 2014 form' is now known to be false (39 vs 37 pages; new item 14). The edition-label discrepancy becomes a Second Set question |
 
-**Net.** 36 core + 37 deferred = **73 kept**; 67 offered for withdrawal plus No. 95 withdrawn outright = **68 gone**. Offering 68 withdrawals, each with a stated reason tied to FIE's own papers, is a strong answer to "141 is oppressive." It also leaves a core list you can defend request by request on a ¶4 call. Do **not** offer to cut Tier 1 to reach any number.
+**Net.** 36 core + 33 deferred = **69 kept**; 67 offered for withdrawal plus 5 withdrawn outright = **72 gone**. Offering 72 withdrawals, each with a stated reason tied to FIE's own papers, is a strong answer to "141 is oppressive." It also leaves a core list you can defend request by request on a ¶4 call. Do **not** offer to cut Tier 1 to reach any number.
 
 **The cross-reference check was done.** Six requests cross-refer to earlier requests: 45→44, 60→59, 84→81–83, 86→85, 110→109, 141→140. Every such pair stays together in the same tier. Nothing in Tier 3 is referenced by a request that stays.
 
