@@ -7,6 +7,8 @@
 
 ## Contents
 
+> ✉️ **Added September 26, 2026: reply letter (DRAFT).** `2026-09-27_Reply_to_FIE_9-25_Letter_Requests_for_Admission.md` answers the RFA part of FIE's 9/25/2026 letter. It rejects the 25-request cap, requires answers to the 37 Core requests by 10/21/2026, sets conditional Lists A (113–115) and B (128–129), and withdraws all other requests without prejudice.
+
 > 📋 **Added September 25, 2026: decision tracker.** `FirstSet/RFA_First_Set_Triage_Tracker_2026-09-25.md` has one row per request (Nos. 1–141) with a recommendation (Withdraw now / Offer to withdraw / Core / Lower priority), the reason, linked requests, and blank Decision and Status columns. It was prompted by FIE's 9/25/2026 25-RFA cap, its proper-party concession, and its production FIE 0001–0842.
 
 > ⚠️ **Updated September 19, 2026 (trim, Jeffrey's review).** Current state of this folder:
