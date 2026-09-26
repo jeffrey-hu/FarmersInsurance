@@ -94,7 +94,7 @@ The policy, inspections and photos, the Prieve report and photos, the demand for
 
 An RFA admission is binding, which is stronger than a disclosure. But when the fact is already in FIE's own papers, the request buys little and costs credibility in a count-the-requests dispute.
 
-### Tier 1: Core. Insist on answers (36 requests)
+### Tier 1: Core. Insist on answers (37 requests)
 
 | RFAs | Why they stay |
 |---|---|
@@ -111,19 +111,20 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | **73** | No hail loss after 9/5/2020 other than this claim. Tests the prior-payment theory FIE left out of its disclosures |
 | **79, 80** | "Engineer-only" rule; no written peer-review policy |
 | **81–84** | Receipt of your three submissions and no reopening. 84 cross-refers to 81–83, so all four stay |
+| **140** | Plaintiffs asked for Brau's 'inspection report/notes' on 10/7/2025. Rebuts the 'photos are not a report' defense, because Brau's record contains notes. *(Revised 9/26)* |
 | **85, 86** | The 10/10/2025 statement, and that the "requested date" was 9/6/2024. 86 cross-refers to 85 |
 | **94** | Brau's materials were in FIE's possession on 10/29/2025. Now the key admission, because FIE 0456–0506 shows they were |
 | **135** | FIE does not contend Jie Hu is not a proper plaintiff. The Answer (¶4) conspicuously declines to admit her spouse/insured status. *(Revised 9/26)* |
 | **113–115, 128, 129** | Lock in the proper-party concession and retire Affirmative Defense 1 (jurisdiction/service). Costs FIE nothing if its letter is true |
 
-### Tier 2: Keep, but lower priority (you can offer FIE extra time on these) (33 requests)
+### Tier 2: Keep, but lower priority (you can offer FIE extra time on these) (32 requests)
 
 | RFAs | Why |
 |---|---|
 | 6, 90 | Monson's employer/agency. He is **not** in FIE's disclosures, and RFA 79 attributes the engineer-only statement to him |
 | 7, 8 | FIE made the two coverage decisions. Mostly covered by (C) and (D), but useful for § 604.18 / CFA attribution |
 | 11 | FIE holds the 2020 claim file, which it has not produced |
-| 31, 107–111, 136, 138–141 | Communications **not** in FIE's production. Admission substitutes for authenticating your own captures. 110 cross-refers to 109, and 141 to 140 |
+| 31, 107–111, 136, 138, 139, 141 | Communications **not** in FIE's production. Admission substitutes for authenticating your own captures. 110 cross-refers to 109, and 141 to 140 |
 | 32 | The 9/3 "we had your home inspected" means Hancock |
 | 71 | 2020 estimate 'Type of Loss: Hail.' FIE's own theory already treats the 2020 loss as hail |
 | 74–78 | 2020 replacement-cost extension history. Expect FIE's "appraisal-only" relevance objection here; argue it, but these can wait |
@@ -136,6 +137,8 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 50 | Claim file up to 11/4/2024 not work product. This is a different target from No. 49; the privilege log is the better tool |
 
 ### Tier 3: Offer to withdraw (67 requests)
+
+> ⚠️ **Conditional answer set (added 9/26):** 22 entity/identity requests (Nos. 4, 5, 6, 7, 8, 9, 10, 11, 12, 88, 89, 90, 91, 92, 112, 116, 117, 121, 125, 126, 127, 137) must be answered by 10/21/2026 **if FIE denies any of Nos. 113–115, 128 or 129**. If FIE admits all five, it need not answer them. Re-serving after a denial would miss the 11/16/2026 joinder deadline. Details and letter wording are in the tracker.
 
 | RFAs | Ground | Detail |
 |---|---|---|
@@ -171,7 +174,7 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | **46** | Its premise (a 'However, we do insure marring' sentence in item 8) is absent from the certified policy. Replaced by N12–N13, aimed at the elided item 14 heading in the Coverage Outcome Attachment (FIE 0625) |
 | **123** | 'Identical to the 2014 form' is now known to be false (39 vs 37 pages; new item 14). The edition-label discrepancy becomes a Second Set question |
 
-**Net.** 36 core + 33 deferred = **69 kept**; 67 offered for withdrawal plus 5 withdrawn outright = **72 gone**. Offering 72 withdrawals, each with a stated reason tied to FIE's own papers, is a strong answer to "141 is oppressive." It also leaves a core list you can defend request by request on a ¶4 call. Do **not** offer to cut Tier 1 to reach any number.
+**Net.** 37 core + 32 deferred = **69 kept**; 67 offered for withdrawal plus 5 withdrawn outright = **72 gone**. Offering 72 withdrawals, each with a stated reason tied to FIE's own papers, is a strong answer to "141 is oppressive." It also leaves a core list you can defend request by request on a ¶4 call. Do **not** offer to cut Tier 1 to reach any number.
 
 **The cross-reference check was done.** Six requests cross-refer to earlier requests: 45→44, 60→59, 84→81–83, 86→85, 110→109, 141→140. Every such pair stays together in the same tier. Nothing in Tier 3 is referenced by a request that stays.
 
