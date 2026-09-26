@@ -94,11 +94,10 @@ The policy, inspections and photos, the Prieve report and photos, the demand for
 
 An RFA admission is binding, which is stronger than a disclosure. But when the fact is already in FIE's own papers, the request buys little and costs credibility in a count-the-requests dispute.
 
-### Tier 1: Core. Insist on answers (38 requests)
+### Tier 1: Core. Insist on answers (36 requests)
 
 | RFAs | Why they stay |
 |---|---|
-| **3** | Hail exclusion item 26 does not reach windows. Coverage |
 | **16–19** | Award does not itemize F1.7/B1.2 or any other window. Count III, now reinforced by FIE 0309 |
 | **20–22** | FIE is bound by the "Hail" causation finding; no exclusion applies to F1.7/B1.2; the deductible is the only reason for non-payment. The heart of Counts I–II |
 | **29, 30** | Brau observed dents and measured windows. Disputed, central, and now testable against 0687–0737 |
@@ -111,10 +110,9 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | **79, 80** | "Engineer-only" rule; no written peer-review policy |
 | **81–84** | Receipt of your three submissions and no reopening. 84 cross-refers to 81–83, so all four stay |
 | **85, 86** | The 10/10/2025 statement, and that the "requested date" was 9/6/2024. 86 cross-refers to 85 |
-| **87** | FIE has paid nothing |
 | **94** | Brau's materials were in FIE's possession on 10/29/2025. Now the key admission, because FIE 0456–0506 shows they were |
+| **135** | FIE does not contend Jie Hu is not a proper plaintiff. The Answer (¶4) conspicuously declines to admit her spouse/insured status. *(Revised 9/26)* |
 | **113–115, 128, 129** | Lock in the proper-party concession and retire Affirmative Defense 1 (jurisdiction/service). Costs FIE nothing if its letter is true |
-| **118** | Pietila was FIE's agent. FIE's disclosure calls him "Plaintiffs'," and RFA 83 depends on this |
 
 ### Tier 2: Keep, but lower priority (you can offer FIE extra time on these) (37 requests)
 
@@ -131,10 +129,11 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 92, 112 | Jillian Bell. Not in FIE's disclosures |
 | 96, 97 | No litigation hold as of 9/6 and 11/4/2024. Less urgent now that the Brau record turned up |
 | 120 | Grimm was the only Hancock inspector |
-| 133–135 | Jie Hu is an insured and a proper plaintiff. The 9/25 letter did not concede this |
+| 133, 134 | Jie Hu is an insured and has standing under the policy. The 9/25 letter did not concede this |
+| 93 | Brau made notes, photos, measurements or sketches. Postponed: No. 30 (Core) covers the measuring; revisit if FIE denies No. 30. *(Revised 9/26)* |
 | 50 | Claim file up to 11/4/2024 not work product. This is a different target from No. 49; the privilege log is the better tool |
 
-### Tier 3: Offer to withdraw (65 requests)
+### Tier 3: Offer to withdraw (67 requests)
 
 | RFAs | Ground | Detail |
 |---|---|---|
@@ -143,6 +142,7 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 10 | (C)(D) | FIE maintains the claim file. The disclosures refer to "the remainder of the claim file" in FIE's possession |
 | 12, 116, 121, 125 | (C) | Attorney-in-fact, d/b/a "Farmers," "may sue or be sued." All went to entity identity, which is conceded |
 | 126, 127 | (C) | Service date. FIE answered and appeared; 128–129 carry the jurisdiction point |
+| 3 | (S)(P) | Item 26 (wind/hail) reaches only sand/dust damage to personal property, watercraft, and awnings/greenhouses/antennas, never dwelling windows. FIE never invoked it; No. 21 carries the point. *(Revised 9/26)* |
 | 1, 2, 28 | (S)(P) | Quotations from the 9/3 package and policy, both produced (0051–0124, 0001–0050) |
 | 13 | (S)(P) | Your own Demand for Appraisal, produced at 0304–0307 |
 | 14, 15, 25–27 | (S)(P) | Contents of the award, produced at 0673–0676. The substantive award points stay in 16–22 |
@@ -151,8 +151,9 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 | 51–54 | (S)(P) | Prieve report and 11/4 letter contents, produced at 0677–0686 |
 | 57, 58, 62–68 | (S)(P) | "The Prieve Report does not state X." The report proves its own omissions; use them in cross-examination and a Frye-Mack challenge |
 | 61 | (P) | Genuineness of the Prieve report. FIE produced it and relies on it |
+| 87 | (P) | FIE has paid nothing. Already a judicial admission (Answer ¶35: "no payment was due"), and FIE 0673 says the same. *(Revised 9/26)* |
+| 118 | Reserve | Pietila as FIE's agent. Plaintiffs witnessed him send the 5/28/2025 submission, and he can reach FIE information Plaintiffs cannot. Re-serve in the Second Set only if FIE denies No. 83 on agency grounds. *(Revised 9/26)* |
 | 48 | (P) | The Prieve Report is not work product. It overlaps No. 49, and FIE produced the report and relies on it |
-| 93 | (P) | Brau made "notes, photos, measurements, or sketches." Proven by 0687–0737, because the request is disjunctive. Replace with the targeted Second Set requests in §3.1 |
 | 98–104, 106 | (S)(P) | Sending of the 9/3 package, and Hancock caption counts and meaning. The photos are produced at 0125–0193 and speak for themselves |
 | 119 | (P) | Grimm performed the Hancock inspection. Stated on the Hancock report ("Prepared by Hancock Claims Consultants Jayden Grimm") |
 | 122–124 | (P) | Choice-of-law text and form identity. The certified policy (0001–0050) settles them |
@@ -164,7 +165,7 @@ An RFA admission is binding, which is stronger than a disclosure. But when the f
 |---|---|
 | **95** | "No document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection." It was true when served on 9/20. **FIE 0687–0737 made it false on 9/25.** FIE will deny it correctly, and leaving it in looks careless. Withdraw it, and let RFA 94 plus the new Second Set requests in §3.1 carry the point |
 
-**Net.** 38 core + 37 deferred = **75 kept**; 65 offered for withdrawal plus No. 95 withdrawn outright = **66 gone**. Offering 66 withdrawals, each with a stated reason tied to FIE's own papers, is a strong answer to "141 is oppressive." It also leaves a core list you can defend request by request on a ¶4 call. Do **not** offer to cut Tier 1 to reach any number.
+**Net.** 36 core + 37 deferred = **73 kept**; 67 offered for withdrawal plus No. 95 withdrawn outright = **68 gone**. Offering 68 withdrawals, each with a stated reason tied to FIE's own papers, is a strong answer to "141 is oppressive." It also leaves a core list you can defend request by request on a ¶4 call. Do **not** offer to cut Tier 1 to reach any number.
 
 **The cross-reference check was done.** Six requests cross-refer to earlier requests: 45→44, 60→59, 84→81–83, 86→85, 110→109, 141→140. Every such pair stays together in the same tier. Nothing in Tier 3 is referenced by a request that stays.
 

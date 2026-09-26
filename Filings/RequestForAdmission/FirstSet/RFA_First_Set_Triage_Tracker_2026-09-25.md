@@ -19,8 +19,8 @@
 | Recommendation | Meaning | Count |
 |---|---|---|
 | 🔴 **Withdraw now** | Withdraw by letter; the request is no longer accurate or useful | 1 |
-| 🟠 **Offer to withdraw** | Offer in the reply letter; FIE's own concession, disclosures or production make it unnecessary | 65 |
-| 🟢 **Core** | Insist on an answer by 10/21/2026; defend request by request on any ¶4 call | 38 |
+| 🟠 **Offer to withdraw** | Offer in the reply letter; FIE's own concession, disclosures or production make it unnecessary | 67 |
+| 🟢 **Core** | Insist on an answer by 10/21/2026; defend request by request on any ¶4 call | 36 |
 | 🟡 **Lower priority** | Keep, but offer FIE extra time; do not trade away without a reason | 37 |
 | | **Total** | **141** |
 
@@ -33,7 +33,7 @@
 |---|---|---|---|---|---|---|
 | **1** | Admit that The September 3, 2024 Denial Package to Plaintiffs stated, "our investigation found your policy provides coverage for direct physical loss to insured property, less uninsured or excluded." | 🟠 Offer to withdraw | (S)(P) Quotations from the 9/3/2024 package and policy, produced (FIE 0051–0124, 0001–0050). |  |  |  |
 | **2** | Admit that The Policy Form, at "Section I - Loss or Damage Insured," states: "We insure accidental direct physical loss or damage to that property described in Section I - Types of Property Insured." | 🟠 Offer to withdraw | (S)(P) Quotations from the 9/3/2024 package and policy, produced (FIE 0051–0124, 0001–0050). |  |  |  |
-| **3** | Admit that item 26 ("Windstorm or hail") of subsection B of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form does not apply to loss or damage to the windows of the dwelling at The Property. | 🟢 Core | Coverage: hail exclusion item 26 does not reach windows. |  |  |  |
+| **3** | Admit that item 26 ("Windstorm or hail") of subsection B of Section I – Uninsured Loss or Damage and Excluded Causes of Loss or Damage of The Policy Form does not apply to loss or damage to the windows of the dwelling at The Property. | 🟠 Offer to withdraw | (S)(P) **Revised 9/26 (Bill's review).** The certified policy (FIE 0001–0050) shows that item 26 excludes wind/hail only for (a) personal property damaged by sand/dust, (b) watercraft, and (c) awnings, greenhouses, towers and antennas. It never reaches dwelling windows. FIE has never invoked item 26; policy meaning is for the court; No. 21 (no exclusion bars the awarded windows) carries the point. |  |  |  |
 
 ## B. Identity and capacity of the acting entity
 
@@ -167,7 +167,7 @@
 |---|---|---|---|---|---|---|
 | **85** | Admit that Your October 10, 2025 letter to Plaintiffs stated, "The file does not contain a report on the requested date." | 🟢 Core | The 10/10/2025 'file does not contain a report' statement; predicate for No. 86. | predicate for 86 |  |  |
 | **86** | Admit that the "requested date" referred to in the statement quoted in the preceding request was September 6, 2024. | 🟢 Core | 'Requested date' = 9/6/2024; pairs with FIE 0456–0506 (sent to appraisers 8/13/2025). | relies on 85 |  |  |
-| **87** | Admit that You have paid Plaintiffs nothing on The Claim. | 🟢 Core | FIE has paid nothing. |  |  |  |
+| **87** | Admit that You have paid Plaintiffs nothing on The Claim. | 🟠 Offer to withdraw | (P) Already established. Answer ¶35 (and its response to ¶2) admits 'no payment was due' because the award did not exceed the deductible, and the 9/16/2025 notice (FIE 0673) says 'no payments can be issued … we are closing our claim file.' No. 22 carries the reason for non-payment. |  |  |  |
 
 ## L. Claim handlers and the September 6, 2024 inspection records
 
@@ -178,8 +178,8 @@
 | **90** | Admit that Bradlee Monson acted on behalf of Fire Insurance Exchange in handling The Claim. | 🟡 Lower priority | Monson's employer/agency; Monson omitted from FIE's disclosures; No. 79 attributes the statement to him. |  |  |  |
 | **91** | Admit that Zorphlon Miller acted on behalf of Fire Insurance Exchange in handling The Claim. | 🟠 Offer to withdraw | (D) FIE's initial disclosures label Dudley, Brau, Zorphlon Miller and Twonda Miller as 'FIE' employees. |  |  |  |
 | **92** | Admit that Jillian Bell acted on behalf of Fire Insurance Exchange in handling The Claim. | 🟡 Lower priority | Jillian Bell; omitted from FIE's disclosures. |  |  |  |
-| **93** | Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, photos, measurements, or sketches concerning the windows at The Property. | 🟠 Offer to withdraw | (P) Disjunctive request proven by Brau photos (FIE 0687–0737); replace with targeted Second Set requests. |  |  |  |
-| **94** | Admit that on October 29, 2025, notes, photos, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control. | 🟢 Core | Brau's 9/6/2024 materials were in FIE's possession on 10/29/2025 — now provable (FIE 0456–0506, 0687–0737). |  |  |  |
+| **93** | Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau made handwritten notes, photos, measurements, or sketches concerning the windows at The Property. | 🟡 Lower priority | Postponed (Bill's review 9/26): No. 30 (Core) already covers the measuring. Keep it in the set, but offer FIE extra time on it. Revisit if FIE denies No. 30 or qualifies it evasively. The Rule 36.01 specify-what-is-true point still applies when FIE answers. Backstops: N8–N9. |  |  |  |
+| **94** | Admit that on October 29, 2025, notes, photos, measurements, or sketches made by Nicholas Brau in connection with the September 6, 2024 inspection of The Property were in Your possession, custody, or control. | 🟢 Core | Confirmed 9/26 (Bill's review). Ties Brau's 10/29/2025 "all the information we can release" email to possession on the same date. FIE 0456–0506 (sent to appraisers 8/13/2025) makes a denial hard to justify, and a wrong denial risks costs under Rule 37.03(b). The disjunctive wording is harmless here because the photos alone suffice. |  |  |  |
 | **95** | Admit that no document You have produced or released to Plaintiffs records Nicholas Brau's observations from the September 6, 2024 inspection of The Property. | 🔴 Withdraw now | Became false on 9/25/2026 when FIE produced FIE 0687–0737. No. 94 + Second Set carry the point. |  |  |  |
 | **96** | Admit that, as of September 6, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim. | 🟡 Lower priority | No litigation hold as of 9/6 and 11/4/2024; less urgent now the Brau record has surfaced. |  |  |  |
 | **97** | Admit that, as of November 4, 2024, You had not issued any litigation hold, preservation notice, or document-preservation instruction directing the preservation of documents concerning The Claim. | 🟡 Lower priority | No litigation hold as of 9/6 and 11/4/2024; less urgent now the Brau record has surfaced. |  |  |  |
@@ -223,7 +223,7 @@
 | **115** | Admit that You do not contend that Fire Insurance Exchange is misnamed or misdescribed in the caption of this action. | 🟢 Core | Locks in FIE's 9/25/2026 proper-party concession; costs FIE nothing. |  |  |  |
 | **116** | Admit that, in its dealings with Plaintiffs concerning The Policy and The Claim, Fire Insurance Exchange did business under the name "Farmers Insurance." | 🟠 Offer to withdraw | (C) Entity/attorney-in-fact/d/b/a points; FIE conceded it is a proper party (9/25/2026 letter). |  |  |  |
 | **117** | Admit that Zorphlon Miller was employed or engaged by Fire Insurance Exchange on October 10, 2025. | 🟠 Offer to withdraw | (D) FIE's initial disclosures label Dudley, Brau, Zorphlon Miller and Twonda Miller as 'FIE' employees. |  |  |  |
-| **118** | Admit that Peter Pietila acted as Your agent in connection with The Policy. | 🟢 Core | FIE's disclosures call Pietila 'Plaintiffs' insurance agent'; No. 83 (receipt via Pietila) depends on agency. |  |  |  |
+| **118** | Admit that Peter Pietila acted as Your agent in connection with The Policy. | 🟠 Offer to withdraw | **Reserve for Second Set** (Bill's review 9/26). The agency fact is provable without FIE's admission: (1) Plaintiffs were at Pietila's office and watched him send the 5/28/2025 submission, which supports No. 83 by first-hand testimony; (2) Pietila can reach FIE claim and policy information that Plaintiffs cannot, which is evidence he acts for FIE. Re-serve as N10 only if FIE denies No. 83 on the ground that Pietila is 'Plaintiffs' agent,' or if agency becomes contested. |  |  |  |
 | **119** | Admit that Jayden Grimm performed the August 29, 2024 inspection of The Property on behalf of Hancock Claims Consultants. | 🟠 Offer to withdraw | (P) Hancock report states 'Prepared by Hancock Claims Consultants Jayden Grimm.' |  |  |  |
 | **120** | Admit that Jayden Grimm was the only individual who inspected The Property on behalf of Hancock Claims Consultants on August 29, 2024. | 🟡 Lower priority | Grimm was the only Hancock inspector. |  |  |  |
 
@@ -255,7 +255,7 @@
 | **132** | Admit that on July 13, 2024, Jie Hu resided at The Property in the same household as Yibiao Lu. | 🟠 Offer to withdraw | (S) Policy definition; marriage/residence provable by Plaintiffs' testimony. Nos. 133–135 carry the legal point. |  |  |  |
 | **133** | Admit that Jie Hu is an insured under The Policy with respect to The Claim. | 🟡 Lower priority | Jie Hu is an insured and proper plaintiff; not conceded in FIE's 9/25 letter. |  |  |  |
 | **134** | Admit that You do not contend that Jie Hu lacks standing to assert a claim under The Policy arising from The Claim. | 🟡 Lower priority | Jie Hu is an insured and proper plaintiff; not conceded in FIE's 9/25 letter. |  |  |  |
-| **135** | Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action. | 🟡 Lower priority | Jie Hu is an insured and proper plaintiff; not conceded in FIE's 9/25 letter. |  |  |  |
+| **135** | Admit that You do not contend that Jie Hu is not a proper party plaintiff in this action. | 🟢 Core | **Upgraded 9/26.** Jie Hu's status is live, not conceded. Answer ¶4 admits Yibiao Lu is the named insured but pointedly does **not** admit that Jie Hu is his spouse, a resident of the household, or an insured; under Answer ¶3 that counts as a denial. The certified policy (FIE 0001) lists only Yibiao Lu as named insured, and Affirmative Defense 1 pleads failure to state a claim. FIE's 9/25 letter conceded only that FIE is a proper party. An admission ends the issue; a denial surfaces it now, not at summary judgment. |  |  |  |
 
 ## T. The September 24, 2025 message and its signer
 
@@ -276,21 +276,24 @@
 ## Quick lists (for the reply letter)
 
 - **🔴 Withdraw now** (1): 95
-- **🟠 Offer to withdraw** (65): 1, 2, 4, 5, 9, 10, 12, 13, 14, 15, 23, 24, 25, 26, 27, 28, 36, 37, 38, 39, 40, 41, 42, 48, 51, 52, 53, 54, 57, 58, 61, 62, 63, 64, 65, 66, 67, 68, 88, 89, 91, 93, 98, 99, 100, 101, 102, 103, 104, 105, 106, 116, 117, 119, 121, 122, 123, 124, 125, 126, 127, 130, 131, 132, 137
-- **🟡 Lower priority** (37): 6, 7, 8, 11, 31, 32, 46, 47, 50, 69, 70, 71, 72, 74, 75, 76, 77, 78, 90, 92, 96, 97, 107, 108, 109, 110, 111, 112, 120, 133, 134, 135, 136, 138, 139, 140, 141
-- **🟢 Core** (38): 3, 16, 17, 18, 19, 20, 21, 22, 29, 30, 33, 34, 35, 43, 44, 45, 49, 55, 56, 59, 60, 73, 79, 80, 81, 82, 83, 84, 85, 86, 87, 94, 113, 114, 115, 118, 128, 129
+- **🟠 Offer to withdraw** (67): 1, 2, 3, 4, 5, 9, 10, 12, 13, 14, 15, 23, 24, 25, 26, 27, 28, 36, 37, 38, 39, 40, 41, 42, 48, 51, 52, 53, 54, 57, 58, 61, 62, 63, 64, 65, 66, 67, 68, 87, 88, 89, 91, 98, 99, 100, 101, 102, 103, 104, 105, 106, 116, 117, 118, 119, 121, 122, 123, 124, 125, 126, 127, 130, 131, 132, 137
+- **🟡 Lower priority** (37): 6, 7, 8, 11, 31, 32, 46, 47, 50, 69, 70, 71, 72, 74, 75, 76, 77, 78, 90, 92, 93, 96, 97, 107, 108, 109, 110, 111, 112, 120, 133, 134, 136, 138, 139, 140, 141
+- **🟢 Core** (36): 16, 17, 18, 19, 20, 21, 22, 29, 30, 33, 34, 35, 43, 44, 45, 49, 55, 56, 59, 60, 73, 79, 80, 81, 82, 83, 84, 85, 86, 94, 113, 114, 115, 128, 129, 135
 
 ## Proposed Second Set additions (arising from the 9/25/2026 production)
 
 | # | Proposed request | Replaces / supports | Decision | Status |
 |---|---|---|---|---|
-| N1 | FIE 0687–0737 is a genuine copy of the record Nicholas Brau created at the September 6, 2024 inspection. | Replaces No. 93; supports 29–30 |  |  |
+| N1 | FIE 0687–0737 is a genuine copy of the record Nicholas Brau created at the September 6, 2024 inspection. | Supports 29–30, 93 |  |  |
 | N2 | Nicholas Brau wrote the text appearing on FIE 0718. | Brau causation note |  |  |
 | N3 | FIE 0456–0506 was enclosed with FIE's August 13, 2025 letter to the appraisers (FIE 0308). | Supports 94; replaces 95 |  |  |
 | N4 | FIE 0687–0737 was in FIE's claim file on October 10, 2025. | Supports 85–86 |  |  |
-| N5 | FIE 0687–0737 was in FIE's claim file on October 29, 2025. | Supports 94, 109 |  |  |
+| ~~N5~~ | ~~FIE 0687–0737 was in FIE's claim file on October 29, 2025.~~ | Duplicates No. 94 | Dropped 9/26/2026 | No. 94 kept instead |
 | N6 | *(Fallback — serve only after the Prieve deposition, and only if his answer is evasive.)* Admit that, in forming the opinions stated in The Prieve Report, neither Prieve Engineering, LLC nor Nathan Prieve calculated the impact force or kinetic energy of any hailstone. | Reworded successor to No. 57: process, not document text |  |  |
 | N7 | *(Fallback — same condition.)* Admit that, in forming the opinions stated in The Prieve Report, neither Prieve Engineering, LLC nor Nathan Prieve calculated the terminal velocity of any hailstone. | Reworded successor to No. 58 |  |  |
+| N8 | Admit that during the September 6, 2024 inspection of The Property, Nicholas Brau recorded measurements of one or more windows at The Property. | Isolates the measurement limb of No. 93; supports No. 30 |  |  |
+| N9 | Admit that FIE 0687–0737 contains no record of any window measurement. | With N8: measurements were taken, and none were produced |  |  |
+| N10 | *(Conditional — serve only if FIE denies No. 83 on the ground that Pietila is 'Plaintiffs' agent,' or disputes agency.)* Admit that Peter Pietila was an agent appointed by Fire Insurance Exchange in connection with The Policy. | Re-serves the substance of First Set No. 118 |  |  |
 
 > **Timing for N6–N7.** RFAs get 30 days to answer and discovery closes **3/15/2027**, so any fallback RFA must be served by about **2/12/2027**. Schedule the Prieve deposition early enough to leave that room.
 
@@ -301,3 +304,10 @@
 | 9/25/2026 | Tracker created from the triage in the initial-disclosures analysis |
 | 9/26/2026 | No. 48 → Offer to withdraw; No. 50 → Lower priority; No. 49 stays Core. No. 49 alone carries the Prieve fact-witness point (Bill's review) |
 | 9/26/2026 | Nos. 57–58: remain Offer to withdraw as worded. Substance moved to the Prieve deposition, with reworded fallback RFAs N6–N7 (not a verbatim move to the Second Set) |
+| 9/26/2026 | No. 87 → Offer to withdraw. Non-payment is already a judicial admission (Answer ¶35 and the response to ¶2) and appears in FIE 0673 (Bill's review) |
+| 9/26/2026 | No. 93 → Core (Bill's review: it reaches Brau's window measurements, which the production does not contain). Added N8–N9 to isolate the measurement point |
+| 9/26/2026 | No. 93 → Lower priority (postponed). No. 30 covers the measuring (Bill's review) |
+| 9/26/2026 | No. 94 confirmed Core (Bill's review); proposed Second Set request N5 dropped as a duplicate of No. 94 |
+| 9/26/2026 | No. 118 → Offer to withdraw / reserve for Second Set as N10. Plaintiffs witnessed Pietila send the 5/28/2025 submission, and Pietila can access FIE information Plaintiffs cannot (Bill's review) |
+| 9/26/2026 | No. 135 → Core. Answer ¶4 omits any admission of Jie Hu's spouse/insured status; FIE's 9/25 concession covers FIE only |
+| 9/26/2026 | No. 3 → Offer to withdraw. Item 26 doesn't reach windows, FIE never invoked it, and No. 21 covers the point. Nos. 7–8 stay Lower priority (Bill's review) |
