@@ -451,7 +451,7 @@ Where: a, b, c, d = empirical constants fitted to storm data.
 - **Purpose:** Seven relevant court cases (CL-1 through CL-7) with analysis of relevance to our claim. Includes Burgess v. Farmers ($130M verdict), State Farm Hail Focus Initiative litigation, Dagley v. Haag Engineering, Cedar Bluff v. American Family (matching), Noonan v. American Family (matching endorsement), and others.
 
 ### PROJ-4: Legal Strategy
-- **File:** `../LegalReferences/LegalStrategy.md` *(moved from HailShapes/ to LegalReferences/ on 4/12/2026)*
+- **File:** `../LegalReferences/DeprecatedFiles/LegalStrategy.md` *(moved from HailShapes/ to LegalReferences/ on 4/12/2026; since superseded and moved to DeprecatedFiles/ — do not cite)*
 - **Purpose:** Litigation roadmap including legal claims (breach of contract, bad faith, unfair practices, matching/full replacement), evidence framework, timeline, and Minnesota-specific legal considerations.
 
 ---
@@ -476,6 +476,6 @@ Where: a, b, c, d = empirical constants fitted to storm data.
 | Scientific counter-arguments with formulas | KeyDecisionDocument.md (PROJ-1) |
 | Point-by-point rebuttal of Prieve's 4 opinions | RebuttalToFarmersDenial.md (PROJ-2) |
 | Court cases supporting our position | ../LegalReferences/CaseLawReference.md (PROJ-3) |
-| Litigation roadmap and legal claims | ../LegalReferences/LegalStrategy.md (PROJ-4) |
+| Litigation roadmap and legal claims | ../LegalReferences/DeprecatedFiles/LegalStrategy.md (PROJ-4 — superseded) |
 | Original Farmers denial letter | FarmersDocs/FarmersDenyLetter-11-4.pdf (INS-1) |
 | Prieve Engineering report + photos | FarmersDocs/FarmersDenyLetter-11-4-AppendixA.pdf (INS-2) |

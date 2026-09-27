@@ -69,8 +69,6 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 
 ---
 
----
-
 ## Root Directory
 
 ### KeyDecisions.md
@@ -99,8 +97,6 @@ The "New Roof" discount confirms a roof replacement had occurred prior to this r
 **Date:** Covers 8/9/2024 through ~10/29/2025
 **Authors:** Yibiao Lu & Jie Hu
 **Significance:** The family's own contemporaneous notes documenting every action taken in pursuit of the hail claim — phone calls, in-person visits, emails sent and received, meetings with agents and government offices, and Farmers' responses. This is the most complete raw record of the family's interactions and is the primary source for the compiled ClaimTimeline.md. Contains verbatim email text in several entries (notably the 7/10–7/11/2025 deadline exchange with Nic Brau, the 9/18–10/29/2025 post-appraisal correspondence, and the 10/28/2025 leaking-windows email). Note: one date typo exists in the original — "2/14/2024" should read "2/14/2025" for the start of international travel.
-
----
 
 ---
 
@@ -452,8 +448,6 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 ---
 
----
-
 ## Evidence/
 
 ### Significant Wind and Hail in Minnesota July 13-14.pdf
@@ -478,28 +472,12 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 ---
 
----
-
 ## LegalReferences/
-
-### References.md
-**Type:** External legal resource index
-**Date:** Created 2026-04-04
-**Significance:** Tracks URLs for key legal references used in the case. Currently includes the Minnesota Rules of Civil Procedure (mncourts.gov). Resources are kept as URLs rather than local files to stay current. Ask Claude to fetch any specific rule or section as needed.
-
----
 
 ### CaseLawReference.md
 **Type:** Case law reference document — court cases relevant to hail damage insurance denial disputes
 **Date:** Created 2026-04-11; updated 2026-04-12 (moved from HailShapes/; added CL-6 Cedar Bluff and CL-7 Noonan matching cases)
 **Significance:** Documents 7 court cases (CL-1 through CL-7) with detailed facts, holdings, and relevance analysis for the family's claim. Key cases include: Burgess v. Farmers ($130M verdict for systematic underpayment — same insurer); State Farm "Hail Focus Initiative" litigation (ongoing, AG intervened — identical engineering-report-as-denial-tool pattern); Dagley v. Haag Engineering (engineering firm liability theory); Cedar Bluff v. American Family (Minn. 2014 — Minnesota Supreme Court required full replacement when matching unavailable, directly supports Semco matching argument); and Noonan v. American Family (8th Cir. 2019 — matching endorsement upheld, but distinguishable when manufacturer is defunct). Also includes emerging legal trends section on engineering report bias, scientific expert testimony requirements, and AG intervention. Cross-references HailShapes research documents for scientific evidence supporting each case law issue.
-
----
-
-### LegalStrategy.md
-**Type:** Comprehensive litigation strategy and roadmap
-**Date:** Created 2026-04-11; updated 2026-04-12 (moved from HailShapes/; added matching/Semco claim, Cedar Bluff case law, expanded evidence needs and appraisal analysis)
-**Significance:** The primary litigation planning document. Contains: (I) case theory; (II) five potential legal claims — breach of contract, bad faith under § 604.18, unfair claims practices under 72A.201, matching/full window replacement based on Semco's closure and *Cedar Bluff*, and negligence against Prieve Engineering; (III) evidence framework with 24 assembled scientific sources and 11 evidence items still needed (including window replacement quotes and Semco unavailability confirmation); (IV) summary rebuttals to each Prieve Engineering opinion; (V) key weaknesses in the Prieve report; (VI) recommended litigation timeline from pre-suit through trial; (VII) Minnesota-specific legal considerations including appraisal award challenge and J6944 endorsement analysis; and (VIII) document repository table with paths to all project files.
 
 ---
 
@@ -509,6 +487,28 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 **Significance:** Maps the discovery phase for the Hennepin County District Court case under the Minnesota Rules of Civil Procedure (Rules 26–37) and General Rule of Practice 111. Anchored to the **Defendant's Answer due date of 8/10/2026** (extended by the Court), it back-calculates the kickoff deadlines per Minn. R. Civ. P. 6.01: discovery conference/meet-and-confer by **9/9/2026** (Rule 26.06), written discovery plan **14 days after** the conference (~9/23/2026), initial disclosures — including FIE's insurance/coverage documents — by **10/9/2026** (Rule 26.01(a)), and the court's scheduling order **≤90 days after filing** (GRP 111.02). Also catalogs each discovery device with its limits and 30-day rolling response clocks: interrogatories (max 50 incl. subparts, Rule 33), document requests (Rule 34), requests for admission (no cap but **auto-admitted if unanswered in 30 days**, Rule 36), and depositions (7 hours/one day per deponent, Rule 30). Lists trial-date-keyed deadlines (expert reports ≥90 days before trial; pretrial disclosures 30 days before trial) as TBD until the scheduling order issues, plus practice notes on the meet-and-confer prerequisite to discovery motions (Rule 37/GRP 115) and priority document-request targets (full claim file, Brau 9/6/2024 inspection record, Prieve/Hancock files, appraisal/umpire file). **Open item:** insert the court file-stamp date to finalize the scheduling-order deadline.
 
 ---
+
+## LegalReferences/DeprecatedFiles/
+
+*Superseded working documents, retained for history. **Do not cite these in a filing** — their content has been overtaken by later research, and at least one contains a known error (see the note below). The index previously listed the two entries below under `LegalReferences/` as if current; corrected 2026-09-26.*
+
+### References.md
+**Type:** External legal resource index
+**Date:** Created 2026-04-04 · **moved to `DeprecatedFiles/` (index corrected 2026-09-26)**
+**Significance:** Tracks URLs for key legal references used in the case. Currently includes the Minnesota Rules of Civil Procedure (mncourts.gov). Resources are kept as URLs rather than local files to stay current. Ask Claude to fetch any specific rule or section as needed.
+
+---
+
+### LegalStrategy.md
+**Type:** Comprehensive litigation strategy and roadmap
+**Date:** Created 2026-04-11; updated 2026-04-12 · **moved to `DeprecatedFiles/` (index corrected 2026-09-26)** (moved from HailShapes/; added matching/Semco claim, Cedar Bluff case law, expanded evidence needs and appraisal analysis)
+**Significance:** The primary litigation planning document. Contains: (I) case theory; (II) five potential legal claims — breach of contract, bad faith under § 604.18, unfair claims practices under 72A.201, matching/full window replacement based on Semco's closure and *Cedar Bluff*, and negligence against Prieve Engineering; (III) evidence framework with 24 assembled scientific sources and 11 evidence items still needed (including window replacement quotes and Semco unavailability confirmation); (IV) summary rebuttals to each Prieve Engineering opinion; (V) key weaknesses in the Prieve report; (VI) recommended litigation timeline from pre-suit through trial; (VII) Minnesota-specific legal considerations including appraisal award challenge and J6944 endorsement analysis; and (VIII) document repository table with paths to all project files.
+
+---
+
+*Also in this folder, not separately catalogued:* `MN_CaseLaw_Research.md` and `ScienceToLitigation_Bridge.md`.
+
+> ⚠️ **Known error carried by these files.** `ScienceToLitigation_Bridge.md` records that `LegalStrategy.md` states a 6-year statute of limitations for breach of contract, and flags the correct figure as the policy's **2-year contractual limitations period**. Treat the limitations analysis in `LegalStrategy.md` as wrong; `Argument_Strength_Assessment.md` governs.
 
 ---
 
@@ -588,3 +588,5 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 *Last updated: 2026-06-14 — Added `EventDocuments/WindowsDamage.pdf`, the family's own 72-page systematic window-damage photo documentation (created ~9/29/2024, handed to Prieve at the 10/9/2024 inspection and shared with Farmers). Resolves Missing Documentation entry #8 in ClaimTimeline.md.*
 
 *Last updated: 2026-09-26 — Created `LegalReferences/Mediator/` and moved the mediator research there: `Mediator_Shortlist_and_Vetting_2026-09-18.md` (from `LegalReferences/`) and `Mediator_Candidates_From_Defendant_2026-09-26.md` (from `Filings/Discovery/`). Cross-references in both files and in `LegalReferences/Expert_and_Neutral_Selection_Criteria_2026-09-18.md` were repointed. That criteria memo stays in `LegalReferences/` because Part II is the expert-witness criteria and three expert documents rely on it.*
+
+*Last updated: 2026-09-26 — Corrected a stale index error: `References.md` and `LegalStrategy.md` were catalogued under `LegalReferences/` but actually live in `LegalReferences/DeprecatedFiles/`. Both entries moved to a new `LegalReferences/DeprecatedFiles/` section and marked superseded. `HailShapes/DocumentIndex.md` links to `LegalStrategy.md` were repointed.*
