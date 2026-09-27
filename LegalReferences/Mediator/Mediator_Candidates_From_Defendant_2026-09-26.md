@@ -74,6 +74,8 @@ Read that against your posture. You are a homeowner alleging your insurer wrongl
 
 ## 4. ⚠️ Neither name appears on the Rule 114 roster
 
+> **⚠️ CORRECTION 9/26/2026 (later the same day).** A further search found a third neutral — Patrick R. Burns — who also publicly claims Rule 114 qualified-neutral status and also does not appear on the roster. Rule 114.12 subd. 2 lists neutrals who **apply** to be listed, so lapsed or unrenewed listings are ordinary and absence is **not** evidence of non-qualification. The inference drawn below was too strong. The practical step is unchanged — ask for current status in writing under Rule 114.13 subd. 3 — but this should not weigh against either candidate until they have been asked. See `Mediator_Reranked_Appraisal_and_Matching_2026-09-26.md` §4a.
+
 I searched the Minnesota Judicial Branch ADR roster today, both the **Civil** and **Family** rosters, by surname.
 
 | Search | Result |

@@ -20,6 +20,8 @@ Neither party can satisfy ¶6 alone. If there is no agreement, a notice of impas
 |---|---|
 | `Mediator_Shortlist_and_Vetting_2026-09-18.md` | Our three candidates, drawn from the Rule 114 roster, with conflict flags, fee arithmetic and the candidate inquiry email |
 | `Mediator_Candidates_From_Defendant_2026-09-26.md` | Assessment of Defendant's two proposals — Roger Kramer and Charles Noel |
+| `Mediator_Reranked_Appraisal_and_Matching_2026-09-26.md` | *Superseded.* Over-read the criterion as requiring umpire service; its Cedar Bluff/matching research stands |
+| `Mediator_Criteria_Clarified_2026-09-26.md` | **Current ranking.** "Familiar with" = understands the rules; 44 roster neutrals qualify |
 
 ## Where the rules live
 
@@ -30,6 +32,7 @@ Neither party can satisfy ¶6 alone. If there is no agreement, a notice of impas
 - Defendant proposed **Roger Kramer** and **Charles Noel** on 9/25/2026.
 - Working assessment: **Kramer workable, Noel not** (insurance-defense practice background).
 - **Neither appears on the Rule 114 roster**, which is permissible by party agreement but forfeits the training floor, the ethics backstop and the sanction check.
+- **Current ranking (9/26, final):** 1. Hon. Shawn Bartsh · 2. Dean B. Thomson · 3. Hon. David Knutson / Hon. Michael DeCourcy · 4. Roger Kramer. Appraisal and matching literacy is a **screening question**, not a ranking factor — 44 roster neutrals qualify.
 - **Nothing has been communicated to Defendant.** No response until the further research is done.
 
 ## Standing reminders

@@ -162,6 +162,8 @@ Ask every candidate for four numbers, not one: **hourly rate, minimum block, pre
 
 ## 9. Recommended list of three for the October 13 exchange
 
+> **⚠️ SUPERSEDED 9/26/2026 — see `Mediator_Reranked_Appraisal_and_Matching_2026-09-26.md`.** New criteria (appraisal-award and matching literacy) reorder this list: **Dean B. Thomson moves to first** as the only Court Appointed Neutral Appraisal Umpire found, and a new candidate — **Patrick R. Burns**, who lists Insurance Umpire services at $450/hr — joins at second. The vetting method, conflict flags and inquiry email below are unchanged.
+
 Propose three, in this order, with the roster category and contact stated for each:
 
 1. **Hon. Shawn Bartsh**, Gilbert Mediation Center, Eden Prairie — retired judge, insurance coverage listed, construction and complex-litigation tags, local to the property, firm advertises no administrative fees. *The one most likely to be agreed.*
