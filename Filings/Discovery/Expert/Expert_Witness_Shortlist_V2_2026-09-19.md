@@ -162,7 +162,7 @@ Why this pairing:
 | **Mid-Oct 2026** | Read the testimony lists and conflict statements. Decide pairing versus single expert. |
 | **Late Oct 2026** | **Retain.** Then ask the retained experts the operative question: *what documents does your report require?* |
 | **Nov 2026** | Back-plan discovery from that list. This is the point of retaining early — the expert tells you what to demand. |
-| **Dec 2026 – early Jan 2027** | The real document-discovery deadline (`SchedulingOrder_Impact_Analysis_2026-09-10.md` §4.2), not 3/15/2027. |
+| **Dec 2026 – early Jan 2027** | The real document-discovery deadline (`../../../OfficialCourtDocuments/SchedulingOrder_Impact_Analysis_2026-09-10.md` §4.2), not 3/15/2027. |
 | **Feb 2027** | Draft reports in hand for review. |
 | **3/15/2027** | Signed reports served — same day all discovery closes (Order ¶¶2, 3(a)). |
 

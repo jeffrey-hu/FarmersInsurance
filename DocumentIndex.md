@@ -512,6 +512,24 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 
 ---
 
+## LegalReferences/Mediator/
+
+*Created 2026-09-26. Consolidates all neutral-mediator research required by Scheduling Order ¶6 (notice of the agreed neutral and mediation date due **10/27/2026**; mediation completed by **6/1/2027**).*
+
+### Mediator_Shortlist_and_Vetting_2026-09-18.md
+**Type:** Candidate shortlist and vetting guide for the Rule 114 neutral
+**Date:** Created 2026-09-18 *(moved from `LegalReferences/` on 2026-09-26)*
+**Significance:** Built from a live search of the Minnesota Judicial Branch Rule 114 roster (Civil / Mediation / Hennepin / Insurance), which returned **117 Qualified Neutrals** — all confirmed **Civil Facilitative/Hybrid**, the 30-hour training category rather than the 6-hour adjudicative one. Two verified negative findings: none of the 117 carries the roster's sanction asterisk, and no neutral in the pool is listed at Kennedy Law Firm or any entity named in this case. Recommends three candidates in order — **Hon. Shawn Bartsh** (Gilbert Mediation Center, Eden Prairie), **Dean B. Thomson** (Fabyanske Westra Hart & Thomson; property-insurance claims, water-intrusion coverage recoveries, court-appointed neutral appraiser) and **Hon. David Knutson (Ret.)** (PowerHouse Mediation) — with conflict flags for neutrals employed by carriers, fee arithmetic against ¶6's equal cost split, and a ready-to-send candidate inquiry email built on the Rule 114.13 subd. 3 right to a written statement of qualifications. Also corrects the companion criteria memo: the roster itself flags sanctioned neutrals, which is faster than the ADR Ethics Board reprimand PDFs.
+
+---
+
+### Mediator_Candidates_From_Defendant_2026-09-26.md
+**Type:** Assessment of the two neutrals proposed by Defendant
+**Date:** Created 2026-09-26 *(moved from `Filings/Discovery/` on 2026-09-26)*
+**Significance:** Baskfield proposed **Roger Kramer** and **Charles Noel** on 9/25/2026, eighteen days ahead of the 10/13 exchange date. Working assessment: **Kramer workable, Noel not.** Kramer is a full-time Twin Cities mediator/arbitrator (Kramer Law LLC, Mendota Heights) with 25+ years as a trial lawyer representing both plaintiffs and defendants, NADN member, MSBA Board Certified Civil Trial Specialist, published rate **$600/hr**. Noel is a practising insurance-defense trial lawyer listed at **Erstad & Riemer** ("Minneapolis Insurance Defense Attorneys"), whose own biography cites extensive experience in **"arson and fraud cases for insurers"**, subrogation and coverage work, and whose Super Lawyers profile categorises him as Personal Injury – **Defense** — an impartiality concern under Rule 114.13 subd. 2's "likely to affect impartiality" standard for a homeowner mediating against an insurer. **Neither name appears on the Rule 114 roster** (Civil or Family, verified against a control search), which is permissible under Rule 114.04's party-agreement route but forfeits the training floor, the Code of Ethics/ADR Ethics Board backstop and the sanction check — mitigated by writing Rule 114.13 compliance into the engagement agreement. **Nothing has been communicated to Defendant**; the draft reply was removed on 2026-09-26 pending further research.
+
+---
+
 ## CaseContext/
 
 ### key-facts.md
@@ -568,3 +586,5 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 *Last updated: 2026-04-15 — Added FarmersDenyLetter_09_03_2024.pdf (first written denial + Hancock photos) and FinalDocument_2020.pdf (2020 claim Xactimate estimate) to EventDocuments/. These resolve Missing Documentation entries #1 and #3 from ClaimTimeline.md. Also added `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md`, a phase-organized catalog of pro-family facts with per-fact source citations and no legal framing.*
 
 *Last updated: 2026-06-14 — Added `EventDocuments/WindowsDamage.pdf`, the family's own 72-page systematic window-damage photo documentation (created ~9/29/2024, handed to Prieve at the 10/9/2024 inspection and shared with Farmers). Resolves Missing Documentation entry #8 in ClaimTimeline.md.*
+
+*Last updated: 2026-09-26 — Created `LegalReferences/Mediator/` and moved the mediator research there: `Mediator_Shortlist_and_Vetting_2026-09-18.md` (from `LegalReferences/`) and `Mediator_Candidates_From_Defendant_2026-09-26.md` (from `Filings/Discovery/`). Cross-references in both files and in `LegalReferences/Expert_and_Neutral_Selection_Criteria_2026-09-18.md` were repointed. That criteria memo stays in `LegalReferences/` because Part II is the expert-witness criteria and three expert documents rely on it.*

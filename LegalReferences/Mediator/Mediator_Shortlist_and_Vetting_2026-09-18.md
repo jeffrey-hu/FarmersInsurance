@@ -3,7 +3,7 @@
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange* — Court File No. 27-CV-26-11606
 **Prepared:** September 18, 2026
 **Serves:** the **October 13, 2026** candidate exchange proposed in item 6 of the September 15 meet-and-confer letter, and the **October 27, 2026** ¶6 notice to the Court.
-**Companion:** `Expert_and_Neutral_Selection_Criteria_2026-09-18.md` — what the rules require. This document is who actually qualifies.
+**Companion:** `../Expert_and_Neutral_Selection_Criteria_2026-09-18.md` — what the rules require. This document is who actually qualifies.
 
 > **Not legal advice, and not an endorsement.** I am not a lawyer and cannot vouch for any neutral below. Every name here was taken from the **official Minnesota Judicial Branch Rule 114 roster**, which is authoritative on Qualified Neutral status but expressly *not* on anything else — see the roster's own disclaimer in §1. Backgrounds are from public bios. **A candidate becomes acceptable only after the written qualification and conflict disclosures in §6 come back clean.**
 >
@@ -156,7 +156,7 @@ Ask every candidate for four numbers, not one: **hourly rate, minimum block, pre
 
 ## 8. Correction to the companion memo
 
-`Expert_and_Neutral_Selection_Criteria_2026-09-18.md` §I.5 and §I.10 say to check candidate names against the ADR Ethics Board's public reprimand PDFs. That still works, but the **roster itself is the better tool**: it marks sanctioned neutrals with an asterisk next to the name and is republished continuously (it read "Current as of 9/18/2026" today). Check the asterisk on the roster listing first; use the Ethics Board PDFs only to find out *what* a flagged neutral was sanctioned for.
+`../Expert_and_Neutral_Selection_Criteria_2026-09-18.md` §I.5 and §I.10 say to check candidate names against the ADR Ethics Board's public reprimand PDFs. That still works, but the **roster itself is the better tool**: it marks sanctioned neutrals with an asterisk next to the name and is republished continuously (it read "Current as of 9/18/2026" today). Check the asterisk on the roster listing first; use the Ethics Board PDFs only to find out *what* a flagged neutral was sanctioned for.
 
 ---
 
@@ -222,7 +222,7 @@ Track item 6 of the September 15 letter: name the three candidates, state each o
 
 **Rules and case documents:**
 
-- Minn. Gen. R. Prac. 114.04, 114.11, 114.12, 114.13 — see `Expert_and_Neutral_Selection_Criteria_2026-09-18.md` for the verified quotations
-- Scheduling Order ¶6, September 8, 2026 — `../OfficialCourtDocuments/09_08_2026_MCRO_27-CV-26-11606_Scheduling Order_2026-09-08_20260909195035.pdf`
-- `../Filings/Discovery/Meet_and_Confer_Letter_Scheduling_Order_2026-09-11.md` — item 6
-- `../KeyDecisions.md`
+- Minn. Gen. R. Prac. 114.04, 114.11, 114.12, 114.13 — see `../Expert_and_Neutral_Selection_Criteria_2026-09-18.md` for the verified quotations
+- Scheduling Order ¶6, September 8, 2026 — `../../OfficialCourtDocuments/09_08_2026_MCRO_27-CV-26-11606_Scheduling Order_2026-09-08_20260909195035.pdf`
+- `../../Filings/Discovery/Meet_and_Confer_Letter_Scheduling_Order_2026-09-11.md` — item 6
+- `../../KeyDecisions.md`

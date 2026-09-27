@@ -2,7 +2,7 @@
 
 **Case:** *Yibiao Lu and Jie Hu v. Fire Insurance Exchange, by and through its attorney-in-fact, Fire Underwriters Association (d/b/a Farmers Insurance)*, Court File No. 27-CV-26-11606 (Hennepin County, Fourth Judicial District, Hon. Jamie L. Anderson)
 **Prepared:** September 18, 2026
-**Companion:** `Mediator_Shortlist_and_Vetting_2026-09-18.md` — the named candidates this memo's criteria produce.
+**Companion:** `Mediator/Mediator_Shortlist_and_Vetting_2026-09-18.md` — the named candidates this memo's criteria produce.
 **Purpose:** Separate the selection criteria the rules *impose* from the criteria that are merely prudent, for (I) the neutral mediator required by Scheduling Order ¶6 and (II) the retained expert(s) required by Scheduling Order ¶3(a).
 
 > **Not legal advice.** Working research for discussion with a Minnesota-licensed attorney.
@@ -85,7 +85,7 @@ Minn. Gen. R. Prac. 114.13 (Code of Ethics for Court-Annexed ADR Neutrals) is th
 
 **Enforcement is real.** The ADR Ethics Board takes written complaints, decides violations by **clear and convincing evidence**, and can impose sanctions "including but not limited to a public reprimand on the ADR webpage," notification to the appointing court and to professional licensing authorities, and **removal from the roster** (Rule 114.13, ADR Ethics Board Rules subds. 2–3).
 
-**How to check a candidate (corrected 9/18/2026):** the **roster itself flags sanctioned neutrals** — its note reads, "Neutrals with an asterisk (*) by their name have been sanctioned by the Alternative Dispute Resolution Ethics Board for Ethics violations." Check the asterisk on the roster listing, which is republished continuously. The Board's public-reprimand PDFs (two lists, pre- and post-2023 amendments, most recent 2026) are then useful only to learn *what* a flagged neutral was sanctioned for. See `Mediator_Shortlist_and_Vetting_2026-09-18.md` §1 — none of the 117 candidates in the searched pool carries an asterisk.
+**How to check a candidate (corrected 9/18/2026):** the **roster itself flags sanctioned neutrals** — its note reads, "Neutrals with an asterisk (*) by their name have been sanctioned by the Alternative Dispute Resolution Ethics Board for Ethics violations." Check the asterisk on the roster listing, which is republished continuously. The Board's public-reprimand PDFs (two lists, pre- and post-2023 amendments, most recent 2026) are then useful only to learn *what* a flagged neutral was sanctioned for. See `Mediator/Mediator_Shortlist_and_Vetting_2026-09-18.md` §1 — none of the 117 candidates in the searched pool carries an asterisk.
 
 ## I.6 Fees
 
@@ -173,7 +173,7 @@ The ask is already out. Item 6 of the **September 15, 2026** meet-and-confer let
 | Date | Action | Source of the date |
 |---|---|---|
 | **9/29/2026** | **Defendant's response on item 6 due** — whether it will engage on selecting a neutral, and whether it prefers to propose names first | 9/15 letter, item 6 |
-| **9/30/2026** | Short follow-up email if item 6 went unanswered | `KeyDecisions.md` follow-up rule |
+| **9/30/2026** | Short follow-up email if item 6 went unanswered | `../KeyDecisions.md` follow-up rule |
 | **10/13/2026** | **Exchange two or three mediator candidates.** State the **Civil Facilitative/Hybrid** roster category and rate for each of Plaintiffs' candidates; ask Baskfield to do the same for hers | 9/15 letter, item 6 |
 | **within ~2 days of the exchange** | Request from every candidate on both lists: roster category, **written statement of qualifications** (Rule 114.13 subd. 3), **conflict disclosure** naming the entities in §I.10 (subd. 2), fee schedule, and **draft engagement agreement** (subd. 7(b)) | this memo, §I.5 |
 | **~10/16/2026** | Check each candidate for the roster's **sanction asterisk** | this memo, §I.5 |
@@ -232,7 +232,7 @@ Order ¶3(a) requires Plaintiffs' "expert interrogatories, disclosures, and repo
 
 **Read (D), (E) and (F) as a vetting instruction.** Those three items will be handed to Farmers' counsel in March 2027 whatever they say. So obtain them **before retention**, in writing:
 
-- **(E) is the important one.** A four-year testimony list that is overwhelmingly insurer-side is Farmers' cross-examination, written by your own witness and served by you. Ask for the list, then ask for the **plaintiff/insurer split** within it. (`Expert_Witness_Shortlist_and_Vetting.md` §6 already flags this for candidate A, who spent ~7 years at Haag Global — an insurer-side firm — until 2024. That history can be an asset on rebuttal; it is only a liability if it is discovered late.)
+- **(E) is the important one.** A four-year testimony list that is overwhelmingly insurer-side is Farmers' cross-examination, written by your own witness and served by you. Ask for the list, then ask for the **plaintiff/insurer split** within it. (`../Filings/Discovery/Expert/Expert_Witness_Shortlist_and_Vetting.md` §6 already flags this for candidate A, who spent ~7 years at Haag Global — an insurer-side firm — until 2024. That history can be an asset on rebuttal; it is only a liability if it is discovered late.)
 - **(D)** — publications are also impeachment material. A candidate with a paper taking a position inconsistent with the opinion in this case is a candidate to know about now.
 - **(F)** — the compensation figure is disclosed. A rate that looks disproportionate to the claim is a cross-exam theme.
 
@@ -243,7 +243,7 @@ Order ¶3(a) requires Plaintiffs' "expert interrogatories, disclosures, and repo
 ## II.5 Rule 26.02(e) — how exposed your expert will be
 
 - **26.02(e)(1)(A):** the other side may, **by interrogatory**, require identification of each trial expert and a statement of the subject matter, the substance of the facts and opinions, and a summary of the grounds. Available as of right.
-- **26.02(e)(1)(B):** any further expert discovery — including a **deposition** — is available only "[u]pon motion." **Minnesota has no federal-style right to depose an opposing expert.** This cuts both ways: Farmers cannot depose your expert as of right either, unless a stipulation or order says so. The pending expert-discovery stipulation (`Filings/Discovery/Expert_Discovery_Stipulation_Letter_to_Kennedy_2026-09-12.md`) is what will decide this, and it should be resolved before the expert is retained so the expert knows what they are signing up for.
+- **26.02(e)(1)(B):** any further expert discovery — including a **deposition** — is available only "[u]pon motion." **Minnesota has no federal-style right to depose an opposing expert.** This cuts both ways: Farmers cannot depose your expert as of right either, unless a stipulation or order says so. The pending expert-discovery stipulation (`../Filings/Discovery/Expert_Discovery_Stipulation_Letter_to_Kennedy_2026-09-12.md`) is what will decide this, and it should be resolved before the expert is retained so the expert knows what they are signing up for.
 - **26.02(e)(3):** the party seeking the discovery ordinarily pays the expert "a reasonable fee for time spent in responding to discovery." Budget both directions.
 - **26.02(e)(2):** a **non-testifying** consulting expert is discoverable only on a showing of exceptional circumstances. If you want a consultant to evaluate the case before committing to a testifying expert, that is the protected slot — but it is a separate retention, documented as such from day one.
 
@@ -278,7 +278,7 @@ Engineering causation opinions in Minnesota implicate the licensure statutes for
 - [ ] Available to supplement through trial — Rule 26.05
 - [ ] Understands there is **no draft protection** in Minnesota — Rule 26.02(e) comparison
 
-**Prudent (carried over and extended from `Expert_Witness_Shortlist_and_Vetting.md` §6):**
+**Prudent (carried over and extended from `../Filings/Discovery/Expert/Expert_Witness_Shortlist_and_Vetting.md` §6):**
 
 - [ ] Conflict check: no work for Fire Insurance Exchange / Fire Underwriters Association / Farmers, for **Kennedy Law Firm**, or with **Prieve Engineering**
 - [ ] Able to perform a **site inspection**, including the never-inspected rear-garage window
@@ -331,10 +331,10 @@ Engineering causation opinions in Minnesota implicate the licensure statutes for
 
 **Case documents (local):**
 
-- `OfficialCourtDocuments/09_08_2026_MCRO_27-CV-26-11606_Scheduling Order_2026-09-08_20260909195035.pdf` — ¶¶2, 3, 5, 6, 7, 8, 13 (text of ¶6 quoted above is from this PDF)
-- `OfficialCourtDocuments/SchedulingOrder_Impact_Analysis_2026-09-10.md`
-- `Filings/Discovery/Expert/Expert_Discovery_and_Challenge_Research_2026-09-17.md`
-- `Filings/Discovery/Expert/Expert_Witness_Shortlist_and_Vetting.md`
-- `Filings/Discovery/Expert_Discovery_Stipulation_Letter_to_Kennedy_2026-09-12.md`
-- `Filings/Discovery/Meet_and_Confer_Letter_Scheduling_Order_2026-09-11.md` — item 6 (mediation), which sets the 9/29, 10/13 and second-half-of-May-2027 dates used in §I.13 and Part III
-- `KeyDecisions.md` (Decisions 4 and 5; the September 15 meet-and-confer response schedule)
+- `../OfficialCourtDocuments/09_08_2026_MCRO_27-CV-26-11606_Scheduling Order_2026-09-08_20260909195035.pdf` — ¶¶2, 3, 5, 6, 7, 8, 13 (text of ¶6 quoted above is from this PDF)
+- `../OfficialCourtDocuments/SchedulingOrder_Impact_Analysis_2026-09-10.md`
+- `../Filings/Discovery/Expert/Expert_Discovery_and_Challenge_Research_2026-09-17.md`
+- `../Filings/Discovery/Expert/Expert_Witness_Shortlist_and_Vetting.md`
+- `../Filings/Discovery/Expert_Discovery_Stipulation_Letter_to_Kennedy_2026-09-12.md`
+- `../Filings/Discovery/Meet_and_Confer_Letter_Scheduling_Order_2026-09-11.md` — item 6 (mediation), which sets the 9/29, 10/13 and second-half-of-May-2027 dates used in §I.13 and Part III
+- `../KeyDecisions.md` (Decisions 4 and 5; the September 15 meet-and-confer response schedule)

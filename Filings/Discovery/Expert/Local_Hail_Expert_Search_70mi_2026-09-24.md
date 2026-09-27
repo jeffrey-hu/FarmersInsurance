@@ -35,7 +35,7 @@ What the widening *did* produce is something more valuable than another name —
 
 ## 3. ⚠️ Eight of them work for Hancock Claims Consultants
 
-**Hancock Claims Consultants is Farmers' own vendor in this case.** Hancock inspector **Jayden Grimm** inspected the property on **8/29/2024**, tagged every component "Damaged – No," and that inspection alone was the basis for the **9/3/2024 first denial** — issued before Prieve Engineering was ever engaged (`ClaimTimeline.md` 8/29 and 9/3/2024; `key-facts-excluding-legal-context.md` ¶4 and Phase 2 ¶1).
+**Hancock Claims Consultants is Farmers' own vendor in this case.** Hancock inspector **Jayden Grimm** inspected the property on **8/29/2024**, tagged every component "Damaged – No," and that inspection alone was the basis for the **9/3/2024 first denial** — issued before Prieve Engineering was ever engaged (`../../../ClaimTimeline.md` 8/29 and 9/3/2024; `../../../OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` ¶4 and Phase 2 ¶1).
 
 The widened search shows Hancock has **at least eight Haag-certified inspectors within about 70 miles of the property**:
 
@@ -108,7 +108,7 @@ The route in `Local_Hail_Expert_Search_2026-09-24.md` §§5–7 stands:
 - Haag Certified Inspector Search — https://haageducation.com/s/haag-certified-inspector-search
   - 55347 within 50 miles (registry maximum), 7 pages, 9/24/2026
   - 56301, 56001, 55901 each within 30 miles, 9/24/2026
-- `ClaimTimeline.md` — 8/19, 8/20, 8/29 and 9/3/2024 entries (Hancock, Jayden Grimm, first denial)
-- `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` ¶¶3–4 and Phase 2 ¶1
+- `../../../ClaimTimeline.md` — 8/19, 8/20, 8/29 and 9/3/2024 entries (Hancock, Jayden Grimm, first denial)
+- `../../../OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` ¶¶3–4 and Phase 2 ¶1
 - `Local_Hail_Expert_Search_2026-09-24.md` — the 10-mile search and the referral route
 - `Expert_Witness_Shortlist_V2_2026-09-19.md` §7 — the conflict list to update
