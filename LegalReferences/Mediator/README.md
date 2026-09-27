@@ -22,6 +22,8 @@ Neither party can satisfy ¶6 alone. If there is no agreement, a notice of impas
 | `Mediator_Candidates_From_Defendant_2026-09-26.md` | Assessment of Defendant's two proposals — Roger Kramer and Charles Noel |
 | `Mediator_Reranked_Appraisal_and_Matching_2026-09-26.md` | *Superseded.* Over-read the criterion as requiring umpire service; its Cedar Bluff/matching research stands |
 | `Mediator_Criteria_Clarified_2026-09-26.md` | **Current ranking.** "Familiar with" = understands the rules; 44 roster neutrals qualify |
+| `Mediator_Candidate_Inquiry_v2_2026-09-27.md` | **Current inquiry email** + the call agenda that carries the screening questions |
+| `How_To_Tell_Which_Side_A_Neutral_Comes_From_2026-09-27.md` | How to read whether a neutral leans insurer- or policyholder-side, and why career side alone is the wrong screen |
 
 ## Where the rules live
 

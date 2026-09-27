@@ -178,6 +178,8 @@ Hold in reserve: DeCourcy, Mabley, Oleisky (confirm availability), and Tier 3 if
 
 ### (a) To each candidate — before proposing them to Baskfield
 
+> **⚠️ SUPERSEDED 9/27/2026 — use `Mediator_Candidate_Inquiry_v2_2026-09-27.md`.** The draft below contains a name error (counsel is **Mary** J. Baskfield, not Katherine), asks doctrinal questions better put on a call, and predates the corrected roster analysis and the expanded conflict list.
+
 > Subject: Rule 114 neutral inquiry — Lu and Hu v. Fire Insurance Exchange, 27-CV-26-11606 (Hennepin Cty.)
 >
 > Dear [Name],
@@ -190,7 +192,7 @@ Hold in reserve: DeCourcy, Mabley, Oleisky (confirm availability), and Tier 3 if
 >
 > 1. Your **written statement of qualifications** (Minn. Gen. R. Prac. 114.13, subd. 3).
 > 2. Confirmation of your roster category — specifically whether you are listed as **Civil Facilitative/Hybrid**.
-> 3. A **disclosure of any actual or potential conflict** under Rule 114.13, subd. 2, including any past or present relationship with: Fire Insurance Exchange; Fire Underwriters Association; Farmers Insurance and its affiliates; **Kennedy Law Firm** and Katherine Baskfield; **Prieve Engineering** and Nathan Prieve; Hancock Claims Consultants; or adjuster Nicholas Brau.
+> 3. A **disclosure of any actual or potential conflict** under Rule 114.13, subd. 2, including any past or present relationship with: Fire Insurance Exchange; Fire Underwriters Association; Farmers Insurance and its affiliates; **Kennedy Law Firm** and Mary J. Baskfield; **Prieve Engineering** and Nathan Prieve; Hancock Claims Consultants; or adjuster Nicholas Brau.
 > 4. Your experience with **first-party property coverage** disputes specifically, and with disputes over **appraisal awards**.
 > 5. Your **fee schedule** — hourly rate, minimum block, preparation time, travel, and cancellation policy — and a copy of your standard **written services agreement** (Rule 114.13, subd. 7(b)). Mediation costs are shared equally by court order.
 > 6. Whether you have mediated with a **self-represented party** and how you approach it.
