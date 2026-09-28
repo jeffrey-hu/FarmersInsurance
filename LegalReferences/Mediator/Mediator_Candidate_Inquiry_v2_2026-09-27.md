@@ -6,7 +6,7 @@
 
 ---
 
-## The email
+## The email — Hon. Shawn Bartsh  ✅ *sent*
 
 > **Subject:** Mediation inquiry — *Lu and Hu v. Fire Insurance Exchange*, Hennepin County
 >
@@ -28,7 +28,46 @@
 > 17756 George Moran Dr., Eden Prairie, MN 55347
 > 763-843-2859 · bill_y_lu@yahoo.com
 
-*(For Thomson and Knutson, change the salutation and drop "Judge.")*
+*Sent to Judge Bartsh. Do not edit this version — it is the record of what went out.*
+
+---
+
+## The email — Dean B. Thomson
+
+Same email, two changes: the salutation, and one added sentence in the first paragraph. Everything else is identical to the version above.
+
+**To:** Dthomson@fwhtlaw.com
+
+> **Subject:** Mediation inquiry — *Lu and Hu v. Fire Insurance Exchange*, Hennepin County
+>
+> Dear Mr. Thomson,
+>
+> My wife and I are the plaintiffs, representing ourselves, in a homeowner's insurance case in Hennepin County District Court before Judge Jamie Anderson. It concerns a denied hail-damage claim on our house in Eden Prairie. We came across your work in construction and property insurance claims, which seemed relevant to a dispute about damage to windows.
+>
+> The Court has referred the case to mediation and left the choice of neutral to the parties. Mediation has to be completed by June 1, 2027, and we need to tell the Court who we have agreed on by October 27.
+>
+> We are speaking with a few neutrals before the parties exchange names. Would you expect to have availability before that deadline? If so, we would be grateful for your usual information — your background, fee schedule and engagement terms.
+>
+> So you can run a conflict check, the people and companies involved are: Fire Insurance Exchange and Fire Underwriters Association (Farmers Insurance); Kennedy Law Firm P.C., Kevin Kennedy and Mary Baskfield; Prieve Engineering, LLC; Hancock Claims Consultants; Legacy Restoration LLC; Pure Construction; and the appraisers and umpire — John Foster, Greg Tomes and Wade Roos.
+>
+> Happy to answer any questions, and glad to talk by phone if that is easier.
+>
+> With thanks,
+>
+> Yibiao Lu and Jie Hu
+> 17756 George Moran Dr., Eden Prairie, MN 55347
+> 763-843-2859 · bill_y_lu@yahoo.com
+
+**Why the two changes**
+
+- **"Mr. Thomson," not "Judge."** He is a practising attorney and has never been a judge. Using a title he does not hold is the kind of small error that reads as carelessness.
+- **The added sentence is true and specific.** Construction and property insurance claims are genuinely why he is on the list. It signals you have done homework, which tends to get a faster reply from a senior lawyer, and it gives him an easy opening to say whether he thinks he is a fit. It stops short of discussing the merits.
+
+**One thing to expect.** `fwhtlaw.com` is a firm address, so his conflict check will run against the whole firm's client list, not just his own matters. That is a broader and more useful check than a solo neutral can perform. A reply from an assistant or case manager rather than from him is normal.
+
+### For Hon. David Knutson (Ret.)
+
+**To:** david.knutson@powerhousemediation.com — use the **Bartsh version verbatim**, changing only the salutation to **"Dear Judge Knutson,"**. Retired judges keep the courtesy title. Do not add the Thomson sentence; it does not fit his background.
 
 ---
 
@@ -83,7 +122,7 @@ Do not describe your theory of the case, what it is worth, or what you would acc
 - **Not ex parte.** No neutral is appointed; vetting before proposing is ordinary. Rule 114.10 applies once someone is serving.
 - **Don't copy Baskfield yet.** It costs nothing substantively but reveals which candidates you are weighing before you have decided.
 - **Attach nothing** — no complaint, no award, no correspondence.
-- **Send to all three in parallel:** Bartsh (sbartsh@lawgilbert.com), Thomson (Dthomson@fwhtlaw.com), Knutson (david.knutson@powerhousemediation.com). Having rates and availability before the **October 13** exchange makes that letter far stronger than three bare names.
+- **Status:** Bartsh ✅ sent. Thomson and Knutson to follow — send both rather than waiting on Bartsh's reply. Two or three sets of rates and availability before the **October 13** exchange make that letter to Defendant far stronger than a list of bare names.
 
 **Calendar:** 10/13 exchange · ~10/20 agreement · **10/27 notice to the Court** · **6/1/2027 mediation completed (Order ¶6)**.
 

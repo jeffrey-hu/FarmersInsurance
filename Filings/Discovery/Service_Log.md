@@ -72,6 +72,17 @@
 
 ---
 
+### Row 3: update, September 27, 2026 (RFA scope narrowed by letter)
+
+By letter emailed **September 27, 2026 at 6:46 p.m.**, Plaintiffs narrowed the First Set of RFAs:
+- **37 requests** still require answers by about **10/21/2026**.
+- **22 entity and jurisdiction requests** are withdrawn only if FIE serves signed, unqualified admissions of Nos. 113, 114, 115, 128 and 129 by **10/9/2026**; otherwise they stay due on 10/21.
+- **All other requests are withdrawn without prejudice.**
+
+Details and the full lists are in `CommunicationLogs/2026-09-27-RFAReplyLetterSent/README.md`. Deemed admission can now arise only for the requests still pending.
+
+---
+
 ## Prepared, not yet served
 
 | Document | Status | Before it goes out |

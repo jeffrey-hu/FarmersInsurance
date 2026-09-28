@@ -1,4 +1,6 @@
-<!-- STATUS: DRAFT, not sent. Prepared September 26, 2026 for sending September 27, 2026.
+<!-- STATUS: SENT September 27, 2026, 6:46 p.m. Minnesota time, by email to Baskfield and Kennedy (cc Jie Hu), signed PDF attached.
+     Log: Filings/Discovery/CommunicationLogs/2026-09-27-RFAReplyLetterSent/README.md
+     This is a historical record. Do not edit the letter; write a follow-up letter instead.
      Responds to: OfficialDiscoveyDocuments/MeetAndConfer/2026-09-25--Ltr to Hu & Lu confer ltr response.pdf (RFA paragraph only).
      Request lists come from Filings/RequestForAdmission/FirstSet/RFA_First_Set_Triage_Tracker_2026-09-25.md (Core list; Lists A and B merged into one
      withdraw-on-early-admission group of 22 requests, trigger = signed unqualified admissions to Nos. 113, 114, 115, 128, 129 by Oct. 9, 2026).
