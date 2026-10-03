@@ -32,7 +32,7 @@
 
 ---
 
-## The email — Dean B. Thomson
+## The email — Dean B. Thomson  ✅ *sent*
 
 Same email, two changes: the salutation, and one added sentence in the first paragraph. Everything else is identical to the version above.
 
@@ -65,9 +65,30 @@ Same email, two changes: the salutation, and one added sentence in the first par
 
 **One thing to expect.** `fwhtlaw.com` is a firm address, so his conflict check will run against the whole firm's client list, not just his own matters. That is a broader and more useful check than a solo neutral can perform. A reply from an assistant or case manager rather than from him is normal.
 
-### For Hon. David Knutson (Ret.)
+### For Hon. David Knutson (Ret.)  ✅ *sent*
 
 **To:** david.knutson@powerhousemediation.com — use the **Bartsh version verbatim**, changing only the salutation to **"Dear Judge Knutson,"**. Retired judges keep the courtesy title. Do not add the Thomson sentence; it does not fit his background.
+
+---
+
+
+---
+
+## Response tracker
+
+| Neutral | Sent | Reply | Conflicts | Rate | Availability | Call held | Notes |
+|---|---|---|---|---|---|---|---|
+| **Hon. Shawn Bartsh** | **9/27/2026, 8:58 PM** | **9/28, 9:55 AM — herself** | ✅ **"I have no conflict"** | ✅ **$450/hr** (retainer required; terms deferred to engagement agreement) | ✅ dates available | pending | Reply landed in **junk**. Eden Prairie facility, private rooms. **Follow-up drafted — asks only for the call, nothing else.** See `ResponseBack/Bartsh_Response_Assessment_2026-09-29.md` |
+| **Dean B. Thomson** | **9/28/2026** | | | | | | Firm-wide conflict check; a case-manager reply is normal |
+| **Hon. David Knutson (Ret.)** | **9/28/2026** | | | | | | |
+
+**⚠️ Check junk/spam daily.** Judge Bartsh's reply went to junk. Whitelist `lawgilbert.com`, `fwhtlaw.com`, `powerhousemediation.com`.
+
+**Chasing.** Two to five business days is normal. If nothing by **Friday, October 2**, send a one-line nudge — *"Just checking this reached you; happy to resend."* Do not re-send the whole email; a short note is harder to ignore and easier to answer.
+
+**When replies land, record four things** in the table: the four fee numbers (rate, minimum block, preparation, cancellation), whether the conflict check came back clean, availability before 6/1/2027, and the date of the call. Those are what go into the October 13 letter to Defendant.
+
+**Do not agree to anyone** until the call in the next section has happened. A clean conflict check and a good rate are not the same as a good fit.
 
 ---
 
@@ -122,7 +143,7 @@ Do not describe your theory of the case, what it is worth, or what you would acc
 - **Not ex parte.** No neutral is appointed; vetting before proposing is ordinary. Rule 114.10 applies once someone is serving.
 - **Don't copy Baskfield yet.** It costs nothing substantively but reveals which candidates you are weighing before you have decided.
 - **Attach nothing** — no complaint, no award, no correspondence.
-- **Status:** Bartsh ✅ sent. Thomson and Knutson to follow — send both rather than waiting on Bartsh's reply. Two or three sets of rates and availability before the **October 13** exchange make that letter to Defendant far stronger than a list of bare names.
+- **All three inquiries are out.** See the response tracker below.
 
 **Calendar:** 10/13 exchange · ~10/20 agreement · **10/27 notice to the Court** · **6/1/2027 mediation completed (Order ¶6)**.
 
