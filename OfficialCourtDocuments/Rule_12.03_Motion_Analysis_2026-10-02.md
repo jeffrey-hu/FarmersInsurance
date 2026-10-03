@@ -5,7 +5,17 @@
 **Hearing:** **Monday, November 23, 2026, 4:00 p.m.**, Hennepin County Government Center. The courtroom number will be posted the week before.
 **Analysis date:** October 2, 2026
 
-> **Verification note (Scheduling Order ¶13).** This memo is analysis, not a filing. Every authority below was located and opened during research, but several pin cites and some quotations were confirmed only through secondary quotation. Those are marked **[verify]**. Pull and read each one from the primary source before it goes into anything filed. **Do not cite "Gibbs v. SECURA (2024)".** It could not be found and may not exist. It currently appears in `OffenseStrategies/AppraisalAwardStrategy/07_HailScience_CausationStandard_Strategy.md`.
+> **Verification note (Scheduling Order ¶13).** This memo is analysis, not a filing.
+>
+> **How the research was done.** Claude personally opened and checked:
+> - the court rules (Minn. R. Civ. P. 12, 26, 37; Gen. R. Prac. 115);
+> - Minn. Stat. §§ 325F.70 and 604.18;
+> - *Jamestown Villas*;
+> - the *Glock* stay order.
+>
+> The rest of the case research was delegated to research sub-agents and only spot-checked. Some authorities were confirmed only through quotations in other opinions, not from the opinion itself: *Mork*, *Haagenson*, *Bahr*, *N. States Power v. Franklin* and *Kielley*.
+>
+> Pin cites and quotations not confirmed from the primary source are marked **[verify]**. Pull and read **every** authority from the primary source before it goes into anything filed. **Do not cite "Gibbs v. SECURA (2024)".** It could not be found and may not exist. It currently appears in `OffenseStrategies/AppraisalAwardStrategy/07_HailScience_CausationStandard_Strategy.md`.
 
 ---
 
@@ -41,7 +51,7 @@ All counts run backward from the 11/23 hearing under Minn. Gen. R. Prac. 115.03 
 | **Tue 10/20** | FIE's Interrogatory answers due | Service_Log Row 2 |
 | **Wed 10/21** | FIE's RFA answers due; unanswered RFAs are deemed admitted | Rule 36.01 |
 | **Mon 10/26** | **FIE must serve and file its memorandum, affidavits, exhibits and proposed order on the 12.03 motion.** If it misses this date, the Court "may" cancel the hearing (Gen. R. Prac. 115.06). | GRP 115.03(a) (28 days) |
-| **Tue 10/27** | Joint notice to Court of mediator and mediation date. The motion does not change this deadline. | Sched. Order ¶6 |
+| **Tue 10/27** | Notice to Court of agreed mediator and mediation date ("the parties must notify"). The motion does not change this deadline. | Sched. Order ¶6 |
 | **Mon 11/2** | FIE's papers on the **stay** request, which is a nondispositive discovery motion, are due | GRP 115.01, 115.04(a) (21 days) |
 | **Mon 11/9** | **OUR OPPOSITION DUE**: memorandum (35-page max), affidavit(s) with exhibits, and proposed order. Serve on counsel and file with Civil Filing. | GRP 115.03(b), 115.04(b), 115.05 (14 days) |
 | **Mon 11/16** | FIE's reply, limited to new matters | GRP 115.03(c) (7 days) |
@@ -72,7 +82,9 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 
 **Our strongest answers, in order:**
 
-1. **Components never submitted to appraisal.** This is our strongest ground; it needs no fact-finding.
+1. **Components never submitted to appraisal.** This is our strongest ground.
+   - The legal point needs no fact-finding: an award on windows and siding cannot bar items the panel was never asked to value.
+   - Whether hail damaged those items, what they are worth, and whether the total clears the deductible are fact questions. That also helps us, because fact questions cannot be decided on the pleadings.
    - Our 8/3/2025 demand listed only Windows, Siding (repaint) and Siding (R&R). **FIE admitted that in Answer ¶30.**
    - Appraisers decide the "amount of loss" of what is put to them. They "may not construe the policy or decide whether the insurer should pay." *Quade v. Secura Ins.*, 814 N.W.2d 703, 706 (Minn. 2012) [verify pin].
    - An award on windows and siding cannot have decided the downspouts, flashing and sliding-door screen. Complaint ¶49(b) pleads exactly this.
@@ -82,8 +94,9 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
    - "Windows (F1.7 / B1.2)" uses undefined codes and gives one lump sum. There is no umpire report (FIE admits this in Answer ¶34). FIE's own appraiser gave three inconsistent descriptions (Answer ¶36).
    - *Quade* says whether an award "will be conclusive on all issues will depend on … the structure of the appraisal award" [verify pin].
    - The Eighth Circuit, applying Minnesota law, sends ambiguous awards back to the panel for clarification. *Cincinnati Ins. Co. v. Rymer Cos.*, 170 F.4th 1159 (8th Cir. 2026). *Rymer* cites *Herll v. Auto-Owners Ins. Co.*, 879 F.3d 293 (8th Cir. 2018), which remanded an award where "it was unclear whether it covered damage to the windows."
+   - **Caveat FIE will raise:** *Herll* treated appraisal as arbitration under the Uniform Arbitration Act. *Oliver* (Minn. 2020) later rejected that premise. *Rymer* (2026) keeps the clarification-remand remedy alive under common law, so lead with *Rymer* and use *Herll* only as *Rymer* describes it.
    - *Jamestown* itself confirms the rule that ambiguous awards are resubmitted. Its facts differ from ours: there was one clear dollar figure for a defined scope.
-   - Ambiguity about what the panel evaluated is at minimum a fact question, not something to decide on the pleadings. See *Seamon v. Acuity*, No. A11-429 (Minn. App. Dec. 5, 2011) (unpublished; reversing summary judgment where the award left an issue open).
+   - Ambiguity about what the panel evaluated is at minimum a fact question, not something to decide on the pleadings. See *Seamon v. Acuity*, No. A11-429 (Minn. App. Dec. 5, 2011) (unpublished; reversing summary judgment where the award left an issue open). Same caveat: *Seamon* also relied on the pre-*Oliver* arbitration framework. It is persuasive only.
 
 3. **Coverage determinations are for the Court.** If the panel left out the dining-room window because of a "prior claim," that is a coverage or offset decision, which *Quade* reserves to courts. Complaint ¶¶37, 50, 57(h)–(i) plead this.
 
@@ -96,6 +109,9 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 **Weak spots to expect in Counts I and II:**
 - **Matching and incidental costs on the two awarded windows (¶¶51–52).** *Jamestown* treats matching as part of the amount of loss, so it is decided by the award.
 - **"The other ~25 windows."** FIE will say "Windows" means all windows. That argument has to be won on ambiguity (point 2 above), not on the photographs.
+- **FIE may demand appraisal of the unsubmitted components.** The obvious counter to point 1 is for FIE to demand appraisal of the downspouts, flashing and door now, under the policy's appraisal clause. That award would likely be small and could shrink the case to little more than the deductible gap.
+  - Be ready to respond. Possible positions, to research before relying on them: the demand comes too late after FIE's own denial; any appraisal must be limited to amount of loss; and coverage for those items stays with the Court under *Quade*.
+  - Before taking a position, check the policy's appraisal clause and *Ariel, Inc. v. State Farm*, No. A24-0604 (Minn. App. Dec. 16, 2024): an appraisal demand is not a "suit or action," so the two-year suit limit does not block it.
 
 **Risk:**
 - Counts I and II as a whole: **low-to-moderate.** Under *Walsh*, at least the unsubmitted-components claim and the clarification theory should survive.
@@ -107,7 +123,7 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 
 | Sub-theory | Risk | Why |
 |---|---|---|
-| (a) Not "so itemized" under § 65A.01 subd. 3, so non-preclusive | **High** | The award breaks out Windows, Siding & Paint, and Debris, each with RCV and ACV. A court will likely call that itemized. |
+| (a) Not "so itemized" under § 65A.01 subd. 3, so non-preclusive | **High** | The award breaks out Windows, Siding & Paint, and Debris, each with RCV and ACV. A court will likely call that itemized. Our best version: "Windows (F1.7 / B1.2)" puts **two** windows under **one** dollar figure, so actual value and loss are not stated separately "to each item." |
 | (b) Modify or correct | **High** | No clear legal vehicle after *Oliver v. State Farm*, 939 N.W.2d 749 (Minn. 2020): appraisal is not arbitration, so the UAA's modification procedure does not apply. |
 | (c) **Remand for clarification** | **Moderate. This is the one to fight for.** | *Rymer* and *Herll*: an ambiguous award goes back to the panel. This is also our best answer to *Jamestown*. |
 | (d) Vacate under *Mork* | **High** | It requires fraud, misfeasance or wrongdoing, and the award gets "every presumption of validity." A missing umpire report and a contractor-selected appraiser are thin grounds for that standard. |
@@ -125,17 +141,23 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
   - Research found no Minnesota case applying the CFA to post-sale claim-handling statements.
 - **The statutory bar.** Minn. Stat. § 604.18, subd. 2(b) (verified): "A violation of this section shall not be the basis for any claim or award under chapter 325D or 325F." FIE will argue that Count IV is a bad-faith claim relabeled.
 - **No private right under the claims-practices statute.** There is no private action under § 72A.20/.201. *Morris*, 386 N.W.2d at 238 [verify pin].
+- **Why Count IV may matter more than it looks.** Minn. Stat. § 604.18, subd. 4 (verified): bad-faith taxable costs are "not available in any claim that is resolved or confirmed by arbitration or appraisal." FIE will say this claim was "resolved by appraisal."
+  - If FIE wins that point, the § 604.18 remedy reserved in the Complaint may be unavailable. Count IV would then be our only route to recovery beyond the contract itself.
+  - Our answer is that the claim was **not** resolved by the appraisal: the components and windows the award did not decide are still open. That answer is only as strong as Counts I and III.
 - **What does help.**
   - § 325F.70, subd. 3 (2023 Minn. Laws ch. 52, art. 19, § 15) does give consumers a private action and declares that such an action "benefits the public." That likely removes the *Ly v. Nystrom*, 615 N.W.2d 302 (Minn. 2000) public-benefit hurdle.
   - But the same subdivision still requires injury "in connection with a sale of merchandise." No court has construed it yet.
-- **Attorney fees.** We are pro se, so attorney fees are not recoverable: there are none "incurred." This is persuasive from *Kay v. Ehrler*, 499 U.S. 432 (1991). Costs, disbursements and investigation costs are a separate question.
+- **Attorney fees.** § 325F.70 subd. 3 allows "reasonable attorney fees," but we are pro se and pay no lawyer, so there are no attorney fees to recover. Persuasive authority: *Kay v. Ehrler*, 499 U.S. 432 (1991). (The "actually incurred" wording belongs to § 604.18, not § 325F.70.) Costs, disbursements and investigation costs are a separate question.
 
 **Risk: high.** See Decision B in §6.
 
 ### A defense FIE has *not* pleaded: the suit-limitation period
 
 - FIE's Answer pleads no limitations defense.
-- Rule 8.03 lists "statute of limitations" as an affirmative defense that must be pleaded. A judgment on the pleadings cannot rest on a defense that is not in the pleadings.
+- Rule 8.03 lists "statute of limitations" as an affirmative defense that must be pleaded. An unpleaded defense is generally not before the Court on a 12.03 motion.
+- **This is a real risk, not just one to watch.**
+  - Minnesota courts can decide limitations on a Rule 12 motion when the bar appears on the face of the complaint, and our own Complaint ¶57(g) raises § 65A.26.
+  - Leave to amend an answer is "freely given when justice so requires" (Rule 15.01). FIE could add the defense with little difficulty.
 - **The latent risk is Minn. Stat. § 65A.26,** a one-year limit for "every policy of insurance against damage by hail." Our action was commenced 7/8/2026: FIE's own 7/28 letter says service under § 45.028 became effective that day. That is within two years of the loss but more than one year after it.
 - We found no case applying § 65A.26 to a multi-peril homeowner's policy, and Complaint ¶57(g) already pleads our position and waiver/estoppel.
 - **Watch for FIE to raise § 65A.26 in its memo or by a motion to amend its Answer.** If it appears in the memo, our response is:
@@ -147,6 +169,57 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 ---
 
 ## 4. The stay request
+
+### 4.1 What "a stay of all discovery" means
+
+**Discovery** is the formal evidence-gathering stage of the case. Each side must:
+- hand over documents;
+- answer written questions (interrogatories) under oath;
+- admit or deny facts (requests for admission); and
+- sit for depositions.
+
+A **stay of all discovery** is a court order that pauses all of that. If the judge grants it, FIE would not have to answer our RFPs, Interrogatories or RFAs until the judge rules on the Rule 12.03 motion. Depositions, such as Brau's and Prieve's, would wait too. We would be frozen as well.
+
+FIE's argument will be: *"The judge may end the case on the pleadings alone, so why spend time and money on discovery that may never matter?"* Courts sometimes accept that argument, including in Hennepin County (see *Glock* below).
+
+**Why it matters to us.**
+- **The timing targets our discovery.** FIE's answers are due 10/15, 10/20 and 10/21. The hearing is not until 11/23, and the ruling could come weeks after that.
+- **Our schedule does not pause.**
+  - The joinder deadline (11/16) comes *before* the hearing.
+  - Discovery closes 3/15/2027, and our expert reports are due the same day.
+  - The Court has already refused to extend the schedule once.
+  - A stay running from mid-October to a December or January ruling would take roughly **a third to a half** of the discovery time remaining before 3/15/2027.
+- **It delays the evidence for the bigger fight.** The window-by-window proof of what the appraisal panel actually evaluated is what we need to defeat FIE's later summary-judgment motion.
+
+### 4.1a What "further discovery" means
+
+The notice asks "[t]o stay further discovery pending the Court's determination of the Rule 12.03 motion." "Further" almost certainly means **all discovery activity from now on**, as opposed to what has already happened.
+
+**What a stay would not touch.**
+- The 9/25 initial disclosures stay exchanged.
+- Our RFPs, Interrogatories and RFAs stay served. A stay would not cancel them; it would only pause the time FIE has to answer.
+
+**What a stay would pause.**
+- **FIE's answers to our already-served discovery.** Responding is itself discovery, so FIE will read "further" to cover its 10/15, 10/20 and 10/21 responses. That is the main point of asking now.
+- **Any new requests from us**, including the draft Second Set and the second set of RFAs.
+- **Depositions** (Brau, Prieve) and **subpoenas** (the drafted Prieve subpoena).
+- **Any discovery FIE might seek from us.** A stay pauses both sides, though FIE has served nothing on us yet.
+
+**Why the wording matters.** "Further" is vague, and FIE chose it. A narrow reading means new discovery only, with pending responses still due. FIE will argue the broad reading. Use that vagueness in two places:
+
+1. **In the meet-and-confer email (§7).** Ask FIE to say plainly whether it contends it need not answer discovery already served.
+   - A "yes" puts its position in writing before 10/15 and supports our ¶4 letter.
+   - A "no" means the responses are due on time.
+2. **In our opposition.** If the Court leans toward a stay, ask that any order state expressly that:
+   - pending response deadlines are **suspended, not vacated**;
+   - responses are due a fixed number of days after the ruling (for example, 14 days); and
+   - the scheduling-order deadlines move by the same amount of time.
+
+   Otherwise "further" could leave us arguing later about when the clock restarts.
+
+**Nothing is stayed yet.** "Further" describes what FIE is asking for, not what has happened. Until the Court signs an order, the deadlines run.
+
+### 4.2 Law and arguments
 
 **There is no automatic stay.**
 - Nothing in Rule 12 or Rule 26 stops discovery because a Rule 12 motion was filed.
@@ -160,7 +233,10 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 **Our arguments against the stay:**
 
 1. **Procedure.**
-   - Scheduling Order ¶4 says no discovery dispute will be heard without conferral and a ≤3-page letter requesting a conference call "before filing a formal motion." FIE skipped both steps.
+   - Scheduling Order ¶4 says no discovery dispute will be heard without conferral and a ≤3-page letter requesting a conference call "before filing a formal motion." FIE skipped both steps. **Confirmed by Plaintiffs 10/2/2026: FIE never conferred with us about a stay of discovery before filing.**
+   - **Expect FIE's counter:** a stay request bundled into a dispositive motion is not a "discovery dispute" under ¶4.
+     - Our reply: the relief sought is a discovery order under Rule 26.03, which Gen. R. Prac. 115.01 classifies as nondispositive.
+     - Gen. R. Prac. 115.10 independently requires conferral before *any* motion is heard, so FIE fails either way.
    - Gen. R. Prac. 115.10 says "No motion will be heard unless the parties have conferred."
    - Ask the Court to decline to hear the stay request.
 2. **The motion is unlikely to dispose of the case.** Under *Walsh*, at least part of Counts I and II will survive (see §3). A partial win for FIE does not justify freezing all discovery.
@@ -168,7 +244,7 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
    - The joinder deadline (11/16) falls *before* the hearing.
    - Discovery closes 3/15/2027, and our expert disclosures are due the same day.
    - The Court already refused to extend the schedule (9/8 Order preamble).
-   - Any stay running into December or January takes several months out of a roughly six-month discovery period.
+   - A stay running from mid-October to a December or January ruling takes roughly **a third to a half** of the discovery time remaining before 3/15/2027.
 4. **Little burden on FIE.** The discovery is already served, targeted at FIE's own claim file, and largely needed for any summary judgment motion FIE will bring later anyway.
 5. **A compromise, as a fallback.** If the Court is inclined to stay, ask that the stay:
    - exclude the RFAs and the entity/joinder discovery (RFPs 52–53, Interrogatories 7–8, RFAs 4–8 and 113–115);
@@ -182,6 +258,31 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
   - Courts readily allow withdrawal of admissions under Rule 36.02. Treat any deemed admissions as leverage, not as a win to announce (consistent with the Service Log note).
   - Do not treat anything as admitted before **10/22**.
 
+### 4.3 Step-by-step response to the stay
+
+1. **Meet-and-confer email by ~10/7** (draft in §7).
+   - The email states that no stay is in effect, notes that FIE skipped the required conferral, and asks whether FIE will respond on time and whether it will withdraw or narrow the request.
+   - This creates the record of reasonableness that FIE lacks.
+2. **Use the Court's own procedure if FIE misses its deadlines.**
+   - Scheduling Order ¶4 requires conferral, then a letter of no more than 3 pages asking for a conference call, *before* any formal discovery motion. FIE skipped both steps.
+   - Right after 10/15–10/21, send that letter.
+   - Ask the Court to decide the stay question now rather than on 11/23. This puts the issue before the judge early, framed by us.
+3. **In the written opposition (file by 11/6), argue that FIE has not shown good cause on these facts.**
+   - Do *not* argue that stays are never proper.
+   - Make points 1–4 under "Our arguments against the stay" in §4.2: procedure, the motion won't dispose of the whole case, prejudice from the schedule, and little burden on FIE.
+4. **Offer the narrowed-stay compromise as a fallback.**
+   - Keep the RFAs moving.
+   - Keep the entity/joinder discovery moving.
+   - Keep the core claim-file documents moving.
+   - Stay only depositions.
+   - Extend every scheduling-order deadline by the length of the stay.
+
+   A partial stay we helped shape is far better than a full stay we did not.
+
+**If a full stay is granted anyway:**
+- Immediately move to extend the scheduling-order deadlines, above all the **11/16 joinder deadline**.
+- A motion shell already exists: `Filings/Discovery/PotentialMotions/Shell_Motion_to_Amend_Scheduling_Order_Rule_111.04.docx`.
+
 ---
 
 ## 5. What to do: action list
@@ -192,6 +293,7 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
    - no stay is in effect, and our discovery deadlines run unless the Court orders otherwise;
    - FIE did not follow Scheduling Order ¶4 or GRP 115.10 before filing the stay request;
    - ask whether FIE will serve responses on the due dates;
+   - ask FIE to state whether it contends the requested stay of "further discovery" relieves it of answering discovery already served (see §4.1a);
    - ask whether FIE will withdraw or narrow the stay request;
    - offer a call.
 
@@ -243,7 +345,7 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 | # | Decision | My recommendation |
 |---|---|---|
 | **A** | How hard to fight the stay | Fight it through the ¶4 letter right after 10/15. Offer the narrowed-stay compromise as a fallback. Do not spend brief pages arguing that stays are never proper. |
-| **B** | Count IV (CFA) | At minimum, withdraw the attorney-fee request (we are pro se). Seriously consider **conceding Count IV without prejudice** in the opposition. It is the weakest count, it invites the § 604.18 subd. 2(b) "relabeled bad faith" argument, and conceding it buys credibility for the counts that matter. Final call after reading FIE's 10/26 memo. |
+| **B** | Count IV (CFA) | At minimum, withdraw the attorney-fee request (we are pro se). Seriously consider **conceding Count IV without prejudice** in the opposition. It is the weakest count, it invites the § 604.18 subd. 2(b) "relabeled bad faith" argument, and conceding it buys credibility for the counts that matter. **Weigh against this:** § 604.18 subd. 4 may bar the bad-faith remedy for a claim "resolved … by appraisal" (see §3, Count IV), and Count IV may then be our only route to recovery beyond the contract. Final call after reading FIE's 10/26 memo. |
 | **C** | Count III emphasis | Lead with **remand for clarification** (*Rymer*/*Herll*). Keep non-preclusion as the framing for Count I. Defend vacatur only briefly or let it go. Arguing the weak sub-theories hard dilutes the strong ones. |
 | **D** | Ask for leave to amend now, or only as a fallback | Ask only as a fallback, in the alternative. A standalone motion to amend now would give FIE a second target before we see its arguments. |
 | **E** | Outside counsel for this motion | Limited-scope review of the opposition before 11/9. |
@@ -262,11 +364,11 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 >
 > No order staying discovery has been entered. Plaintiffs' position is that Defendant's responses to the discovery served September 15 and September 20, 2026 remain due under the Rules on their respective dates.
 >
-> Please tell us by October 9, 2026 (1) whether Defendant will serve its responses when due, and (2) whether Defendant will withdraw or narrow its stay request. We would prefer to resolve this by agreement and are available to confer by telephone or video this week or next.
+> Please tell us by October 9, 2026: (1) whether Defendant will serve its responses when due; (2) whether Defendant contends that its request to stay "further discovery" relieves it of the obligation to respond to discovery already served, and if so, on what basis; and (3) whether Defendant will withdraw or narrow its stay request. We would prefer to resolve this by agreement and are available to confer by telephone or video this week or next.
 >
 > Yibiao Lu and Jie Hu, Plaintiffs pro se
 
-(This follows Decision 9's meet-and-confer exception. It states no specific response-due dates and offers no extension.)
+(This follows Decision 9's meet-and-confer exception. It states no specific response-due dates and offers no extension. Question (2) pins down how FIE reads its own word "further" before the 10/15 deadline; see §4.1a.)
 
 ---
 
@@ -276,8 +378,8 @@ It is a federal decision, so it is persuasive only, but it is very recent and on
 - Minn. Stat. [§ 325F.70](https://www.revisor.mn.gov/statutes/cite/325F.70), [§ 604.18](https://www.revisor.mn.gov/statutes/cite/604.18), [§ 65A.26](https://www.revisor.mn.gov/statutes/cite/65A.26)
 - [*Quade v. Secura* (slip op.)](https://www.mn.gov/web/prod/static/lawlib/live/archive/supct/1206/OPA100714-0613.pdf); [*Oliver v. State Farm*](https://www.thompsoncoe.com/content/uploads/2020/03/Oliver_MN-Supreme-Court-decision-03.04.2020.pdf); [*Walsh v. U.S. Bank*](https://mn.gov/web/prod/static/lawlib/live/archive/supct/2014/OPA130742-080614.pdf)
 - [*Cincinnati Ins. Co. v. Rymer Cos.* (8th Cir. 2026)](https://ecf.ca8.uscourts.gov/opndir/26/03/243356P.pdf); [*Jamestown Villas HOA v. State Farm* (8th Cir. Sept. 4, 2026)](https://ecf.ca8.uscourts.gov/opndir/26/09/253154P.pdf); [*Herll v. Auto-Owners*](https://caselaw.findlaw.com/court/us-8th-circuit/1885162.html)
-- [*Seamon v. Acuity* (Minn. App. 2011)](https://www.mn.gov/web/prod/static/lawlib/live/archive/ctapun/1112/opa110429-120511.pdf); [*Elm Creek Courthome Ass'n v. State Farm* (Minn. App. 2022)](https://law.justia.com/cases/minnesota/court-of-appeals/2022/a21-0964.html); [*PSS Properties v. North Star Mut.* (Minn. App. 2023)](https://law.justia.com/cases/minnesota/court-of-appeals/2023/a23-0466.html)
+- [*Seamon v. Acuity* (Minn. App. 2011)](https://www.mn.gov/web/prod/static/lawlib/live/archive/ctapun/1112/opa110429-120511.pdf); [*Elm Creek Courthome Ass'n v. State Farm* (Minn. App. 2022)](https://law.justia.com/cases/minnesota/court-of-appeals/2022/a21-0964.html); [*PSS Properties v. North Star Mut.* (Minn. App. 2023)](https://law.justia.com/cases/minnesota/court-of-appeals/2023/a23-0466.html); [*Ariel, Inc. v. State Farm* (Minn. App. 2024)](https://mncourts.gov/mncourtsgov/media/Appellate/Court%20of%20Appeals/Standard%20opinions/OPa240604-121624.pdf)
 - [*Siefferman v. USAA* (Minn. App. 1997)](https://law.justia.com/cases/minnesota/court-of-appeals/1997/63-1.html); [*Force v. ITT Hartford*](https://law.justia.com/cases/federal/district-courts/FSupp2/4/843/2349767/); [*Morris v. Am. Family*](https://law.justia.com/cases/minnesota/supreme-court/1986/c5-85-224-2.html); [*Ly v. Nystrom*](https://caselaw.findlaw.com/court/mn-supreme-court/1490624.html); [*Columbia Cas. v. 3M*](https://minnlawyer.com/wp-files/fulltext-040212/opa111376-032612.html); [*Kay v. Ehrler*](https://supreme.justia.com/cases/federal/us/499/432/)
 - [*Smith v. Britton* (Minn. App. 2014)](https://law.justia.com/cases/minnesota/court-of-appeals/2014/a13-1039.html); [*Zhang v. Equity Office* (Minn. App. 2006)](https://mn.gov/web/prod/static/lawlib/live/archive/ctapun/0604/opa051094-0411.htm); [*State v. Glock* stay order (Hennepin Cnty. 2025)](https://files.giffords.org/wp-content/uploads/2025/06/Doc.-76-ORDER-Granting-Glock-Inc.-MTN-to-Stay-All-Discovery-MN-v.-Glock-Hennepin-Co.-D.-Ct.-Minn.-27-CV-24-188272025-06-02.pdf)
 
-*Prepared October 2, 2026. Not legal advice; prepared by Claude for Plaintiffs' internal use.*
+*Prepared October 2, 2026; revised the same day after self-review. Revisions: research-method disclosure; Herll/Seamon caveats; limitations risk raised; FIE-demanded appraisal; § 604.18 subd. 4 and Decision B; non-conferral confirmed by Plaintiffs; wording fixes; §4.1a ("further discovery") and question (2) in the §7 email added. Not legal advice; prepared by Claude for Plaintiffs' internal use.*
