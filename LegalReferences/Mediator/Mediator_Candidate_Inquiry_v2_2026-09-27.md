@@ -78,7 +78,7 @@ Same email, two changes: the salutation, and one added sentence in the first par
 
 | Neutral | Sent | Reply | Conflicts | Rate | Availability | Call held | Notes |
 |---|---|---|---|---|---|---|---|
-| **Hon. Shawn Bartsh** | **9/27/2026, 8:58 PM** | **9/28, 9:55 AM — herself** | ✅ **"I have no conflict"** | ✅ **$450/hr** (retainer required; terms deferred to engagement agreement) | ✅ dates available | pending | Reply landed in **junk**. Eden Prairie facility, private rooms. **Follow-up drafted — asks only for the call, nothing else.** See `ResponseBack/Bartsh_Response_Assessment_2026-09-29.md` |
+| **Hon. Shawn Bartsh** | **9/27/2026, 8:58 PM** | **9/28, 9:55 AM — herself** | ✅ **"I have no conflict"** | ✅ **$450/hr** (retainer required; terms deferred to engagement agreement) | ✅ dates available | **declined — neutrality (10/4); written answers received 10/6 ✅** | Reply landed in **junk**. Eden Prairie facility, private rooms. **Follow-up drafted — asks only for the call, nothing else.** See `ResponseBack/Bartsh_Response_Assessment_2026-09-29.md` |
 | **Dean B. Thomson** | **9/28/2026** | | | | | | Firm-wide conflict check; a case-manager reply is normal |
 | **Hon. David Knutson (Ret.)** | **9/28/2026** | | | | | | |
 
@@ -88,7 +88,7 @@ Same email, two changes: the salutation, and one added sentence in the first par
 
 **When replies land, record four things** in the table: the four fee numbers (rate, minimum block, preparation, cancellation), whether the conflict check came back clean, availability before 6/1/2027, and the date of the call. Those are what go into the October 13 letter to Defendant.
 
-**Do not agree to anyone** until the call in the next section has happened. A clean conflict check and a good rate are not the same as a good fit.
+**Do not agree to anyone** until their **written process answers** are in and read. *(Revised 10/4: the original gate said "until the call has happened." Judge Bartsh declined a private call on neutrality grounds — correctly — so the gate is now the answers, not the medium. It must not stall the 10/13 exchange or the 10/27 notice.)* A clean conflict check and a good rate are not the same as a good fit.
 
 ---
 
@@ -113,6 +113,8 @@ The conflict list stays, but reframed — *"so you can run a conflict check"* �
 ---
 
 ## The call — ten minutes
+
+> ⚠️ **SUPERSEDED 10/4/2026 by `Mediator_Call_Script_2026-10-04.md`**, which tiers these questions for a twenty-minute call, folds in the process questions we need as first-time participants, and adds the "what happens if we don't reach an agreement?" probe. **Use that file on the call.** The list below is kept for reference only.
 
 Ask; don't put these in writing.
 

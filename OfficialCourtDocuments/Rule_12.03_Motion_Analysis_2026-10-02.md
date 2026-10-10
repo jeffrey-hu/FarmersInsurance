@@ -217,7 +217,9 @@ The notice asks "[t]o stay further discovery pending the Court's determination o
 
    Otherwise "further" could leave us arguing later about when the clock restarts.
 
-**Nothing is stayed yet.** "Further" describes what FIE is asking for, not what has happened. Until the Court signs an order, the deadlines run.
+**Nothing is stayed yet, and filing the request does not pause anything.** "Further" describes what FIE is asking for, not what has happened.
+- No rule suspends discovery because a party *asks* for a stay. Only a court order does.
+- FIE's responses remain due on 10/15, 10/20 and 10/21. If FIE does not serve them, it is gambling that the Court will later accept the pending request as an excuse (see §4.2).
 
 ### 4.2 Law and arguments
 
@@ -252,8 +254,17 @@ The notice asks "[t]o stay further discovery pending the Court's determination o
    - stay depositions only; and
    - extend every scheduling-order deadline by the length of the stay. A motion shell already exists in `Filings/Discovery/PotentialMotions/`.
 
-**What FIE can safely skip while the motion is pending.**
-- **Interrogatories and RFPs.** Rule 37.04 (verified) says failure to respond "may not be excused on the ground that the discovery sought is objectionable unless the party failing to act has applied for a protective order as provided by Rule 26.03." FIE's stay request is probably such an application. FIE will likely say it need not answer the Interrogatories and RFPs, and a court is unlikely to sanction it while the request is pending.
+**Does FIE's pending request excuse it from answering? No. It gives FIE only an argument, and a weak one.** (Corrected 10/6/2026. An earlier version said FIE "can safely skip" its Interrogatory and RFP responses. That was wrong.)
+
+- **Interrogatories and RFPs.** Rule 37.04 (verified verbatim 10/6/2026): "The failure to act described herein may not be excused on the ground that the discovery sought is objectionable unless the party failing to act has applied for a protective order as provided by Rule 26.03." Read closely:
+  1. **It addresses only one excuse:** that the discovery is "objectionable." FIE's stated reason is not that our requests are improper but that a dispositive motion is pending. The sentence does not speak to that excuse at all.
+  2. **It does not say that applying for protection excuses anything.** It only says an objectionability excuse is unavailable *unless* protection was sought.
+     - The Advisory Committee Note to the identical federal rule (Fed. R. Civ. P. 37(d)(2), 1993) calls a pending motion something that "may be urged as an excuse." That makes it an argument for the judge, not an automatic pass.
+     - The 1970 Note gives the rule's purpose: a party "may not properly remain completely silent" even when it regards discovery as improper.
+  3. **Expenses are the default.** If a party fails to serve answers or objections, the Court "shall require" it or its attorney to pay the reasonable expenses, including attorney fees, caused by the failure. The only exceptions are that the failure "was substantially justified" or that "other circumstances make an award of expenses unjust." (We are pro se, so in practice "expenses" means costs, not attorney fees.)
+  4. **FIE's "application" is doubtful.** Rule 26.03 requires a motion and "good cause shown." FIE filed a one-line request with no memorandum and no good-cause showing, and it did not confer under Scheduling Order ¶4 or GRP 115.10.
+- **The practical reality.** Judges are often reluctant to sanction a party whose stay request is still undecided. That reluctance, not the rule, is FIE's leverage. Every week the request sits undecided adds to that leverage, which is why the stay question should reach the judge early (§4.3, step 2).
+- **FIE's safer option.** FIE can serve timely written *objections* (for example, "objection: motion to stay pending") instead of nothing. That avoids a total failure to respond under Rule 37.04. Our remedy then becomes a motion to compel under Rule 37.01, after the ¶4 letter-and-conference-call procedure.
 - **RFAs.** Rule 37.04 does not cover RFAs. Under Rule 36.01, unanswered RFAs are deemed admitted after 10/21.
   - Courts readily allow withdrawal of admissions under Rule 36.02. Treat any deemed admissions as leverage, not as a win to announce (consistent with the Service Log note).
   - Do not treat anything as admitted before **10/22**.
@@ -262,11 +273,16 @@ The notice asks "[t]o stay further discovery pending the Court's determination o
 
 1. **Meet-and-confer email by ~10/7** (draft in §7).
    - The email states that no stay is in effect, notes that FIE skipped the required conferral, and asks whether FIE will respond on time and whether it will withdraw or narrow the request.
+   - It can say plainly that the rules provide no pause in discovery without a court order (§4.2).
    - This creates the record of reasonableness that FIE lacks.
 2. **Use the Court's own procedure if FIE misses its deadlines.**
    - Scheduling Order ¶4 requires conferral, then a letter of no more than 3 pages asking for a conference call, *before* any formal discovery motion. FIE skipped both steps.
    - Right after 10/15–10/21, send that letter.
    - Ask the Court to decide the stay question now rather than on 11/23. This puts the issue before the judge early, framed by us.
+   - Ask the Court to order responses by a date certain.
+   - Note that under Rule 37.04 the Court "shall" award the expenses caused by a failure to serve answers or objections, unless FIE shows the failure was substantially justified.
+   - If FIE served objections instead of nothing, the letter seeks a conference call ahead of a Rule 37.01 motion to compel.
+   - The later the hearing (for example, if it is moved to on or after 12/8), the more important this step is, because FIE's practical leverage lasts as long as its request goes undecided.
 3. **In the written opposition (file by 11/6), argue that FIE has not shown good cause on these facts.**
    - Do *not* argue that stays are never proper.
    - Make points 1–4 under "Our arguments against the stay" in §4.2: procedure, the motion won't dispose of the whole case, prejudice from the schedule, and little burden on FIE.
@@ -382,4 +398,4 @@ The notice asks "[t]o stay further discovery pending the Court's determination o
 - [*Siefferman v. USAA* (Minn. App. 1997)](https://law.justia.com/cases/minnesota/court-of-appeals/1997/63-1.html); [*Force v. ITT Hartford*](https://law.justia.com/cases/federal/district-courts/FSupp2/4/843/2349767/); [*Morris v. Am. Family*](https://law.justia.com/cases/minnesota/supreme-court/1986/c5-85-224-2.html); [*Ly v. Nystrom*](https://caselaw.findlaw.com/court/mn-supreme-court/1490624.html); [*Columbia Cas. v. 3M*](https://minnlawyer.com/wp-files/fulltext-040212/opa111376-032612.html); [*Kay v. Ehrler*](https://supreme.justia.com/cases/federal/us/499/432/)
 - [*Smith v. Britton* (Minn. App. 2014)](https://law.justia.com/cases/minnesota/court-of-appeals/2014/a13-1039.html); [*Zhang v. Equity Office* (Minn. App. 2006)](https://mn.gov/web/prod/static/lawlib/live/archive/ctapun/0604/opa051094-0411.htm); [*State v. Glock* stay order (Hennepin Cnty. 2025)](https://files.giffords.org/wp-content/uploads/2025/06/Doc.-76-ORDER-Granting-Glock-Inc.-MTN-to-Stay-All-Discovery-MN-v.-Glock-Hennepin-Co.-D.-Ct.-Minn.-27-CV-24-188272025-06-02.pdf)
 
-*Prepared October 2, 2026; revised the same day after self-review. Revisions: research-method disclosure; Herll/Seamon caveats; limitations risk raised; FIE-demanded appraisal; § 604.18 subd. 4 and Decision B; non-conferral confirmed by Plaintiffs; wording fixes; §4.1a ("further discovery") and question (2) in the §7 email added. Not legal advice; prepared by Claude for Plaintiffs' internal use.*
+*Prepared October 2, 2026; revised the same day after self-review. Revisions: research-method disclosure; Herll/Seamon caveats; limitations risk raised; FIE-demanded appraisal; § 604.18 subd. 4 and Decision B; non-conferral confirmed by Plaintiffs; wording fixes; §4.1a ("further discovery") and question (2) in the §7 email added. Revised 10/6/2026: Rule 37.04 analysis corrected in §4.1a, §4.2 and §4.3 (a pending stay request does not excuse FIE from responding). Not legal advice; prepared by Claude for Plaintiffs' internal use.*
