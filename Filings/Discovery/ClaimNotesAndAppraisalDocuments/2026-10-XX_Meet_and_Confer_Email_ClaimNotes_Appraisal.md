@@ -43,7 +43,7 @@ Defendant's relevance objection is that the claim "was resolved via a binding ap
 
 **3. Other responses**
 
-We are limiting this email to the two issues above. Plaintiffs also dispute Defendant's objections and incomplete responses to Requests for Production Nos. 2–14, 18, 19 and 21–53; to Interrogatories Nos. 1 and 3–12; and to the pending Requests for Admission identified in our September 27, 2026 letter. Plaintiffs reserve the right to raise each of those separately.
+We are limiting this email to the two issues above. Plaintiffs also dispute Defendant's objections and incomplete responses to Requests for Production Nos. 2–14, 18, 19 and 21–53; to Interrogatories Nos. 1–12; and to the pending Requests for Admission identified in our September 27, 2026 letter. Plaintiffs reserve the right to raise each of those separately.
 
 If we cannot resolve these issues, we will request a conference call with the Court under ¶ 4 of the Scheduling Order.
 
