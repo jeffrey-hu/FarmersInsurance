@@ -4,7 +4,7 @@
 **Cc:** jie_h_hu@yahoo.com; jparks@kennedylf.com; aabdi@kennedylf.com
 **Subject:** 27-CV-26-11606 (Your File No. 5490): Meet and confer on Defendant's October 21, 2026 responses to Requests for Production Nos. 1, 15, 16, 17 and 20
 
-Ms. Baskfield and Mr. Kennedy:
+Dear Ms. Baskfield and Mr. Kennedy:
 
 We write under Minn. R. Civ. P. 37.01(b), Minn. Gen. R. Prac. 115.10 and ¶ 4 of the September 8, 2026 Scheduling Order. We want to resolve two issues with Defendant's October 21, 2026 Response to Plaintiffs' First Set of Requests for Production before we raise them with the Court.
 
