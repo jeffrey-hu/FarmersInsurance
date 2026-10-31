@@ -2,13 +2,13 @@
 
 **To:** mbaskfield@kennedylf.com; kkennedy@kennedylf.com
 **Cc:** jie_h_hu@yahoo.com; jparks@kennedylf.com; aabdi@kennedylf.com
-**Subject:** 27-CV-26-11606 (Your File No. 5490): Meet and confer on party and jurisdiction, and on the windows in the 2020 hail claim
+**Subject:** 27-CV-26-11606 (Your File No. 5490): Second meet-and-confer email: party and jurisdiction; windows in the 2020 hail claim
 
 Dear Ms. Baskfield and Mr. Kennedy:
 
-Further to our October 29, 2026 email, we write under ¶ 4 of the September 8, 2026 Scheduling Order about two more issues with Defendant's October 21, 2026 discovery responses. We would like to resolve them without involving the Court.
+This is our second meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first email, sent October 29, 2026, asked Defendant to produce the claim file and claim notes (Requests for Production ("RFP") Nos. 1 and 20) and the appraisal materials (RFP Nos. 15, 16 and 17) by November 6, 2026. Those requests remain outstanding. This email raises two additional issues. Please respond to both emails by November 6, 2026. We would like to resolve these issues without involving the Court.
 
-This email does not serve new discovery requests. Each item below is called for by Plaintiffs' first sets of interrogatories, requests for production ("RFP") and requests for admission, to which Defendant responded on October 21, 2026.
+This email does not serve new discovery requests. Each item below is called for by Plaintiffs' first sets of interrogatories, requests for production and requests for admission, to which Defendant responded on October 21, 2026.
 
 **1. Party and jurisdiction**
 
@@ -57,7 +57,7 @@ We ask that Defendant, by **November 6, 2026**:
 
 **3. Other responses**
 
-This email and our October 29, 2026 email do not address every open item in Defendant's responses. Plaintiffs reserve the right to raise the others separately.
+The items in this email are in addition to those in our October 29, 2026 email. Neither email addresses every open item in Defendant's responses. Plaintiffs reserve the right to raise the others separately.
 
 If we cannot resolve these issues, we will request a conference call with the Court under ¶ 4 of the Scheduling Order. If you would prefer to discuss any item by telephone, please let us know.
 
@@ -103,6 +103,8 @@ Plaintiffs pro se
 | RFP 45 | Activity 1/1/2021–7/12/2024 | Objections; see documents | Worksheet and 2/18/2022 letter only; no correspondence |
 | RFAs 69, 70, 72, 73 | Line item 1 text; only window lines are 1, 2, 3, 32; no location; no later hail loss | Blanket "deny" | Each is shown by FIE 1796–1800 |
 | RFAs 71, 74–78 | 2020 "Type of Loss: Hail"; RC extension history | Blanket "deny" | Withdrawn 9/27; not raised |
+
+**Second-email framing (10/31/2026).** Subject, opening and section 3 now state that this is the second conferral email, that the 10/29 email's requests (RFPs 1, 15, 16, 17, 20) remain outstanding, and that both are due 11/6. The ¶ 4 citation remains in the closing line.
 
 **Overall review (10/31/2026).** Objection paragraph paraphrased (FIE's wording differs across Rogs, RFPs, RFAs); estimate cited as FIE 1796–1803 throughout; "Prieve Report" defined at first mention; "2020 Claim" capitalized outside quotations; "photo log" used outside quotations; "RFP" defined in the opening.
 
