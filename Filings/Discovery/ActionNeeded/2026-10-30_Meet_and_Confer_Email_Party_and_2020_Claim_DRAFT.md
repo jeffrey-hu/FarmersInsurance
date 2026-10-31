@@ -6,13 +6,13 @@
 
 Dear Ms. Baskfield and Mr. Kennedy:
 
-This is our second meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first email, sent October 29, 2026, asked Defendant to produce the claim file and claim notes (Requests for Production ("RFP") Nos. 1 and 20) and the appraisal materials (RFP Nos. 15, 16 and 17) by November 6, 2026. Those requests remain outstanding. This email raises two additional issues. Please respond to both emails by November 6, 2026. We would like to resolve these issues without involving the Court.
+This is our second meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first email, sent October 29, 2026, asked Defendant to produce the claim file and claim notes (Requests for Production ("RFP") Nos. 1 and 20) and the appraisal materials (RFP Nos. 15, 16 and 17) by November 6, 2026. Those requests remain outstanding. This email raises two additional issues. Please respond to this email by November 9, 2026. We would like to resolve these issues without involving the Court.
 
 This email does not serve new discovery requests. Each item below is called for by Plaintiffs' first sets of interrogatories, requests for production and requests for admission, to which Defendant responded on October 21, 2026.
 
 **1. Party and jurisdiction**
 
-The joinder deadline is November 16, 2026. By **November 6, 2026**, please:
+The joinder deadline is November 16, 2026. By **November 9, 2026**, please:
 
 - answer Requests for Admission Nos. 113, 114, 115, 128 and 129;
   - If Defendant admits all five without qualification, Plaintiffs will withdraw Requests for Admission Nos. 88, 89, 90, 91, 92, 112, 116, 117, 121, 125, 126, 127 and 137.
@@ -37,7 +37,7 @@ Each of Defendant's responses listed below objects on the ground that the claim 
 - **Interrogatory No. 1** asked, for each of The Recorded Conditions (dent, mark, scrape, or indentation), "any prior claim and the estimate line item You contend paid for it." After objections, the answer refers to Defendant's Initial Disclosures and states that the November 4, 2024 letter and the Prieve Report "speak for themselves." It identifies no prior claim or estimate line item.
 - **Requests for Admission Nos. 69, 70, 72 and 73** concern the 2020 estimate (FIE 1796–1803) and Defendant's claim records. The response to each is: "Pursuant to FIE's General Objections, deny."
 
-We ask that Defendant, by **November 6, 2026**:
+We ask that Defendant, by **November 9, 2026**:
 
 - (a) for RFP No. 23:
   - confirm whether FIE 1781–1791 contains every photograph taken at the October 13, 2020 inspection, and produce any that have not been produced, in native form with file names and metadata;
@@ -103,6 +103,8 @@ Plaintiffs pro se
 | RFP 45 | Activity 1/1/2021–7/12/2024 | Objections; see documents | Worksheet and 2/18/2022 letter only; no correspondence |
 | RFAs 69, 70, 72, 73 | Line item 1 text; only window lines are 1, 2, 3, 32; no location; no later hail loss | Blanket "deny" | Each is shown by FIE 1796–1800 |
 | RFAs 71, 74–78 | 2020 "Type of Loss: Hail"; RC extension history | Blanket "deny" | Withdrawn 9/27; not raised |
+
+**Response date (10/31/2026).** Changed to **11/9/2026** at Bill's direction. The first email's 11/6 date is left as stated; the opening asks for this email by 11/9. Joinder deadline 11/16 leaves 7 days after the response.
 
 **Second-email framing (10/31/2026).** Subject, opening and section 3 now state that this is the second conferral email, that the 10/29 email's requests (RFPs 1, 15, 16, 17, 20) remain outstanding, and that both are due 11/6. The ¶ 4 citation remains in the closing line.
 
