@@ -39,15 +39,15 @@ Each of Defendant's responses listed below objects on the ground that the claim 
 
 We ask that Defendant, by **November 9, 2026**:
 
-- (a) for RFP No. 23:
+- (a) for RFP No. 23, without waiving the remainder of that request:
   - confirm whether FIE 1781–1791 contains every photograph taken at the October 13, 2020 inspection, and produce any that have not been produced, in native form with file names and metadata;
   - produce the inspector's notes and sketches from that inspection;
   - identify by Bates number each 2020 photograph showing the trim-board chip described at FIE 1034; and
   - produce any document showing whether the 2020 Claim addressed that chip, or state that none exists;
-- (b) for RFP No. 22:
+- (b) for RFP No. 22, without waiving the remainder of that request:
   - produce any inspection record from the 2014 claim that identifies the location of the two sashes included in the 2014 estimate, or state that none exists; and
   - produce the inspection photographs and notes from the 2015 claim, or state that none exists;
-- (c) for RFP No. 2:
+- (c) for RFP No. 2, without waiving the remainder of that request:
   - produce all inspection notes, and all photographs of damage to the windows and siding, from the 2020 Claim, or identify them by Bates number if already produced; and
   - produce each document stating whether line items 1 and 3 of the 2020 estimate covered whole window units or individual sashes, or state that none exists;
 - (d) identify each document on which Defendant's answer to Interrogatory No. 2 is based, and state whether any information is being withheld on the basis of the objections stated in the answer; if none is withheld, please withdraw those objections;
@@ -57,7 +57,7 @@ We ask that Defendant, by **November 9, 2026**:
 
 **3. Other responses**
 
-The items in this email are in addition to those in our October 29, 2026 email. Neither email addresses every open item in Defendant's responses. Plaintiffs reserve the right to raise the others separately.
+The items in this email are in addition to those in our October 29, 2026 email. Where this email asks for part of a request, Plaintiffs do not waive the remainder of that request. Neither email addresses every open item in Defendant's responses. Plaintiffs reserve the right to raise the others separately.
 
 If we cannot resolve these issues, we will request a conference call with the Court under ¶ 4 of the Scheduling Order. If you would prefer to discuss any item by telephone, please let us know.
 
@@ -103,6 +103,8 @@ Plaintiffs pro se
 | RFP 45 | Activity 1/1/2021–7/12/2024 | Objections; see documents | Worksheet and 2/18/2022 letter only; no correspondence |
 | RFAs 69, 70, 72, 73 | Line item 1 text; only window lines are 1, 2, 3, 32; no location; no later hail loss | Blanket "deny" | Each is shown by FIE 1796–1800 |
 | RFAs 71, 74–78 | 2020 "Type of Loss: Hail"; RC extension history | Blanket "deny" | Withdrawn 9/27; not raised |
+
+**No-waiver language (11/1/2026).** "Without waiving the remainder of that request" added to the narrowed requests (a) RFP 23, (b) RFP 22 and (c) RFP 2, matching (e) Interrogatory 1; section 3 also states generally: "Where this email asks for part of a request, Plaintiffs do not waive the remainder of that request." Same approach as the third email.
 
 **Response dates (11/1/2026).** Section 1 (party and jurisdiction): **11/5/2026**, leaving 11 days before the 11/16 joinder deadline. Section 2 (2020 claim): **11/9/2026**. The opening states both. The first email's 11/6 date is left as stated.
 

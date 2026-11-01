@@ -30,7 +30,7 @@ We ask that Defendant:
 - (b) answer Interrogatory No. 6 as asked, or identify by Bates number the documents that show it;
 - (c) for RFP No. 30, produce the drafts, comments and revisions of the September 3 and November 4, 2024 letters, and any internal audit, quality-control review or supervisor sign-off concerning them, or state that none exists;
 - (d) for RFP No. 32, produce the review notes, checklists, sign-offs and internal communications reflecting Defendant's review, evaluation, approval or adoption of the Hancock and Prieve reports, or state that none exists; and
-- (e) for RFP No. 51, produce any document describing what the captions mean, or state whether Defendant has requested them from Hancock.
+- (e) without waiving the remainder of RFP No. 51, produce any document describing what the captions mean, or state whether Defendant has requested them from Hancock.
 
 **2. Mr. Brau's September 6, 2024 inspection records** (Complaint ¶ 53)
 
@@ -41,7 +41,7 @@ Defendant's production includes Mr. Brau's photographs (FIE 0687–0737) and his
 - **RFA Nos. 29, 30 and 94**. The response to each is: "Pursuant to FIE's General Objections, deny."
 
 We ask that Defendant:
-- (f) produce Mr. Brau's notes, measurements and sketches from the September 6, 2024 inspection, all photographs he took of dents during that inspection, the photographs in native form with metadata, and the estimate versions before YIBIAO_LU5, or state that none exists and provide the retention and custody information RFP No. 3 requests.
+- (f) without waiving the remainder of RFP No. 3, produce Mr. Brau's notes, measurements and sketches from the September 6, 2024 inspection, all photographs he took of dents during that inspection, the photographs in native form with metadata, and the estimate versions before YIBIAO_LU5, or state that none exists and provide the retention and custody information RFP No. 3 requests.
 
 **3. The Prieve engagement** (Complaint ¶¶ 53, 69(g))
 
@@ -54,8 +54,8 @@ The Prieve Engineering report (FIE 1031–1037, the "Prieve Report") states that
 - **RFA Nos. 59 and 60**. The response to each is: "Pursuant to FIE's General Objections, deny."
 
 We ask that Defendant:
-- (g) for RFP No. 5, produce any impact-force, terminal-velocity, hail-size-threshold, or other engineering calculation, analysis, model, or worksheet underlying the Prieve Report's conclusions, or state that none exists or, if Defendant contends only Prieve Engineering holds it, state whether Defendant has requested it;
-- (h) for RFP No. 7, produce the documents showing who decided to limit the Prieve engagement to windows and when, and any request by Prieve to expand the scope, or state that none exists; and
+- (g) without waiving the remainder of RFP No. 5, produce any impact-force, terminal-velocity, hail-size-threshold, or other engineering calculation, analysis, model, or worksheet underlying the Prieve Report's conclusions, or state that none exists or, if Defendant contends only Prieve Engineering holds it, state whether Defendant has requested it;
+- (h) without waiving the remainder of RFP No. 7, produce the documents showing who decided to limit the Prieve engagement to windows and when, and any request by Prieve to expand the scope, or state that none exists; and
 - (i) produce the documents described in RFP No. 49, or state that none exists.
 
 **4. Answer ¶ 14** (Complaint ¶¶ 53, 69(a))
@@ -93,7 +93,7 @@ We ask that Defendant:
 
 **7. Other responses**
 
-The items in this email are in addition to those in our October 29 and November 1, 2026 emails. These emails do not address every open item in Defendant's responses. Plaintiffs reserve the right to raise the others separately.
+The items in this email are in addition to those in our October 29 and November 1, 2026 emails. Where this email asks for part of a request, Plaintiffs do not waive the remainder of that request. These emails do not address every open item in Defendant's responses. Plaintiffs reserve the right to raise the others separately.
 
 If we cannot resolve these issues, we will request a conference call with the Court under ¶ 4 of the Scheduling Order. If you would prefer to discuss any item by telephone, please let us know.
 
@@ -105,6 +105,8 @@ Plaintiffs pro se
 ---
 
 ## Drafting notes (not part of the email)
+
+**No-waiver language (11/1/2026).** "Without waiving the remainder of …" added to the narrowed requests (e) RFP 51, (f) RFP 3, (g) RFP 5 and (h) RFP 7, matching (l) RFP 36 and (m) RFP 10. §7 also states generally: "Where this email asks for part of a request, Plaintiffs do not waive the remainder of that request."
 
 **RFP 36 narrowed (11/1/2026)** at Bill's direction to the 2/3/2025 Monson–Lu call (quoted from RFP 36). Asks for any recording, transcript or notes, so a missing transcript alone does not end the inquiry; "without waiving the remainder of RFP No. 36" added.
 
