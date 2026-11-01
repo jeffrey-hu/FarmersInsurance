@@ -6,13 +6,13 @@
 
 Dear Ms. Baskfield and Mr. Kennedy:
 
-This is our second meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first email, sent October 29, 2026, asked Defendant to produce the claim file and claim notes (Requests for Production ("RFP") Nos. 1 and 20) and the appraisal materials (RFP Nos. 15, 16 and 17) by November 6, 2026. Those requests remain outstanding. This email raises two additional issues. Please respond to this email by November 9, 2026. We would like to resolve these issues without involving the Court.
+This is our second meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first email, sent October 29, 2026, asked Defendant to produce the claim file and claim notes (Requests for Production ("RFP") Nos. 1 and 20) and the appraisal materials (RFP Nos. 15, 16 and 17) by November 6, 2026. Those requests remain outstanding. This email raises two additional issues. Please respond to section 1 by November 5, 2026, and to section 2 by November 9, 2026. We would like to resolve these issues without involving the Court.
 
 This email does not serve new discovery requests. Each item below is called for by Plaintiffs' first sets of interrogatories, requests for production and requests for admission, to which Defendant responded on October 21, 2026.
 
 **1. Party and jurisdiction**
 
-The joinder deadline is November 16, 2026. By **November 9, 2026**, please:
+The joinder deadline is November 16, 2026. By **November 5, 2026**, please:
 
 - answer Requests for Admission Nos. 113, 114, 115, 128 and 129;
   - If Defendant admits all five without qualification, Plaintiffs will withdraw Requests for Admission Nos. 88, 89, 90, 91, 92, 112, 116, 117, 121, 125, 126, 127 and 137.
@@ -104,7 +104,7 @@ Plaintiffs pro se
 | RFAs 69, 70, 72, 73 | Line item 1 text; only window lines are 1, 2, 3, 32; no location; no later hail loss | Blanket "deny" | Each is shown by FIE 1796–1800 |
 | RFAs 71, 74–78 | 2020 "Type of Loss: Hail"; RC extension history | Blanket "deny" | Withdrawn 9/27; not raised |
 
-**Response date (10/31/2026).** Changed to **11/9/2026** at Bill's direction. The first email's 11/6 date is left as stated; the opening asks for this email by 11/9. Joinder deadline 11/16 leaves 7 days after the response.
+**Response dates (11/1/2026).** Section 1 (party and jurisdiction): **11/5/2026**, leaving 11 days before the 11/16 joinder deadline. Section 2 (2020 claim): **11/9/2026**. The opening states both. The first email's 11/6 date is left as stated.
 
 **Second-email framing (10/31/2026).** Subject, opening and section 3 now state that this is the second conferral email, that the 10/29 email's requests (RFPs 1, 15, 16, 17, 20) remain outstanding, and that both are due 11/6. The ¶ 4 citation remains in the closing line.
 
