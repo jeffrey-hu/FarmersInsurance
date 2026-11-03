@@ -1,4 +1,4 @@
-<!-- DRAFT. Verify each quotation and Bates number against the documents before sending (Scheduling Order ¶ 13). Confirm the send date of the second email and the response date before sending; see the drafting notes. -->
+<!-- DRAFT — the version to send (v2 retired 11/2/2026). Verify each quotation and Bates number against the documents before sending (Scheduling Order ¶ 13). The second email went out 11/1/2026 at 7:15 p.m.; the response date asked here is 11/13/2026. -->
 
 **To:** mbaskfield@kennedylf.com; kkennedy@kennedylf.com
 **Cc:** jie_h_hu@yahoo.com; jparks@kennedylf.com; aabdi@kennedylf.com
@@ -6,38 +6,40 @@
 
 Dear Ms. Baskfield and Mr. Kennedy:
 
-This is our third meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first and second emails, sent October 29 and November 1, 2026, remain outstanding, with responses due November 5, 6 and 9, 2026. This email raises additional issues about Defendant's handling of the claim. Please respond to it by **November 13, 2026**. We would like to resolve these issues without involving the Court.
+This is our third meet-and-confer email about Defendant's October 21, 2026 discovery responses. Our first and second emails, sent October 29 and November 1, 2026, remain outstanding, with responses due November 5, 6 and 9, 2026. Please respond to this email by **November 13, 2026**. We would like to resolve these issues without involving the Court.
 
-This email does not serve new discovery requests. Each item below is called for by Plaintiffs' first sets of interrogatories, requests for production ("RFP") and requests for admission ("RFA"), to which Defendant responded on October 21, 2026.
+This email does not serve new discovery requests. Each item below is called for by Plaintiffs' first sets of interrogatories, requests for production ("RFP") and requests for admission ("RFA").
 
-These requests concern how Defendant investigated and decided the claim (the inspections, the engineer engagement, the September 3 and November 4, 2024 letters, and its review of Plaintiffs' 2025 submissions), which Counts I and IV of the Complaint put at issue. Paragraph 53 (Count I) alleges that Defendant breached the implied covenant of good faith and fair dealing in handling the claim. Paragraphs 69 and 70 (Count IV) allege conduct under Minn. Stat. § 325F.69. Defendant's Answer denies paragraph 53 in part and states that Defendant is "without sufficient information or knowledge to form an opinion of the truth of the remainder of paragraph 53." It states the same as to paragraphs 69(a) through (h). The records sought concern the conduct those paragraphs describe. Section 4 also concerns Defendant's own allegation in Answer ¶ 14.
+These requests concern how Defendant investigated and decided the claim, which Count I (Complaint ¶ 53, the implied covenant of good faith and fair dealing) and Count IV (¶¶ 69–70, Minn. Stat. § 325F.69) put at issue. Defendant's Answer states that it is "without sufficient information or knowledge to form an opinion" on the remainder of ¶ 53 and on ¶¶ 69(a)–(h). Section 4 also concerns Answer ¶ 14.
 
-Defendant's responses to Interrogatory Nos. 4 and 6 and RFP Nos. 3, 5, 7, 10, 30, 36 and 51 object to the extent the request seeks proprietary or confidential information or documents. Ms. Baskfield's September 14, 2026 email states that Defendant "is not seeking a protective order at this time." For each of these requests, please state whether any information or document is being withheld on that ground. If none is withheld, please withdraw the objection. If any is withheld, please identify it and either produce it or propose a protective order.
+Defendant's responses to Interrogatory Nos. 4 and 6 and RFP Nos. 3, 5, 7, 10, 30, 36 and 51 object to the extent the request seeks proprietary or confidential information or documents. Ms. Baskfield's September 14, 2026 email states that Defendant "is not seeking a protective order at this time." For each, please state whether anything is withheld on that ground; if nothing is, withdraw the objection; if something is, identify it and either produce it or propose a protective order.
+
+Defendant's answers to Interrogatory Nos. 4, 6, 10 and 11 refer to documents produced without identifying any. Minn. R. Civ. P. 33.03 permits that only if the answer specifies the records "in sufficient detail as to permit the interrogating party to locate and to identify, as readily as can the party served, the records from which the answer may be ascertained." For each of these interrogatories, please answer it or identify the documents by Bates number.
 
 **1. The September 3 and November 4, 2024 decisions** (Complaint ¶¶ 53, 69(a))
 
-Defendant's September 3, 2024 letter states: "As part of our investigation we had your home inspected. At the inspection, interior water damage around your windows was observed. There were no other damages observed" (FIE 0051). Hancock Claims Consultants delivered its report to Defendant on August 30, 2024 (FIE 0977). Mr. Brau's estimate records "Date Inspected: 9/6/2024" (FIE 1014); the September 3, 2024 letter issued before that inspection. On September 10, 2024, Mr. Brau wrote that he had "discussed your claim and photos with my MN field supervisor and we will be having a structural engineer contact you" (FIE 1002).
+Defendant's September 3, 2024 letter states that at the inspection "interior water damage around your windows was observed. There were no other damages observed" (FIE 0051). Hancock Claims Consultants delivered its report to Defendant on August 30, 2024 (FIE 0977). Mr. Brau's estimate records "Date Inspected: 9/6/2024" (FIE 1014); the September 3, 2024 letter issued before that inspection. On September 10, 2024, Mr. Brau wrote that he had "discussed your claim and photos with my MN field supervisor and we will be having a structural engineer contact you" (FIE 1002).
 
 *The requests and Defendant's responses:*
 - **Interrogatory No. 4** asked whether any review of each denial letter, "including any supervisory, quality-control, or peer review," was performed before it issued, and who authorized each letter. After objections, the answer refers to documents produced. We have not located any record of a review or authorization.
 - **Interrogatory No. 6** asked what Defendant did with the Hancock and Prieve reports before relying on them, including each person involved and any written procedure. After objections, the answer refers to documents produced. We have not located any such record.
-- **RFP No. 30** asked for all drafts, comments and revisions of the September 3 and November 4, 2024 letters, and any internal audit, quality-control review or supervisor sign-off concerning them. We have located the letters as sent (FIE 0051–0124; FIE 1021–1030). We have not located any draft, comment, revision, review or sign-off.
-- **RFP No. 32** asked for all documents reflecting Defendant's review, evaluation, approval or adoption of the Hancock and Prieve reports, including internal review notes, checklists, sign-offs and communications. We have located the reports themselves (FIE 0051–0193, 0977–0994; FIE 1031–1037). We have not located any review note, checklist, sign-off or internal communication about reviewing or adopting either report.
-- **RFP No. 51** asked for documents on the photograph-labeling convention behind captions such as "Window Wrap North Damaged - No": any template, pick-list or predefined caption set, any instructions on when an inspector applies such a caption, and documents showing whether the numeric suffix (for example "- No_2") is added automatically. The response is objection only, and nothing responsive has been produced.
+- **RFP No. 30** asked for drafts and revisions of the two letters and any review or sign-off of them. We have located the letters as sent (FIE 0051–0124; FIE 1021–1030). We have not located any draft, comment, revision, review or sign-off.
+- **RFP No. 32** asked for documents reflecting Defendant's review or adoption of the Hancock and Prieve reports. We have located the reports themselves (FIE 0051–0193, 0977–0994; FIE 1031–1037). We have not located any record of that review.
+- **RFP No. 51** asked for documents describing or governing the photograph-labeling convention behind captions such as "Window Wrap North Damaged - No." The response is objection only, and nothing responsive has been produced.
 
 We ask that Defendant:
 - (a) for Interrogatory No. 4, identify each review performed before each letter issued and the person who authorized each letter, or state that none was performed;
 - (b) answer Interrogatory No. 6 as asked, or identify by Bates number the documents that show it;
 - (c) for RFP No. 30, produce the drafts, comments and revisions of the September 3 and November 4, 2024 letters, and any internal audit, quality-control review or supervisor sign-off concerning them, or state that none exists;
 - (d) for RFP No. 32, produce the review notes, checklists, sign-offs and internal communications reflecting Defendant's review, evaluation, approval or adoption of the Hancock and Prieve reports, or state that none exists; and
-- (e) without waiving the remainder of RFP No. 51, produce any document describing what the captions mean, or state whether Defendant has requested them from Hancock.
+- (e) without waiving the remainder of RFP No. 51, produce any document describing what the captions mean, or state that none exists or, if Defendant contends only Hancock holds such documents, state whether Defendant has requested them.
 
 **2. Mr. Brau's September 6, 2024 inspection records** (Complaint ¶ 53)
 
 Defendant's production includes Mr. Brau's photographs (FIE 0687–0737) and his estimate named "YIBIAO_LU5" (FIE 1014–1020). Plaintiffs asked for Mr. Brau's inspection notes on October 7 and October 28, 2025 (FIE 1736, 1754). Defendant replied that "[t]he file does not contain a report on the requested date" (FIE 1660) and that "[a]ll the information we can release has already been sent to you" (FIE 1757).
 
 *The requests and Defendant's responses:*
-- **RFP No. 3** (all notes, photographs, measurements, sketches, drafts and field communications by Mr. Brau for the September 6, 2024 inspection; if none exists, the retention policy and the persons who had custody). We have located 199 photographs (FIE 0687–0737) and the YIBIAO_LU5 estimate. None of the photographs is captioned or marked as showing a dent. Plaintiffs' October 28, 2025 email to Mr. Brau states, "We found dents together and you measured sizes of some damaged windows" (FIE 1754); we have not located any photograph of those dents. We have also not located his notes, measurements or sketches, earlier estimate versions, or the retention and custody information.
+- **RFP No. 3** (all notes, photographs, measurements, sketches, drafts and field communications by Mr. Brau for the September 6, 2024 inspection; if none exists, the retention policy and the persons who had custody). None of the 199 photographs is captioned or marked as showing a dent. Plaintiffs' October 28, 2025 email to Mr. Brau states, "We found dents together and you measured sizes of some damaged windows" (FIE 1754). We have not located any photograph of those dents, or his notes, measurements or sketches, earlier estimate versions, or the retention and custody information.
 - **RFA Nos. 29, 30 and 94**. The response to each is: "Pursuant to FIE's General Objections, deny."
 
 We ask that Defendant:
@@ -48,8 +50,8 @@ We ask that Defendant:
 The Prieve Engineering report (FIE 1031–1037, the "Prieve Report") states that the inspection was made "[p]er the request of Nic Brau of Farmers Insurance" and that Prieve Engineering was "retained to evaluate the condition of windows in the home as relates to hail" (FIE 1032). On October 2, 2024, Mr. Prieve wrote that he was available "to inspect your windows and any other areas of potential hail damage" (FIE 1008).
 
 *The requests and Defendant's responses:*
-- **RFP No. 5** asked for the Prieve Engineering file for the claim, including "any impact-force, terminal-velocity, hail-size-threshold, or other engineering calculation, analysis, model, or worksheet underlying the report's conclusions." We have located the report (FIE 1031–1037). We have not located any such calculation, analysis, model or worksheet.
-- **RFP No. 7** asked for documents reflecting the decision to limit the Prieve engagement to "windows only," including who made the decision and when, whether it preceded or followed Plaintiffs' reports of damage to siding, downspouts, flashing and doors, and any request by Prieve to expand the scope. We have located the report's statement of its scope (FIE 1032) and Mr. Prieve's October 2, 2024 email (FIE 1008). We have not located any document showing who made the decision, when, or any request by Prieve to expand the scope.
+- **RFP No. 5** asked for the Prieve Engineering file, including any engineering calculation, analysis, model or worksheet underlying the report's conclusions. We have located only the report (FIE 1031–1037).
+- **RFP No. 7** asked for documents on the decision to limit the Prieve engagement to "windows only," including who made it, when, and any request by Prieve to expand the scope. Apart from the report's statement of scope (FIE 1032) and Mr. Prieve's October 2, 2024 email (FIE 1008), we have located nothing.
 - **RFP No. 49** (records of any inspection of the rear garage window south of the window shown at photographs A-213 through A-217; if none, a statement that none exists). We have not located any, and the response does not state whether any exists.
 - **RFA Nos. 59 and 60**. The response to each is: "Pursuant to FIE's General Objections, deny."
 
@@ -71,7 +73,7 @@ We ask that Defendant:
 
 **5. The engineer-report requirement and Plaintiffs' 2025 submissions** (Complaint ¶¶ 53, 69(c); Answer ¶ 24)
 
-Defendant's Answer ¶ 24 states that Mr. Monson "informed Plaintiff Lu, in part, that Plaintiff could send in his own engineer's report that would be peer reviewed." Defendant's February 13, 2025 letter states: "We have reviewed the new information sent in by you but it does not change the outcome of this claim. If you wish to submit your owne engineers report we will be happy to review it, however it will be at your own cost" (FIE 1085).
+Defendant's Answer ¶ 24 states that Mr. Monson "informed Plaintiff Lu, in part, that Plaintiff could send in his own engineer's report that would be peer reviewed." Defendant's February 13, 2025 letter states: "We have reviewed the new information sent in by you but it does not change the outcome of this claim. If you wish to submit your owne [sic] engineers report we will be happy to review it, however it will be at your own cost" (FIE 1085).
 
 *The requests and Defendant's responses:*
 - **Interrogatory No. 10** asked what Defendant did with each of Plaintiffs' 2025 submissions, including each person involved, when, the conclusion reached, and each document recording it. After objections, the answer refers to documents produced. We have not located any record of the review referred to in FIE 1085.
@@ -105,6 +107,10 @@ Plaintiffs pro se
 ---
 
 ## Drafting notes (not part of the email)
+
+*Notes below dated 11/1/2026 or earlier are history. Several use superseded request letters and mention items since dropped; the email text controls.*
+
+**Final review applied (11/2/2026).** Rule 33.03 paragraph added after the confidentiality paragraph (Interrogatories 4, 6, 10, 11; rule text checked against the Revisor); request (e) now offers "state that none exists" and asks about Hancock only if FIE contends Hancock alone holds the documents (matches (g)); "owne [sic]" marked in the FIE 1085 quotation. Relevance paragraph condensed from 135 to about 65 words; the Answer quotation is shortened, not altered. Concision pass applied (items 1–10 of the 11/2 proposal): RFP 30, 32, 51, 5 and 7 bullets now summarize the RFP, since requests (c), (d), (e), (g) and (h) carry the full wording; §7 left unchanged.
 
 **No-waiver language (11/1/2026).** "Without waiving the remainder of …" added to the narrowed requests (e) RFP 51, (f) RFP 3, (g) RFP 5 and (h) RFP 7, matching (l) RFP 36 and (m) RFP 10. §7 also states generally: "Where this email asks for part of a request, Plaintiffs do not waive the remainder of that request."
 
@@ -151,7 +157,7 @@ Plaintiffs pro se
 **Source.** Section 5 ("Claim handling") of `2026-10-29_Conferral_Letter_FIE_Discovery_Responses.md` (on hold), rewritten in the style of the second email: facts, the request and Defendant's response, what we have not located, and lettered asks.
 
 **Confirm before sending.**
-- **Second email's send date.** The draft says "November 1, 2026." Change it if the second email goes out on a different day.
+- **Second email's send date.** Confirmed: sent 11/1/2026, 7:15 p.m. The opening and §7 are correct.
 - **Response date.** The draft asks for **November 13, 2026**, one week after the 11/6 date in the first two emails. A ¶ 4 letter on emails 1 and 2 could go out around 11/9; this email's issues would follow after 11/13.
 
 **Moved to other emails or left out.**
