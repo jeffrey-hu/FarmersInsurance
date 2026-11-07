@@ -1,4 +1,4 @@
-<!-- DRAFT v4 (11/6/2026). Restructured from v3 at Bill's direction: (1) Plaintiffs' efforts before and after Defendant's October 20–21 responses; (2) how Defendant responded at each step; (3) the conferral items on which relief is sought, by Complaint count (Attachment A, trimmed 11/6/2026 to relief items only). Must not exceed 3 pages (Scheduling Order ¶ 4); see drafting note 1 on Attachment A. Verify every quotation, count and Bates number against the source before filing (Scheduling Order ¶ 13). -->
+<!-- DRAFT v4 (11/6/2026). Restructured from v3 at Bill's direction: (1) Plaintiffs' efforts before and after Defendant's October 21 responses; (2) how Defendant responded at each step; (3) the conferral items on which relief is sought, by Complaint count (Attachment A, trimmed 11/6/2026 to relief items only). Must not exceed 3 pages (Scheduling Order ¶ 4); see drafting note 1 on Attachment A. Verify every quotation, count and Bates number against the source before filing (Scheduling Order ¶ 13). -->
 
 Yibiao Lu and Jie Hu
 17756 George Moran Dr.
@@ -22,11 +22,11 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 **1. Before Defendant's responses.**
 - **Sept. 15 (Plaintiffs).** Asked Defendant to identify any other entity it contends is the proper party.
 - **Sept. 25 (Defendant).** Acknowledged that it "is a proper party." Stated it would "answer 25 RFAs" and "object to the remaining 116."
-- **Sept. 27 (Plaintiffs).** Withdrew 82 of the 141 RFAs, leaving 59. Offered to withdraw 22 more if Defendant admitted five requests on the proper party.
-- **Oct. 9 (Defendant).** Did "not agree" and made no counter-proposal. Said it would seek "court involvement," but has filed no motion.
+- **Sept. 27 (Plaintiffs).** Withdrew 82 of the 141 RFAs, leaving 59. Offered to withdraw 22 more if Defendant admitted five requests on the proper party. Most of those withdrawn asked Defendant only to confirm what its own documents say: the policy, its denial letters and photo captions, its engineer’s report, the appraisal award, and its correspondence.
+- **Oct. 9 (Defendant).** Did "not agree" and made no counter-proposal.
 - **Oct. 13 (Plaintiffs).** Restated the pending requests by number.
 
-**2. Defendant's responses (October 20–21, 2026).**
+**2. Defendant's responses (served October 21, 2026).**
 - Eleven of 12 interrogatory answers and 46 of 53 RFP responses object that "Plaintiffs claim was resolved via a binding appraisal award."
 - Defendant answered 14 of the 59 pending RFAs. To each of the other 45 it responded only: "Pursuant to FIE's General Objections, deny."
 - No RFP response states whether materials are withheld on the basis of an objection (Rule 34.02(c)).
@@ -37,21 +37,24 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 - **Nov. 1:** proper party **(RFA 113–115, 128, 129; Interrog. 7)**; the damage recorded and paid in prior claims, chiefly the 2020 claim **(RFP 2, 22, 23; Interrog. 1, 2; RFA 69, 70, 72, 73)**. These records matter because Defendant's November 4, 2024 denial rested on its engineer's conclusion that two windows "have already been included and we understand paid for due to prior storm activity" (FIE 1037), and Defendant's appraiser left the dining-room window out because its damage "matched the prior claim photos" (FIE 2317).
 - **Nov. 4:** review and authorization of the 2024 denials **(Interrog. 4, 6; RFP 30, 32, 51)**; the adjuster's inspection records **(RFP 3)**; the engineer's engagement and file **(RFP 5, 7, 49)**; the source of Answer ¶ 14 **(Interrog. 11; RFP 42)**; the 2025 submissions and engineer-report requirement **(Interrog. 10; RFP 10, 36)**; claim-handling **RFAs (29, 30, 59, 60, 79, 94)**; confidentiality objections and Rule 33.03.
 
-On November 5, Defendant served a supplemental production (FIE 1804–2340) and a privilege log, which resolved part of the dispute. Its letter of the same date stated that Defendant had "produced FIE's entire file subject to the privilege log," and also stated the following:
+**In total, the three emails asked Defendant to answer 15 RFAs and 7 interrogatories and to produce documents under 18 RFPs.** On November 5, Defendant served a supplemental production (FIE 1804–2340) and a privilege log, which resolved part of the dispute. Its supplemental response addresses only 6 RFPs (1, 15, 16, 17, 20 and 21), each "incorporat[ing] all of its objections." **It answers none of the 15 RFAs and none of the 7 interrogatories, and it does not address the other 13 RFPs.** Its letter of the same date stated that Defendant had "produced FIE's entire file subject to the privilege log," and also stated the following:
 - "To the extent you are not satisfied, you will need to address your concerns with the court."
-- "Your response refused to agree to limit the RFA's to 25, so we answered the first 25 RFAs. At this point, we do not agree to answer additional RFAs." Neither Rule 36 nor the Scheduling Order limits the number of RFAs. By Defendant's own account, it has not answered the 45 requests to which it responded "deny."
 - "We do not have an obligation to provide you with legal conclusions regarding our affirmative defenses" (Interrogatory No. 7). Yet Defendant's own interrogatories ask Plaintiffs to "[i]dentify with specificity any facts which may support" six of their claims (Def.'s Interrogs. 5–10). Rule 33.02 permits both.
 - With "over 2,340 pages of documents produced, you would be able to locate and identify any document … as readily as our office." Compare Rule 33.03.
-- "The full claim files for prior losses are not relevant."
 
-**4. Why the disputed items are relevant.** Defendant's Second Affirmative Defense is the appraisal award. Its November 5 letter states that the panel inspected "all of the windows" and that the award "included two window units." Defendant's appraiser's closing report, first produced on November 5, states the following (FIE 2316–2318):
+**4. Defendant has limited discovery on its own, without seeking a protective order.**
+- **Scope.** Defendant withholds discovery on the ground that the claim "was resolved via a binding appraisal award" (section 2). That is its Second Affirmative Defense and the disputed merits question. On November 5 it added that "[t]he full claim files for prior losses are not relevant."
+- **RFAs.** On September 25, Defendant set its own limit of 25 RFAs, and it has held to it: "we do not agree to answer additional RFAs" (Nov. 5). Neither Rule 36 nor the Scheduling Order limits the number of RFAs.
+- **No motion.** Defendant has twice said it would ask the Court to limit discovery: "court involvement as necessary to limit oppressive discovery" (Oct. 9), and "court assistance in limiting the scope of discovery" (Nov. 5). It has not moved for a protective order. Under Rule 26.03, a party that wants discovery limited must move and show good cause. Instead, Defendant has applied the limits it says it will ask for.
+
+**5. Why the disputed items are relevant.** Defendant's Second Affirmative Defense is the appraisal award. Its November 5 letter states that the panel inspected "all of the windows" and that the award "included two window units." Defendant's appraiser's closing report, first produced on November 5, states the following (FIE 2316–2318):
 - a front window "has hail damage that matched the prior claim photos. The pre-existing damage to the dining room window was not considered in the award";
 - the award covers "the front facing window on the right elevation" and "the three windows in the family room on the rear elevation";
 - the award was made "without consideration of any applicable coverage questions," and "prior payments, if applicable, were not applied."
 
 What the panel decided is therefore "relevant to any party's claim or defense" (Rule 26.02(b)), under Counts II and III and Defendant's Second Affirmative Defense. Counts I (¶ 53) and IV (¶ 69) concern how Defendant investigated and decided the claim in 2024–2025, before the appraisal demand.
 
-**5. Relief requested.** Plaintiffs request a conference call and, if the matters are not resolved, an order requiring Defendant within 14 days to:
+**6. Relief requested.** Plaintiffs request a conference call and, if the matters are not resolved, an order requiring Defendant within 14 days to:
 1. serve answers that comply with Rule 36.01 to RFA Nos. 29, 30, 59, 60, 69, 70, 72, 73, 79, 94, 113, 114, 115, 128 and 129 (Attachment A, items 3, 5, 8);
 2. produce the appraisal documents identified in Attachment A, item 2, or state that none exist and identify who holds them;
 3. answer Interrogatory Nos. 4, 6 and 7, or state under oath that no review or authorization of either denial letter occurred (items 4, 6, 7);
@@ -83,7 +86,7 @@ cc: Kevin J. Kennedy and Mary J. Baskfield, Counsel for Defendant (by email)
 
 **Emails:** **E1** = October 29, **E2** = November 1, **E3** = November 4, 2026.
 
-| # | Count(s) | Item | Request(s) | Raised in | Defendant's response (Oct. 20–21 → Nov. 5) | Relief sought |
+| # | Count(s) | Item | Request(s) | Raised in | Defendant's response (Oct. 21 → Nov. 5) | Relief sought |
 |---|---|---|---|---|---|---|
 | **1** | All | Five pre-suit emails withheld as work product | RFP 1 (Rule 26.02(f)(1)) | E1 | No log → Nov. 5 log withholds Bates 2341–2352 and 2360–2361 (Dec. 5 and 13, 2024; May 20, July 10 and 15, 2025). Described as "regarding the claim investigation"; no author or recipient given. Defendant's file index labels the Dec. 5 item "Internal email on DOI complaint" (FIE 2214). | Produce, or log with author, recipients, date and basis; in camera review if disputed |
 | **2** | II, III, AD2 | Appraisal documents not yet produced: (a) the "Declaration of Appraisers" listed as an enclosure to the closing report (FIE 2316); (b) the Sept. 4, 2025 transmittal to the umpire of "coverage letter, engineering report, demand estimate, weather report, prior claim report," with attachments (FIE 2338); (c) Defendant's engagement terms with its appraisal vendor | RFP 15, 17; RFP 1 | E1 | Objections → closing report, photo sheet and vendor emails produced Nov. 5; items (a)–(c) not produced | Produce, or state that none exist and identify who holds them |
@@ -172,3 +175,35 @@ Yibiao Lu, Plaintiff *pro se*
      - RFAs 69, 70, 72, 73: the 2020 estimate.
    - **Not 2020 only.** RFP 22 also reaches the 2014 and 2015 claims, and Interrogatory 1 asks which prior claim paid for each recorded condition. The line therefore says "prior claims, chiefly the 2020 claim."
    - **Relevance sentence.** It ties the requests to Defendant's own reliance on the prior claims. Check both quotations against the page images: FIE 1037 (Prieve, Conclusion 1) and FIE 2317 (Tomes closing report).
+
+12. **New section 4, "Defendant has limited discovery on its own" (Bill, 11/7/2026).**
+   - **What moved.** The RFA-cap and "prior losses not relevant" quotations moved here from the section 3 list. Former sections 4 and 5 are now 5 and 6.
+   - **Verify before filing:**
+     - Rule 26.03's "good cause" language, at revisor.mn.gov;
+     - FIE's 10/9 email ("court involvement as necessary to limit oppressive discovery");
+     - FIE's 11/5 letter, p. 3 ("court assistance in limiting the scope of discovery");
+     - on MCRO, that FIE has filed no protective-order motion.
+   - **Rule 37.04, kept out of the letter.** Its last sentence was checked at revisor.mn.gov on 11/7/2026: a failure to answer interrogatories or respond to RFPs "may not be excused on the ground that the discovery sought is objectionable unless the party failing to act has applied for a protective order as provided by Rule 26.03." It covers failing to respond at all, and FIE did respond, with objections. Keep it for the motion brief.
+   - **If page 3 overflows,** cut the section 3 quote "address your concerns with the court" first. Section 4's "No motion" bullet makes much the same point.
+
+13. **What the 82 withdrawn RFAs covered** (checked 11/7/2026 against `OfficialDiscoveyDocuments/RFAs/FirstSet/Request/Plaintiffs_First_Set_of_Requests_for_Admission_to_FIE.docx` and the 9/27/2026 letter's pending list). This note supports the last sentence of the Sept. 27 entry in section 1.
+
+    | Category | Sections | Count | Typical request |
+    |---|---|---|---|
+    | Denial letters and the inspection photo captions | D, E, M | 21 | "Admit that the September 3, 2024 Denial Package stated, 'There were no other damages observed'"; which policy provisions the 11/4/2024 letter cites; that 38 of 38 photos carry a "No-Damage" caption |
+    | Engineer's (Prieve) report | G, H | 16 | That the report contains no impact-force calculation, and does not state hailstone size or dent dimensions; that it is a genuine copy |
+    | Appraisal award | C | 10 | What the award lists; that Tomes's signature line is blank |
+    | Policy text | A, F, Q | 9 | What the coverage grant, the Marring provision and the forms say |
+    | FIE's 2020-claim and 2025 correspondence | I, K, N, O, T, U | 14 | What its emails stated and who signed them; the 2020 extension requests |
+    | People and records | L, P | 7 | Who inspected for Hancock; agent's role; dates of litigation holds |
+    | Jie Hu's status as an insured | S | 5 | Spouse, same household, insured under the policy |
+    | **Total** | | **82** | |
+
+    - **Why the letter says "most."** About 64 of the 82 ask only what one of FIE's own documents (policy, letter, report, award, photo caption) says or omits; FIE can answer those by reading the document. The other 18 ask basic facts: who inspected, who signed, that FIE paid nothing, and Jie Hu's household status. Do not say "all."
+    - **Withdrawn numbers:** 1–3, 13–15, 18, 19, 23–28, 31, 32, 36–42, 44–46, 48, 50–54, 57, 58, 61–68, 71, 74–78, 87, 93, 95–111, 118–120, 122–124, 130–134, 136, 138, 139, 141. All were withdrawn without prejudice (9/27 letter).
+    - **"Those withdrawn."** The sentence follows the offer about 22 more RFAs, so "those withdrawn" could be read as the 22, which were never withdrawn. Consider "Most of the 82 withdrawn …" before filing.
+
+14. **Service date of FIE's responses (Bill, 11/7/2026).** FIE served all three responses on **October 21, 2026**: the interrogatory answers, the RFP response and the RFA response. The interrogatory answers are *dated* October 20, 2026 (signature and verification), but they were not served until 10/21. Section 2 and Attachment A now say "October 21."
+    - **Side point (not raised in the letter).** Per `Service_Log.md` row 2, the interrogatory answers were due **October 20**: served 9/20 at 2:43 p.m., 30 days, and Rule 6.01(e) adds nothing before 5:00 p.m. Served on 10/21, they were one day late. FIE's 10/9 email had announced a single 10/21 date for all three sets, and Plaintiffs neither agreed nor objected (10/13 reply). A one-day lateness is unlikely to matter. Do not argue waiver of objections on it unless an attorney advises otherwise.
+    - **Before filing,** confirm the 10/21 service time from the email headers and record it in `Service_Log.md`.
+
