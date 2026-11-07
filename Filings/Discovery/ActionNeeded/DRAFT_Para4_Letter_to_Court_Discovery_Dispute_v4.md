@@ -33,7 +33,7 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 - The claim file and claim notes were deferred "[d]ue to technical difficulties."
 
 **3. After the responses: Plaintiffs' conferral and Defendant's response.** Plaintiffs sent three conferral emails, each limited to specific served requests, and identified the documents at issue by Bates number:
-- **Oct. 29:** claim file, claim notes and portal record (RFP 1, 20); appraisal materials, including the appraiser's report and the vendor's "closing docs" (RFP 15–17); an express statement on umpire documents (RFP 16); a privilege description; withholding statements.
+- **Oct. 29:** claim file, claim notes and portal record (RFP 1, 20); appraisal materials, including engagement letters, panel correspondence, the appraiser's report and the vendor's "closing docs" (RFP 15–17); an express statement on umpire documents (RFP 16); a privilege description; withholding statements.
 - **Nov. 1:** proper party (RFA 113–115, 128, 129; Interrog. 7); the damage recorded and paid in prior claims, chiefly the 2020 claim (RFP 2, 22, 23; Interrog. 1, 2; RFA 69, 70, 72, 73). These records matter because Defendant's November 4, 2024 denial rested on its engineer's conclusion that two windows "have already been included and we understand paid for due to prior storm activity" (FIE 1037), and Defendant's appraiser left the dining-room window out because its damage "matched the prior claim photos" (FIE 2317).
 - **Nov. 4:** review and authorization of the 2024 denials (Interrog. 4, 6; RFP 30, 32, 51); the adjuster's inspection records (RFP 3); the engineer's engagement and file (RFP 5, 7, 49); the source of Answer ¶ 14 (Interrog. 11; RFP 42); the 2025 submissions and engineer-report requirement (Interrog. 10; RFP 10, 36); claim-handling RFAs (29, 30, 59, 60, 79, 94); confidentiality objections and Rule 33.03.
 
@@ -50,8 +50,6 @@ On November 5, Defendant served a supplemental production (FIE 1804–2340) and 
 - the award was made "without consideration of any applicable coverage questions," and "prior payments, if applicable, were not applied."
 
 What the panel decided is therefore "relevant to any party's claim or defense" (Rule 26.02(b)), under Counts II and III and Defendant's Second Affirmative Defense. Counts I (¶ 53) and IV (¶ 69) concern how Defendant investigated and decided the claim in 2024–2025, before the appraisal demand.
-
-Plaintiffs do not ask to depose the panel about its deliberations.
 
 **5. Relief requested.** Plaintiffs request a conference call and, if the matters are not resolved, an order requiring Defendant within 14 days to:
 1. serve answers that comply with Rule 36.01 to RFA Nos. 29, 30, 59, 60, 69, 70, 72, 73, 79, 94, 113, 114, 115, 128 and 129 (Attachment A, items 3, 5, 8);
