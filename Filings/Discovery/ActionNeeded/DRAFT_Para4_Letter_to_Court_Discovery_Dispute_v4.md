@@ -17,7 +17,7 @@ Minneapolis, MN 55487
 
 Dear Judge Anderson:
 
-Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respectfully request a conference call about Defendant's responses to Plaintiffs' first interrogatories, requests for production ("RFP") and requests for admission ("RFA"). Attachment A lists each item on which Plaintiffs seek relief, the Complaint count it concerns, the conferral email that raised it, and Defendant's response.
+Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respectfully request a conference call about Defendant's responses to Plaintiffs' first interrogatories, requests for production ("RFP") and requests for admission ("RFA").
 
 **1. Before Defendant's responses.**
 - **Sept. 15 (Plaintiffs).** Asked Defendant to identify any other entity it contends is the proper party.
@@ -63,15 +63,12 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 What the panel decided is therefore "relevant to any party's claim or defense" (Rule 26.02(b)), under Counts II and III and Defendant's Second Affirmative Defense. Counts I (¶ 53) and IV (¶ 69) concern how Defendant investigated and decided the claim in 2024–2025, before the appraisal demand.
 
 **6. Relief requested.** Plaintiffs request a conference call and, if the matters are not resolved, an order requiring Defendant within 14 days to:
-1. serve answers that comply with Rule 36.01 to RFA Nos. 29, 30, 59, 60, 69, 70, 72, 73, 79, 94, 113, 114, 115, 128 and 129 (Attachment A, items 3, 5, 8);
-2. produce the appraisal documents identified in Attachment A, item 2, or state that none exist and identify who holds them;
-3. answer Interrogatory Nos. 4, 6 and 7, or state under oath that no review or authorization of either denial letter occurred (items 4, 6, 7);
-4. produce, or log under Rule 26.02(f)(1), the five pre-suit items on its privilege log (item 1); and
-5. state, for each RFP response, whether materials are withheld on the basis of an objection (item 9).
+1. **RFAs:** serve answers that comply with Rule 36.01 to RFA Nos. 29, 30, 59, 60, 69, 70, 72, 73, 79, 94, 113, 114, 115, 128 and 129;
+2. **Interrogatories:** answer Interrogatory Nos. 1, 2, 4, 6, 7, 10 and 11, citing records by Bates number (Rule 33.03), or, for Nos. 4 and 6, state under oath that no review occurred;
+3. **RFPs:** for RFP Nos. 1, 2, 3, 5, 7, 10, 15, 17, 20, 22, 23, 30, 32, 36, 42, 49 and 51, as narrowed in the conferral emails, produce the responsive documents or state that none exist, and state whether any are withheld on the basis of an objection (Rule 34.02(c)). This includes the "Declaration of Appraisers" (FIE 2316) and the September 4, 2025 transmittal to the umpire (FIE 2338); and
+4. **Privilege log:** produce, or log under Rule 26.02(f)(1), the five pre-suit items (Bates 2341–2352, 2360–2361).
 
-Plaintiffs hold all other items raised in conferral, without waiver. If the matters are not resolved on the call, Plaintiffs request leave to file a motion under Rules 36.01 and 37.01, to be heard on or before January 6, 2027.
-
-Plaintiffs are available for a call at the Court's convenience.
+Plaintiffs reserve all other discovery disputes, without waiver. If the matters are not resolved on the call, Plaintiffs request leave to move under Rules 36.01 and 37.01, to be heard by January 6, 2027.
 
 Respectfully submitted,
 
@@ -83,7 +80,9 @@ cc: Kevin J. Kennedy and Mary J. Baskfield, Counsel for Defendant (by email)
 
 ---
 
-## ATTACHMENT A: Items on which Plaintiffs seek relief, by Complaint count
+## ATTACHMENT A (REFERENCE ONLY, NOT FILED): Items on which Plaintiffs seek relief, by Complaint count
+
+> **Removed from the letter 11/7/2026 (Bill).** Section 3 now gives the request numbers and topics, and section 6 names the documents, so the letter no longer refers to this table. It is kept here as a working map of relief items to counts. Its item numbers are no longer cited in the letter.
 
 **Counts:**
 - **I:** breach of contract, including ¶ 53 (good faith in claim handling);
@@ -108,7 +107,7 @@ cc: Kevin J. Kennedy and Mary J. Baskfield, Counsel for Defendant (by email)
 
 **CERTIFICATE OF SERVICE**
 
-I, Yibiao Lu, Plaintiff *pro se*, state that on [date], at [time] [a.m./p.m.] Central Time, I served a true and correct copy of Plaintiffs' Letter to the Court dated [date] (Request for Conference Call Under Scheduling Order ¶ 4), with Attachment A, upon Defendant's counsel of record, by electronic mail as agreed by the parties, as a PDF attachment sent from bill_y_lu@yahoo.com to:
+I, Yibiao Lu, Plaintiff *pro se*, state that on [date], at [time] [a.m./p.m.] Central Time, I served a true and correct copy of Plaintiffs' Letter to the Court dated [date] (Request for Conference Call Under Scheduling Order ¶ 4), upon Defendant's counsel of record, by electronic mail as agreed by the parties, as a PDF attachment sent from bill_y_lu@yahoo.com to:
 
 > Kevin J. Kennedy, kkennedy@kennedylf.com
 >
@@ -227,4 +226,26 @@ Yibiao Lu, Plaintiff *pro se*
       - Closing: "These records matter because Defendant issued its first denial on September 3, 2024, before its own adjuster inspected the home on September 6 (FIE 1014), and its second denial on November 4, 2024, the day its engineer's report arrived (FIE 2288)."
     - **Layout changes in the Word file to fit.** Sub-bullet indent 0.65" with a 0.15" hanging indent, and no space after sub-bullets. Space after "Respectfully submitted," reduced from 24 pt to 18 pt. The blank paragraph before "cc:" was replaced by 10 pt space-before.
     - **Verify:** FIE 1014 ("Date Inspected: 9/6/2024") and FIE 2288 (Brau, 11/4/2024: "Received engineer report … sending letter").
+
+16. **Attachment A removed from the filed letter (Bill, 11/7/2026).**
+    - **What changed in the letter:**
+      - the opening sentence describing Attachment A is deleted;
+      - the relief items no longer cite "items" numbers;
+      - relief item 2 now names the three appraisal documents directly;
+      - relief item 4 now gives the privilege-log Bates ranges.
+    - **The Word file** is now 4 pages: the letter (3) and the certificate of service (1). The certificate no longer says "with Attachment A."
+    - **The table stays in this draft** as a reference, labeled "not filed."
+    - **Relief item 2 wording.** To keep page 3, it now ends "or state which do not exist." The earlier "and identify who holds them" was dropped. If space opens, restore it. It matters for the vendor documents Concise holds.
+
+17. **Section 6 restructured by request type (Bill, 11/7/2026).** Relief now follows section 3's order: RFAs, then interrogatories, then RFPs, then the privilege log.
+    - **Interrogatories: all seven raised (1, 2, 4, 6, 7, 10, 11).** Interrogatory 2 was added back at Bill's direction (11/7/2026). FIE did answer No. 2 under oath, and we conceded the supporting-documents ask. Two parts of the Nov. 1 email's request (d) remain open, though: whether anything is withheld under the answer's five objections, and, if nothing is, withdrawal of those objections. Correction (11/7/2026): Plaintiffs never told FIE they conceded anything. The "concession" exists only in these notes and in the unfiled Attachment A. On the call, expect FIE to repeat its 11/5 letter instead: Interrogatory 2 "does not even contain a request to identify supporting documents," and the answer is "very specific and complete." Answer with those two open parts. Do not argue that the answer contradicts the 2020 records; that is saved for impeachment (see the 11/1 email notes).
+    - **RFPs: 17 of the 18 raised.** RFP 16 is answered. The withholding statement (Rule 34.02(c)) is folded into the RFP item. "As narrowed in the conferral emails" limits the order to what was conferred, for example RFP 36 to the 2/3/2025 call and RFP 5 to the calculations.
+    - **Vendor engagement terms** are no longer named, but remain covered by RFPs 15 and 17.
+    - **Trade-off accepted.** The relief is now broader than earlier drafts, which held RFPs 2, 22, 23 and the claim-handling RFPs. Section 3's relevance sentences support them.
+    - **Trims to keep page 3:**
+      - "identifying any records relied on" was shortened to "citing records";
+      - "no review or authorization occurred" was shortened to "no review occurred";
+      - "with attachments" was dropped from the 9/4/2025 transmittal; the attachments remain within RFP 15;
+      - the closing sentence "Plaintiffs are available for a call at the Court's convenience" was removed, because the opening of section 6 already requests the call.
+    - **Attachment A** (reference only) still reflects the earlier, narrower relief. Update it if it is ever used.
 
