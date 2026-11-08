@@ -24,10 +24,9 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 - **Sept. 25 (Defendant).** Acknowledged that it "is a proper party." Stated it would "answer 25 RFAs" and "object to the remaining 116."
 - **Sept. 27 (Plaintiffs).** Withdrew 82 of the 141 RFAs, leaving 59. Offered to withdraw 22 more if Defendant admitted five requests on the proper party. Most of those withdrawn asked Defendant only to confirm what its own documents say: the policy, its denial letters and photo captions, its engineer’s report, the appraisal award, and its correspondence.
 - **Oct. 9 (Defendant).** Did "not agree" and made no counter-proposal.
-- **Oct. 13 (Plaintiffs).** Restated the pending requests by number.
 
 **2. Defendant's responses (served October 21, 2026).**
-- Eleven of 12 interrogatory answers and 46 of 53 RFP responses object that "Plaintiffs claim was resolved via a binding appraisal award."
+- Eleven of 12 interrogatory answers and 46 of 53 RFP responses object on the ground that the claim was "resolved via" the binding appraisal award.
 - Defendant answered 14 of the 59 pending RFAs. To each of the other 45 it responded only: "Pursuant to FIE's General Objections, deny."
 - No RFP response states whether materials are withheld on the basis of an objection (Rule 34.02(c)).
 - The claim file and claim notes were deferred "[d]ue to technical difficulties."
@@ -45,13 +44,13 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 
   These matter because Defendant denied the claim on September 3, 2024, before its adjuster inspected (September 6; FIE 1014), and again on November 4, the day its engineer's report arrived (FIE 2288).
 
-**In total, the three emails asked Defendant to answer 15 RFAs and 7 interrogatories and to produce documents under 18 RFPs.** On November 5, Defendant served a supplemental production (FIE 1804–2340) and a privilege log, which resolved part of the dispute. Its supplemental response addresses only 6 RFPs (1, 15, 16, 17, 20 and 21), each "incorporat[ing] all of its objections." **It answers none of the 15 RFAs and none of the 7 interrogatories, and it does not address the other 13 RFPs.** Its letter of the same date stated that Defendant had "produced FIE's entire file subject to the privilege log," and also stated the following:
+**In total, the three emails asked Defendant to answer 15 RFAs and 7 interrogatories and to produce documents under 18 RFPs.** On November 5, Defendant served a supplemental production (FIE 1804–2340) and a privilege log, which resolved part of the dispute. Its supplemental response addresses 5 of the 18 RFPs (1, 15, 16, 17 and 20), plus RFP 21, which Plaintiffs had not raised, each "incorporat[ing] all of its objections." **Defendant served no supplemental answer to any of the 15 RFAs or 7 interrogatories, and no supplemental response to the other 13 RFPs.** Its privilege log withholds five emails dated December 2024 to July 2025 as work product (four "regarding the claim investigation"), without naming authors or recipients. Its letter of the same date stated that Defendant had "produced FIE's entire file subject to the privilege log," and also stated the following:
 - "To the extent you are not satisfied, you will need to address your concerns with the court."
-- "We do not have an obligation to provide you with legal conclusions regarding our affirmative defenses" (Interrogatory No. 7). Yet Defendant's own interrogatories ask Plaintiffs to "[i]dentify with specificity any facts which may support" six of their claims (Def.'s Interrogs. 5–10). Rule 33.02 permits both.
-- With "over 2,340 pages of documents produced, you would be able to locate and identify any document … as readily as our office." Compare Rule 33.03.
+- Interrogatory No. 7 asks Defendant to "[s]tate each fact supporting Your First Affirmative Defense." Defendant replied: "We do not have an obligation to provide you with legal conclusions regarding our affirmative defenses." Yet Defendant's own interrogatories ask Plaintiffs to "[i]dentify with specificity any facts which may support" six of their claims (Def.'s Interrogs. 5–10). Rule 33.02 permits both.
+- With "over 2,340 pages of documents produced, you would be able to locate and identify any document … as readily as our office." Rule 33.03 requires an answer to specify the records.
 
 **4. Defendant has limited discovery on its own, without seeking a protective order.**
-- **Scope.** Defendant withholds discovery on the ground that the claim "was resolved via a binding appraisal award" (section 2). That is its Second Affirmative Defense and the disputed merits question. On November 5 it added that "[t]he full claim files for prior losses are not relevant."
+- **Scope.** Defendant withholds discovery on the ground that the claim was "resolved via" the binding appraisal award (section 2). That is its Second Affirmative Defense and the disputed merits question. On November 5 it added that "[t]he full claim files for prior losses are not relevant."
 - **RFAs.** On September 25, Defendant set its own limit of 25 RFAs, and it has held to it: "we do not agree to answer additional RFAs" (Nov. 5). Neither Rule 36 nor the Scheduling Order limits the number of RFAs.
 - **No motion.** Defendant has twice said it would ask the Court to limit discovery: "court involvement as necessary to limit oppressive discovery" (Oct. 9), and "court assistance in limiting the scope of discovery" (Nov. 5). It has not moved for a protective order. Under Rule 26.03, a party that wants discovery limited must move and show good cause. Instead, Defendant has applied the limits it says it will ask for.
 
@@ -60,7 +59,7 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 - the award covers "the front facing window on the right elevation" and "the three windows in the family room on the rear elevation";
 - the award was made "without consideration of any applicable coverage questions," and "prior payments, if applicable, were not applied."
 
-What the panel decided is therefore "relevant to any party's claim or defense" (Rule 26.02(b)), under Counts II and III and Defendant's Second Affirmative Defense. Counts I (¶ 53) and IV (¶ 69) concern how Defendant investigated and decided the claim in 2024–2025, before the appraisal demand.
+The report contradicts the letter on both points. What the panel decided is therefore "relevant to any party's claim or defense" (Rule 26.02(b)), under Counts II and III and Defendant's Second Affirmative Defense.
 
 **6. Relief requested.** Plaintiffs request a conference call and, if the matters are not resolved, an order requiring Defendant within 14 days to:
 1. **RFAs:** serve answers that comply with Rule 36.01 to RFA Nos. 29, 30, 59, 60, 69, 70, 72, 73, 79, 94, 113, 114, 115, 128 and 129;
@@ -82,6 +81,8 @@ cc: Kevin J. Kennedy and Mary J. Baskfield, Counsel for Defendant (by email)
 
 ## ATTACHMENT A (REFERENCE ONLY, NOT FILED): Items on which Plaintiffs seek relief, by Complaint count
 
+> ⚠️ **Out of date.** This table reflects the narrower relief of 11/6/2026: 15 RFAs; Interrogatories 4, 6, 7; three appraisal documents. Section 6 now seeks all 15 RFAs, Interrogatories 1, 2, 4, 6, 7, 10, 11, and 17 RFPs. Update the table before using it.
+>
 > **Removed from the letter 11/7/2026 (Bill).** Section 3 now gives the request numbers and topics, and section 6 names the documents, so the letter no longer refers to this table. It is kept here as a working map of relief items to counts. Its item numbers are no longer cited in the letter.
 
 **Counts:**
@@ -129,12 +130,7 @@ Yibiao Lu, Plaintiff *pro se*
 
 ## Drafting notes (not part of the letter)
 
-1. **Attachment A, trimmed (Bill, 11/6/2026).** The table now contains only the 9 items on which relief is sought.
-   - **Dropped:** resolved items (claim notes, RFP 16), held items (2020 files, Brau records, Prieve, Answer ¶14, the 2025 submissions, RFPs 10, 19, 49, 51), and withdrawn items (other entity; Interrogatory 2 documents). They remain in the record of the three emails and in `2026-11-06_FIE_Production_1804-2340_Review.md` §3.
-   - **Length:** the table is now about two-thirds of a page.
-   - **Still ask the clerk** whether an attachment counts toward the three-page limit. If it does, move the table into the body in place of § 5's numbered list. The table can serve as the relief list.
-
-   **RFA list narrowed from 26 to 15.** Relief item 1 now lists only RFAs raised in the three conferral emails (E2: 69, 70, 72, 73, 113–115, 128, 129; E3: 29, 30, 59, 60, 79, 94). The earlier list of 26 also included Nos. 20, 21, 33–35, 49, 55, 56, 80, 84 and 135. Those were not raised after the 10/21 responses (E3 dropped 33–35, 55, 56 and 80–84 at Bill's direction), so ¶ 4 conferral on them is weak. Hold them.
+1. **Attachment A: superseded.** The page-limit options once discussed here no longer apply. Attachment A was removed from the filed letter on 11/7/2026 (note 16), and section 6 now states the relief directly (note 17). The letter body is three pages; with the certificate of service, the Word file is four.
 
 2. **Structure (Bill, 11/6/2026).** The body follows: efforts and position before 10/21 (§ 1), the responses (§ 2), conferral and response after (§ 3), relevance (§ 4), relief (§ 5). Attachment A maps each relief item to the Complaint counts and the conferral email that raised it.
 3. **Count assignments.** These follow the Complaint as filed:
@@ -248,4 +244,14 @@ Yibiao Lu, Plaintiff *pro se*
       - "with attachments" was dropped from the 9/4/2025 transmittal; the attachments remain within RFP 15;
       - the closing sentence "Plaintiffs are available for a call at the Court's convenience" was removed, because the opening of section 6 already requests the call.
     - **Attachment A** (reference only) still reflects the earlier, narrower relief. Update it if it is ever used.
+
+18. **Self-review fixes (11/7/2026).**
+    - **§2 and §4 quote corrected.** The interrogatory answers say "resolved via the binding Appraisal Award" (10 times); only the RFP responses say "Plaintiffs claim was resolved via a binding appraisal award." Both sections now paraphrase: the claim was "resolved via" the binding appraisal award.
+    - **§3 supplemental-response sentence rewritten.** It now says the response "addresses 5 of the 18 RFPs (1, 15, 16, 17 and 20), plus RFP 21, which Plaintiffs had not raised," so 18 − 5 = 13 adds up. The bold sentence now reads "Defendant served no supplemental answer to any of the 15 RFAs or 7 interrogatories, and no supplemental response to the other 13 RFPs."
+    - **Privilege-log sentence added to §3.** This supports relief item 4. The five pre-suit items are dated 12/5/2024, 12/13/2024, 5/20/2025, 7/10/2025 and 7/15/2025. Four are described as "regarding the claim investigation"; the 5/20/2025 item is described as "communications with expert regarding invoice/quickbooks."
+    - **"Compare Rule 33.03"** became "Rule 33.03 requires an answer to specify the records."
+    - **§5** now says "The report contradicts the letter on both points."
+    - **Cuts made to keep three pages:**
+      - the Oct. 13 bullet in §1;
+      - §5's last sentence on Counts I and IV, which §3's Nov. 4 heading already covers.
 
