@@ -35,7 +35,15 @@ Under ¶ 4 of the Court's September 8, 2026 Scheduling Order, Plaintiffs respect
 **3. After the responses: Plaintiffs' conferral and Defendant's response.** Plaintiffs sent three conferral emails, each limited to specific served requests, and identified the documents at issue by Bates number:
 - **Oct. 29:** claim file, claim notes and portal record **(RFP 1, 20)**; appraisal materials, including engagement letters, panel correspondence, the appraiser's report and the vendor's "closing docs" **(RFP 15–17)**; an express statement on umpire documents **(RFP 16)**; a privilege description; withholding statements.
 - **Nov. 1:** proper party **(RFA 113–115, 128, 129; Interrog. 7)**; the damage recorded and paid in prior claims, chiefly the 2020 claim **(RFP 2, 22, 23; Interrog. 1, 2; RFA 69, 70, 72, 73)**. These records matter because Defendant's November 4, 2024 denial rested on its engineer's conclusion that two windows "have already been included and we understand paid for due to prior storm activity" (FIE 1037), and Defendant's appraiser left the dining-room window out because its damage "matched the prior claim photos" (FIE 2317).
-- **Nov. 4:** review and authorization of the 2024 denials **(Interrog. 4, 6; RFP 30, 32, 51)**; the adjuster's inspection records **(RFP 3)**; the engineer's engagement and file **(RFP 5, 7, 49)**; the source of Answer ¶ 14 **(Interrog. 11; RFP 42)**; the 2025 submissions and engineer-report requirement **(Interrog. 10; RFP 10, 36)**; claim-handling **RFAs (29, 30, 59, 60, 79, 94)**; confidentiality objections and Rule 33.03.
+- **Nov. 4:** how Defendant investigated and decided the claim (Count I ¶ 53; Count IV ¶ 69):
+  - who approved the 2024 denials; use of vendor reports **(Interrog. 4, 6; RFP 30, 32)**;
+  - the adjuster's September 6, 2024 notes and measurements **(RFP 3; RFA 29, 30, 94)**;
+  - who limited the engineer to windows, and his calculations **(RFP 5, 7, 49; RFA 59, 60)**;
+  - the basis for Answer ¶ 14 (Plaintiffs limited an inspection) **(Interrog. 11; RFP 42)**;
+  - the meaning of the inspector's "No-Damage" photo captions **(RFP 51)**;
+  - 2025 submissions; the engineer-report demand **(Interrog. 10; RFP 10, 36; RFA 79)**.
+
+  These matter because Defendant denied the claim on September 3, 2024, before its adjuster inspected (September 6; FIE 1014), and again on November 4, the day its engineer's report arrived (FIE 2288).
 
 **In total, the three emails asked Defendant to answer 15 RFAs and 7 interrogatories and to produce documents under 18 RFPs.** On November 5, Defendant served a supplemental production (FIE 1804–2340) and a privilege log, which resolved part of the dispute. Its supplemental response addresses only 6 RFPs (1, 15, 16, 17, 20 and 21), each "incorporat[ing] all of its objections." **It answers none of the 15 RFAs and none of the 7 interrogatories, and it does not address the other 13 RFPs.** Its letter of the same date stated that Defendant had "produced FIE's entire file subject to the privilege log," and also stated the following:
 - "To the extent you are not satisfied, you will need to address your concerns with the court."
@@ -206,4 +214,17 @@ Yibiao Lu, Plaintiff *pro se*
 14. **Service date of FIE's responses (Bill, 11/7/2026).** FIE served all three responses on **October 21, 2026**: the interrogatory answers, the RFP response and the RFA response. The interrogatory answers are *dated* October 20, 2026 (signature and verification), but they were not served until 10/21. Section 2 and Attachment A now say "October 21."
     - **Side point (not raised in the letter).** Per `Service_Log.md` row 2, the interrogatory answers were due **October 20**: served 9/20 at 2:43 p.m., 30 days, and Rule 6.01(e) adds nothing before 5:00 p.m. Served on 10/21, they were one day late. FIE's 10/9 email had announced a single 10/21 date for all three sets, and Plaintiffs neither agreed nor objected (10/13 reply). A one-day lateness is unlikely to matter. Do not argue waiver of objections on it unless an attorney advises otherwise.
     - **Before filing,** confirm the 10/21 service time from the email headers and record it in `Service_Log.md`.
+
+15. **Nov. 4 line rewritten as sub-bullets (Bill, 11/7/2026).**
+    - **Structure.** One sub-bullet per topic of the third email, with each RFA moved next to its topic (29, 30, 94 → adjuster; 59, 60 → engineer; 79 → engineer-report demand). RFP 51 moved out of the "denials" group into its own captions item. "Confidentiality objections and Rule 33.03" were dropped as not being requests; Rule 33.03 still appears in the section 3 "2,340 pages" quote.
+    - **Shortened to fit three pages.** The fuller proposed wording is preserved here in case space opens up:
+      - who reviewed and approved the September 3 and November 4, 2024 denials, and what Defendant did with its inspector's and engineer's reports before relying on them;
+      - the adjuster's notes and measurements from his September 6, 2024 inspection;
+      - who limited the engineer's inspection to windows, and the engineer's calculations;
+      - the basis for Defendant's allegation that Plaintiffs limited the first inspection (Answer ¶ 14);
+      - the meaning of the "No-Damage" captions on the inspector's photos;
+      - Defendant's handling of Plaintiffs' 2025 submissions and its demand for an engineer's report.
+      - Closing: "These records matter because Defendant issued its first denial on September 3, 2024, before its own adjuster inspected the home on September 6 (FIE 1014), and its second denial on November 4, 2024, the day its engineer's report arrived (FIE 2288)."
+    - **Layout changes in the Word file to fit.** Sub-bullet indent 0.65" with a 0.15" hanging indent, and no space after sub-bullets. Space after "Respectfully submitted," reduced from 24 pt to 18 pt. The blank paragraph before "cc:" was replaced by 10 pt space-before.
+    - **Verify:** FIE 1014 ("Date Inspected: 9/6/2024") and FIE 2288 (Brau, 11/4/2024: "Received engineer report … sending letter").
 
