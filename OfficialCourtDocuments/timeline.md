@@ -23,6 +23,8 @@ Yibiao Lu) that the Complaint contains restricted identifiers. Plaintiffs have 3
 refile a redacted Complaint with Form 11.1 (CON111), or the document may be stricken.
 The notice also states that a resubmitted document is filed as of its resubmission date
 unless the original filing date is restored **by motion** filed within 3 days.
+The court administrator treated the **policy number and claim numbers** as restricted identifiers;
+the 7/20/2026 refiling masks both (see next entry). Same rule applies to anything filed later.
 
 ## 07/20/2026 — Corrected Complaint (Complaint-Civil)
 Refiled 46-page Complaint with restricted identifiers redacted. Claims: breach of the
@@ -31,6 +33,18 @@ the 9/12/2025 appraisal award — not itemized as Minn. Stat. § 65A.01 requires
 preclude the contract claim as to items it did not itemize (alternatively, modification
 or vacatur of the award); and Minnesota Consumer Fraud Act claims (§§ 325F.69, 325F.70
 subd. 3, 8.31 subd. 3a). Jury trial demanded.
+
+**This is the operative Complaint — cite and attach only this version.**
+- File: `07_20_2026_MCRO_27-CV-26-11606_Complaint-Civil_2026-07-20_20260820191730.pdf` (46 pages).
+- Redaction format: policy **XXXXX-49-65**; claim numbers **XXXXXX6837-1-1** (2024) and
+  **XXXXXX9499-1** (2020). The full numbers went to the court on Form 11.1 (CON111).
+- Plaintiffs' filed copies: `Filings/SummonsAndComplaint/Court/NonComplianceNotice/Filed/`
+  (`Complaint_Redacted.pdf`, `CON111.pdf`, cover letter, motion, mail receipt).
+- **Do not file, attach, or send** the unredacted working copies
+  (`Filings/Complaint_Lu_Hu_v_Fire_Insurance_Exchange_FINAL.docx`,
+  `Filings/SummonsAndComplaint/Complaint_Lu_Hu_v_Fire_Insurance_Exchange_FINAL.pdf`). The expert
+  packet copy (`Filings/Discovery/Expert/Expert_Record_Packet/02_Complaint.pdf`) was replaced with
+  this version on 11/11/2026.
 
 ## 07/20/2026 — Notice of Motion and Motion for Relation-Back of Filing Date
 Plaintiffs move under Minn. Gen. R. Prac. 11.05 to have the corrected Complaint deemed

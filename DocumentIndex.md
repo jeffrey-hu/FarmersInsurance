@@ -6,6 +6,8 @@
 **Property:** 17756 George Moran Dr, Eden Prairie, MN 55347-1061
 **Agent:** Peter Pietila, Peter Pietila Ins Agency Inc — (612) 220-0342
 
+> **Restricted identifiers.** The court rejected the 7/8/2026 Complaint under Minn. Gen. R. Prac. 11 for showing the policy and claim numbers. In anything **filed or produced**, mask them as the operative Complaint does: policy **XXXXX-49-65**, claims **XXXXXX6837-1-1** / **XXXXXX9499-1**, and the mortgage loan number as **XXXXXX7404**. This index is internal and keeps the full numbers.
+
 ---
 
 ## Key Policy Facts at Time of Loss (Policy Year 10/22/2023–10/22/2024)
@@ -66,6 +68,26 @@ Note: The original declaration page listed occupancy as "Secondary" — this was
 - Active endorsements: 56-5543, J6898, J6944, MN079, MN080, 25-2481
 
 The "New Roof" discount confirms a roof replacement had occurred prior to this renewal. MN079 and MN080 are Minnesota-specific endorsements added since the original 2014 policy whose text should be reviewed.
+
+---
+
+## OtherDocs/HomePolicy/ — complete policy history
+
+Fourteen PDFs: 2014 policy notice, 2014 application, 2014 new-business policy, renewals 2015–2024, and the 8/27/2021 policy change. **The 2025 renewal is not yet downloaded.**
+
+### OtherDocs/HomePolicy/Redacted/
+**Type:** Production copies of the 14 policy PDFs (prepared 11/11/2026)
+**Redactions:** policy number → **XXXXX-49-65**; Wells Fargo loan number → **XXXXXX7404**. True text redactions; nothing else altered. File names no longer carry the policy number.
+**Use:** These, not the originals, are the copies to produce or attach. Disclose the redaction in the RFP response. `_to_delete/` holds three superseded copies (loan number only) — delete them.
+
+---
+
+## OfficialCourtDocuments/ — operative Complaint
+
+### 07_20_2026_MCRO_27-CV-26-11606_Complaint-Civil_2026-07-20_20260820191730.pdf
+**Type:** Corrected Complaint as filed, 46 pages (Counts I–IV; jury demand)
+**Date:** Refiled 7/20/2026 after the 7/13/2026 Notice of Noncompliance; relation-back to 7/8/2026 requested by motion (no order yet)
+**Significance:** **The operative pleading.** Cite, attach, and send only this version. Policy and claim numbers are masked (XXXXX-49-65; XXXXXX6837-1-1; XXXXXX9499-1); the full numbers are on the confidential Form 11.1. The working `.docx` and `Filings/SummonsAndComplaint/Complaint_…_FINAL.pdf` are the **unredacted** 7/8 version — do not file or send them. Court-file index: `OfficialCourtDocuments/timeline.md`.
 
 ---
 

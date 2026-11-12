@@ -32,4 +32,5 @@ This project supports a lawsuit the Lu/Hu family is preparing against Farmers In
 ## Working Notes
 
 - All dates are U.S. format (M/D/YYYY).
+- **Restricted identifiers (Minn. Gen. R. Prac. 11).** The court rejected the original Complaint for showing the policy and claim numbers. In anything filed with the court or produced to Defendant, mask them: policy **XXXXX-49-65**, claims **XXXXXX6837-1-1** / **XXXXXX9499-1**, loan **XXXXXX7404**. The operative Complaint is `OfficialCourtDocuments/07_20_2026_MCRO_27-CV-26-11606_Complaint-Civil_2026-07-20_20260820191730.pdf`; the working `.docx` is the unredacted original. Redacted policy copies: `OtherDocs/HomePolicy/Redacted/`. See `KeyDecisions.md` Decision 10.
 - When researching, filing, or evaluating arguments, start with `OffenseStrategies/KeyFacts/key-facts-excluding-legal-context.md` (sourced, phase-organized factual catalog) and cross-reference `CaseContext/key-facts.md`, `ClaimTimeline.md`, and `DocumentIndex.md`.

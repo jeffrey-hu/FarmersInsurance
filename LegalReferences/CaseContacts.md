@@ -178,7 +178,7 @@ The correct name is **Legacy Restoration LLC**. Earlier case documents use "Lega
 | Document | Why it stands |
 |---|---|
 | `Filings/Complaint_Lu_Hu_v_Fire_Insurance_Exchange_FINAL.docx` and the filed PDFs (¶ 13 refers to "Mary of Legacy contractor" and "Jack of Legacy") | **The Complaint was filed July 8, 2026.** The working copy must continue to match the court's record. Correcting the name in the pleading requires an amendment under Minn. R. Civ. P. 15, or simply clarifying the entity's full name in discovery — not a silent edit. This is a naming imprecision, not a misstatement of fact, so an amendment for this reason alone is likely unnecessary. |
-| `OfficialCourtDocuments/…Complaint-Civil….pdf`, `…Answer….pdf` | Court records. |
+| `OfficialCourtDocuments/…Complaint-Civil….pdf`, `…Answer….pdf` | Court records. The 7/20/2026 Complaint-Civil PDF is the **operative, redacted** Complaint; the working `.docx` and `Filings/SummonsAndComplaint/…_FINAL.pdf` are the unredacted 7/8 version and must not be filed or sent. |
 | `Filings/SummonsAndComplaint/AnswerFromFIE/…` and the Expert Record Packet copies | Defendant's Answer quotes the Complaint's language back. |
 | `EventDocuments/Copy of ComunicationLogs.docx.md` | Plaintiffs' contemporaneous communication log — an evidentiary record of what was written at the time. |
 | `EventDocuments/2025-01-31-ResponseToFarmer.pdf`, `2025-02-10-SecondResponseToFinalReport.pdf`, `11-19-complaint-to-dept-of-commerce.pdf` | Correspondence as sent to Farmers and to the Department of Commerce. |

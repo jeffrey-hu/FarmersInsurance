@@ -291,4 +291,55 @@ Old Ints. 5 and 13 asked the same per-item question twice. They are now a single
 
 ---
 
-*Last updated: 2026-09-20 — **Interrogatories SERVED 9/20/2026 at 2:43 p.m.; answers due 10/20/2026** (`Filings/Discovery/Service_Log.md` Row 2). Earlier the same day: **Decision 8 added** (canonical certificate of service; no sworn-affidavit preamble; §4 of `Filings/Document_Formatting_Standard.md` is the source), with a companion rule putting the two Plaintiffs' signature blocks side by side (§3) and the page-break-in-an-empty-paragraph hazard recorded. Also: service dates set to September 20, 2026 for both remaining First Set sets (both answers due October 20, 2026); RFA count corrected to Nos. 1–185 in sections A–V; the Tomes-signature requests renumbered to Nos. 23–24; the Interrogatories' Rule 33.01(a) blocker marked superseded in place. Earlier: 2026-09-18 — Decision 7 added (with same-day addendum holding old Int. 2) (Interrogatory No. 1 re-anchored; award-scope contention held for the Second Set; RFAs 205–207 added). Decision 4's note that the Interrogatories are blocked by the Rule 33.01(a) certification is **superseded** — that paragraph was deleted September 17, 2026.*
+## Decision 10: Restricted Identifiers — Mask Policy, Claim, and Loan Numbers
+
+**Decision (11/11/2026):** in every document filed with the court or produced to Defendant, mask the identifiers the way the operative Complaint does.
+
+| Identifier | Mask |
+|---|---|
+| Policy number | **XXXXX-49-65** |
+| 2024 claim number | **XXXXXX6837-1-1** |
+| 2020 claim number | **XXXXXX9499-1** |
+| Wells Fargo mortgage loan number | **XXXXXX7404** |
+
+**Why:** the court administrator's 7/13/2026 Notice of Noncompliance (Minn. Gen. R. Prac. 11) rejected the 7/8/2026 Complaint for restricted identifiers. Plaintiffs refiled a redacted Complaint on 7/20/2026 with Form 11.1 (CON111) and moved for relation-back. Using the same masks everywhere keeps the record consistent and avoids a second notice.
+
+**Applied to:**
+- The operative Complaint: `OfficialCourtDocuments/07_20_2026_MCRO_27-CV-26-11606_Complaint-Civil_2026-07-20_20260820191730.pdf`.
+- The expert packet copy (`Filings/Discovery/Expert/Expert_Record_Packet/02_Complaint.pdf`), replaced with the court version on 11/11/2026.
+- The policy production set (`OtherDocs/HomePolicy/Redacted/`).
+
+**Still to apply:** Plaintiffs' responses to FIE's First Set (`Filings/Discovery_ResponseToFIE/FirstSet/`) before service.
+
+**Not a court order.** The Notice is an administrative rejection; the only signed order on this point is the 7/28/2026 Order Enlarging Time, which mentions the redacted refiling in passing.
+
+
+---
+
+## Decision 11: Joinder Deadline (November 16, 2026) — Let It Pass; No Motion to Join or Extend
+
+**Decided:** November 12, 2026 · **Contingency:** `Filings/Discovery/Joinder_Deadline_Contingency_2026-09-19.md`, scenario (a), "Answers name only Fire Insurance Exchange and its attorney-in-fact."
+
+### The record
+- **RFAs 4–6 (admitted 10/21/2026):** Dudley, Brau and Monson were employed or engaged by Fire Insurance Exchange.
+- **RFAs 7–8 (admitted):** FIE made the 9/3/2024 and 11/4/2024 coverage decisions. **RFA 9 (admitted):** FIE retained Hancock.
+- **FIE's 9/25/2026 letter:** "We acknowledge that Fire Insurance Exchange is a proper party to this lawsuit"; the jurisdiction defense was pleaded "so as not to waive it."
+- **Interrogatory 7:** asked FIE to identify any other proper defendant. FIE objected and named no one.
+- **FIE's 11/5/2026 letter:** on whether any act was performed for another entity, FIE pointed to its Initial Disclosures and production. No other entity named.
+- **Policy documents (Decision 2):** FIE is the underwriter; the caption names the attorney-in-fact (Fire Underwriters Association, d/b/a Farmers Insurance).
+- **Considered and found insufficient:** FIE 1089, a one-line 6/27/2025 email from field claims supervisor Andrew Flory to the agent ("Per your request"), signed "Farmers Insurance Exchange." Against RFAs 4–8, a signature block does not show another entity handled the claim.
+
+### Why no motion
+1. **No one to join.** Nothing in the record names or implies another entity.
+2. **An extension motion would cost credibility.** The Court's 9/8/2026 Order rejected Plaintiffs' proposed schedule as "more than one year beyond the timeline for similar cases," and FIE is arguing that Plaintiffs' discovery is excessive.
+3. **The fallback is preserved.** If FIE later points to another entity, move under Rule 16.02 (good cause) and Rule 15.01, with relation back under Rule 15.03 (contingency scenario (d)). The good-cause record: Plaintiffs asked on time through RFAs 113–115, 128 and 129, Interrogatory 7, and the 9/15, 9/27 and 11/1 letters, and FIE named no one.
+4. **Claims against non-FIE parties are a separate question.** A claim against an unrelated party (Foster, Pure Construction, Hancock, Prieve) would be a new claim with its own limitations analysis; relation back likely would not carry it. Not decided here.
+
+### Follow-up
+- **Keep RFAs 113–115, 128 and 129 in the ¶ 4 relief.** A Rule 36.02 admission is conclusive; the 9/25 letter is not, and does not cover "no one else," misnomer, service or jurisdiction. RFAs 128–129 go to the First Affirmative Defense regardless of joinder.
+- **On the conference call,** offer to withdraw those five and the 13 unanswered group (b) RFAs (Nos. 88–92, 112, 116, 117, 121, 125–127, 137) in exchange for a record statement or written stipulation on proper party, misnomer, service and personal jurisdiction. **Do not withdraw Nos. 4–12**, which FIE answered; Nos. 4–8 are the admissions this decision rests on. See `Filings/Discovery/ActionNeeded/Conference_Call_Prep_Para4_2026-11-10.md`, §1B.
+- **Seek the sworn proper-party answer** under Interrogatory 7 (¶ 4 letter, relief item 2).
+
+---
+
+*Last updated: 2026-11-12 — **Decision 11 added** (joinder deadline of 11/16/2026: let it pass, no motion to join or extend; keep RFAs 113–115, 128, 129 in the ¶ 4 relief and offer a trade on the conference call, excluding the answered Nos. 4–12). Previously: 2026-11-11 — **Decision 10 added** (restricted identifiers; operative Complaint is the 7/20/2026 redacted version). Previously: 2026-09-20 — **Interrogatories SERVED 9/20/2026 at 2:43 p.m.; answers due 10/20/2026** (`Filings/Discovery/Service_Log.md` Row 2). Earlier the same day: **Decision 8 added** (canonical certificate of service; no sworn-affidavit preamble; §4 of `Filings/Document_Formatting_Standard.md` is the source), with a companion rule putting the two Plaintiffs' signature blocks side by side (§3) and the page-break-in-an-empty-paragraph hazard recorded. Also: service dates set to September 20, 2026 for both remaining First Set sets (both answers due October 20, 2026); RFA count corrected to Nos. 1–185 in sections A–V; the Tomes-signature requests renumbered to Nos. 23–24; the Interrogatories' Rule 33.01(a) blocker marked superseded in place. Earlier: 2026-09-18 — Decision 7 added (with same-day addendum holding old Int. 2) (Interrogatory No. 1 re-anchored; award-scope contention held for the Second Set; RFAs 205–207 added). Decision 4's note that the Interrogatories are blocked by the Rule 33.01(a) certification is **superseded** — that paragraph was deleted September 17, 2026.*

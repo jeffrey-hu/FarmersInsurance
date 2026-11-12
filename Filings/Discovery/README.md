@@ -206,7 +206,7 @@ This is the meet-and-confer record. A Rule 37 motion to compel, and any certific
 
 ## G. Expert record packet (subfolder: `Expert/Expert_Record_Packet/`)
 
-Curated set of **record documents only** (no strategy material) to send an expert once they clear conflicts: the Complaint, Answer, Prieve report + Photo Appendix A, both denial letters, the appraisal award and demand, NWS weather data, the 2020 file, damage photographs, a transmittal letter + index (`01_Transmittal_and_Index.docx`), and a **neutral** factual damage-location index (`12_Damage_Location_Index.xlsx` — no legal-theory columns, safe for a testifying expert). ~98 MB total; send via share link, not email, and only after the conflict check. See also the other files in `Expert/`.
+Curated set of **record documents only** (no strategy material) to send an expert once they clear conflicts: the Complaint, Answer, Prieve report + Photo Appendix A, both denial letters, the appraisal award and demand, NWS weather data, the 2020 file, damage photographs, a transmittal letter + index (`01_Transmittal_and_Index.docx`), and a **neutral** factual damage-location index (`12_Damage_Location_Index.xlsx` — no legal-theory columns, safe for a testifying expert). ~98 MB total; send via share link, not email, and only after the conflict check. **`02_Complaint.pdf` is the court's redacted 7/20/2026 Complaint** (replaced 11/11/2026; the earlier copy was the unredacted 7/8 version). See also the other files in `Expert/`.
 
 ## Related strategy memos (in `../SummonsAndComplaint/AnswerFromFIE/`)
 
