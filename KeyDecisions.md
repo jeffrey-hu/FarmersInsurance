@@ -309,7 +309,7 @@ Old Ints. 5 and 13 asked the same per-item question twice. They are now a single
 - The expert packet copy (`Filings/Discovery/Expert/Expert_Record_Packet/02_Complaint.pdf`), replaced with the court version on 11/11/2026.
 - The policy production set (`OtherDocs/HomePolicy/Redacted/`).
 
-**Still to apply:** Plaintiffs' responses to FIE's First Set (`Filings/Discovery_ResponseToFIE/FirstSet/`) before service.
+- Plaintiffs' responses to FIE's First Set (`Filings/Discovery_ResponseToFIE/FirstSet/`), masked 11/13/2026; rule added as §9 of `Filings/Document_Formatting_Standard.md`.
 
 **Not a court order.** The Notice is an administrative rejection; the only signed order on this point is the 7/28/2026 Order Enlarging Time, which mentions the redacted refiling in passing.
 

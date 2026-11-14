@@ -13,7 +13,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 These responses are made for the purpose of this action only, as FIE's Notice and Demand provides, and subject to all objections to admissibility that may be raised at trial. "The Appraisal Award" means the document attached to the requests as Exhibit C. Where Plaintiffs state that they lack information, they have made reasonable inquiry, and the information known or readily obtainable by them is insufficient to enable them to admit or deny. Where a request is admitted in part, the remainder is denied.
 
-**REQUEST FOR ADMISSION NO. 1:** Admit that on August 13, 2024, Plaintiffs notified FIE of a hail/wind claim (Claim # 7007986837-1-1), which they alleged occurred on July 13, 2024 ("2024 Claim").
+**REQUEST FOR ADMISSION NO. 1:** Admit that on August 13, 2024, Plaintiffs notified FIE of a hail/wind claim (Claim # XXXXXX6837-1-1), which they alleged occurred on July 13, 2024 ("2024 Claim").
 
 **RESPONSE:** Admit. Further answering, the storm that caused the loss began on the evening of July 13, 2024 and continued into the early morning of July 14, 2024.
 
@@ -185,3 +185,4 @@ Yibiao Lu, Plaintiff *pro se*
 | 7 | **Formatting:** the Preliminary Statement replaces "general objections." It deliberately does not mirror FIE's blanket objections. |
 | 8 | **Exhibit C detail worth knowing (do not add to the answer):** "Hail" in the Causation column and the item names are **preprinted in red** on the form. The codes "F1.7 B1.2" and the dollar amounts are handwritten. FIE may argue later that the preprinted "Hail" on the siding line is not a finding. **Applied 11/4/2026:** Answer 16 (second) no longer lists the siding and debris "Hail" entries; it admits the stated cause-of-loss determinations generally and names only F1.7 and B1.2. The interrogatory answers were conformed the same day. |
 | 9 | **RFA 1, date of loss (not in the answer):** Jack Cook of Legacy chose July 13, 2024 as the date of loss when he helped open the claim on 8/13/2024. Left out of the answer deliberately (see 11/5/2026 note in chat): RFA 1 asks only what was alleged, and volunteering that a contractor picked the date feeds FIE's theme that contractors drove the claim. Be ready to say it truthfully at deposition. |
+| 10 | **Restricted identifiers (masked 11/13/2026; KeyDecisions Decision 10).** RFA 1 restates FIE's request with the 2024 claim number masked as **XXXXXX6837-1-1**. Mask the policy no. as XXXXX-49-65 and the 2020 claim as XXXXXX9499-1 anywhere they appear. Do not reintroduce full numbers. |

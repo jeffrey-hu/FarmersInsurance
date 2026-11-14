@@ -205,10 +205,26 @@ Markdown carries no indentation, so §2 changes are invisible in the `.md`. Rege
 
 ---
 
+## 9. Restricted identifiers (masking)
+
+The court rejected the original Complaint under Minn. Gen. R. Prac. 11 (Notice of Noncompliance, 7/13/2026). In **every** document filed with the court or served on or produced to Defendant, including discovery responses and their exhibits, mask:
+
+| Identifier | Write it as |
+|---|---|
+| Policy number | **XXXXX-49-65** |
+| 2024 claim number | **XXXXXX6837-1-1** |
+| 2020 claim number | **XXXXXX9499-1** |
+| Mortgage loan number | **XXXXXX7404** |
+
+Produce policy documents only from `OtherDocs/HomePolicy/Redacted/` and disclose the redaction. When quoting a document or a request that contains a full number, mask it in the quotation. See `KeyDecisions.md` Decision 10.
+
+---
+
 ## Change log
 
 | Date | Change |
 |---|---|
+| 2026-11-13 | **New §9: restricted identifiers.** Policy, claim, and loan numbers masked in all filed, served, and produced documents, including discovery responses (KeyDecisions Decision 10). |
 | 2026-09-23 | **§1 and new §1.1: centered page-number footer adopted as the standard**, as a `PAGE` field copied from Discovery Plan V5. All three served First Sets already carried one; the rule had never been written down. Applied to the Initial Disclosures the same day. |
 | 2026-09-20 | **§3: the two Plaintiffs' signature blocks go side by side** in a borderless 1×2 table (`.docx`) and a two-column pipe table (`.md`), applied to the Interrogatories and the Requests for Admission. Recorded the page-break-in-an-empty-paragraph hazard and the render-and-scan check that catches it. |
 | 2026-09-20 | **§4 rewritten: canonical certificate of service adopted.** The over-18 recital, "personally made," the ¶1–¶4 numbering, attorney registration numbers, counsel's street address, and the Judicial Branch server-identification block were all removed as surplus to Rule 5.04(b) and § 358.116; the sworn-affidavit ("duly sworn on oath") preamble is prohibited without a notary. Applied to the First Set Interrogatories and Requests for Admission the same day. Stray "September 15, 2026" e-service agreement dates corrected to **September 14**. |
