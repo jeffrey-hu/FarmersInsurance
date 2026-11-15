@@ -9,7 +9,7 @@ TO: Defendant Fire Insurance Exchange and its attorneys, Kevin J. Kennedy and Ma
 
 Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as and for their Responses to the First Set of Requests for Production of Documents served by Defendant Fire Insurance Exchange (hereinafter "FIE") on October 26, 2026, state as follows:
 
-**MANNER OF PRODUCTION:** Plaintiffs produce responsive documents by attaching true and correct copies, as FIE's requests permit. The documents are Bates-numbered LUHU 000001 through LUHU \_\_\_\_\_\_ and are delivered by electronic mail to counsel of record, or, where the files are too large for email, by a download link sent to counsel of record on the date of service **[CONFIRM method]**. Photographs are produced in their original digital format, with available metadata. Text messages are produced as exported copies showing the date, time, sender, and recipient of each message. Documents FIE produced to Plaintiffs as FIE 0001–2340 are not reproduced and are identified by FIE number where responsive.
+**MANNER OF PRODUCTION:** Plaintiffs produce responsive documents by attaching true and correct copies, as FIE's requests permit. The documents are Bates-numbered LUHU 000001 through LUHU \_\_\_\_\_\_ and are delivered by electronic mail to counsel of record, or, where the files are too large for email, by a download link sent to counsel of record on the date of service **[CONFIRM method]**. Photographs are produced in their original digital format, with available metadata. Text messages are produced as exported copies showing the date, time, sender, and recipient of each message. Documents FIE produced to Plaintiffs as FIE 0001–2340 are identified by FIE number where responsive; Plaintiffs' own copies of their communications with FIE are produced in response to Request No. 4.
 
 **WITHHELD MATERIALS:** Where a response states that documents are withheld, they are described by category in the Statement of Withheld Materials at the end of these Responses, under Minn. R. Civ. P. 26.02(f) **[verify subdivision]**. Except as stated there, Plaintiffs are not withholding responsive documents on the basis of any objection.
 
@@ -19,7 +19,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **REQUEST NO. 2:** All communication between Plaintiffs and any person regarding the allegations contained in Plaintiffs' Complaint, including but not limited to, any emails, notes, estimates, or other electronic data concerning this lawsuit and the facts alleged in Plaintiffs' Complaint.
 
-**RESPONSE:** Plaintiffs object to Request No. 2 as overbroad to the extent that "any person" includes: each Plaintiff's spouse and co-Plaintiff; persons from whom Plaintiffs sought legal advice; and materials Plaintiffs prepared, or had prepared for them, in anticipation of litigation, which are protected under Minn. R. Civ. P. 26.02(d) **[verify subdivision]**. Subject to and without waiving these objections, Plaintiffs will produce all non-privileged communications between Plaintiffs and any third party regarding the allegations of the Complaint, including communications with FIE, FIE's agent, Legacy Restoration, Pure Construction, the appraisal panel, Prieve Engineering, the Minnesota Department of Commerce, the Minnesota Attorney General's Office, the City of Eden Prairie, and Pella Corporation. [LUHU ____]. Responsive documents withheld on the basis of these objections are described in the Statement of Withheld Materials.
+**RESPONSE:** Plaintiffs object to Request No. 2 as overbroad to the extent that "any person" includes: each Plaintiff's spouse and co-Plaintiff; persons from whom Plaintiffs sought legal advice; and materials Plaintiffs prepared, or had prepared for them, in anticipation of litigation, which are protected under Minn. R. Civ. P. 26.02(d) **[verify subdivision]**. Subject to and without waiving these objections, Plaintiffs will produce all non-privileged communications between Plaintiffs and any third party regarding the allegations of the Complaint, including communications with Legacy Restoration, the appraisal panel, Prieve Engineering, the City of Eden Prairie, and Pella Corporation. [LUHU ____]. Communications with FIE and its agent, Pure Construction, the Minnesota Attorney General's Office, and the Minnesota Department of Commerce are produced in response to Requests Nos. 4, 7, 9, and 10, respectively; communications with FIE are subject to the objection stated in the Response to Request No. 4. Responsive documents withheld on the basis of these objections are described in the Statement of Withheld Materials.
 
 **REQUEST NO. 3:** All statements made by parties or non-parties concerning the above action or its subject matter. For this request, a statement is a written statement signed or otherwise adopted or approved by the person making it, or a stenographic, mechanical, electrical or other recording thereof, which is substantially a verbatim statement or an oral statement by a person making it and contemporaneously recorded.
 
@@ -27,7 +27,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **REQUEST NO. 4:** All communications and documents exchanged between Plaintiffs and Defendant relating in any way to this lawsuit and the facts alleged in Plaintiffs' Complaint.
 
-**RESPONSE:** Plaintiffs will produce their copies of all communications and documents exchanged between Plaintiffs and FIE, including FIE's agent Peter Pietila and FIE's claim portal, concerning the 2024 Claim, the 2020 claim, and the Policy, from August 13, 2024 through the filing of the Complaint. These include FIE's letters and emails and their attachments, Plaintiffs' emails and written submissions, and the photographs Plaintiffs submitted. [LUHU ____]. Correspondence between the parties since the Complaint was served, through counsel, is not reproduced. **[CONFIRM: include the 10/12/2021 and 2/17/2022 2020-claim extension correspondence, which FIE did not produce.]**
+**RESPONSE:** Plaintiffs object to Request No. 4 as unreasonably duplicative to the extent it seeks correspondence between the parties since the Complaint was served, all of which was sent to or by Defendant's counsel (Minn. R. Civ. P. 26.02(b)(3)(i)). That correspondence is withheld on this objection and is described in the Statement of Withheld Materials. Subject to and without waiving this objection, Plaintiffs will produce their copies of all communications and documents exchanged between Plaintiffs and FIE, including FIE's agent Peter Pietila and FIE's claim portal, concerning the 2024 Claim, the 2020 claim, and the Policy, from August 13, 2024 through the filing of the Complaint, including FIE's letters and emails and their attachments, Plaintiffs' emails and written submissions, and the photographs Plaintiffs submitted, in their original format where available. [LUHU ____]. Plaintiffs produce their own copies even where FIE produced the same item, because Plaintiffs' copies may include attachments, original files, or messages not in FIE 0001–2340. **[CONFIRM: include the 10/12/2021 and 2/17/2022 2020-claim extension correspondence, which FIE did not produce.]**
 
 **REQUEST NO. 5:** All documents, photographs, video recordings, or other records or tangible things Plaintiffs intend to introduce as evidence at trial.
 
@@ -60,8 +60,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 - the City of Eden Prairie permit records Plaintiffs obtained;
 - the weather data identified in Plaintiffs' Answer to Interrogatory No. 3;
-- Plaintiffs' records of the February 2025 neighbor canvass;
-- communications with Legacy Restoration LLC; and
+- Plaintiffs' records of the February 2025 neighbor canvass; and
 - a copy of the Prieve Engineering, LLC contact page.
 
 **REQUEST NO. 9:** Any and all communications and/or documents between Plaintiffs and the Minnesota Attorney General's Office concerning the complaint Plaintiffs made regarding Defendant's handling of Plaintiffs' August 13, 2024 claim, which alleged hail/wind loss on July 13, 2024.
@@ -82,10 +81,11 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **STATEMENT OF WITHHELD MATERIALS**
 
-Plaintiffs withhold the following categories of documents responsive to Requests Nos. 2 and 8. Plaintiffs describe them by category rather than item by item, because the documents in each category share the same basis for withholding.
+Plaintiffs withhold the following categories of documents responsive to Requests Nos. 2, 4 and 8. Plaintiffs describe them by category rather than item by item, because the documents in each category share the same basis for withholding.
 
 | Category | Date range | Basis |
 |---|---|---|
+| Correspondence between the parties since the Complaint was served, sent to or by Defendant's counsel (Request No. 4) | July 2026 – present | Unreasonably duplicative; Minn. R. Civ. P. 26.02(b)(3)(i) |
 | Communications solely between Plaintiffs Yibiao Lu and Jie Hu, who are spouses and co-parties, concerning the claim and this action | August 2024 – present | Minn. Stat. § 595.02, subd. 1(a) **[verify application]**; Minn. R. Civ. P. 26.02(d) |
 | Notes, drafts, research, outlines, analyses, and other materials prepared by or for Plaintiffs in anticipation of litigation or for trial, including drafts of pleadings and discovery papers | **[DECIDE start date]** – present | Minn. R. Civ. P. 26.02(d) |
 | Communications with lawyers and legal-services providers from whom Plaintiffs sought legal advice, including the Hennepin County Self Help Center volunteer lawyer (June 18, 2025) and the Minnesota State Bar Association lawyer referral service (June 10–11, 2025) | June 2025 – present | Attorney-client privilege, including prospective-client communications **[verify]** |
