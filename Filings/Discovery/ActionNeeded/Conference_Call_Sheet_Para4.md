@@ -24,7 +24,7 @@ Have open: the filed letter (11/12/2026), FIE's 10/21 responses, FIE's 11/5 lett
 
 > **Good afternoon, Your Honor. This is Yibiao Lu; Jie Hu is also on the line. We are the plaintiffs. We asked for this call under paragraph 4 of the Scheduling Order.**
 >
-> **Before Defendant responded, we cut our requests for admission from 141 to 59. After its October 21 responses, we sent three conferral emails limited to specific requests, and Defendant's November 5 production resolved part of the dispute. What remains is 15 RFAs, 7 interrogatories, 13 RFPs plus a withholding statement on Request 1, and five privilege-log entries. Defendant says it won't answer additional RFAs, having produced what it calls its "entire discoverable file,", and told us to bring our concerns to the Court. We ask for an order requiring those responses within 14 days. as listed in section 6 of our letter.**
+> **Before Defendant responded, we cut our requests for admission from 141 to 59, and offered to withdraw 22 more in exchange for five proper-party admissions. After its October 21 responses, we sent three conferral emails limited to specific requests, and Defendant's November 5 production resolved part of the dispute. What remains is 15 RFAs, 7 interrogatories, 13 RFPs plus a withholding statement on Request 1, and five privilege-log entries. Defendant says it won't answer additional RFAs, having produced what it calls its "entire discoverable file,", and told us to bring our concerns to the Court. We ask for an order requiring those responses within 14 days. as listed in section 6 of our letter.**
 
 *If the Judge interrupts with a question, answer it and go straight to the ask. Do not return to the script.*
 

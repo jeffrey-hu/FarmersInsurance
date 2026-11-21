@@ -27,7 +27,7 @@ These responses are made for the purpose of this action only, as FIE's Notice an
 
 **REQUEST FOR ADMISSION NO. 4:** Admit that the Demand for Appraisal attached as Exhibit A states, in part, that "We have selected John Foster as our appraiser" and provides Mr. Foster's telephone number and email.
 
-**RESPONSE:** Admit. Further answering, Mr. Foster was selected and retained through Pure Construction. Plaintiffs did not select, interview or vet Mr. Foster.
+**RESPONSE:** Admit that Exhibit A contains that statement and Mr. Foster's telephone number and email. Further answering, Pure Construction identified Mr. Foster and supplied the Demand for Appraisal and retainer forms, which Mr. Lu signed. As of the date of these responses, Plaintiffs have not spoken with Mr. Foster.
 
 **REQUEST FOR ADMISSION NO. 5:** Admit that Plaintiffs' Demand for Appraisal attached as Exhibit A identifies the items to be considered by the appraisal panel to include 1) Windows; 2) Siding (repaint); and 3) Siding (R&R).
 
@@ -45,7 +45,7 @@ These responses are made for the purpose of this action only, as FIE's Notice an
 
 **REQUEST FOR ADMISSION NO. 9:** Admit that Exhibit B states, in part, "I/we retain John Foster to serve as the appraiser on the above-mentioned claim for the agreed-on sum of $2,200.00."
 
-**RESPONSE:** Admit.
+**RESPONSE:** Admit that Exhibit B contains that language. Further answering, Pure Construction identified Mr. Foster and supplied the Demand for Appraisal and retainer forms, which Mr. Lu signed. As of the date of these responses, Plaintiffs have not spoken with Mr. Foster.
 
 **REQUEST FOR ADMISSION NO. 10:** Admit that Exhibit B states, in part:
 
@@ -179,7 +179,7 @@ Yibiao Lu, Plaintiff *pro se*
 | 1 | ✅ **RFA 6 and 11:** signatures on Exhibits A and B confirmed by Bill, 11/5/2026. |
 | 2 | ✅ **RFA 3, 7 and 12:** Exhibits A, B and C compared with Plaintiffs' copies and matched (10/31 and 11/5/2026). |
 | 3 | **RFA 3:** page 4 of your copy confirmed on 11/5/2026 as the § 65A.01, subd. 3 text. Still open: open FIE 0304–0307 and confirm its pages 3–4 match yours (FIE's scan has no text layer). |
-| 4 | **RFA 4:** "selected and retained through Pure Construction" follows Complaint ¶ 31. Confirm it. (RFA 2 no longer mentions Pure Construction.) |
+| 4 | ✅ **RFA 4: settled 11/21/2026.** Admits the document's text; further answer: Pure identified Foster and supplied the Demand and retainer forms (Zach Sexe's 6/21/2025 email), which Mr. Lu signed; Plaintiffs have not spoken with Foster as of the date of the responses. The old "did not select, interview or vet" sentence was removed: it contradicted the signed "We have selected" and "I/we retain" language (RFAs 6, 9, 11) and read as an admission of carelessness. Consistent with Int 10 ¶¶ 6, 9 and Int 12. RFA 9 (11/21/2026) admits only that Exhibit B contains the language and repeats the same further answer, so it does not concede who retained or paid Foster; RFAs 10, 11 and 14 (first) unchanged; do not add who paid Foster (Complaint ¶ 71 misstates it). If Plaintiffs later speak with Foster, supplement this response and Ints 10 ¶ 9 and 12 (Rule 26.05). |
 | 5 | **RFA 19 and 21 sources:** Commerce closing email, `EventDocuments/DeptOfCommerce/2025-02-03-Complaint-93547-CLOSED.pdf`; AG letter and FIE's 7/11/2025 response, `EventDocuments/OfficeOfAttorneyGeneral/5428546_8_4_2025_16c e.pdf`. The Commerce email is not in FIE's production: list it in Interrogatory 3 and produce it under RFP 10. **Saved for the summary-judgment opposition (cut from RFA 21, 11/8/2026; now kept in `OffenseStrategies/Motions/SummaryJudgment/SJ_Opposition_Notes.md` Note 2):** FIE told the Attorney General on 7/11/2025 that the engineer's report "confirmed that the damages to Mr. Lu's windows were unrelated to wind or hail or other storm related causes" (FIE 1127–1128); the 9/12/2025 Appraisal Award then found hail caused the loss to F1.7 and B1.2. The Attorney General's file closed on a statement the award later contradicted. |
 | 6 | **RFA 20:** Patrick Flaten of Legacy helped file the request. The answer does not mention him. That is accurate, because the request was made on Plaintiffs' behalf. |
 | 7 | **Formatting:** the Preliminary Statement replaces "general objections." It deliberately does not mirror FIE's blanket objections. |
