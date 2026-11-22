@@ -422,7 +422,7 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 ---
 
 ### Appraisal_Result_Front.png
-**Type:** Appraisal Award form (front page image)
+**Type:** Appraisal Award form (photo of the single award page; matches FIE 0676)
 **Date:** September 12, 2025
 **Significance:** The binding appraisal award. Key findings:
 - **Windows (F1.7 / B1.2):** RCV ≈ $12,800 / ACV ≈ $6,400 — **hail confirmed as cause of loss**
@@ -434,9 +434,9 @@ Each figure documents a specific dent or mark on a named window, sash, frame, wi
 ---
 
 ### Appraisal_Result_Back.png
-**Type:** Appraisal Award — Additional Information / Payment Summary (back page image)
+**Type:** Photo of the "Additional Information" page (payment summary and legal notices) of FIE's 9/16/2025 settlement notice: page 3 of the notice, FIE 0675. **Not part of the Appraisal Award**, which is a single page (FIE 0676; corrected 11/22/2026). The file name is historical.
 **Date:** September 12, 2025
-**Significance:** The payment calculation. Dwelling line: RCV ≈ $12,800, less depreciation, ACV ≈ $6,500, less deductible ($17,720) = **$0 net payment**. The deductible exceeds the RCV, meaning Farmers owed nothing under the award's own terms.
+**Significance:** The payment calculation. Dwelling line: RCV ≈ $12,800, less depreciation, ACV ≈ $6,500, less deductible ($17,720) = **$0 net payment**. The deductible exceeds the RCV, meaning Farmers paid nothing under its own settlement calculation (FIE's letter, not the award).
 
 ---
 

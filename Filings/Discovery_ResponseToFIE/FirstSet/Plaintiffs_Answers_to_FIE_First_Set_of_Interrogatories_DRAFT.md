@@ -249,7 +249,7 @@ The clarification requested is set out in Complaint ¶ 65(a)–(e).
 
 *Plaintiffs' participation*
 
-6. Pure Construction identified Mr. Foster as Plaintiffs' appraiser and supplied the retainer form, which Mr. Lu signed (Exhibit B to FIE's Requests for Admission).
+6. Zach Sexe of Pure Construction identified Mr. Foster as Plaintiffs' appraiser and supplied the retainer form, which Mr. Lu signed (Exhibit B to FIE's Requests for Admission). Plaintiffs did not know Mr. Foster before Mr. Sexe identified him, and had no contact with him before or during the appraisal.
 7. On July 10, 2025, Plaintiffs wrote to Zach Sexe of Pure Construction: "We also would like to talk to the appraiser and also check the rate."
 8. On the morning of September 12, 2025, before the appraisal inspection, Plaintiffs asked Mr. Sexe whether they should talk to the appraisers. He said there was no need. About an hour later, Mr. Sexe told Plaintiffs that the appraisal inspection was done and that the appraisers would meet elsewhere to discuss the case.
 9. As of the date of these answers, Plaintiffs have not spoken with Mr. Foster, Mr. Tomes, or Mr. Roos.
