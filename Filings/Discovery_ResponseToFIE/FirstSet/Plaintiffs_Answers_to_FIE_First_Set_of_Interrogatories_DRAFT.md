@@ -1,4 +1,4 @@
-> **DRAFT, 10/31/2026. Not for service.** Due **Wednesday, 11/25/2026**. Serve by email **before 5:00 p.m.** Both Plaintiffs sign the answers and each signs a verification. Resolve every **[CONFIRM]** and delete this box and the *Drafter's Notes* at the end before the document is converted to `.docx` under `Filings/Document_Formatting_Standard.md`. Fill each **[LUHU ____]** with the Bates numbers of the production served with the Responses to FIE's Requests for Production.
+> **DRAFT, 10/31/2026. Not for service.** Due **Wednesday, 11/25/2026**. Serve by email **before 5:00 p.m.** Both Plaintiffs sign the answers and each signs a verification. Resolve every **[CONFIRM]** and delete this box and the *Drafter's Notes* at the end before the document is converted to `.docx` under `Filings/Document_Formatting_Standard.md`.
 
 | | |
 | --- | --- |
@@ -9,7 +9,7 @@ TO: Defendant Fire Insurance Exchange and its attorneys, Kevin J. Kennedy and Ma
 
 Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as and for their Answers to the First Set of Interrogatories served by Defendant Fire Insurance Exchange ("Defendant") on October 26, 2026, state under oath as follows:
 
-**PRELIMINARY STATEMENT:** These answers are based on information reasonably available to Plaintiffs today. Defendant's production is incomplete, as stated in the individual answers, and Plaintiffs will supplement these answers under Minn. R. Civ. P. 26.05 as discovery proceeds. Documents cited by "FIE" number are from Defendant's productions of September 25, October 21, and November 5, 2026. Documents cited by "LUHU" number are produced with Plaintiffs' Responses to Defendant's First Set of Requests for Production. "The Complaint" means Plaintiffs' Complaint, and its paragraphs are incorporated where cited.
+**PRELIMINARY STATEMENT:** These answers are based on information reasonably available to Plaintiffs today. Defendant's production is incomplete, as stated in the individual answers, and Plaintiffs will supplement these answers under Minn. R. Civ. P. 26.05 as discovery proceeds. Documents cited by "FIE" number are from Defendant's productions of September 25, October 21, and November 5, 2026. "The Complaint" means Plaintiffs' Complaint, and its paragraphs are incorporated where cited.
 
 **INTERROGATORY NO. 1:** State the full name, address, and present occupation of the persons giving answers to these Interrogatories.
 
@@ -85,27 +85,27 @@ Plaintiffs also identify all persons named in the parties' disclosures, discover
 
 **INTERROGATORY NO. 3:** Identify each and every tangible item or exhibit relating to or bearing upon any fact or legal issue in the above-entitled lawsuit in the possession of You, your attorney, or any other person or entity.
 
-**ANSWER:** Plaintiffs object to this interrogatory to the extent that it asks Plaintiffs to identify items in the possession of "any other person or entity." That reaches beyond Plaintiffs' possession, custody, or control and includes items in Defendant's own possession. Plaintiffs have no attorney. Subject to and without waiving this objection, Plaintiffs identify the following items in their possession, custody, or control, by category. Except for items 1, 20, and 21, each category is produced with Plaintiffs' Responses to Defendant's Requests for Production at the LUHU numbers stated, except as stated in those Responses.
+**ANSWER:** Plaintiffs object to this interrogatory to the extent that it asks Plaintiffs to identify items in the possession of "any other person or entity." That reaches beyond Plaintiffs' possession, custody, or control and includes items in Defendant's own possession. Plaintiffs have no attorney. Subject to and without waiving this objection, Plaintiffs identify the following items in their possession, custody, or control, by category. Except for items 1, 20, and 21, each category is produced with Plaintiffs' Responses to Defendant's Requests for Production, except as stated in those Responses.
 
 1. **The Property itself**, including the windows, sashes, frames, siding, trim, downspouts, flashing, and doors.
-2. The Policy (No. XXXXX-49-65), including the 2014 application and policy notice, the 2023, 2024, and 2025 renewals, the declarations, the endorsements, and records of Plaintiffs' premium payments. [LUHU ____]
-3. Records of the 2020 claim (No. XXXXXX9499-1), including the settlement notice, the estimate, and the building-loss worksheet; Defendant's October 12, 2021 extension letter; Defendant's February 17, 2022 email concerning a further extension; and Plaintiffs' communications with contractors about scheduling the 2020 window work. [LUHU ____]
-4. Correspondence between Plaintiffs and Defendant, including Defendant's agent, concerning the 2024 Claim from August 2024 through October 2025, including the September 3, 2024 and November 4, 2024 denial letters and attachments. [LUHU ____]
-5. Photographs and videos of the damage taken by Plaintiffs, including those submitted to Defendant on September 5, 6, 8, 9, and 10, 2024, and those taken since. **[CONFIRM: approximate count and date range of each set; whether any videos exist — if none, delete "and videos".]** [LUHU ____]
-6. The Prieve Engineering report (File #241008) and its Photo Appendix A, as received by Plaintiffs. [LUHU ____]
-7. Plaintiffs' written submissions to Defendant, including the August 19, 2024 damage document, the January 31, 2025 response and attachments, the February 10 and 12, 2025 second response (City of Eden Prairie permit records and the neighbor canvass), and the May 28, 2025 weather submission (National Weather Service article and Interactive Hail Maps data). [LUHU ____]
-8. Weather data for July 13–14, 2024 and for 2020 through 2024, including National Weather Service and NOAA material, stormersite data, and Interactive Hail Maps data. [LUHU ____]
-9. Communications with Pure Construction and its personnel, and the documents Pure Construction prepared or obtained, including the Hover cross-reference document (June 25, 2025), the Pella Reserve proposal (July 1, 2025), Pella Quotes #19678463 and #19753775, the siding-damage document sent July 18, 2025, and Pure Construction's Xactimate estimate X-252246_LU-1 (August 5, 2025). [LUHU ____]
-10. The appraisal documents: the four-page Demand for Appraisal of August 3, 2025, the September 12, 2025 Appraisal Award, Defendant's September 16, 2025 settlement notice, the Jade Claims LLC umpire invoice #25-391, and Plaintiffs' record of payment of their share of the umpire fee. [LUHU ____]
-11. Post-appraisal correspondence with Defendant and its agent, September 18 through October 29, 2025. [LUHU ____]
-12. Plaintiffs' July 10 and 11, 2025 deadline inquiries and Defendant's July 11, 2025 response. [LUHU ____]
-13. Plaintiffs' Department of Commerce complaint (November 19, 2024), Plaintiffs' February 9, 2025 letter to the Department, the Department's February 3, 2025 email closing Complaint 93547, and related correspondence. [LUHU ____]
-14. Plaintiffs' Attorney General Consumer Assistance Request (June 18, 2025), and the Office's August 4, 2025 letter with its enclosures. [LUHU ____]
-15. The audio recording of Nicholas Brau's February 10, 2025 voicemail, and a screenshot of its transcription. [LUHU ____]
-16. Plaintiffs' communication logs, to the extent they record facts rather than litigation analysis. [LUHU ____]
-17. The Pearl Painting interior-painting proposal, Job ID 144309, and receipts for costs of investigation. [LUHU ____]
-18. Other communications between Plaintiffs and third parties concerning the Claim, including text messages and emails. [LUHU ____]
-19. Printouts of Prieve Engineering, LLC's public website. [LUHU ____]
+2. The Policy (No. XXXXX-49-65), including the 2014 application and policy notice, the 2023, 2024, and 2025 renewals, the declarations, the endorsements, and records of Plaintiffs' premium payments.
+3. Records of the 2020 claim (No. XXXXXX9499-1), including the settlement notice, the estimate, and the building-loss worksheet; Defendant's October 12, 2021 extension letter; Defendant's February 17, 2022 email concerning a further extension; and Plaintiffs' communications with contractors about scheduling the 2020 window work.
+4. Correspondence between Plaintiffs and Defendant, including Defendant's agent, concerning the 2024 Claim from August 2024 through October 2025, including the September 3, 2024 and November 4, 2024 denial letters and attachments.
+5. Photographs and videos of the damage taken by Plaintiffs, including those submitted to Defendant on September 5, 6, 8, 9, and 10, 2024, and those taken since. **[CONFIRM: approximate count and date range of each set; whether any videos exist — if none, delete "and videos".]**
+6. The Prieve Engineering report (File #241008) and its Photo Appendix A, as received by Plaintiffs.
+7. Plaintiffs' written submissions to Defendant, including the August 19, 2024 damage document, the January 31, 2025 response and attachments, the February 10 and 12, 2025 second response (City of Eden Prairie permit records and the neighbor canvass), and the May 28, 2025 weather submission (National Weather Service article and Interactive Hail Maps data).
+8. Weather data for July 13–14, 2024 and for 2020 through 2024, including National Weather Service and NOAA material, stormersite data, and Interactive Hail Maps data.
+9. Communications with Pure Construction and its personnel, and the documents Pure Construction prepared or obtained, including the Hover cross-reference document (June 25, 2025), the Pella Reserve proposal (July 1, 2025), Pella Quotes #19678463 and #19753775, the siding-damage document sent July 18, 2025, and Pure Construction's Xactimate estimate X-252246_LU-1 (August 5, 2025).
+10. The appraisal documents: the four-page Demand for Appraisal of August 3, 2025, the September 12, 2025 Appraisal Award, Defendant's September 16, 2025 settlement notice, the Jade Claims LLC umpire invoice #25-391, and Plaintiffs' record of payment of their share of the umpire fee.
+11. Post-appraisal correspondence with Defendant and its agent, September 18 through October 29, 2025.
+12. Plaintiffs' July 10 and 11, 2025 deadline inquiries and Defendant's July 11, 2025 response.
+13. Plaintiffs' Department of Commerce complaint (November 19, 2024), Plaintiffs' February 9, 2025 letter to the Department, the Department's February 3, 2025 email closing Complaint 93547, and related correspondence.
+14. Plaintiffs' Attorney General Consumer Assistance Request (June 18, 2025), and the Office's August 4, 2025 letter with its enclosures.
+15. The audio recording of Nicholas Brau's February 10, 2025 voicemail, and a screenshot of its transcription.
+16. Plaintiffs' communication logs, to the extent they record facts rather than litigation analysis.
+17. The Pearl Painting interior-painting proposal, Job ID 144309, and receipts for costs of investigation.
+18. Other communications between Plaintiffs and third parties concerning the Claim, including text messages and emails.
+19. Printouts of Prieve Engineering, LLC's public website.
 20. Documents Defendant produced as FIE 0001–2340, including its November 5, 2026 supplemental production (FIE 1804–2340) and privilege log.
 21. The pleadings, orders, and other papers filed or served in this action.
 
@@ -115,7 +115,7 @@ Plaintiffs also identify all persons named in the parties' disclosures, discover
 
 Neither Plaintiffs nor, to their knowledge, anyone acting on their behalf has obtained from any person a written statement signed or otherwise adopted or approved by that person, or a stenographic, mechanical, electrical, or other recording of a person's oral statement, other than the following:
 
-- **Nicholas Brau**, Senior Claim Adjuster for Defendant. Voicemail left for Plaintiffs on February 10, 2025 at 11:06 a.m. Plaintiffs hold the audio recording and a screenshot of its transcription. [LUHU ____]
+- **Nicholas Brau**, Senior Claim Adjuster for Defendant. Voicemail left for Plaintiffs on February 10, 2025 at 11:06 a.m. Plaintiffs hold the audio recording and a screenshot of its transcription.
 
 Plaintiffs also hold written communications, including text messages and emails, from Defendant's personnel and from other third parties. These are produced in response to Defendant's Requests for Production. Plaintiffs do not treat documents prepared in the ordinary course, such as correspondence, reports, and the Appraisal Award, as "statements" obtained by Plaintiffs; those documents are identified in the Answer to Interrogatory No. 3 and produced. Plaintiffs' February 2025 canvass of neighboring homeowners was conducted in person. No neighbor signed a statement, and no conversation was audio-recorded or transcribed word for word. Plaintiffs' notes of the canvass are produced. **[CONFIRM: no neighbor signed anything.]**
 
@@ -354,5 +354,5 @@ Yibiao Lu, Plaintiff *pro se*
 | 9 | **Int. 6:** ¶ 8 now incorporates the Complaint ¶ 49(a) list and carves out F1.7 and B1.2. Check that ¶ 49(a) itself does not describe either awarded window in a way that conflicts with your understanding of them ("corner of stairs facing front"; "family room facing back"). Settle the **[CONFIRM]** in ¶ 10 on the dining-room sashes. |
 | 10 | **Int. 10:** follows the analysis §8. The answer leads with panel-side grounds and states the Pure Construction facts accurately as "Plaintiffs' participation." It does **not** repeat Complaint ¶ 31's "asked not to speak … before, during, or after." The communication log records Zach saying there was "no need," and the sworn answer uses that. |
 | 11 | **Rule citation marked [verify]:** only Int 4's Rule 26.02 subdivision for the definition of "statement" remains. (Scheduling Order expert date confirmed: 3/15/2027, ¶ 3(a). Non-testifying-expert objection removed from Int 11.) |
-| 12 | **Bates numbers:** every [LUHU ____] must match the production served with the RFP responses. |
+| 12 | **No LUHU Bates numbers in the interrogatory answers (decided 11/22/2026):** at the 11/19 conference Defendant refused to cite Bates numbers in its answers and the Court did not require it. Bates numbers appear only in the RFP responses. Defendant's own Bates numbers ("FIE 0304") are still cited. |
 | 13 | **Restricted identifiers (masked 11/13/2026; KeyDecisions Decision 10).** Policy no. appears only as **XXXXX-49-65**, the 2024 claim as **XXXXXX6837-1-1**, the 2020 claim as **XXXXXX9499-1**, and the mortgage loan no. as **XXXXXX7404**. Do not reintroduce full numbers in any answer, exhibit, or production; produce the policy PDFs only from `OtherDocs/HomePolicy/Redacted/`. Same masking in the RFA and RFP responses. |
