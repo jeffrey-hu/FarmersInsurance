@@ -218,12 +218,30 @@ The court rejected the original Complaint under Minn. Gen. R. Prac. 11 (Notice o
 
 Produce policy documents only from `OtherDocs/HomePolicy/Redacted/` and disclose the redaction. When quoting a document or a request that contains a full number, mask it in the quotation. See `KeyDecisions.md` Decision 10.
 
+## 10. Referring to the opposing party: "Defendant," not "FIE"
+
+Adopted 11/22/2026 (Bill's instruction), applied 11/22/2026 to the First Set RFA responses, interrogatory answers, and RFP responses.
+
+In Plaintiffs' own text in every document filed, served, or produced, call the opposing party **"Defendant"** (capitalized, as in the Complaint), not "FIE," "Farmers," or "the insurer."
+
+- **Defining sentence:** "Defendant Fire Insurance Exchange ("Defendant")". Do not define "FIE" with "hereinafter."
+- **Possessive:** "Defendant's appraiser," "Defendant's Notice and Demand."
+- **Leave unchanged:**
+  - References to the Bates prefix itself ("by FIE number").
+  - Defendant's own requests or interrogatories restated verbatim (they say "FIE").
+  - Bates numbers ("FIE 0304–0307").
+  - Quotations from documents.
+  - Document titles and file names.
+- **Internal notes** (drafter's notes, SJ notes, analyses) may keep using "FIE."
+
+
 ---
 
 ## Change log
 
 | Date | Change |
 |---|---|
+| 2026-11-22 | **New §10: "Defendant," not "FIE,"** in Plaintiffs' own text; requests restated verbatim, Bates numbers, and quotations unchanged. Applied to the RFA responses, interrogatory answers, and RFP responses. |
 | 2026-11-13 | **New §9: restricted identifiers.** Policy, claim, and loan numbers masked in all filed, served, and produced documents, including discovery responses (KeyDecisions Decision 10). |
 | 2026-09-23 | **§1 and new §1.1: centered page-number footer adopted as the standard**, as a `PAGE` field copied from Discovery Plan V5. All three served First Sets already carried one; the rule had never been written down. Applied to the Initial Disclosures the same day. |
 | 2026-09-20 | **§3: the two Plaintiffs' signature blocks go side by side** in a borderless 1×2 table (`.docx`) and a two-column pipe table (`.md`), applied to the Interrogatories and the Requests for Admission. Recorded the page-break-in-an-empty-paragraph hazard and the render-and-scan check that catches it. |
