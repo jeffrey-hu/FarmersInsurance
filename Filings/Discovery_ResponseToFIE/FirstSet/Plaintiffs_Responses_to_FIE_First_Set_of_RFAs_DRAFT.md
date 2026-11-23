@@ -85,7 +85,7 @@ Admit that the Appraisal Award binds Plaintiffs and Defendant as to what it actu
 
 Deny that the Appraisal Award states an actual value or a loss for either of those windows separately, as Minn. Stat. § 65A.01, subd. 3 requires.
 
-Deny that the Appraisal Award determines the amount of loss for any window or sash other than those two, or for any component the Appraisal Award does not list.
+Deny that the Appraisal Award determines the amount of loss for any window or sash other than those two designated "F1.7" and "B1.2", or for any component the Appraisal Award does not list.
 
 Deny that the Appraisal Award determines any question of coverage, including the cost of matching (Complaint ¶ 51) and the incidental costs of replacement (Complaint ¶ 52), neither of which it itemizes or states that it includes. Defendant itself told the appraisers in writing that coverage could not be determined in appraisal (FIE 0309).
 
@@ -123,21 +123,15 @@ Except as expressly admitted, denied.
 
 **REQUEST FOR ADMISSION NO. 18:** Admit that Plaintiffs filed a complaint with the Minnesota Department of Commerce as related to Defendant's handling of Plaintiffs' 2024 Claim.
 
-**RESPONSE:** Admit. Plaintiffs filed their complaint with the Minnesota Department of Commerce on November 19, 2024 (Complaint ID 93547).
+**RESPONSE:** Admit.
 
 **REQUEST FOR ADMISSION NO. 19:** Admit that The Minnesota Department of Commerce did not take any action against Defendant as a result of Plaintiffs' complaint to the Minnesota Department of Commerce.
 
-**RESPONSE:** Plaintiffs object to Request No. 19 because it implies that the Department of Commerce reviewed Plaintiffs' complaint and found no wrongdoing by Defendant. It did not. In closing its file on February 3, 2025, the Department stated that only a court could resolve the parties' dispute over the cause of loss, "such as hail vs wear-and-tear," and that "[o]ur decision in this matter is not meant to imply that the parties involved have no civil liability for the alleged actions." Plaintiffs further object under Minn. R. Evid. 401–403. Subject to and without waiving these objections:
-
-Admit that, so far as Plaintiffs know, the Department issued no order or penalty against Defendant.
-
-Deny that the Department took no action. It opened an investigation, requested Defendant's written response and claim file notes (FIE 1040–1042), received Defendant's response (FIE 1044–1045), and on February 13, 2025, after Plaintiffs' follow-up, forwarded the matter to the Department's director for additional review.
-
-Except as expressly admitted, denied.
+**RESPONSE:** Plaintiffs object to Request No. 19 because it implies that the Department of Commerce reviewed Plaintiffs' complaint and found no wrongdoing by Defendant. It did not. In closing its file on February 3, 2025, the Department stated that only a court could resolve the parties' dispute over the cause of loss, "such as hail vs wear-and-tear," and that "[o]ur decision in this matter is not meant to imply that the parties involved have no civil liability for the alleged actions." Plaintiffs further object under Minn. R. Evid. 401–403. Subject to and without waiving these objections: Admit that, so far as Plaintiffs know, the Department issued no order or penalty against Defendant. Deny that the Department took no action. It opened an investigation, requested Defendant's written response and claim file notes (FIE 1040–1042), received Defendant's response (FIE 1044–1045), and on February 13, 2025, after Plaintiffs' follow-up, forwarded the matter to the Department's director for additional review. Except as expressly admitted, denied.
 
 **REQUEST FOR ADMISSION NO. 20:** Admit that Plaintiffs filed a complaint with the Minnesota Attorney General as related to Defendant's handling of Plaintiffs' 2024 Claim of alleged hail/wind loss.
 
-**RESPONSE:** Admit. On June 18, 2025, Plaintiffs submitted a Consumer Assistance Request to the Minnesota Attorney General's Office concerning Defendant's handling of the 2024 Claim (File No. PHW/2025/5428546/C).
+**RESPONSE:** Admit.
 
 **REQUEST FOR ADMISSION NO. 21:** Admit that the Minnesota Attorney General did not take any action against Defendant as a result of Plaintiffs' complaint to the Minnesota Attorney General.
 
