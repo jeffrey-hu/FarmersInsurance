@@ -11,7 +11,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **MANNER OF PRODUCTION:** Plaintiffs produce responsive documents by attaching true and correct copies, as Defendant's requests permit. The documents are Bates-numbered LUHU 000001 through LUHU \_\_\_\_\_\_ and are delivered by electronic mail to counsel of record, or, where the files are too large for email, by a download link sent to counsel of record on the date of service **[CONFIRM method]**. Photographs are produced in their original digital format, with available metadata. Text messages are produced as exported copies showing the date, time, sender, and recipient of each message. Documents Defendant produced to Plaintiffs as FIE 0001–2340 are identified by FIE number where responsive; Plaintiffs' own copies of their communications with Defendant are produced in response to Request No. 4.
 
-**WITHHELD MATERIALS:** Where a response states that documents are withheld, they are described by category in the Statement of Withheld Materials at the end of these Responses, under Minn. R. Civ. P. 26.02(f) **[verify subdivision]**. Except as stated there, Plaintiffs are not withholding responsive documents on the basis of any objection.
+**WITHHELD MATERIALS:** Where a response states that documents are withheld, they are described by category in the Statement of Withheld Materials at the end of these Responses, under Minn. R. Civ. P. 26.02(f). Except as stated there, Plaintiffs are not withholding responsive documents on the basis of any objection.
 
 **REQUEST NO. 1:** All documents or other records Plaintiffs relied upon in answering Defendant's Interrogatories to Plaintiffs.
 
@@ -19,7 +19,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **REQUEST NO. 2:** All communication between Plaintiffs and any person regarding the allegations contained in Plaintiffs' Complaint, including but not limited to, any emails, notes, estimates, or other electronic data concerning this lawsuit and the facts alleged in Plaintiffs' Complaint.
 
-**RESPONSE:** Plaintiffs object to Request No. 2 as overbroad to the extent that "any person" includes: each Plaintiff's spouse and co-Plaintiff; persons from whom Plaintiffs sought legal advice; and materials Plaintiffs prepared, or had prepared for them, in anticipation of litigation, which are protected under Minn. R. Civ. P. 26.02(d) **[verify subdivision]**. Subject to and without waiving these objections, Plaintiffs will produce all non-privileged communications between Plaintiffs and any third party regarding the allegations of the Complaint, including communications with Legacy Restoration, the appraisal panel, Prieve Engineering, the City of Eden Prairie, and Pella Corporation. [LUHU ____]. Communications with Defendant and its agent, Pure Construction, the Minnesota Attorney General's Office, and the Minnesota Department of Commerce are produced in response to Requests Nos. 4, 7, 9, and 10, respectively; communications with Defendant are subject to the objection stated in the Response to Request No. 4. Responsive documents withheld on the basis of these objections are described in the Statement of Withheld Materials.
+**RESPONSE:** Plaintiffs object to Request No. 2 as overbroad to the extent that "any person" includes: each Plaintiff's spouse and co-Plaintiff; persons from whom Plaintiffs sought legal advice; and materials Plaintiffs prepared, or had prepared for them, in anticipation of litigation, which are protected under Minn. R. Civ. P. 26.02(d). Subject to and without waiving these objections, Plaintiffs will produce all non-privileged communications between Plaintiffs and any third party regarding the allegations of the Complaint, including communications with Legacy Restoration, the appraisal panel, Prieve Engineering, the City of Eden Prairie, and Pella Corporation. [LUHU ____]. Communications with Defendant and its agent, Pure Construction, the Minnesota Attorney General's Office, and the Minnesota Department of Commerce are produced in response to Requests Nos. 4, 7, 9, and 10, respectively; communications with Defendant are subject to the objection stated in the Response to Request No. 4. Responsive documents withheld on the basis of these objections are described in the Statement of Withheld Materials.
 
 **REQUEST NO. 3:** All statements made by parties or non-parties concerning the above action or its subject matter. For this request, a statement is a written statement signed or otherwise adopted or approved by the person making it, or a stenographic, mechanical, electrical or other recording thereof, which is substantially a verbatim statement or an oral statement by a person making it and contemporaneously recorded.
 
@@ -31,7 +31,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **REQUEST NO. 5:** All documents, photographs, video recordings, or other records or tangible things Plaintiffs intend to introduce as evidence at trial.
 
-**RESPONSE:** Plaintiffs object to Request No. 5 as premature. Discovery is not complete, expert disclosures are not yet due, and trial exhibits will be identified and exchanged on the schedule set by the Court. Subject to and without waiving this objection, Plaintiffs presently expect to offer documents within the categories identified in their Initial Disclosures (Section B) and in their Answer to Interrogatory No. 3, which are produced in response to Requests Nos. 1, 2, 4, 6, 7, 9, and 10, together with documents Defendant produced as FIE 0001–2340. Plaintiffs will supplement this response under Minn. R. Civ. P. 26.05.
+**RESPONSE:** Plaintiffs object to Request No. 5 as premature. Discovery is not complete, expert disclosures are not yet due, and trial exhibits will be identified and exchanged on the schedule set by the Court. Subject to and without waiving this objection, Plaintiffs presently expect to offer documents within the categories identified in their Initial Disclosures (Section B), and the documents produced in response to Requests Nos. 1, 2, 4, 6, 7, 9, and 10, together with documents Defendant produced as FIE 0001–2340. Plaintiffs will supplement this response under Minn. R. Civ. P. 26.05.
 
 **REQUEST NO. 6:** Any and all inspections, repair estimates, quotes, assessments, or valuations pertaining to the alleged damages in this lawsuit.
 
@@ -59,7 +59,7 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 **RESPONSE:** Plaintiffs object to Request No. 8 on the grounds stated in their Response to Request No. 2. Subject to and without waiving these objections, see the documents produced in response to Requests Nos. 2, 4, 6, 7, 9, and 10. Plaintiffs will also produce the following [LUHU ____]:
 
 - the City of Eden Prairie permit records Plaintiffs obtained;
-- the weather data identified in Plaintiffs' Answer to Interrogatory No. 3;
+- the weather data Plaintiffs collected for July 13–14, 2024 and for 2020 through 2024;
 - Plaintiffs' records of the February 2025 neighbor canvass; and
 - a copy of the Prieve Engineering, LLC contact page.
 
@@ -89,7 +89,7 @@ Plaintiffs withhold the following categories of documents responsive to Requests
 | Communications solely between Plaintiffs Yibiao Lu and Jie Hu, who are spouses and co-parties, concerning the claim and this action | August 2024 – present | Minn. Stat. § 595.02, subd. 1(a) **[verify application]**; Minn. R. Civ. P. 26.02(d) |
 | Notes, drafts, research, outlines, analyses, and other materials prepared by or for Plaintiffs in anticipation of litigation or for trial, including drafts of pleadings and discovery papers | **[DECIDE start date]** – present | Minn. R. Civ. P. 26.02(d) |
 | Communications with lawyers and legal-services providers from whom Plaintiffs sought legal advice, including the Hennepin County Self Help Center volunteer lawyer (June 18, 2025) and the Minnesota State Bar Association lawyer referral service (June 10–11, 2025) | June 2025 – present | Attorney-client privilege, including prospective-client communications **[verify]** |
-| Communications with any consulting expert retained in anticipation of litigation who is not expected to testify | **[DECIDE]** | Minn. R. Civ. P. 26.02(e) **[verify subdivision]** |
+| Communications with any consulting expert retained in anticipation of litigation who is not expected to testify | **[DECIDE]** | Minn. R. Civ. P. 26.02(e) |
 | **[DECIDE]** Communications with Jeffrey Hu concerning preparation of this action | **[DECIDE]** | Minn. R. Civ. P. 26.02(d) (materials prepared by a party's representative) |
 
 Dated: November \_\_\_, 2026.
