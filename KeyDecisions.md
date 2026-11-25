@@ -301,6 +301,11 @@ Old Ints. 5 and 13 asked the same per-item question twice. They are now a single
 | 2024 claim number | **XXXXXX6837-1-1** |
 | 2020 claim number | **XXXXXX9499-1** |
 | Wells Fargo mortgage loan number | **XXXXXX7404** |
+| 2014 claim number (10/1/2025 portal letter) | last four digits kept, same pattern *(added 11/24/2026)* |
+| Bank account number (e.g., the 9/12/2025 umpire check) | last four digits kept; routing number masked too *(added 11/24/2026)* |
+| Commerce Complaint ID 93547 | **XX547** *(added 11/24/2026; not required by Rule 11)* |
+| Attorney General file PHW/2025/5428546/C | **PHW/2025/XXX8546/C** *(added 11/24/2026; not required by Rule 11)* |
+| Social Security, EIN, or other taxpayer ID numbers, if any | removed entirely, no digits kept (Rule 11 allows no portion) *(added 11/24/2026)* |
 
 **Why:** the court administrator's 7/13/2026 Notice of Noncompliance (Minn. Gen. R. Prac. 11) rejected the 7/8/2026 Complaint for restricted identifiers. Plaintiffs refiled a redacted Complaint on 7/20/2026 with Form 11.1 (CON111) and moved for relation-back. Using the same masks everywhere keeps the record consistent and avoids a second notice.
 
@@ -310,6 +315,8 @@ Old Ints. 5 and 13 asked the same per-item question twice. They are now a single
 - The policy production set (`OtherDocs/HomePolicy/Redacted/`).
 
 - Plaintiffs' responses to FIE's First Set (`Filings/Discovery_ResponseToFIE/FirstSet/`), masked 11/13/2026; rule added as §9 of `Filings/Document_Formatting_Standard.md`.
+
+**Extended 11/24/2026 for the RFP production (Bill):** the rows above marked 11/24 were added. Rule 11 strictly governs filings; Plaintiffs apply it to everything they produce too, since produced documents may become exhibits. Complaint IDs go beyond the rule. **Method (revised 11/24/2026, Bill):** in a production, redact with solid black boxes that add no text, covering only the hidden part of a number so the last digits stay visible as in the original (Defendant's method in FIE 0002); no labels on the page. Premium amounts are also redacted (Policy Premium, Fees, Minnesota Fire Surtax, Premium and Fees, and policy-change transaction totals), following Defendant's own redaction of premiums; coverage limits, deductibles, and the standard fee schedule stay visible. Non-responsive personal content (e.g., non-claim text photos; non-parties' home addresses) is blacked out the same way. All three categories are disclosed in one sentence of the RFP "Withheld Materials" paragraph (the "Manner of Production" paragraph was dropped 11/24/2026). The "XXXXXX" masks in the table above apply to Plaintiffs' own typed text (pleadings, discovery papers, file names), not to the images of produced documents.
 
 **Not a court order.** The Notice is an administrative rejection; the only signed order on this point is the 7/28/2026 Order Enlarging Time, which mentions the redacted refiling in passing.
 

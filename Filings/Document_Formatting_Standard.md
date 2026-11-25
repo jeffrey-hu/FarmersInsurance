@@ -215,8 +215,15 @@ The court rejected the original Complaint under Minn. Gen. R. Prac. 11 (Notice o
 | 2024 claim number | **XXXXXX6837-1-1** |
 | 2020 claim number | **XXXXXX9499-1** |
 | Mortgage loan number | **XXXXXX7404** |
+| Other financial account numbers (bank, credit card) | last four digits kept; mask the routing number too |
+| 2014 claim number | last four digits kept |
+| Commerce Complaint ID 93547 | **XX547** (beyond the rule; disclose) |
+| AG file PHW/2025/5428546/C | **PHW/2025/XXX8546/C** (beyond the rule; disclose) |
+| SSN, EIN, other taxpayer ID | remove entirely, no digits |
 
 Produce policy documents only from `OtherDocs/HomePolicy/Redacted/` and disclose the redaction. When quoting a document or a request that contains a full number, mask it in the quotation. See `KeyDecisions.md` Decision 10.
+
+**Productions (revised 11/24/2026).** Cover; don't change. Redact with solid black boxes and add no text: no typed "XXXX" replacements and no labels on the page. Cover only the hidden part of a number, so the last digits show as in the original. Also black out premium amounts (Policy Premium, Fees, Minnesota Fire Surtax, Premium and Fees, transaction totals), but not coverage limits, deductibles, or the standard fee schedule. The only text added to a page is the Bates stamp, placed bottom right or, where that would overlap the document's own text, bottom center. Disclose the redaction categories in one sentence of the response's "Withheld Materials" paragraph. Scanned pages have no text layer: place the boxes by measuring the glyphs, flatten, then confirm by text search, OCR, and visual check that nothing remains underneath and no hidden digit shows.
 
 ## 10. Referring to the opposing party: "Defendant," not "FIE"
 
@@ -241,6 +248,8 @@ In Plaintiffs' own text in every document filed, served, or produced, call the o
 
 | Date | Change |
 |---|---|
+| 2026-11-24 | **§9 productions revised:** black boxes that cover only the hidden part of a number, no inserted text or page labels; premium amounts redacted; Bates stamp moved where it would overlap text. |
+| 2026-11-24 | **§9 extended:** bank account numbers, the 2014 claim number, complaint IDs (beyond the rule), and SSN/EIN/TIN; redaction labels and disclosure for productions. |
 | 2026-11-22 | **New §10: "Defendant," not "FIE,"** in Plaintiffs' own text; requests restated verbatim, Bates numbers, and quotations unchanged. Applied to the RFA responses, interrogatory answers, and RFP responses. |
 | 2026-11-13 | **New §9: restricted identifiers.** Policy, claim, and loan numbers masked in all filed, served, and produced documents, including discovery responses (KeyDecisions Decision 10). |
 | 2026-09-23 | **§1 and new §1.1: centered page-number footer adopted as the standard**, as a `PAGE` field copied from Discovery Plan V5. All three served First Sets already carried one; the rule had never been written down. Applied to the Initial Disclosures the same day. |
