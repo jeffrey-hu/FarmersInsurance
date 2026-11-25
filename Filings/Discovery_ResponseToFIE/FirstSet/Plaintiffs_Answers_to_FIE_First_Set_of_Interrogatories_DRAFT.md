@@ -11,9 +11,9 @@ Plaintiffs Yibiao Lu and Jie Hu (hereinafter "Plaintiffs"), appearing pro se, as
 
 **INTERROGATORY NO. 1:** State the full name, address, and present occupation of the persons giving answers to these Interrogatories.
 
-**ANSWER:** Yibiao Lu, 17756 George Moran Drive, Eden Prairie, Minnesota 55347. Occupation: **[CONFIRM]**.
+**ANSWER:** Yibiao Lu, 17756 George Moran Drive, Eden Prairie, Minnesota 55347. Occupation: Senior Principal Engineer.
 
-Jie Hu, 17756 George Moran Drive, Eden Prairie, Minnesota 55347. Occupation: **[CONFIRM]**.
+Jie Hu, 17756 George Moran Drive, Eden Prairie, Minnesota 55347. Occupation: Co-owner of a business.
 
 Plaintiffs answer jointly. Where a fact is known to only one Plaintiff, the answer says so.
 
@@ -40,7 +40,7 @@ Plaintiffs also identify all persons named in the parties' disclosures, discover
 
 **ANSWER:** Plaintiffs object to this interrogatory to the extent that it asks Plaintiffs to identify items in the possession of "any other person or entity." That reaches beyond Plaintiffs' possession, custody, or control and includes items in Defendant's own possession. Plaintiffs have no attorney. Subject to and without waiving this objection, Plaintiffs identify the following items in their possession, custody, or control:
 
-1. **The Property itself**, including the windows, sashes, frames, siding, trim, downspouts, flashing, and doors.
+1. The Property itself.
 2. All documents Plaintiffs produce in this action, including those produced in response to Defendant's First Set of Requests for Production, Requests Nos. 1 through 10.
 3. All documents Defendant has produced in this action (FIE 0001–2340), and any documents later produced by any party or non-party.
 4. The pleadings, orders, and other papers filed or served in this action.
@@ -157,7 +157,7 @@ Yibiao Lu, Plaintiff *pro se*
 
 | # | Item to settle before service |
 |---|---|
-| 1 | **Int. 1:** occupations for both Plaintiffs. |
+| 1 | ✅ **Int. 1:** occupations filled 11/25/2026 (Bill): Yibiao Lu, Senior Principal Engineer; Jie Hu, co-owner of a business. |
 | 2 | **Int. 12: final 11/13/2026.** "No"; Plaintiffs asked Pure for the windows' location and Pure then contacted Foster. The 10/21/2025 "corner of stairs" paragraph was removed. **11/24/2026:** the "Further answering" paragraph (questions directed to Defendant, FIE 1735–1744, 1652, 1748) was also deleted: the production includes Foster's 9/13 and 9/18/2025 emails, forwarded by Zach on 9/18/2025, decoding F1.7 and B1.2, and Bill's 10/21/2025 email to Commerce describing both windows, so the paragraph would have implied Plaintiffs depended on Defendant to decode the codes. Deposition prep: be ready to explain why Plaintiffs still asked Defendant (Foster's note was one appraiser's informal explanation to the contractor; the award itself defines nothing). |
 | 3 | **Int. 13: final 11/13/2026 (narrative version, revised).** Removed "did not search for or locate Mr. Prieve's personal residence": Plaintiffs' own 5/28/2025 text (about 5:38 p.m.) says "We're back, waiting on the street by your house" (`EventDocuments/2025-05-28-PrieveMsgExchange.PNG`). The answer does not say how Plaintiffs got the address (Bill does not recall; the Prieve report has no address); the website is stated as a present fact, and the saved printout is dated 10/27/2026. Text descriptions track the screenshot: "Just knocked your door 10 minutes ago"; "We're near by and want to talk to you"; "We're back, waiting on the street by your house. Please let us know when you have time to talk to us"; reply quoted exactly. **Before service:** check the May 2025 website at web.archive.org; produce the full unredacted thread (RFPs 2, 8) and the website printout (RFP 8). **Deposition prep:** "by your house"; the visit just after the website's 5:00 p.m. business hours; FIE's source is FIE 2290–2291 ("home address," "staked out his house," "30-60min"), which also reports a police welfare check at the agent's office (not asked; do not volunteer). |
 | 4 | **Int. 14: final 11/13/2026.** Confirmed: no work of any kind on the dining-room window and no window replaced between 9/5/2020 and 7/13/2024. The COVID explanation is documented; produce the 2021–2022 contractor scheduling messages (RFP production). |
